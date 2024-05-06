@@ -34,7 +34,7 @@ New words:
       - thankyou2
       - thankyou3
 
-  - Word: dobre
+  - Word: dobro
     Translation: good
     Also accepted:
       - fine
@@ -66,17 +66,17 @@ New words:
       - howareyou3
 
 Phrases:
-  - Phrase: Pomiluj. Kto jesi?
+  - Phrase: Pomiluj. Kto Ty jesi?
     Alternative versions:
-      - Pomilujte. Kto jeste?
+      - Pomilujte. Kto vy jeste?
     Translation: Excuse me. Who are you?
     Alternative translations:
       - Sorry. Who are you?
 
-  - Phrase: Jesmo Vojtěh i Katarina.
+  - Phrase: My Jesmo Vojtěh i Katarina.
     Translation: We are Vojtěh and Katarina.
 
-  - Phrase: Dobre utro. Kako ty jesi?
+  - Phrase: Dobro jutro. Kako ty jesi?
     Translation: Good morning. How are you?
 
   - Phrase: Ja jesm dobro. Hvala.
@@ -84,22 +84,22 @@ Phrases:
     Alternative translations:
       - I am good. Thank you.
 
-  - Phrase: Sut Vojtěh i Katarina?
+  - Phrase: Sut Oni Vojtěh i Katarina?
     Translation: Are they Vojtěh and Katarina?
 
-  - Phrase: Da. Jesmo Vojtěh i Katarina.
+  - Phrase: Da. My Jesmo Vojtěh i Katarina.
     Translation: Yes. We are Vojtěh and Katarina.
 
-  - Phrase: Dobry denj. Jesi Vojtěh?
+  - Phrase: Dobry denj. Jesi Ty Vojtěh?
     Translation: Good afternoon. Are you Vojtěh?
 
-  - Phrase: Dobry denj. Kako ty jesi?
+  - Phrase: Dobry denj. Kako Ty jesi?
     Translation: Good Afternoon. How are you?
 
-  - Phrase: Ahoj Vojtěh. Kako ty jesi?
+  - Phrase: Pozdrav Vojtěh. Kako Ty jesi?
     Translation: Hello Vojtěh. How are you.
 
-  - Phrase: Ja jesm dobro. A ty?
+  - Phrase: Ja jesm dobro. A Ty?
     Translation: I am fine. And you?
     Alternative translations:
       - I am good. And you?
@@ -109,10 +109,10 @@ Phrases:
     Alternative translations:
       - I am also good. Thank you.
 
-  - Phrase: Jest Vojtěh?
+  - Phrase: Jest on Vojtěh?
     Translation: Is he Vojtěh?
 
-  - Phrase: Da. One jest Katarina.
+  - Phrase: Da. Ona jest Katarina.
     Alternative versions:
      - Da. Jest Katarina.
     Translation: Yes. She is Katarina.
