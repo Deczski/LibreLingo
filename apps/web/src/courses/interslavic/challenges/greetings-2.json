@@ -1,0 +1,931 @@
+{
+  "id": "e3b95a96a7dc",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vitanje. Kako ty jesi?",
+      "meaningInSourceLanguage": "Welcome. How are you?",
+      "id": "7ff4331ec2ac",
+      "priority": 0,
+      "group": "e2dadc1e5d8e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Welcome.",
+          "definition": "vitanje"
+        },
+        {
+          "word": "How",
+          "definition": "How"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Vitanje",
+        "Kako",
+        "ty",
+        "jesi",
+        "je",
+        "te",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "Vitanje",
+          "Kako",
+          "ty",
+          "jesi"
+        ]
+      ],
+      "formattedSolution": "Vitanje. Kako ty jesi?",
+      "id": "e7a0dc156585",
+      "priority": 2,
+      "group": "e2dadc1e5d8e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vitanje.",
+          "definition": "welcome"
+        },
+        {
+          "word": "Kako",
+          "definition": "Kako"
+        },
+        {
+          "word": "ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi?",
+          "definition": "(You) are"
+        }
+      ],
+      "chips": [
+        "Welcome",
+        "How",
+        "are",
+        "you",
+        "You",
+        "or",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Welcome",
+          "How",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Welcome. How are you?",
+      "id": "e675e0a492db",
+      "priority": 2,
+      "group": "e2dadc1e5d8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do viděnja Vojtěh.",
+      "meaningInSourceLanguage": "Goodbye Vojtěh.",
+      "id": "9cbe67f86583",
+      "priority": 0,
+      "group": "6ff662872c78"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Goodbye",
+          "definition": "do viděnja"
+        },
+        {
+          "word": "Vojtěh.",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Do",
+        "viděnja",
+        "Vojtěh",
+        "To",
+        "konj"
+      ],
+      "solutions": [
+        [
+          "Do",
+          "viděnja",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Do viděnja Vojtěh.",
+      "id": "6f2ed7393cc1",
+      "priority": 2,
+      "group": "6ff662872c78"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Do",
+          "definition": "Do"
+        },
+        {
+          "word": "viděnja",
+          "definition": "viděnja"
+        },
+        {
+          "word": "Vojtěh.",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Goodbye",
+        "Vojtěh",
+        "Good",
+        "horse"
+      ],
+      "solutions": [
+        [
+          "Goodbye",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Goodbye Vojtěh.",
+      "id": "3d2dc9e55e3c",
+      "priority": 2,
+      "group": "6ff662872c78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobra noč Vojtěh.",
+      "meaningInSourceLanguage": "Good night Vojtěh.",
+      "id": "dcb97448a142",
+      "priority": 0,
+      "group": "3e1d07833382"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobre"
+        },
+        {
+          "word": "night",
+          "definition": "night"
+        },
+        {
+          "word": "Vojtěh.",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Dobra",
+        "noč",
+        "Vojtěh",
+        "Dobre",
+        "Dobry"
+      ],
+      "solutions": [
+        [
+          "Dobra",
+          "noč",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Dobra noč Vojtěh.",
+      "id": "67d44446701e",
+      "priority": 2,
+      "group": "3e1d07833382"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobra",
+          "definition": "Dobra"
+        },
+        {
+          "word": "noč",
+          "definition": "noč"
+        },
+        {
+          "word": "Vojtěh.",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Good",
+        "night",
+        "Vojtěh",
+        "not",
+        "good"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "night",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Good night Vojtěh.",
+      "id": "f1959115a935",
+      "priority": 2,
+      "group": "3e1d07833382"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To jest ničto.",
+      "meaningInSourceLanguage": "It is nothing.",
+      "id": "933e5430b91d",
+      "priority": 0,
+      "group": "32bfd8a53623"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "It"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "nothing.",
+          "definition": "nothing."
+        }
+      ],
+      "chips": [
+        "To",
+        "jest",
+        "ničto",
+        "je",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "To",
+          "jest",
+          "ničto"
+        ]
+      ],
+      "formattedSolution": "To jest ničto.",
+      "id": "80f07b560dac",
+      "priority": 2,
+      "group": "32bfd8a53623"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "ničto.",
+          "definition": "ničto."
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "nothing",
+        "it",
+        "Is"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "nothing"
+        ]
+      ],
+      "formattedSolution": "It is nothing.",
+      "id": "76c62d0f2fbe",
+      "priority": 2,
+      "group": "32bfd8a53623"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pomiluj. To jest pozdno.",
+      "meaningInSourceLanguage": "Sorry. It is late.",
+      "id": "1729402610bd",
+      "priority": 0,
+      "group": "b841fb906673"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Sorry.",
+          "definition": "pomiluj"
+        },
+        {
+          "word": "It",
+          "definition": "It"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "late.",
+          "definition": "pozdno"
+        }
+      ],
+      "chips": [
+        "Pomiluj",
+        "To",
+        "jest",
+        "pozdno",
+        "ono",
+        "konj",
+        "Vodu"
+      ],
+      "solutions": [
+        [
+          "Pomiluj",
+          "To",
+          "jest",
+          "pozdno"
+        ]
+      ],
+      "formattedSolution": "Pomiluj. To jest pozdno.",
+      "id": "5a254f20d73d",
+      "priority": 2,
+      "group": "b841fb906673"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pomiluj.",
+          "definition": "sorry"
+        },
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "pozdno.",
+          "definition": "late"
+        }
+      ],
+      "chips": [
+        "Sorry",
+        "It",
+        "is",
+        "late",
+        "it",
+        "or",
+        "Is"
+      ],
+      "solutions": [
+        [
+          "Sorry",
+          "It",
+          "is",
+          "late"
+        ]
+      ],
+      "formattedSolution": "Sorry. It is late.",
+      "id": "67a8b1148cce",
+      "priority": 2,
+      "group": "b841fb906673"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To jest pozdno. Do viděnja.",
+      "meaningInSourceLanguage": "It is late. Goodbye.",
+      "id": "449d04279eb7",
+      "priority": 0,
+      "group": "b282ae95e77a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "It"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "late.",
+          "definition": "pozdno"
+        },
+        {
+          "word": "Goodbye.",
+          "definition": "do viděnja"
+        }
+      ],
+      "chips": [
+        "To",
+        "jest",
+        "pozdno",
+        "Do",
+        "viděnja",
+        "ono",
+        "je",
+        "ne",
+        "konj"
+      ],
+      "solutions": [
+        [
+          "To",
+          "jest",
+          "pozdno",
+          "Do",
+          "viděnja"
+        ]
+      ],
+      "formattedSolution": "To jest pozdno. Do viděnja.",
+      "id": "6dfb47a32644",
+      "priority": 2,
+      "group": "b282ae95e77a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "pozdno.",
+          "definition": "late"
+        },
+        {
+          "word": "Do",
+          "definition": "Do"
+        },
+        {
+          "word": "viděnja.",
+          "definition": "viděnja."
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "late",
+        "Goodbye",
+        "it",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "late",
+          "Goodbye"
+        ]
+      ],
+      "formattedSolution": "It is late. Goodbye.",
+      "id": "3604719e17e7",
+      "priority": 2,
+      "group": "b282ae95e77a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pozdno? To ne jest pozdno. To jest ničto.",
+      "meaningInSourceLanguage": "Late? it is not late. It is nothing.",
+      "id": "ccf3feb2f26e",
+      "priority": 0,
+      "group": "6c03622e9374"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Late?",
+          "definition": "pozdno"
+        },
+        {
+          "word": "it",
+          "definition": "it"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "not",
+          "definition": "not"
+        },
+        {
+          "word": "late.",
+          "definition": "pozdno"
+        },
+        {
+          "word": "It",
+          "definition": "It"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "nothing.",
+          "definition": "nothing."
+        }
+      ],
+      "chips": [
+        "Pozdno",
+        "To",
+        "ne",
+        "jest",
+        "pozdno",
+        "To",
+        "jest",
+        "ničto",
+        "ono",
+        "je",
+        "Do",
+        "te",
+        "noč",
+        "pes",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "Pozdno",
+          "To",
+          "ne",
+          "jest",
+          "pozdno",
+          "To",
+          "jest",
+          "ničto"
+        ]
+      ],
+      "formattedSolution": "Pozdno? To ne jest pozdno. To jest ničto.",
+      "id": "6512fdfecf3a",
+      "priority": 2,
+      "group": "6c03622e9374"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pozdno?",
+          "definition": "late"
+        },
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "ne",
+          "definition": "ne"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "pozdno.",
+          "definition": "late"
+        },
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "ničto.",
+          "definition": "ničto."
+        }
+      ],
+      "chips": [
+        "Late",
+        "it",
+        "is",
+        "not",
+        "late",
+        "It",
+        "is",
+        "nothing",
+        "Is",
+        "am",
+        "We",
+        "a",
+        "He",
+        "or",
+        "me"
+      ],
+      "solutions": [
+        [
+          "Late",
+          "it",
+          "is",
+          "not",
+          "late",
+          "It",
+          "is",
+          "nothing"
+        ],
+        [
+          "Late",
+          "it",
+          "isn't",
+          "late",
+          "It",
+          "is",
+          "nothing"
+        ]
+      ],
+      "formattedSolution": "Late? it is not late. It is nothing.",
+      "id": "62e8c9ccf08d",
+      "priority": 2,
+      "group": "6c03622e9374"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "bye1.jpg",
+        "bye2.jpg",
+        "bye3.jpg"
+      ],
+      "formInTargetLanguage": "do viděnja",
+      "meaningInSourceLanguage": "goodbye",
+      "id": "2a6fa53355fb",
+      "priority": 0,
+      "group": "c346a7598d0d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "bye1.jpg",
+        "bye2.jpg",
+        "bye3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "do viděnja"
+      ],
+      "phrase": [
+        {
+          "word": "goodbye",
+          "definition": "do viděnja"
+        }
+      ],
+      "id": "8890e2baaa29",
+      "priority": 1,
+      "group": "c346a7598d0d"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "tomorrow1.jpg",
+        "tomorrow2.jpg",
+        "tomorrow3.jpg"
+      ],
+      "formInTargetLanguage": "zautra",
+      "meaningInSourceLanguage": "tomorrow",
+      "id": "ecb844b5ab7c",
+      "priority": 0,
+      "group": "62150a9e4c78"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "tomorrow1.jpg",
+        "tomorrow2.jpg",
+        "tomorrow3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "zautra"
+      ],
+      "phrase": [
+        {
+          "word": "tomorrow",
+          "definition": "zautra"
+        }
+      ],
+      "id": "e3746a039dd9",
+      "priority": 1,
+      "group": "62150a9e4c78"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "itsnothing1.jpg",
+        "itsnothing2.jpg",
+        "itsnothing3.jpg"
+      ],
+      "formInTargetLanguage": "To jest ničto.",
+      "meaningInSourceLanguage": "It is nothing.",
+      "id": "6dff50fb72bb",
+      "priority": 0,
+      "group": "8cee532f725b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "itsnothing1.jpg",
+        "itsnothing2.jpg",
+        "itsnothing3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "To jest ničto."
+      ],
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "It"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "nothing.",
+          "definition": "nothing."
+        }
+      ],
+      "id": "427dc8428f78",
+      "priority": 1,
+      "group": "8cee532f725b"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "moon1.jpg",
+        "moon2.jpg",
+        "moon3.jpg"
+      ],
+      "formInTargetLanguage": "dobra noč",
+      "meaningInSourceLanguage": "good night",
+      "id": "496556117397",
+      "priority": 0,
+      "group": "faf21bbe7d91"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "moon1.jpg",
+        "moon2.jpg",
+        "moon3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "dobra noč"
+      ],
+      "phrase": [
+        {
+          "word": "good",
+          "definition": "dobre"
+        },
+        {
+          "word": "night",
+          "definition": "night"
+        }
+      ],
+      "id": "f80e97decf54",
+      "priority": 1,
+      "group": "faf21bbe7d91"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "late1.jpg",
+        "late2.jpg",
+        "late3.jpg"
+      ],
+      "formInTargetLanguage": "pozdněje",
+      "meaningInSourceLanguage": "later",
+      "id": "eb70710446dd",
+      "priority": 0,
+      "group": "4840f5fc99b8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "late1.jpg",
+        "late2.jpg",
+        "late3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "pozdněje"
+      ],
+      "phrase": [
+        {
+          "word": "later",
+          "definition": "pozdněje"
+        }
+      ],
+      "id": "bd4e34068f50",
+      "priority": 1,
+      "group": "4840f5fc99b8"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "now1.jpg",
+        "now2.jpg",
+        "now3.jpg"
+      ],
+      "formInTargetLanguage": "pozdno",
+      "meaningInSourceLanguage": "late",
+      "id": "0c38ee031ac4",
+      "priority": 0,
+      "group": "05369b0c8a16"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "now1.jpg",
+        "now2.jpg",
+        "now3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "pozdno"
+      ],
+      "phrase": [
+        {
+          "word": "late",
+          "definition": "pozdno"
+        }
+      ],
+      "id": "d65ea49985be",
+      "priority": 1,
+      "group": "05369b0c8a16"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": "vitanje",
+      "meaningInSourceLanguage": "welcome",
+      "id": "8569a2a0b58b",
+      "priority": 0,
+      "group": "984612d03299"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "vitanje"
+      ],
+      "phrase": [
+        {
+          "word": "welcome",
+          "definition": "vitanje"
+        }
+      ],
+      "id": "a8c7e5a34cf8",
+      "priority": 1,
+      "group": "984612d03299"
+    }
+  ]
+}

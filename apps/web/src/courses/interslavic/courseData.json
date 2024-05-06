@@ -129,6 +129,103 @@
           "levels": 4
         }
       ]
+    },
+    {
+      "title": "2. Questions and Greetings",
+      "skills": [
+        {
+          "summary": [
+            "čto",
+            "kto",
+            "avtobus",
+            "avto",
+            "avtobusy",
+            "avta",
+            "ili",
+            "Ahoj. Kto jesi?",
+            "Čto jesi?",
+            "Jesi učitelj?",
+            "Jesi učitelj ili student?",
+            "Kto jest on?",
+            "Kto jest ona?",
+            "Čto jest ono?",
+            "Jest děvčina?",
+            "Jest hlapec?",
+            "To jest avtobus?",
+            "To jest takože avto?",
+            "To jest avtobus ili avto?",
+            "Kto jesmo?",
+            "Čto jesmo?",
+            "Kto jeste?",
+            "Kto sut?",
+            "Čto sut?",
+            "Sut avtobusy?",
+            "Sut avtobusy ili avta?",
+            "Čto jeste?",
+            "Jeste učitelji?",
+            "Kto sut ti učitelji?",
+            "Kto sut te ženy?",
+            "Kto sut ti muži?",
+            "Kto sut oni?",
+            "Sut ženy ili muži?"
+          ],
+          "practiceHref": "questions",
+          "id": "3e8e332663cb",
+          "title": "Questions",
+          "levels": 7
+        },
+        {
+          "summary": [
+            "Dobry denj",
+            "pomiluj",
+            "Dobre utro",
+            "Hvala",
+            "dobre",
+            "Ja jesm",
+            "da",
+            "Kako ty Jesi?",
+            "Pomiluj. Kto jesi?",
+            "Jesmo Vojtěh i Katarina.",
+            "Dobre utro. Kako ty jesi?",
+            "Ja jesm dobro. Hvala.",
+            "Sut Vojtěh i Katarina?",
+            "Da. Jesmo Vojtěh i Katarina.",
+            "Dobry denj. Jesi Vojtěh?",
+            "Dobry denj. Kako ty jesi?",
+            "Ahoj Vojtěh. Kako ty jesi?",
+            "Ja jesm dobro. A ty?",
+            "Ja jesm takože dobro. Hvala.",
+            "Jest Vojtěh?",
+            "Da. One jest Katarina."
+          ],
+          "practiceHref": "greetings-1",
+          "id": "47082a238710",
+          "title": "Greetings 1",
+          "levels": 5
+        },
+        {
+          "summary": [
+            "do viděnja",
+            "zautra",
+            "To jest ničto.",
+            "dobra noč",
+            "pozdněje",
+            "pozdno",
+            "vitanje",
+            "Vitanje. Kako ty jesi?",
+            "Do viděnja Vojtěh.",
+            "Dobra noč Vojtěh.",
+            "To jest ničto.",
+            "Pomiluj. To jest pozdno.",
+            "To jest pozdno. Do viděnja.",
+            "Pozdno? To ne jest pozdno. To jest ničto."
+          ],
+          "practiceHref": "greetings-2",
+          "id": "e3b95a96a7dc",
+          "title": "Greetings 2",
+          "levels": 3
+        }
+      ]
     }
   ]
 }

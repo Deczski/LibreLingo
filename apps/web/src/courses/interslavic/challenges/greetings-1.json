@@ -1,0 +1,1660 @@
+{
+  "id": "47082a238710",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pomiluj. Kto jesi?",
+      "meaningInSourceLanguage": "Excuse me. Who are you?",
+      "id": "02e79ee62052",
+      "priority": 0,
+      "group": "b18b9e0106bd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Excuse",
+          "definition": "Excuse"
+        },
+        {
+          "word": "me.",
+          "definition": "me."
+        },
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Pomiluj",
+        "Kto",
+        "jesi",
+        "Jesi",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Pomiluj",
+          "Kto",
+          "jesi"
+        ],
+        [
+          "Pomilujte",
+          "Kto",
+          "jeste"
+        ]
+      ],
+      "formattedSolution": "Pomiluj. Kto jesi?",
+      "id": "9f0f02c4a2aa",
+      "priority": 2,
+      "group": "b18b9e0106bd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pomiluj.",
+          "definition": "sorry"
+        },
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "jesi?",
+          "definition": "(You) are"
+        }
+      ],
+      "chips": [
+        "Excuse",
+        "me",
+        "Who",
+        "are",
+        "you",
+        "We",
+        "The",
+        "He",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "Excuse",
+          "me",
+          "Who",
+          "are",
+          "you"
+        ],
+        [
+          "Sorry",
+          "Who",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Excuse me. Who are you?",
+      "id": "101d78a4ab9d",
+      "priority": 2,
+      "group": "b18b9e0106bd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jesmo Vojtěh i Katarina.",
+      "meaningInSourceLanguage": "We are Vojtěh and Katarina.",
+      "id": "1db79b80611a",
+      "priority": 0,
+      "group": "64c97610a725"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "Katarina.",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "Jesmo",
+        "Vojtěh",
+        "i",
+        "Katarina",
+        "ti",
+        "jesi",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "Jesmo",
+          "Vojtěh",
+          "i",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Jesmo Vojtěh i Katarina.",
+      "id": "a85f4d82ebbe",
+      "priority": 2,
+      "group": "64c97610a725"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jesmo",
+          "definition": "(We) are"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "Katarina.",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "Vojtěh",
+        "and",
+        "Katarina",
+        "am",
+        "a",
+        "Are",
+        "or"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "Vojtěh",
+          "and",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "We are Vojtěh and Katarina.",
+      "id": "f3d2ede5bb8d",
+      "priority": 2,
+      "group": "64c97610a725"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobre utro. Kako ty jesi?",
+      "meaningInSourceLanguage": "Good morning. How are you?",
+      "id": "395efad66bd0",
+      "priority": 0,
+      "group": "8dca675abb2b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobre"
+        },
+        {
+          "word": "morning.",
+          "definition": "morning."
+        },
+        {
+          "word": "How",
+          "definition": "How"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Dobre",
+        "utro",
+        "Kako",
+        "ty",
+        "jesi",
+        "Kto",
+        "te",
+        "Do",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Dobre",
+          "utro",
+          "Kako",
+          "ty",
+          "jesi"
+        ]
+      ],
+      "formattedSolution": "Dobre utro. Kako ty jesi?",
+      "id": "8962aad64b81",
+      "priority": 2,
+      "group": "8dca675abb2b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobre",
+          "definition": "good"
+        },
+        {
+          "word": "utro.",
+          "definition": "utro."
+        },
+        {
+          "word": "Kako",
+          "definition": "Kako"
+        },
+        {
+          "word": "ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi?",
+          "definition": "(You) are"
+        }
+      ],
+      "chips": [
+        "Good",
+        "morning",
+        "How",
+        "are",
+        "you",
+        "or",
+        "You",
+        "dog",
+        "boy"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "morning",
+          "How",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Good morning. How are you?",
+      "id": "828773ff5cad",
+      "priority": 2,
+      "group": "8dca675abb2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm dobro. Hvala.",
+      "meaningInSourceLanguage": "I am fine. Thank you.",
+      "id": "0a3992e32622",
+      "priority": 0,
+      "group": "5926f7e99e0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "Jesm"
+        },
+        {
+          "word": "fine.",
+          "definition": "fine."
+        },
+        {
+          "word": "Thank",
+          "definition": "Thank"
+        },
+        {
+          "word": "you.",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "dobro",
+        "Hvala",
+        "Para",
+        "je",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "dobro",
+          "Hvala"
+        ]
+      ],
+      "formattedSolution": "Ja jesm dobro. Hvala.",
+      "id": "4c87250140e7",
+      "priority": 2,
+      "group": "5926f7e99e0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "Am"
+        },
+        {
+          "word": "dobro.",
+          "definition": "dobro."
+        },
+        {
+          "word": "Hvala.",
+          "definition": "Thank you"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "fine",
+        "Thank",
+        "you",
+        "a",
+        "and",
+        "man",
+        "are"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "fine",
+          "Thank",
+          "you"
+        ],
+        [
+          "I",
+          "am",
+          "good",
+          "Thank",
+          "you"
+        ]
+      ],
+      "formattedSolution": "I am fine. Thank you.",
+      "id": "b58bd7010680",
+      "priority": 2,
+      "group": "5926f7e99e0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sut Vojtěh i Katarina?",
+      "meaningInSourceLanguage": "Are they Vojtěh and Katarina?",
+      "id": "7107a7068864",
+      "priority": 0,
+      "group": "43ab2c70a781"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "they",
+          "definition": "they"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "Katarina?",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "Sut",
+        "Vojtěh",
+        "i",
+        "Katarina",
+        "ti",
+        "sut",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "Sut",
+          "Vojtěh",
+          "i",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Sut Vojtěh i Katarina?",
+      "id": "09290c7b195b",
+      "priority": 2,
+      "group": "43ab2c70a781"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "Katarina?",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "Are",
+        "they",
+        "Vojtěh",
+        "and",
+        "Katarina",
+        "are",
+        "And",
+        "The",
+        "man"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "they",
+          "Vojtěh",
+          "and",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Are they Vojtěh and Katarina?",
+      "id": "174ea5bfb439",
+      "priority": 2,
+      "group": "43ab2c70a781"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Da. Jesmo Vojtěh i Katarina.",
+      "meaningInSourceLanguage": "Yes. We are Vojtěh and Katarina.",
+      "id": "e5aef72458d8",
+      "priority": 0,
+      "group": "66f00e4a14fe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yes.",
+          "definition": "da"
+        },
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "Katarina.",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "Da",
+        "Jesmo",
+        "Vojtěh",
+        "i",
+        "Katarina",
+        "ti",
+        "Ja",
+        "te",
+        "Do"
+      ],
+      "solutions": [
+        [
+          "Da",
+          "Jesmo",
+          "Vojtěh",
+          "i",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Da. Jesmo Vojtěh i Katarina.",
+      "id": "56e83b6bdb1a",
+      "priority": 2,
+      "group": "66f00e4a14fe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Da.",
+          "definition": "Yes\nyes"
+        },
+        {
+          "word": "Jesmo",
+          "definition": "(We) are"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "Katarina.",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "Yes",
+        "We",
+        "are",
+        "Vojtěh",
+        "and",
+        "Katarina",
+        "am",
+        "a",
+        "He",
+        "Are",
+        "or"
+      ],
+      "solutions": [
+        [
+          "Yes",
+          "We",
+          "are",
+          "Vojtěh",
+          "and",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Yes. We are Vojtěh and Katarina.",
+      "id": "ccc5ac99de72",
+      "priority": 2,
+      "group": "66f00e4a14fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobry denj. Jesi Vojtěh?",
+      "meaningInSourceLanguage": "Good afternoon. Are you Vojtěh?",
+      "id": "9e401713b7ff",
+      "priority": 0,
+      "group": "3c419d7c2166"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobre"
+        },
+        {
+          "word": "afternoon.",
+          "definition": "afternoon."
+        },
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you",
+          "definition": "ty"
+        },
+        {
+          "word": "Vojtěh?",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Dobry",
+        "denj",
+        "Jesi",
+        "Vojtěh",
+        "jesi",
+        "jesm",
+        "jest"
+      ],
+      "solutions": [
+        [
+          "Dobry",
+          "denj",
+          "Jesi",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Dobry denj. Jesi Vojtěh?",
+      "id": "dd16d0f19599",
+      "priority": 2,
+      "group": "3c419d7c2166"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobry",
+          "definition": "Dobry"
+        },
+        {
+          "word": "denj.",
+          "definition": "denj."
+        },
+        {
+          "word": "Jesi",
+          "definition": "(You) are"
+        },
+        {
+          "word": "Vojtěh?",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Good",
+        "afternoon",
+        "Are",
+        "you",
+        "Vojtěh",
+        "not",
+        "You",
+        "or",
+        "good"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "afternoon",
+          "Are",
+          "you",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Good afternoon. Are you Vojtěh?",
+      "id": "3605d98adb48",
+      "priority": 2,
+      "group": "3c419d7c2166"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobry denj. Kako ty jesi?",
+      "meaningInSourceLanguage": "Good Afternoon. How are you?",
+      "id": "408c66579954",
+      "priority": 0,
+      "group": "fe065439ad5f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobre"
+        },
+        {
+          "word": "Afternoon.",
+          "definition": "Afternoon."
+        },
+        {
+          "word": "How",
+          "definition": "How"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Dobry",
+        "denj",
+        "Kako",
+        "ty",
+        "jesi",
+        "je",
+        "te",
+        "ženy",
+        "Do"
+      ],
+      "solutions": [
+        [
+          "Dobry",
+          "denj",
+          "Kako",
+          "ty",
+          "jesi"
+        ]
+      ],
+      "formattedSolution": "Dobry denj. Kako ty jesi?",
+      "id": "4345de9d37e4",
+      "priority": 2,
+      "group": "fe065439ad5f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobry",
+          "definition": "Dobry"
+        },
+        {
+          "word": "denj.",
+          "definition": "denj."
+        },
+        {
+          "word": "Kako",
+          "definition": "Kako"
+        },
+        {
+          "word": "ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi?",
+          "definition": "(You) are"
+        }
+      ],
+      "chips": [
+        "Good",
+        "Afternoon",
+        "How",
+        "are",
+        "you",
+        "You",
+        "or",
+        "not",
+        "dog"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "Afternoon",
+          "How",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Good Afternoon. How are you?",
+      "id": "ad1a9e33928b",
+      "priority": 2,
+      "group": "fe065439ad5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ahoj Vojtěh. Kako ty jesi?",
+      "meaningInSourceLanguage": "Hello Vojtěh. How are you.",
+      "id": "8ee3ef464ca9",
+      "priority": 0,
+      "group": "d8923b5115de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Hello",
+          "definition": "pozdrav"
+        },
+        {
+          "word": "Vojtěh.",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "How",
+          "definition": "How"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you.",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Ahoj",
+        "Vojtěh",
+        "Kako",
+        "ty",
+        "jesi",
+        "Kto",
+        "To",
+        "je",
+        "Čto"
+      ],
+      "solutions": [
+        [
+          "Ahoj",
+          "Vojtěh",
+          "Kako",
+          "ty",
+          "jesi"
+        ]
+      ],
+      "formattedSolution": "Ahoj Vojtěh. Kako ty jesi?",
+      "id": "78aa2b2d7921",
+      "priority": 2,
+      "group": "d8923b5115de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ahoj",
+          "definition": "Ahoj"
+        },
+        {
+          "word": "Vojtěh.",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        },
+        {
+          "word": "Kako",
+          "definition": "Kako"
+        },
+        {
+          "word": "ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi?",
+          "definition": "(You) are"
+        }
+      ],
+      "chips": [
+        "Hello",
+        "Vojtěh",
+        "How",
+        "are",
+        "you",
+        "You",
+        "He",
+        "or",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Hello",
+          "Vojtěh",
+          "How",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Hello Vojtěh. How are you.",
+      "id": "d1a2fa9bf6c7",
+      "priority": 2,
+      "group": "d8923b5115de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm dobro. A ty?",
+      "meaningInSourceLanguage": "I am fine. And you?",
+      "id": "7ae6501a8742",
+      "priority": 0,
+      "group": "f43c0dc27163"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "Jesm"
+        },
+        {
+          "word": "fine.",
+          "definition": "fine."
+        },
+        {
+          "word": "And",
+          "definition": "i"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "dobro",
+        "A",
+        "ty",
+        "je",
+        "te",
+        "Ty",
+        "My"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "dobro",
+          "A",
+          "ty"
+        ]
+      ],
+      "formattedSolution": "Ja jesm dobro. A ty?",
+      "id": "235f03a0f6e2",
+      "priority": 2,
+      "group": "f43c0dc27163"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "Am"
+        },
+        {
+          "word": "dobro.",
+          "definition": "dobro."
+        },
+        {
+          "word": "A",
+          "definition": "A"
+        },
+        {
+          "word": "ty?",
+          "definition": "you"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "fine",
+        "And",
+        "you",
+        "a",
+        "and",
+        "We",
+        "is"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "fine",
+          "And",
+          "you"
+        ],
+        [
+          "I",
+          "am",
+          "good",
+          "And",
+          "you"
+        ]
+      ],
+      "formattedSolution": "I am fine. And you?",
+      "id": "e2154ef8f435",
+      "priority": 2,
+      "group": "f43c0dc27163"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm takože dobro. Hvala.",
+      "meaningInSourceLanguage": "I am also fine. Thank you.",
+      "id": "d1a8a633ddba",
+      "priority": 0,
+      "group": "029101c9ecf3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "Jesm"
+        },
+        {
+          "word": "also",
+          "definition": "takože"
+        },
+        {
+          "word": "fine.",
+          "definition": "fine."
+        },
+        {
+          "word": "Thank",
+          "definition": "Thank"
+        },
+        {
+          "word": "you.",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "takože",
+        "dobro",
+        "Hvala",
+        "Kako",
+        "Para",
+        "je",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "takože",
+          "dobro",
+          "Hvala"
+        ]
+      ],
+      "formattedSolution": "Ja jesm takože dobro. Hvala.",
+      "id": "0cec095a3a29",
+      "priority": 2,
+      "group": "029101c9ecf3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "Am"
+        },
+        {
+          "word": "takože",
+          "definition": "also"
+        },
+        {
+          "word": "dobro.",
+          "definition": "dobro."
+        },
+        {
+          "word": "Hvala.",
+          "definition": "Thank you"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "also",
+        "fine",
+        "Thank",
+        "you",
+        "a",
+        "and",
+        "are",
+        "is",
+        "man"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "also",
+          "fine",
+          "Thank",
+          "you"
+        ],
+        [
+          "I",
+          "am",
+          "also",
+          "good",
+          "Thank",
+          "you"
+        ]
+      ],
+      "formattedSolution": "I am also fine. Thank you.",
+      "id": "8bc6ffeecb18",
+      "priority": 2,
+      "group": "029101c9ecf3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jest Vojtěh?",
+      "meaningInSourceLanguage": "Is he Vojtěh?",
+      "id": "8d33dd59e063",
+      "priority": 0,
+      "group": "932dec76f1e5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "he",
+          "definition": "on"
+        },
+        {
+          "word": "Vojtěh?",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Jest",
+        "Vojtěh",
+        "jest",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "Jest",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Jest Vojtěh?",
+      "id": "5cd3b4094b13",
+      "priority": 2,
+      "group": "932dec76f1e5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jest",
+          "definition": "is"
+        },
+        {
+          "word": "Vojtěh?",
+          "definition": "Vojtěh (male name)\nVojtěh (name)"
+        }
+      ],
+      "chips": [
+        "Is",
+        "he",
+        "Vojtěh",
+        "I",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "he",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Is he Vojtěh?",
+      "id": "62834d522447",
+      "priority": 2,
+      "group": "932dec76f1e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Da. One jest Katarina.",
+      "meaningInSourceLanguage": "Yes. She is Katarina.",
+      "id": "ed00fbca6c15",
+      "priority": 0,
+      "group": "aabdb0e50e44"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yes.",
+          "definition": "da"
+        },
+        {
+          "word": "She",
+          "definition": "She"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "Katarina.",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "Da",
+        "One",
+        "jest",
+        "Katarina",
+        "ne",
+        "On",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Da",
+          "One",
+          "jest",
+          "Katarina"
+        ],
+        [
+          "Da",
+          "Jest",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Da. One jest Katarina.",
+      "id": "fd16eca3a8de",
+      "priority": 2,
+      "group": "aabdb0e50e44"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Da.",
+          "definition": "Yes\nyes"
+        },
+        {
+          "word": "One",
+          "definition": "One"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "Katarina.",
+          "definition": "Katarina (female name)\nKatarina (name)"
+        }
+      ],
+      "chips": [
+        "Yes",
+        "She",
+        "is",
+        "Katarina",
+        "are",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "Yes",
+          "She",
+          "is",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Yes. She is Katarina.",
+      "id": "42973c116e81",
+      "priority": 2,
+      "group": "aabdb0e50e44"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
+      "formInTargetLanguage": "Dobry denj",
+      "meaningInSourceLanguage": "Good afternoon",
+      "id": "82d1aedd99ce",
+      "priority": 0,
+      "group": "24afba49665e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Dobry denj"
+      ],
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobre"
+        },
+        {
+          "word": "afternoon",
+          "definition": "afternoon"
+        }
+      ],
+      "id": "1e6121cadc11",
+      "priority": 1,
+      "group": "24afba49665e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "sorry1.jpg",
+        "sorry2.jpg",
+        "sorry3.jpg"
+      ],
+      "formInTargetLanguage": "pomiluj",
+      "meaningInSourceLanguage": "sorry",
+      "id": "0b63c3da0c46",
+      "priority": 0,
+      "group": "f723c40a80d9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "sorry1.jpg",
+        "sorry2.jpg",
+        "sorry3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "pomiluj"
+      ],
+      "phrase": [
+        {
+          "word": "sorry",
+          "definition": "pomiluj"
+        }
+      ],
+      "id": "2f445ae0eec7",
+      "priority": 1,
+      "group": "f723c40a80d9"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "morning1.jpg",
+        "morning2.jpg",
+        "morning3.jpg"
+      ],
+      "formInTargetLanguage": "Dobre utro",
+      "meaningInSourceLanguage": "Good morning",
+      "id": "a9bdb33c7630",
+      "priority": 0,
+      "group": "6e1160a7b003"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "morning1.jpg",
+        "morning2.jpg",
+        "morning3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Dobre utro"
+      ],
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobre"
+        },
+        {
+          "word": "morning",
+          "definition": "morning"
+        }
+      ],
+      "id": "16e2a9759f20",
+      "priority": 1,
+      "group": "6e1160a7b003"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "thankyou1.jpg",
+        "thankyou2.jpg",
+        "thankyou3.jpg"
+      ],
+      "formInTargetLanguage": "Hvala",
+      "meaningInSourceLanguage": "Thank you",
+      "id": "4068a250df90",
+      "priority": 0,
+      "group": "8a835c724e8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "thankyou1.jpg",
+        "thankyou2.jpg",
+        "thankyou3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Hvala"
+      ],
+      "phrase": [
+        {
+          "word": "Thank",
+          "definition": "Thank"
+        },
+        {
+          "word": "you",
+          "definition": "ty"
+        }
+      ],
+      "id": "bd6d964b45d6",
+      "priority": 1,
+      "group": "8a835c724e8a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "imfine2.jpg",
+        "imfine3.jpg",
+        "imfine1.jpg"
+      ],
+      "formInTargetLanguage": "dobre",
+      "meaningInSourceLanguage": "good",
+      "id": "d37ac485aa68",
+      "priority": 0,
+      "group": "2a0d287806d4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "imfine2.jpg",
+        "imfine3.jpg",
+        "imfine1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "dobre"
+      ],
+      "phrase": [
+        {
+          "word": "good",
+          "definition": "dobre"
+        }
+      ],
+      "id": "9d6b01221d5e",
+      "priority": 1,
+      "group": "2a0d287806d4"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "iam1.jpg",
+        "iam2.jpg",
+        "iam3.jpg"
+      ],
+      "formInTargetLanguage": "Ja jesm",
+      "meaningInSourceLanguage": "I am",
+      "id": "de763d71a339",
+      "priority": 0,
+      "group": "d91c8ea72c16"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "iam1.jpg",
+        "iam2.jpg",
+        "iam3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Ja jesm"
+      ],
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "Jesm"
+        }
+      ],
+      "id": "2102bcb3a80c",
+      "priority": 1,
+      "group": "d91c8ea72c16"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "imfine3.jpg",
+        "imfine1.jpg",
+        "imfine2.jpg"
+      ],
+      "formInTargetLanguage": "da",
+      "meaningInSourceLanguage": "yes",
+      "id": "87f2172d09d9",
+      "priority": 0,
+      "group": "1bf5ebe3f409"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "imfine3.jpg",
+        "imfine1.jpg",
+        "imfine2.jpg"
+      ],
+      "formInTargetLanguage": [
+        "da"
+      ],
+      "phrase": [
+        {
+          "word": "yes",
+          "definition": "da"
+        }
+      ],
+      "id": "21a9e8ed3210",
+      "priority": 1,
+      "group": "1bf5ebe3f409"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "howareyou1.jpg",
+        "howareyou2.jpg",
+        "howareyou3.jpg"
+      ],
+      "formInTargetLanguage": "Kako ty Jesi?",
+      "meaningInSourceLanguage": "How are you?",
+      "id": "eb8c9339ecb5",
+      "priority": 0,
+      "group": "f10a75bd4580"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "howareyou1.jpg",
+        "howareyou2.jpg",
+        "howareyou3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Kako ty Jesi?"
+      ],
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "How"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "id": "fb4901c2c272",
+      "priority": 1,
+      "group": "f10a75bd4580"
+    }
+  ]
+}
