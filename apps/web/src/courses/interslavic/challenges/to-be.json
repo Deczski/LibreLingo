@@ -129,8 +129,8 @@
         "You",
         "are",
         "singular",
-        "am",
-        "a"
+        "you",
+        "or"
       ],
       "solutions": [
         [
@@ -188,7 +188,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "we"
         },
         {
           "word": "jesmo",
@@ -199,7 +199,7 @@
         "We",
         "are",
         "He",
-        "am"
+        "Are"
       ],
       "solutions": [
         [
@@ -271,8 +271,8 @@
         "You",
         "are",
         "plural",
-        "am",
-        "a"
+        "you",
+        "Are"
       ],
       "solutions": [
         [
@@ -334,7 +334,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "Oni"
+          "definition": "they"
         },
         {
           "word": "sut",
@@ -346,7 +346,7 @@
         "are",
         "masculine",
         "The",
-        "We"
+        "she"
       ],
       "solutions": [
         [
@@ -420,7 +420,7 @@
         "are",
         "feminine",
         "The",
-        "We"
+        "Are"
       ],
       "solutions": [
         [

@@ -1,0 +1,2575 @@
+{
+  "id": "3e8e332663cb",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ahoj. Kto jesi?",
+      "meaningInSourceLanguage": "Hello. Who are you?",
+      "id": "222c9a88798c",
+      "priority": 0,
+      "group": "0bcf0a565ba8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Hello.",
+          "definition": "pozdrav"
+        },
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Ahoj",
+        "Kto",
+        "jesi",
+        "Čto",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "Ahoj",
+          "Kto",
+          "jesi"
+        ]
+      ],
+      "formattedSolution": "Ahoj. Kto jesi?",
+      "id": "a6ceed8add9a",
+      "priority": 2,
+      "group": "0bcf0a565ba8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ahoj.",
+          "definition": "Ahoj."
+        },
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "jesi?",
+          "definition": "(You) are"
+        }
+      ],
+      "chips": [
+        "Hello",
+        "Who",
+        "are",
+        "you",
+        "We",
+        "He",
+        "You"
+      ],
+      "solutions": [
+        [
+          "Hello",
+          "Who",
+          "are",
+          "you"
+        ],
+        [
+          "Hi",
+          "Who",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Hello. Who are you?",
+      "id": "21bf17d23eb8",
+      "priority": 2,
+      "group": "0bcf0a565ba8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Čto jesi?",
+      "meaningInSourceLanguage": "What are you?",
+      "id": "938aa9ac9986",
+      "priority": 0,
+      "group": "c1fb415c887c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "čto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Čto",
+        "jesi",
+        "jesm",
+        "jest"
+      ],
+      "solutions": [
+        [
+          "Čto",
+          "jesi"
+        ]
+      ],
+      "formattedSolution": "Čto jesi?",
+      "id": "7c1fc6e07a23",
+      "priority": 2,
+      "group": "c1fb415c887c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Čto",
+          "definition": "what"
+        },
+        {
+          "word": "jesi?",
+          "definition": "(You) are"
+        }
+      ],
+      "chips": [
+        "What",
+        "are",
+        "you",
+        "am",
+        "You"
+      ],
+      "solutions": [
+        [
+          "What",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "What are you?",
+      "id": "2e23bd0d3dc0",
+      "priority": 2,
+      "group": "c1fb415c887c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jesi učitelj?",
+      "meaningInSourceLanguage": "Are you the teacher?",
+      "id": "824223b91ba0",
+      "priority": 0,
+      "group": "016fbc7c9ea5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you",
+          "definition": "ty"
+        },
+        {
+          "word": "the",
+          "definition": "ta\nto\ntoj"
+        },
+        {
+          "word": "teacher?",
+          "definition": "teacher?"
+        }
+      ],
+      "chips": [
+        "Jesi",
+        "učitelj",
+        "jesi",
+        "učitelji"
+      ],
+      "solutions": [
+        [
+          "Jesi",
+          "učitelj"
+        ]
+      ],
+      "formattedSolution": "Jesi učitelj?",
+      "id": "e91f7b085db2",
+      "priority": 2,
+      "group": "016fbc7c9ea5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jesi",
+          "definition": "(You) are"
+        },
+        {
+          "word": "učitelj?",
+          "definition": "učitelj?"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "the",
+        "teacher",
+        "are",
+        "The",
+        "she"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "the",
+          "teacher"
+        ],
+        [
+          "Are",
+          "you",
+          "a",
+          "teacher"
+        ]
+      ],
+      "formattedSolution": "Are you the teacher?",
+      "id": "043bc4c02181",
+      "priority": 2,
+      "group": "016fbc7c9ea5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jesi učitelj ili student?",
+      "meaningInSourceLanguage": "Are you a teacher or a student?",
+      "id": "9df0d2803407",
+      "priority": 0,
+      "group": "386bfce97265"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you",
+          "definition": "ty"
+        },
+        {
+          "word": "a",
+          "definition": "-\n-a"
+        },
+        {
+          "word": "teacher",
+          "definition": "teacher"
+        },
+        {
+          "word": "or",
+          "definition": "ili"
+        },
+        {
+          "word": "a",
+          "definition": "-\n-a"
+        },
+        {
+          "word": "student?",
+          "definition": "student?"
+        }
+      ],
+      "chips": [
+        "Jesi",
+        "učitelj",
+        "ili",
+        "student",
+        "jesi",
+        "te",
+        "denj"
+      ],
+      "solutions": [
+        [
+          "Jesi",
+          "učitelj",
+          "ili",
+          "student"
+        ]
+      ],
+      "formattedSolution": "Jesi učitelj ili student?",
+      "id": "7e5828979a4e",
+      "priority": 2,
+      "group": "386bfce97265"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jesi",
+          "definition": "(You) are"
+        },
+        {
+          "word": "učitelj",
+          "definition": "učitelj"
+        },
+        {
+          "word": "ili",
+          "definition": "or"
+        },
+        {
+          "word": "student?",
+          "definition": "student?"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "a",
+        "teacher",
+        "or",
+        "a",
+        "student",
+        "are",
+        "am",
+        "We",
+        "A",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "a",
+          "teacher",
+          "or",
+          "a",
+          "student"
+        ],
+        [
+          "Are",
+          "you",
+          "the",
+          "teacher",
+          "or",
+          "the",
+          "student"
+        ]
+      ],
+      "formattedSolution": "Are you a teacher or a student?",
+      "id": "4fd166a968e5",
+      "priority": 2,
+      "group": "386bfce97265"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto jest on?",
+      "meaningInSourceLanguage": "Who is he?",
+      "id": "522a5aa889a6",
+      "priority": 0,
+      "group": "4c3768080534"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "he?",
+          "definition": "on"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "jest",
+        "on",
+        "je",
+        "ono"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "jest",
+          "on"
+        ]
+      ],
+      "formattedSolution": "Kto jest on?",
+      "id": "062c7251414d",
+      "priority": 2,
+      "group": "4c3768080534"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "on?",
+          "definition": "he"
+        }
+      ],
+      "chips": [
+        "Who",
+        "is",
+        "he",
+        "We",
+        "The"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "is",
+          "he"
+        ]
+      ],
+      "formattedSolution": "Who is he?",
+      "id": "eb242c9a470e",
+      "priority": 2,
+      "group": "4c3768080534"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto jest ona?",
+      "meaningInSourceLanguage": "Who is she?",
+      "id": "4ffd275ddb44",
+      "priority": 0,
+      "group": "5b7825d36c38"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "she?",
+          "definition": "she?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "jest",
+        "ona",
+        "ono",
+        "pes"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "jest",
+          "ona"
+        ]
+      ],
+      "formattedSolution": "Kto jest ona?",
+      "id": "2897977f9f8c",
+      "priority": 2,
+      "group": "5b7825d36c38"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "ona?",
+          "definition": "ona?"
+        }
+      ],
+      "chips": [
+        "Who",
+        "is",
+        "she",
+        "We",
+        "The"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "is",
+          "she"
+        ]
+      ],
+      "formattedSolution": "Who is she?",
+      "id": "ff8c54735441",
+      "priority": 2,
+      "group": "5b7825d36c38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Čto jest ono?",
+      "meaningInSourceLanguage": "What is it?",
+      "id": "38771a4b47bd",
+      "priority": 0,
+      "group": "554a00241a90"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "čto"
+        },
+        {
+          "word": "is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "it?",
+          "definition": "it?"
+        }
+      ],
+      "chips": [
+        "Čto",
+        "jest",
+        "ono",
+        "Kto",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Čto",
+          "jest",
+          "ono"
+        ]
+      ],
+      "formattedSolution": "Čto jest ono?",
+      "id": "58f53a8c6b43",
+      "priority": 2,
+      "group": "554a00241a90"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Čto",
+          "definition": "what"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "ono?",
+          "definition": "ono?"
+        }
+      ],
+      "chips": [
+        "What",
+        "is",
+        "it",
+        "It",
+        "am"
+      ],
+      "solutions": [
+        [
+          "What",
+          "is",
+          "it"
+        ]
+      ],
+      "formattedSolution": "What is it?",
+      "id": "aad0af7a5326",
+      "priority": 2,
+      "group": "554a00241a90"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jest děvčina?",
+      "meaningInSourceLanguage": "Is she a girl?",
+      "id": "f9320bdda5f5",
+      "priority": 0,
+      "group": "648590eedc50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "she",
+          "definition": "she"
+        },
+        {
+          "word": "a",
+          "definition": "-\n-a"
+        },
+        {
+          "word": "girl?",
+          "definition": "děvčina"
+        }
+      ],
+      "chips": [
+        "Jest",
+        "děvčina",
+        "jesi",
+        "jest"
+      ],
+      "solutions": [
+        [
+          "Jest",
+          "děvčina"
+        ],
+        [
+          "Jest",
+          "děvče"
+        ]
+      ],
+      "formattedSolution": "Jest děvčina?",
+      "id": "9d09d01e38e6",
+      "priority": 2,
+      "group": "648590eedc50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jest",
+          "definition": "is"
+        },
+        {
+          "word": "děvčina?",
+          "definition": "a girl\ngirl\nthe girl"
+        }
+      ],
+      "chips": [
+        "Is",
+        "she",
+        "a",
+        "girl",
+        "I",
+        "is",
+        "am"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "she",
+          "a",
+          "girl"
+        ],
+        [
+          "Is",
+          "she",
+          "the",
+          "girl"
+        ]
+      ],
+      "formattedSolution": "Is she a girl?",
+      "id": "5cfbb041fc06",
+      "priority": 2,
+      "group": "648590eedc50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jest hlapec?",
+      "meaningInSourceLanguage": "Is he a boy?",
+      "id": "1b87bfba3f3b",
+      "priority": 0,
+      "group": "a0103ea89605"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "he",
+          "definition": "on"
+        },
+        {
+          "word": "a",
+          "definition": "-\n-a"
+        },
+        {
+          "word": "boy?",
+          "definition": "hlapec"
+        }
+      ],
+      "chips": [
+        "Jest",
+        "hlapec",
+        "pes",
+        "jeste"
+      ],
+      "solutions": [
+        [
+          "Jest",
+          "hlapec"
+        ]
+      ],
+      "formattedSolution": "Jest hlapec?",
+      "id": "37f9c9f8f110",
+      "priority": 2,
+      "group": "a0103ea89605"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jest",
+          "definition": "is"
+        },
+        {
+          "word": "hlapec?",
+          "definition": "boy"
+        }
+      ],
+      "chips": [
+        "Is",
+        "he",
+        "a",
+        "boy",
+        "I",
+        "am",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "he",
+          "a",
+          "boy"
+        ],
+        [
+          "Is",
+          "he",
+          "the",
+          "boy"
+        ]
+      ],
+      "formattedSolution": "Is he a boy?",
+      "id": "654e197cfb7b",
+      "priority": 2,
+      "group": "a0103ea89605"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To jest avtobus?",
+      "meaningInSourceLanguage": "Is it the bus?",
+      "id": "cb716c061932",
+      "priority": 0,
+      "group": "cb91ce9d9835"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "it",
+          "definition": "it"
+        },
+        {
+          "word": "the",
+          "definition": "ta\nto\ntoj"
+        },
+        {
+          "word": "bus?",
+          "definition": "avtobus"
+        }
+      ],
+      "chips": [
+        "To",
+        "jest",
+        "avtobus",
+        "avto",
+        "pes"
+      ],
+      "solutions": [
+        [
+          "To",
+          "jest",
+          "avtobus"
+        ]
+      ],
+      "formattedSolution": "To jest avtobus?",
+      "id": "2a7c21bbbb05",
+      "priority": 2,
+      "group": "cb91ce9d9835"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "avtobus?",
+          "definition": "bus"
+        }
+      ],
+      "chips": [
+        "Is",
+        "it",
+        "the",
+        "bus",
+        "is",
+        "It",
+        "I"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "it",
+          "the",
+          "bus"
+        ],
+        [
+          "Is",
+          "it",
+          "a",
+          "bus"
+        ]
+      ],
+      "formattedSolution": "Is it the bus?",
+      "id": "7134ededf357",
+      "priority": 2,
+      "group": "cb91ce9d9835"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To jest takože avto?",
+      "meaningInSourceLanguage": "Is it also a car?",
+      "id": "e16231ff3101",
+      "priority": 0,
+      "group": "a40f7784d648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "it",
+          "definition": "it"
+        },
+        {
+          "word": "also",
+          "definition": "takože"
+        },
+        {
+          "word": "a",
+          "definition": "-\n-a"
+        },
+        {
+          "word": "car?",
+          "definition": "avto"
+        }
+      ],
+      "chips": [
+        "To",
+        "jest",
+        "takože",
+        "avto",
+        "te",
+        "je",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "To",
+          "jest",
+          "takože",
+          "avto"
+        ]
+      ],
+      "formattedSolution": "To jest takože avto?",
+      "id": "240589a45f8a",
+      "priority": 2,
+      "group": "a40f7784d648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "takože",
+          "definition": "also"
+        },
+        {
+          "word": "avto?",
+          "definition": "car"
+        }
+      ],
+      "chips": [
+        "Is",
+        "it",
+        "also",
+        "a",
+        "car",
+        "am",
+        "is",
+        "I",
+        "It"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "it",
+          "also",
+          "a",
+          "car"
+        ]
+      ],
+      "formattedSolution": "Is it also a car?",
+      "id": "553cd9f6cffe",
+      "priority": 2,
+      "group": "a40f7784d648"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To jest avtobus ili avto?",
+      "meaningInSourceLanguage": "Is it a bus or a car?",
+      "id": "5c17296f54f9",
+      "priority": 0,
+      "group": "28f7e71cc14f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "Jest\njest"
+        },
+        {
+          "word": "it",
+          "definition": "it"
+        },
+        {
+          "word": "a",
+          "definition": "-\n-a"
+        },
+        {
+          "word": "bus",
+          "definition": "avtobus"
+        },
+        {
+          "word": "or",
+          "definition": "ili"
+        },
+        {
+          "word": "a",
+          "definition": "-\n-a"
+        },
+        {
+          "word": "car?",
+          "definition": "avto"
+        }
+      ],
+      "chips": [
+        "To",
+        "jest",
+        "avtobus",
+        "ili",
+        "avto",
+        "Kto",
+        "Čto",
+        "avta",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "To",
+          "jest",
+          "avtobus",
+          "ili",
+          "avto"
+        ]
+      ],
+      "formattedSolution": "To jest avtobus ili avto?",
+      "id": "98247771c743",
+      "priority": 2,
+      "group": "28f7e71cc14f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "it"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "avtobus",
+          "definition": "bus"
+        },
+        {
+          "word": "ili",
+          "definition": "or"
+        },
+        {
+          "word": "avto?",
+          "definition": "car"
+        }
+      ],
+      "chips": [
+        "Is",
+        "it",
+        "a",
+        "bus",
+        "or",
+        "a",
+        "car",
+        "I",
+        "am",
+        "is",
+        "A",
+        "It",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "it",
+          "a",
+          "bus",
+          "or",
+          "a",
+          "car"
+        ],
+        [
+          "Is",
+          "it",
+          "the",
+          "bus",
+          "or",
+          "the",
+          "car"
+        ]
+      ],
+      "formattedSolution": "Is it a bus or a car?",
+      "id": "bd5db194c653",
+      "priority": 2,
+      "group": "28f7e71cc14f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto jesmo?",
+      "meaningInSourceLanguage": "Who are we?",
+      "id": "824e8494560d",
+      "priority": 0,
+      "group": "20b310ed006a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "we?",
+          "definition": "we?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "jesmo",
+        "jesm",
+        "Čto"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "jesmo"
+        ]
+      ],
+      "formattedSolution": "Kto jesmo?",
+      "id": "bc9f4aa793bc",
+      "priority": 2,
+      "group": "20b310ed006a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "jesmo?",
+          "definition": "(We) are"
+        }
+      ],
+      "chips": [
+        "Who",
+        "are",
+        "we",
+        "We",
+        "The"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "are",
+          "we"
+        ]
+      ],
+      "formattedSolution": "Who are we?",
+      "id": "34618fb59cd3",
+      "priority": 2,
+      "group": "20b310ed006a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Čto jesmo?",
+      "meaningInSourceLanguage": "What are we?",
+      "id": "2d746ad0cd95",
+      "priority": 0,
+      "group": "7b04ca301ade"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "čto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "we?",
+          "definition": "we?"
+        }
+      ],
+      "chips": [
+        "Čto",
+        "jesmo",
+        "jesm",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "Čto",
+          "jesmo"
+        ]
+      ],
+      "formattedSolution": "Čto jesmo?",
+      "id": "addc7f56d9ec",
+      "priority": 2,
+      "group": "7b04ca301ade"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Čto",
+          "definition": "what"
+        },
+        {
+          "word": "jesmo?",
+          "definition": "(We) are"
+        }
+      ],
+      "chips": [
+        "What",
+        "are",
+        "we",
+        "We",
+        "am"
+      ],
+      "solutions": [
+        [
+          "What",
+          "are",
+          "we"
+        ]
+      ],
+      "formattedSolution": "What are we?",
+      "id": "13924e996b6b",
+      "priority": 2,
+      "group": "7b04ca301ade"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto jeste?",
+      "meaningInSourceLanguage": "Who are you(plural)?",
+      "id": "a5f7083e7d71",
+      "priority": 0,
+      "group": "0cfd37ee1214"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you(plural)?",
+          "definition": "you(plural)?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "jeste",
+        "jest",
+        "Čto"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "jeste"
+        ]
+      ],
+      "formattedSolution": "Kto jeste?",
+      "id": "0bd2c94594bf",
+      "priority": 2,
+      "group": "0cfd37ee1214"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "jeste?",
+          "definition": "You are (plural)"
+        }
+      ],
+      "chips": [
+        "Who",
+        "are",
+        "you(plural",
+        "Are",
+        "or"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "are",
+          "you(plural"
+        ],
+        [
+          "Who",
+          "are",
+          "you"
+        ],
+        [
+          "Who",
+          "are",
+          "you'll"
+        ],
+        [
+          "Who",
+          "are",
+          "y'all"
+        ]
+      ],
+      "formattedSolution": "Who are you(plural)?",
+      "id": "0beece7705ef",
+      "priority": 2,
+      "group": "0cfd37ee1214"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto sut?",
+      "meaningInSourceLanguage": "Who are they?",
+      "id": "5d4092224450",
+      "priority": 0,
+      "group": "9e6123caf2fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "they?",
+          "definition": "they?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "sut",
+        "Čto",
+        "Sut"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "sut"
+        ]
+      ],
+      "formattedSolution": "Kto sut?",
+      "id": "58299116c438",
+      "priority": 2,
+      "group": "9e6123caf2fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "sut?",
+          "definition": "They are (plural)"
+        }
+      ],
+      "chips": [
+        "Who",
+        "are",
+        "they",
+        "The",
+        "she"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "are",
+          "they"
+        ]
+      ],
+      "formattedSolution": "Who are they?",
+      "id": "06dc9afab6ed",
+      "priority": 2,
+      "group": "9e6123caf2fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Čto sut?",
+      "meaningInSourceLanguage": "What are they?",
+      "id": "9da7f3bcb5c1",
+      "priority": 0,
+      "group": "e991f3fdea50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "čto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "they?",
+          "definition": "they?"
+        }
+      ],
+      "chips": [
+        "Čto",
+        "sut",
+        "Kto",
+        "Sut"
+      ],
+      "solutions": [
+        [
+          "Čto",
+          "sut"
+        ]
+      ],
+      "formattedSolution": "Čto sut?",
+      "id": "dbe88132aa13",
+      "priority": 2,
+      "group": "e991f3fdea50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Čto",
+          "definition": "what"
+        },
+        {
+          "word": "sut?",
+          "definition": "They are (plural)"
+        }
+      ],
+      "chips": [
+        "What",
+        "are",
+        "they",
+        "They",
+        "The"
+      ],
+      "solutions": [
+        [
+          "What",
+          "are",
+          "they"
+        ]
+      ],
+      "formattedSolution": "What are they?",
+      "id": "34e1148a016a",
+      "priority": 2,
+      "group": "e991f3fdea50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sut avtobusy?",
+      "meaningInSourceLanguage": "Are they the buses?",
+      "id": "d2772bbe3fd5",
+      "priority": 0,
+      "group": "2fc7d57e1a51"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "they",
+          "definition": "they"
+        },
+        {
+          "word": "the",
+          "definition": "ta\nto\ntoj"
+        },
+        {
+          "word": "buses?",
+          "definition": "avtobusy"
+        }
+      ],
+      "chips": [
+        "Sut",
+        "avtobusy",
+        "avtobus",
+        "avto"
+      ],
+      "solutions": [
+        [
+          "Sut",
+          "avtobusy"
+        ]
+      ],
+      "formattedSolution": "Sut avtobusy?",
+      "id": "6aeeede22b00",
+      "priority": 2,
+      "group": "2fc7d57e1a51"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "avtobusy?",
+          "definition": "buses"
+        }
+      ],
+      "chips": [
+        "Are",
+        "they",
+        "the",
+        "buses",
+        "The",
+        "she",
+        "are"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "they",
+          "the",
+          "buses"
+        ]
+      ],
+      "formattedSolution": "Are they the buses?",
+      "id": "3ded786e2bc1",
+      "priority": 2,
+      "group": "2fc7d57e1a51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sut avtobusy ili avta?",
+      "meaningInSourceLanguage": "Are they buses or cars?",
+      "id": "9ed4ee0826b1",
+      "priority": 0,
+      "group": "a44b2be727bd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "they",
+          "definition": "they"
+        },
+        {
+          "word": "buses",
+          "definition": "avtobusy"
+        },
+        {
+          "word": "or",
+          "definition": "ili"
+        },
+        {
+          "word": "cars?",
+          "definition": "avta"
+        }
+      ],
+      "chips": [
+        "Sut",
+        "avtobusy",
+        "ili",
+        "avta",
+        "avto",
+        "sut",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "Sut",
+          "avtobusy",
+          "ili",
+          "avta"
+        ]
+      ],
+      "formattedSolution": "Sut avtobusy ili avta?",
+      "id": "6b884c348137",
+      "priority": 2,
+      "group": "a44b2be727bd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "avtobusy",
+          "definition": "buses"
+        },
+        {
+          "word": "ili",
+          "definition": "or"
+        },
+        {
+          "word": "avta?",
+          "definition": "cars"
+        }
+      ],
+      "chips": [
+        "Are",
+        "they",
+        "buses",
+        "or",
+        "cars",
+        "are",
+        "We",
+        "The",
+        "He"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "they",
+          "buses",
+          "or",
+          "cars"
+        ],
+        [
+          "Are",
+          "they",
+          "the",
+          "buses",
+          "or",
+          "the",
+          "cars"
+        ]
+      ],
+      "formattedSolution": "Are they buses or cars?",
+      "id": "1386dfacfc4a",
+      "priority": 2,
+      "group": "a44b2be727bd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Čto jeste?",
+      "meaningInSourceLanguage": "What are you(plural)?",
+      "id": "904acd2e55b2",
+      "priority": 0,
+      "group": "bf9ee8e07ab1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "čto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you(plural)?",
+          "definition": "you(plural)?"
+        }
+      ],
+      "chips": [
+        "Čto",
+        "jeste",
+        "jest",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "Čto",
+          "jeste"
+        ]
+      ],
+      "formattedSolution": "Čto jeste?",
+      "id": "78720e8f68bb",
+      "priority": 2,
+      "group": "bf9ee8e07ab1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Čto",
+          "definition": "what"
+        },
+        {
+          "word": "jeste?",
+          "definition": "You are (plural)"
+        }
+      ],
+      "chips": [
+        "What",
+        "are",
+        "you(plural",
+        "am",
+        "plural"
+      ],
+      "solutions": [
+        [
+          "What",
+          "are",
+          "you(plural"
+        ],
+        [
+          "What",
+          "are",
+          "you"
+        ],
+        [
+          "What",
+          "are",
+          "you'll"
+        ],
+        [
+          "What",
+          "are",
+          "y'all"
+        ]
+      ],
+      "formattedSolution": "What are you(plural)?",
+      "id": "1d20509adaeb",
+      "priority": 2,
+      "group": "bf9ee8e07ab1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jeste učitelji?",
+      "meaningInSourceLanguage": "Are you(plural) teachers?",
+      "id": "85ce9c9bfd9a",
+      "priority": 0,
+      "group": "e743b048c2eb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "you(plural)",
+          "definition": "you(plural)"
+        },
+        {
+          "word": "teachers?",
+          "definition": "teachers?"
+        }
+      ],
+      "chips": [
+        "Jeste",
+        "učitelji",
+        "učitelj",
+        "jeste"
+      ],
+      "solutions": [
+        [
+          "Jeste",
+          "učitelji"
+        ]
+      ],
+      "formattedSolution": "Jeste učitelji?",
+      "id": "0b85b3de693a",
+      "priority": 2,
+      "group": "e743b048c2eb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jeste",
+          "definition": "You are (plural)"
+        },
+        {
+          "word": "učitelji?",
+          "definition": "učitelji?"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you(plural",
+        "teachers",
+        "are",
+        "teacher"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you(plural",
+          "teachers"
+        ],
+        [
+          "Are",
+          "you",
+          "teachers"
+        ],
+        [
+          "Are",
+          "you'll",
+          "teachers"
+        ],
+        [
+          "Are",
+          "y'all",
+          "teachers"
+        ]
+      ],
+      "formattedSolution": "Are you(plural) teachers?",
+      "id": "9bb5465333df",
+      "priority": 2,
+      "group": "e743b048c2eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto sut ti učitelji?",
+      "meaningInSourceLanguage": "Who are the teachers?",
+      "id": "91c81b9ee8ff",
+      "priority": 0,
+      "group": "59e2c6afa5fe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "the",
+          "definition": "ta\nto\ntoj"
+        },
+        {
+          "word": "teachers?",
+          "definition": "teachers?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "sut",
+        "ti",
+        "učitelji",
+        "te",
+        "Čto",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "sut",
+          "ti",
+          "učitelji"
+        ]
+      ],
+      "formattedSolution": "Kto sut ti učitelji?",
+      "id": "1ff0294f15d4",
+      "priority": 2,
+      "group": "59e2c6afa5fe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "ti",
+          "definition": "ti"
+        },
+        {
+          "word": "učitelji?",
+          "definition": "učitelji?"
+        }
+      ],
+      "chips": [
+        "Who",
+        "are",
+        "the",
+        "teachers",
+        "The",
+        "she",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "are",
+          "the",
+          "teachers"
+        ]
+      ],
+      "formattedSolution": "Who are the teachers?",
+      "id": "abeeb95be2c0",
+      "priority": 2,
+      "group": "59e2c6afa5fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto sut te ženy?",
+      "meaningInSourceLanguage": "Who are the women?",
+      "id": "7934919faeb5",
+      "priority": 0,
+      "group": "1f20a316f40e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "the",
+          "definition": "ta\nto\ntoj"
+        },
+        {
+          "word": "women?",
+          "definition": "women?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "sut",
+        "te",
+        "ženy",
+        "je",
+        "Čto",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "sut",
+          "te",
+          "ženy"
+        ]
+      ],
+      "formattedSolution": "Kto sut te ženy?",
+      "id": "0889c8d7eeba",
+      "priority": 2,
+      "group": "1f20a316f40e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "te",
+          "definition": "te"
+        },
+        {
+          "word": "ženy?",
+          "definition": "women"
+        }
+      ],
+      "chips": [
+        "Who",
+        "are",
+        "the",
+        "women",
+        "The",
+        "she",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "are",
+          "the",
+          "women"
+        ]
+      ],
+      "formattedSolution": "Who are the women?",
+      "id": "ac761490cba0",
+      "priority": 2,
+      "group": "1f20a316f40e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto sut ti muži?",
+      "meaningInSourceLanguage": "Who are the men?",
+      "id": "d487b02ca462",
+      "priority": 0,
+      "group": "472a49b216c4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "the",
+          "definition": "ta\nto\ntoj"
+        },
+        {
+          "word": "men?",
+          "definition": "men?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "sut",
+        "ti",
+        "muži",
+        "muž",
+        "i",
+        "Čto"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "sut",
+          "ti",
+          "muži"
+        ]
+      ],
+      "formattedSolution": "Kto sut ti muži?",
+      "id": "2efad36bc0d5",
+      "priority": 2,
+      "group": "472a49b216c4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "ti",
+          "definition": "ti"
+        },
+        {
+          "word": "muži?",
+          "definition": "men"
+        }
+      ],
+      "chips": [
+        "Who",
+        "are",
+        "the",
+        "men",
+        "We",
+        "The",
+        "she"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "are",
+          "the",
+          "men"
+        ]
+      ],
+      "formattedSolution": "Who are the men?",
+      "id": "51c5fbc78075",
+      "priority": 2,
+      "group": "472a49b216c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kto sut oni?",
+      "meaningInSourceLanguage": "Who are they?",
+      "id": "1dce3f490f69",
+      "priority": 0,
+      "group": "c14bdcfe3ff9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Who",
+          "definition": "kto"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "they?",
+          "definition": "they?"
+        }
+      ],
+      "chips": [
+        "Kto",
+        "sut",
+        "oni",
+        "ono",
+        "Oni"
+      ],
+      "solutions": [
+        [
+          "Kto",
+          "sut",
+          "oni"
+        ]
+      ],
+      "formattedSolution": "Kto sut oni?",
+      "id": "d99da5245b3b",
+      "priority": 2,
+      "group": "c14bdcfe3ff9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kto",
+          "definition": "who"
+        },
+        {
+          "word": "sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "oni?",
+          "definition": "they"
+        }
+      ],
+      "chips": [
+        "Who",
+        "are",
+        "they",
+        "The",
+        "she"
+      ],
+      "solutions": [
+        [
+          "Who",
+          "are",
+          "they"
+        ]
+      ],
+      "formattedSolution": "Who are they?",
+      "id": "ea1bd94aadd4",
+      "priority": 2,
+      "group": "c14bdcfe3ff9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sut ženy ili muži?",
+      "meaningInSourceLanguage": "Are they women or men?",
+      "id": "c30a82fb3c67",
+      "priority": 0,
+      "group": "82ca560d4882"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "jesi"
+        },
+        {
+          "word": "they",
+          "definition": "they"
+        },
+        {
+          "word": "women",
+          "definition": "women"
+        },
+        {
+          "word": "or",
+          "definition": "ili"
+        },
+        {
+          "word": "men?",
+          "definition": "men?"
+        }
+      ],
+      "chips": [
+        "Sut",
+        "ženy",
+        "ili",
+        "muži",
+        "muž",
+        "Oni",
+        "sut"
+      ],
+      "solutions": [
+        [
+          "Sut",
+          "ženy",
+          "ili",
+          "muži"
+        ]
+      ],
+      "formattedSolution": "Sut ženy ili muži?",
+      "id": "5f3c15bef4b6",
+      "priority": 2,
+      "group": "82ca560d4882"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sut",
+          "definition": "They are (plural)"
+        },
+        {
+          "word": "ženy",
+          "definition": "women"
+        },
+        {
+          "word": "ili",
+          "definition": "or"
+        },
+        {
+          "word": "muži?",
+          "definition": "men"
+        }
+      ],
+      "chips": [
+        "Are",
+        "they",
+        "women",
+        "or",
+        "men",
+        "me",
+        "are",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "they",
+          "women",
+          "or",
+          "men"
+        ]
+      ],
+      "formattedSolution": "Are they women or men?",
+      "id": "0a85d513b4fa",
+      "priority": 2,
+      "group": "82ca560d4882"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "what1.jpg",
+        "what2.jpg",
+        "what3.jpg"
+      ],
+      "formInTargetLanguage": "čto",
+      "meaningInSourceLanguage": "what",
+      "id": "8d18247ef329",
+      "priority": 0,
+      "group": "b57ebfbf52dc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "what1.jpg",
+        "what2.jpg",
+        "what3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "čto"
+      ],
+      "phrase": [
+        {
+          "word": "what",
+          "definition": "čto"
+        }
+      ],
+      "id": "9b92351e367c",
+      "priority": 1,
+      "group": "b57ebfbf52dc"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "who1.jpg",
+        "who2.jpg",
+        "who3.jpg"
+      ],
+      "formInTargetLanguage": "kto",
+      "meaningInSourceLanguage": "who",
+      "id": "203e5d909b82",
+      "priority": 0,
+      "group": "332de00853a3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "who1.jpg",
+        "who2.jpg",
+        "who3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kto"
+      ],
+      "phrase": [
+        {
+          "word": "who",
+          "definition": "kto"
+        }
+      ],
+      "id": "ce4ce51820b5",
+      "priority": 1,
+      "group": "332de00853a3"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "bus1.jpg",
+        "bus2.jpg",
+        "bus3.jpg"
+      ],
+      "formInTargetLanguage": "avtobus",
+      "meaningInSourceLanguage": "bus",
+      "id": "2c02d736f72f",
+      "priority": 0,
+      "group": "01a346e05e00"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "bus1.jpg",
+        "bus2.jpg",
+        "bus3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "avtobus"
+      ],
+      "phrase": [
+        {
+          "word": "bus",
+          "definition": "avtobus"
+        }
+      ],
+      "id": "3265cd8456f9",
+      "priority": 1,
+      "group": "01a346e05e00"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "car1.jpg",
+        "car2.jpg",
+        "car3.jpg"
+      ],
+      "formInTargetLanguage": "avto",
+      "meaningInSourceLanguage": "car",
+      "id": "4f35d7311f66",
+      "priority": 0,
+      "group": "fa965c067355"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "car1.jpg",
+        "car2.jpg",
+        "car3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "avto"
+      ],
+      "phrase": [
+        {
+          "word": "car",
+          "definition": "avto"
+        }
+      ],
+      "id": "cda5012631d7",
+      "priority": 1,
+      "group": "fa965c067355"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "buses1.jpg",
+        "buses2.jpg",
+        "buses3.jpg"
+      ],
+      "formInTargetLanguage": "avtobusy",
+      "meaningInSourceLanguage": "buses",
+      "id": "00951c63f40f",
+      "priority": 0,
+      "group": "1033ade83983"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "buses1.jpg",
+        "buses2.jpg",
+        "buses3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "avtobusy"
+      ],
+      "phrase": [
+        {
+          "word": "buses",
+          "definition": "avtobusy"
+        }
+      ],
+      "id": "fd0da8d2d2cc",
+      "priority": 1,
+      "group": "1033ade83983"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cars1.jpg",
+        "cars2.jpg",
+        "cars3.jpg"
+      ],
+      "formInTargetLanguage": "avta",
+      "meaningInSourceLanguage": "cars",
+      "id": "4f1b0238a9d9",
+      "priority": 0,
+      "group": "bf17707a5d4b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cars1.jpg",
+        "cars2.jpg",
+        "cars3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "avta"
+      ],
+      "phrase": [
+        {
+          "word": "cars",
+          "definition": "avta"
+        }
+      ],
+      "id": "f27dc77aae36",
+      "priority": 1,
+      "group": "bf17707a5d4b"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "choice1.jpg",
+        "choice2.jpg",
+        "choice3.jpg"
+      ],
+      "formInTargetLanguage": "ili",
+      "meaningInSourceLanguage": "or",
+      "id": "dad50c2e4c7d",
+      "priority": 0,
+      "group": "936b45ad0f09"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "choice1.jpg",
+        "choice2.jpg",
+        "choice3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "ili"
+      ],
+      "phrase": [
+        {
+          "word": "or",
+          "definition": "ili"
+        }
+      ],
+      "id": "48e63e33497f",
+      "priority": 1,
+      "group": "936b45ad0f09"
+    }
+  ]
+}
