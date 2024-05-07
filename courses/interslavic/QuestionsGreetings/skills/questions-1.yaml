@@ -133,7 +133,8 @@ Phrases:
 
   - Phrase: Sut oni avtobusy?
     Translation: Are they the buses?
-    Alternative translations: Are they buses?
+    Alternative translations: 
+      - Are they buses?
 
   - Phrase: Sut oni avtobusy ili avta?
     Translation: Are they buses or cars?

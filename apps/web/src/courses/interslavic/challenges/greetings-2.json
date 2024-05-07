@@ -184,7 +184,7 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "dobre"
+          "definition": "dobro"
         },
         {
           "word": "night",
@@ -199,7 +199,7 @@
         "Dobra",
         "noč",
         "Vojtěh",
-        "Dobre",
+        "Dobro",
         "Dobry"
       ],
       "solutions": [
@@ -279,8 +279,8 @@
         "To",
         "jest",
         "ničto",
-        "je",
-        "Kto"
+        "to",
+        "je"
       ],
       "solutions": [
         [
@@ -461,8 +461,8 @@
         "viděnja",
         "ono",
         "je",
-        "ne",
-        "konj"
+        "to",
+        "ne"
       ],
       "solutions": [
         [
@@ -580,12 +580,12 @@
         "jest",
         "ničto",
         "ono",
+        "to",
         "je",
         "Do",
         "te",
         "noč",
-        "pes",
-        "Kto"
+        "pes"
       ],
       "solutions": [
         [
@@ -724,11 +724,11 @@
         "tomorrow2.jpg",
         "tomorrow3.jpg"
       ],
-      "formInTargetLanguage": "zautra",
+      "formInTargetLanguage": "zajutra",
       "meaningInSourceLanguage": "tomorrow",
-      "id": "ecb844b5ab7c",
+      "id": "3889ac0f688c",
       "priority": 0,
-      "group": "62150a9e4c78"
+      "group": "81e6a7801674"
     },
     {
       "type": "shortInput",
@@ -738,17 +738,17 @@
         "tomorrow3.jpg"
       ],
       "formInTargetLanguage": [
-        "zautra"
+        "zajutra"
       ],
       "phrase": [
         {
           "word": "tomorrow",
-          "definition": "zautra"
+          "definition": "zajutra"
         }
       ],
-      "id": "e3746a039dd9",
+      "id": "8d3e49930ac1",
       "priority": 1,
-      "group": "62150a9e4c78"
+      "group": "81e6a7801674"
     },
     {
       "type": "cards",
@@ -817,7 +817,7 @@
       "phrase": [
         {
           "word": "good",
-          "definition": "dobre"
+          "definition": "dobro"
         },
         {
           "word": "night",
