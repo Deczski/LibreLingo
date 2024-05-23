@@ -24,15 +24,15 @@
         },
         {
           "word": "horse",
-          "definition": "konj"
+          "definition": "konj\nzaldia"
         }
       ],
       "chips": [
         "To",
         "jest",
         "konj",
-        "je",
-        "ono"
+        "Toj",
+        "je"
       ],
       "solutions": [
         [
@@ -100,7 +100,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "a",
@@ -108,7 +108,7 @@
         },
         {
           "word": "dog",
-          "definition": "pes"
+          "definition": "pes\ntxakur"
         }
       ],
       "chips": [
@@ -191,7 +191,7 @@
         },
         {
           "word": "and",
-          "definition": "i"
+          "definition": "eta\ni"
         },
         {
           "word": "a",
@@ -199,7 +199,7 @@
         },
         {
           "word": "horse",
-          "definition": "konj"
+          "definition": "konj\nzaldia"
         }
       ],
       "chips": [
@@ -289,7 +289,7 @@
       "phrase": [
         {
           "word": "dog",
-          "definition": "pes"
+          "definition": "pes\ntxakur"
         }
       ],
       "id": "28bb2f36209f",
@@ -322,7 +322,7 @@
       "phrase": [
         {
           "word": "cat",
-          "definition": "kot"
+          "definition": "katu\nkot"
         }
       ],
       "id": "3aa84ab91499",
@@ -454,7 +454,7 @@
       "phrase": [
         {
           "word": "horse",
-          "definition": "konj"
+          "definition": "konj\nzaldia"
         }
       ],
       "id": "c2fd24900332",

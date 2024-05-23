@@ -20,7 +20,7 @@
         },
         {
           "word": "your",
-          "definition": "tvoj"
+          "definition": "tvoj\nzure"
         },
         {
           "word": "meal",
@@ -314,7 +314,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "couple",
@@ -333,8 +333,8 @@
         "Para",
         "pije",
         "pivo",
-        "pes",
-        "i"
+        "pero",
+        "pes"
       ],
       "solutions": [
         [
@@ -417,7 +417,7 @@
         "jedaje",
         "hlěb",
         "Hlěb",
-        "jesm"
+        "jej"
       ],
       "solutions": [
         [
@@ -453,7 +453,7 @@
         "eats",
         "bread",
         "Bread",
-        "are"
+        "fat"
       ],
       "solutions": [
         [
@@ -481,7 +481,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "Couple",
@@ -568,7 +568,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "couple",
@@ -587,8 +587,8 @@
         "Para",
         "pije",
         "pivo",
-        "pes",
-        "i"
+        "pero",
+        "pes"
       ],
       "solutions": [
         [

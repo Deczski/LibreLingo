@@ -226,6 +226,55 @@
           "levels": 3
         }
       ]
+    },
+    {
+      "title": "3. Family",
+      "skills": [
+        {
+          "summary": [
+            "praroditelji",
+            "dědok",
+            "babica",
+            "roditelji",
+            "otec",
+            "mati",
+            "syn",
+            "dočera",
+            "Naši praroditelji byli doktori",
+            "My jesmo njih praroditelji",
+            "Jego praroditelji sut stari i nizki",
+            "Naš dědok jest vysoky i hudy",
+            "Jih dědok jest šofer",
+            "Dědokov konj jest veliky i črny.",
+            "Jih babica jest nizka i tolsta",
+            "To jest krugla od tvojej babice",
+            "Naša babica je učiteljka",
+            "Oni sut naši roditelji",
+            "Avtomobil od naših roditeljev jest nebesky",
+            "Dom od jih roditeljev jest veliki i běly",
+            "On jest naš otec",
+            "Otec od našego otca je naš dědok",
+            "Naš otec i naša mati sut naši roditelji",
+            "Ona jest vaša mati",
+            "Jih mati jest turistična prvodnica",
+            "Mati od jej mati jest jej babica",
+            "Jego syn jest duhovnik",
+            "Toj hlapec jest moj syn",
+            "To jest olovka od mojego syna",
+            "Syn tvojego dědoka jest tvoj otec",
+            "Dočera tvojej babicy jest tvoja mati",
+            "Ta děvčina jest moja dočera",
+            "Moja dočera jest medsestra",
+            "Ta turistka jest moja dočera",
+            "Tvoje dočery sut studentki",
+            "To jest pero od mojej dočery"
+          ],
+          "practiceHref": "family-1",
+          "id": "6b628c9807e3",
+          "title": "Family 1",
+          "levels": 8
+        }
+      ]
     }
   ]
 }

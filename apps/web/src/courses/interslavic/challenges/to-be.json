@@ -16,7 +16,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -84,11 +84,11 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "(singular)",
@@ -162,7 +162,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         }
       ],
       "chips": [
@@ -226,15 +226,15 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "(plural)",
-          "definition": "(plural)"
+          "definition": "plurala"
         }
       ],
       "chips": [
@@ -300,11 +300,11 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "They"
+          "definition": "haiek"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "(masculine)",
@@ -374,11 +374,11 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "They"
+          "definition": "haiek"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "(feminine)",
@@ -506,11 +506,11 @@
       "phrase": [
         {
           "word": "(You)",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         }
       ],
       "id": "d27e0cef3f78",
@@ -535,7 +535,7 @@
       "phrase": [
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         }
       ],
       "id": "99088be71cc6",
@@ -564,7 +564,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         }
       ],
       "id": "7543042402d5",
@@ -589,15 +589,15 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "(plural)",
-          "definition": "(plural)"
+          "definition": "plurala"
         }
       ],
       "id": "aee78219d431",
@@ -622,15 +622,15 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "They"
+          "definition": "haiek"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "(plural)",
-          "definition": "(plural)"
+          "definition": "plurala"
         }
       ],
       "id": "9e890267bedb",

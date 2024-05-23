@@ -24,11 +24,11 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -121,8 +121,8 @@
         "Do",
         "viděnja",
         "Vojtěh",
-        "To",
-        "konj"
+        "Toj",
+        "moj"
       ],
       "solutions": [
         [
@@ -264,11 +264,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "It"
+          "definition": "hura"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "nothing.",
@@ -348,11 +348,11 @@
         },
         {
           "word": "It",
-          "definition": "It"
+          "definition": "hura"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "late.",
@@ -365,8 +365,8 @@
         "jest",
         "pozdno",
         "ono",
-        "konj",
-        "Vodu"
+        "Toj",
+        "konj"
       ],
       "solutions": [
         [
@@ -438,11 +438,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "It"
+          "definition": "hura"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "late.",
@@ -543,15 +543,15 @@
         },
         {
           "word": "it",
-          "definition": "it"
+          "definition": "hura"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "not",
-          "definition": "not"
+          "definition": "ez"
         },
         {
           "word": "late.",
@@ -559,11 +559,11 @@
         },
         {
           "word": "It",
-          "definition": "It"
+          "definition": "hura"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "nothing.",
@@ -585,7 +585,7 @@
         "Do",
         "te",
         "noč",
-        "pes"
+        "od"
       ],
       "solutions": [
         [
@@ -618,7 +618,7 @@
         },
         {
           "word": "ne",
-          "definition": "ne"
+          "definition": "not,no"
         },
         {
           "word": "jest",
@@ -650,13 +650,13 @@
         "It",
         "is",
         "nothing",
+        "fat",
         "Is",
         "am",
         "We",
         "a",
         "He",
-        "or",
-        "me"
+        "or"
       ],
       "solutions": [
         [
@@ -776,11 +776,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "It"
+          "definition": "hura"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "nothing.",

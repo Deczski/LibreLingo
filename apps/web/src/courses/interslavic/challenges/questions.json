@@ -20,15 +20,15 @@
         },
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -116,15 +116,15 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "čto"
+          "definition": "zer\nčto"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -196,19 +196,19 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "the",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "teacher?",
-          "definition": "teacher?"
+          "definition": "irakaslea"
         }
       ],
       "chips": [
@@ -289,11 +289,11 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "a",
@@ -301,7 +301,7 @@
         },
         {
           "word": "teacher",
-          "definition": "teacher"
+          "definition": "irakaslea"
         },
         {
           "word": "or",
@@ -420,15 +420,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "he?",
-          "definition": "on"
+          "definition": "hura\non"
         }
       ],
       "chips": [
@@ -500,15 +500,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "she?",
-          "definition": "she?"
+          "definition": "hura"
         }
       ],
       "chips": [
@@ -580,15 +580,15 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "čto"
+          "definition": "zer\nčto"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "it?",
-          "definition": "it?"
+          "definition": "hura"
         }
       ],
       "chips": [
@@ -660,11 +660,11 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "she",
-          "definition": "she"
+          "definition": "hura"
         },
         {
           "word": "a",
@@ -672,7 +672,7 @@
         },
         {
           "word": "girl?",
-          "definition": "děvčina"
+          "definition": "děvčina\nneska"
         }
       ],
       "chips": [
@@ -757,11 +757,11 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "he",
-          "definition": "on"
+          "definition": "hura\non"
         },
         {
           "word": "a",
@@ -769,7 +769,7 @@
         },
         {
           "word": "boy?",
-          "definition": "hlapec"
+          "definition": "hlapec\nmutil"
         }
       ],
       "chips": [
@@ -850,19 +850,19 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "it",
-          "definition": "it"
+          "definition": "hura"
         },
         {
           "word": "the",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "bus?",
-          "definition": "avtobus"
+          "definition": "autobusa\navtobus"
         }
       ],
       "chips": [
@@ -943,15 +943,15 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "it",
-          "definition": "it"
+          "definition": "hura"
         },
         {
           "word": "also",
-          "definition": "takože"
+          "definition": "ere\ntakože"
         },
         {
           "word": "a",
@@ -959,7 +959,7 @@
         },
         {
           "word": "car?",
-          "definition": "avto"
+          "definition": "avto\nkotxea"
         }
       ],
       "chips": [
@@ -1044,11 +1044,11 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "it",
-          "definition": "it"
+          "definition": "hura"
         },
         {
           "word": "a",
@@ -1056,7 +1056,7 @@
         },
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "autobusa\navtobus"
         },
         {
           "word": "or",
@@ -1068,7 +1068,7 @@
         },
         {
           "word": "car?",
-          "definition": "avto"
+          "definition": "avto\nkotxea"
         }
       ],
       "chips": [
@@ -1134,7 +1134,7 @@
         "is",
         "A",
         "It",
-        "We"
+        "of"
       ],
       "solutions": [
         [
@@ -1175,11 +1175,11 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "we?",
@@ -1255,11 +1255,11 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "čto"
+          "definition": "zer\nčto"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "we?",
@@ -1335,11 +1335,11 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you(plural)?",
@@ -1430,15 +1430,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "they?",
-          "definition": "they?"
+          "definition": "haiek"
         }
       ],
       "chips": [
@@ -1510,15 +1510,15 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "čto"
+          "definition": "zer\nčto"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "they?",
-          "definition": "they?"
+          "definition": "haiek"
         }
       ],
       "chips": [
@@ -1590,15 +1590,15 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "they",
-          "definition": "they"
+          "definition": "haiek"
         },
         {
           "word": "the",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "buses?",
@@ -1682,11 +1682,11 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "they",
-          "definition": "they"
+          "definition": "haiek"
         },
         {
           "word": "buses",
@@ -1698,7 +1698,7 @@
         },
         {
           "word": "cars?",
-          "definition": "avta"
+          "definition": "avta\nkotxeak"
         }
       ],
       "chips": [
@@ -1799,11 +1799,11 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "čto"
+          "definition": "zer\nčto"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you(plural)?",
@@ -1894,7 +1894,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you(plural)",
@@ -1989,15 +1989,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "the",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "teachers?",
@@ -2083,15 +2083,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "the",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "women?",
@@ -2134,7 +2134,7 @@
         },
         {
           "word": "te",
-          "definition": "te"
+          "definition": "These, plural of hau"
         },
         {
           "word": "ženy?",
@@ -2177,15 +2177,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "the",
-          "definition": "ta\nto\ntoj"
+          "definition": "-a\nta\nto\ntoj"
         },
         {
           "word": "men?",
@@ -2271,15 +2271,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "they?",
-          "definition": "they?"
+          "definition": "haiek"
         }
       ],
       "chips": [
@@ -2351,11 +2351,11 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "they",
-          "definition": "they"
+          "definition": "haiek"
         },
         {
           "word": "women",
@@ -2471,7 +2471,7 @@
       "phrase": [
         {
           "word": "what",
-          "definition": "čto"
+          "definition": "zer\nčto"
         }
       ],
       "id": "9b92351e367c",
@@ -2504,7 +2504,7 @@
       "phrase": [
         {
           "word": "who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         }
       ],
       "id": "ce4ce51820b5",
@@ -2537,7 +2537,7 @@
       "phrase": [
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "autobusa\navtobus"
         }
       ],
       "id": "3265cd8456f9",
@@ -2570,7 +2570,7 @@
       "phrase": [
         {
           "word": "car",
-          "definition": "avto"
+          "definition": "avto\nkotxea"
         }
       ],
       "id": "cda5012631d7",
@@ -2636,7 +2636,7 @@
       "phrase": [
         {
           "word": "cars",
-          "definition": "avta"
+          "definition": "avta\nkotxeak"
         }
       ],
       "id": "f27dc77aae36",

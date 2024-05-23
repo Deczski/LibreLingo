@@ -24,15 +24,15 @@
         },
         {
           "word": "Who",
-          "definition": "kto"
+          "definition": "kto\nnor"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -133,7 +133,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "Vojtěh",
@@ -141,7 +141,7 @@
         },
         {
           "word": "and",
-          "definition": "i"
+          "definition": "eta\ni"
         },
         {
           "word": "Katarina.",
@@ -249,11 +249,11 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -265,7 +265,7 @@
         "Kto",
         "Čto",
         "Do",
-        "To"
+        "pero"
       ],
       "solutions": [
         [
@@ -315,7 +315,7 @@
         "or",
         "You",
         "dog",
-        "boy"
+        "son"
       ],
       "solutions": [
         [
@@ -345,7 +345,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -361,7 +361,7 @@
         },
         {
           "word": "you.",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -453,11 +453,11 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "they",
-          "definition": "they"
+          "definition": "haiek"
         },
         {
           "word": "Vojtěh",
@@ -465,7 +465,7 @@
         },
         {
           "word": "and",
-          "definition": "i"
+          "definition": "eta\ni"
         },
         {
           "word": "Katarina?",
@@ -594,7 +594,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "Vojtěh",
@@ -602,7 +602,7 @@
         },
         {
           "word": "and",
-          "definition": "i"
+          "definition": "eta\ni"
         },
         {
           "word": "Katarina.",
@@ -716,11 +716,11 @@
         },
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "Vojtěh?",
@@ -733,10 +733,10 @@
         "Jesi",
         "Ty",
         "Vojtěh",
+        "Toj",
         "jesi",
         "Vy",
-        "To",
-        "je"
+        "To"
       ],
       "solutions": [
         [
@@ -828,11 +828,11 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -894,7 +894,7 @@
         "You",
         "or",
         "not",
-        "dog"
+        "son"
       ],
       "solutions": [
         [
@@ -936,11 +936,11 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you.",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -952,7 +952,7 @@
         "To",
         "je",
         "Do",
-        "Ja"
+        "od"
       ],
       "solutions": [
         [
@@ -1032,7 +1032,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -1044,11 +1044,11 @@
         },
         {
           "word": "And",
-          "definition": "i"
+          "definition": "eta\ni"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -1059,8 +1059,8 @@
         "Ty",
         "To",
         "je",
-        "My",
-        "Vy"
+        "Ta",
+        "My"
       ],
       "solutions": [
         [
@@ -1147,7 +1147,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -1155,7 +1155,7 @@
         },
         {
           "word": "also",
-          "definition": "takože"
+          "definition": "ere\ntakože"
         },
         {
           "word": "fine.",
@@ -1167,7 +1167,7 @@
         },
         {
           "word": "you.",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "chips": [
@@ -1270,11 +1270,11 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "he",
-          "definition": "on"
+          "definition": "hura\non"
         },
         {
           "word": "Vojtěh?",
@@ -1354,11 +1354,11 @@
         },
         {
           "word": "She",
-          "definition": "She"
+          "definition": "hura"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "Katarina.",
@@ -1418,9 +1418,9 @@
         "She",
         "is",
         "Katarina",
+        "His",
         "are",
-        "We",
-        "He"
+        "We"
       ],
       "solutions": [
         [
@@ -1572,7 +1572,7 @@
         },
         {
           "word": "you",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "id": "bd6d964b45d6",
@@ -1638,7 +1638,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -1712,11 +1712,11 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "you?",
-          "definition": "ty"
+          "definition": "ty\nzu"
         }
       ],
       "id": "fb4901c2c272",

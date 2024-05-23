@@ -16,7 +16,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -74,7 +74,7 @@
         "man",
         "A",
         "me",
-        "We"
+        "my"
       ],
       "solutions": [
         [
@@ -107,7 +107,7 @@
         },
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -197,7 +197,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -209,7 +209,7 @@
         },
         {
           "word": "girl.",
-          "definition": "děvčina"
+          "definition": "děvčina\nneska"
         }
       ],
       "chips": [
@@ -288,7 +288,7 @@
         },
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -300,7 +300,7 @@
         },
         {
           "word": "boy.",
-          "definition": "hlapec"
+          "definition": "hlapec\nmutil"
         }
       ],
       "chips": [
@@ -385,11 +385,11 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "a",
@@ -397,7 +397,7 @@
         },
         {
           "word": "girl.",
-          "definition": "děvčina"
+          "definition": "děvčina\nneska"
         }
       ],
       "chips": [
@@ -472,11 +472,11 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "a",
@@ -559,11 +559,11 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         },
         {
           "word": "a",
@@ -646,11 +646,11 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "hura\non"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "Vojtěh.",
@@ -735,7 +735,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "a",
@@ -743,7 +743,7 @@
         },
         {
           "word": "boy.",
-          "definition": "hlapec"
+          "definition": "hlapec\nmutil"
         }
       ],
       "chips": [
@@ -827,7 +827,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         },
         {
           "word": "a",
@@ -993,7 +993,7 @@
       "phrase": [
         {
           "word": "boy",
-          "definition": "hlapec"
+          "definition": "hlapec\nmutil"
         }
       ],
       "id": "358868ceeaf2",
@@ -1026,7 +1026,7 @@
       "phrase": [
         {
           "word": "girl",
-          "definition": "děvčina"
+          "definition": "děvčina\nneska"
         }
       ],
       "id": "b28bd91b43c8",
@@ -1060,7 +1060,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja"
+          "definition": "Ja\nni"
         },
         {
           "word": "am",
@@ -1098,11 +1098,11 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "ty"
+          "definition": "ty\nzu"
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "dira\njesi\nzara"
         }
       ],
       "id": "66f2267934f6",
@@ -1136,11 +1136,11 @@
       "phrase": [
         {
           "word": "he",
-          "definition": "on"
+          "definition": "hura\non"
         },
         {
           "word": "is",
-          "definition": "Jest\njest"
+          "definition": "Jest\nda\njest"
         }
       ],
       "id": "8e4d743ac526",
