@@ -490,6 +490,31 @@
           "Vojtěh",
           "i",
           "Katarina"
+        ],
+        [
+          "Oni",
+          "sut",
+          "Vojtěh",
+          "i",
+          "Katarina",
+          ""
+        ],
+        [
+          "Sut",
+          "li",
+          "oni",
+          "Vojtěh",
+          "i",
+          "Katarina"
+        ],
+        [
+          "Či",
+          "oni",
+          "sut",
+          "Vojtěh",
+          "i",
+          "Katarina",
+          ""
         ]
       ],
       "formattedSolution": "Sut Oni Vojtěh i Katarina?",
@@ -1418,10 +1443,10 @@
         "afternoon3.jpg"
       ],
       "formInTargetLanguage": "Dobry denj",
-      "meaningInSourceLanguage": "Good afternoon",
-      "id": "82d1aedd99ce",
+      "meaningInSourceLanguage": "Good day",
+      "id": "3ecac45bf6d6",
       "priority": 0,
-      "group": "24afba49665e"
+      "group": "63d6b98f54c2"
     },
     {
       "type": "shortInput",
@@ -1439,13 +1464,13 @@
           "definition": "dobro"
         },
         {
-          "word": "afternoon",
-          "definition": "afternoon"
+          "word": "day",
+          "definition": "day"
         }
       ],
-      "id": "1e6121cadc11",
+      "id": "31db2dfb6c30",
       "priority": 1,
-      "group": "24afba49665e"
+      "group": "63d6b98f54c2"
     },
     {
       "type": "cards",
@@ -1487,11 +1512,11 @@
         "morning2.jpg",
         "morning3.jpg"
       ],
-      "formInTargetLanguage": "Dobre utro",
+      "formInTargetLanguage": "Dobro jutro",
       "meaningInSourceLanguage": "Good morning",
-      "id": "a9bdb33c7630",
+      "id": "9cb9e5f64287",
       "priority": 0,
-      "group": "6e1160a7b003"
+      "group": "74a35ad61c2a"
     },
     {
       "type": "shortInput",
@@ -1501,7 +1526,7 @@
         "morning3.jpg"
       ],
       "formInTargetLanguage": [
-        "Dobre utro"
+        "Dobro jutro"
       ],
       "phrase": [
         {
@@ -1513,9 +1538,9 @@
           "definition": "morning"
         }
       ],
-      "id": "16e2a9759f20",
+      "id": "7acd1d6fa682",
       "priority": 1,
-      "group": "6e1160a7b003"
+      "group": "74a35ad61c2a"
     },
     {
       "type": "cards",

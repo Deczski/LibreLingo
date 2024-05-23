@@ -5,7 +5,7 @@ Skill:
 
 New words:
   - Word: Dobry denj
-    Translation: Good afternoon
+    Translation: Good day
     Images:
       - afternoon1
       - afternoon2
@@ -20,7 +20,7 @@ New words:
       - sorry2
       - sorry3
 
-  - Word: Dobre utro
+  - Word: Dobro jutro
     Translation: Good morning
     Images:
       - morning1
@@ -85,6 +85,11 @@ Phrases:
       - I am good. Thank you.
 
   - Phrase: Sut Oni Vojtěh i Katarina?
+    Alternative versions:
+      - Oni sut Vojtěh i Katarina ?
+      - Sut li oni Vojtěh i Katarina?
+      - Či oni sut Vojtěh i Katarina ?
+      
     Translation: Are they Vojtěh and Katarina?
 
   - Phrase: Da. My Jesmo Vojtěh i Katarina.
