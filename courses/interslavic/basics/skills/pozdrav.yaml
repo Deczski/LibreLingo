@@ -72,14 +72,6 @@ New words:
       - he3
       - he2
 
-#  - Word: bat
-#    Translation: one
-#    Also accepted:
-#      - a
-#    Images:
-#      - one1
-#      - one2
-#      - one3
 
   - Word: pozdrav
     Translation: hello
@@ -91,52 +83,59 @@ New words:
       - hello3
 
 Phrases:
+
+  - Phrase: Ja jesm
+    Translation: I am
+
+  - Phrase: Ty jesi
+    Translation: You are (singular)
+
+  - Phrase: My jesmo
+    Translation: We are
+
+  - Phrase: Vy jeste
+    Translation: You are (plural)
+
+  - Phrase: On jest
+    Translation: He is 
+
+  - Phrase: Ona jest
+    Translation: She is
+
+  - Phrase: Ono jest
+    Translation: It is   
+
+  - Phrase: Oni sut
+    Translation: They are (masculine)
+
+  - Phrase: One sut
+    Translation: They are (feminine)    
+
+
   - Phrase: Ja jesm muž
-#    Alternative versions:
-#     - Gizon bat naiz.
     Translation: I am a man.
-#    Alternative translations:
-#      - I am one man.
+
 
   - Phrase: Pozdrav, Ja jesm Katarina
-#    Alternative versions:
-#     - Kaixo. Terese naiz.
     Translation: Hello I am Katarina
 
   - Phrase: Ja jesm děvčina
-#    Alternative versions:
-#     - Neska bat naiz.
     Translation: I am a girl.
-#    Alternative translations:
-#      - I am one girl.
+
 
   - Phrase: Pozdrav, Ja jesm hlapec
-#    Alternative versions:
-#     - Kaixo, Mutil bat naiz.
     Translation: Hello, I am a boy.
-#    Alternative translations:
-#      - Hello, I am one boy.
+
 
   - Phrase: Ty jesi děvčina
-#    Alternative versions:
-#     - Neska bat zara.
     Translation: You are a girl.
-#    Alternative translations:
-#      - You are one girl.
+
 
   - Phrase: Ty Jesi žena
-#    Alternative versions:
-#     - Emakume bat zara
     Translation: You are a woman.
-#    Alternative translations:
-#      - You are one woman.
 
   - Phrase: Ty jesi muž
-#    Alternative versions:
-#     - Gizon bat zara.
     Translation: You are a man.
-#    Alternative translations:
-#      - You are one man.
 
   - Phrase: On jest Vojtěh
     Alternative versions:
@@ -178,6 +177,16 @@ Mini-dictionary:
     - jedin: one
     - pozdrav: hello
     - člověk: human
+    
+    - Byti: to be
+    - Ja Jesm: I am
+    - Ty Jesi: You are (singular)
+    - On Jest: He is
+    - Ona Jest: She is
+    - Ono Jest: It is
+    - My Jesmo: We are
+    - Oni Sut: They are (masculine)
+    - One Sut: They are (feminine)
 
   English:
     - Vojtěh: Vojtěh (male name)
