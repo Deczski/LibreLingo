@@ -27,7 +27,7 @@
         "Ja",
         "jesm",
         "je",
-        "jest"
+        "jesi"
       ],
       "solutions": [
         [
@@ -99,7 +99,7 @@
         "Ty",
         "jesi",
         "je",
-        "To"
+        "jesm"
       ],
       "solutions": [
         [
@@ -311,7 +311,7 @@
         "On",
         "jest",
         "je",
-        "pes"
+        "jesm"
       ],
       "solutions": [
         [
@@ -378,8 +378,8 @@
       "chips": [
         "Ona",
         "jest",
-        "pes",
-        "jesm"
+        "jesm",
+        "jesi"
       ],
       "solutions": [
         [
@@ -408,8 +408,8 @@
       "chips": [
         "She",
         "is",
-        "The",
-        "We"
+        "We",
+        "He"
       ],
       "solutions": [
         [
@@ -446,8 +446,8 @@
       "chips": [
         "Ono",
         "jest",
-        "pes",
-        "jesm"
+        "jesm",
+        "jesi"
       ],
       "solutions": [
         [
@@ -549,8 +549,8 @@
         "They",
         "are",
         "masculine",
-        "The",
-        "She"
+        "She",
+        "Are"
       ],
       "solutions": [
         [
@@ -623,8 +623,8 @@
         "They",
         "are",
         "feminine",
-        "The",
-        "She"
+        "She",
+        "Are"
       ],
       "solutions": [
         [
@@ -660,7 +660,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "man.",
@@ -672,7 +672,7 @@
         "jesm",
         "muž",
         "je",
-        "pes"
+        "te"
       ],
       "solutions": [
         [
@@ -708,9 +708,9 @@
         "am",
         "a",
         "man",
-        "A",
         "It",
-        "me"
+        "me",
+        "my"
       ],
       "solutions": [
         [
@@ -751,7 +751,7 @@
         },
         {
           "word": "Katarina",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -759,9 +759,9 @@
         "Ja",
         "jesm",
         "Katarina",
-        "Para",
         "Ona",
-        "žena"
+        "žena",
+        "Da"
       ],
       "solutions": [
         [
@@ -794,7 +794,7 @@
         },
         {
           "word": "Katarina",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -841,7 +841,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "girl.",
@@ -889,9 +889,9 @@
         "am",
         "a",
         "girl",
-        "A",
         "is",
-        "It"
+        "It",
+        "Hi"
       ],
       "solutions": [
         [
@@ -932,7 +932,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "boy.",
@@ -944,9 +944,9 @@
         "Ja",
         "jesm",
         "hlapec",
-        "pes",
-        "Para",
-        "je"
+        "je",
+        "Da",
+        "Ta"
       ],
       "solutions": [
         [
@@ -988,10 +988,10 @@
         "am",
         "a",
         "boy",
-        "A",
         "He",
         "We",
-        "It"
+        "It",
+        "Hi"
       ],
       "solutions": [
         [
@@ -1029,7 +1029,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "girl.",
@@ -1040,8 +1040,8 @@
         "Ty",
         "jesi",
         "děvčina",
-        "i",
-        "Jesi"
+        "Jesi",
+        "je"
       ],
       "solutions": [
         [
@@ -1116,7 +1116,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "woman.",
@@ -1128,7 +1128,7 @@
         "Jesi",
         "žena",
         "ženy",
-        "pes"
+        "Ja"
       ],
       "solutions": [
         [
@@ -1203,7 +1203,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "man.",
@@ -1215,7 +1215,7 @@
         "jesi",
         "muž",
         "je",
-        "To"
+        "My"
       ],
       "solutions": [
         [
@@ -1252,8 +1252,8 @@
         "a",
         "man",
         "am",
-        "and",
-        "or"
+        "or",
+        "car"
       ],
       "solutions": [
         [
@@ -1290,7 +1290,7 @@
         },
         {
           "word": "Vojtěh.",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         }
       ],
       "chips": [
@@ -1331,7 +1331,7 @@
         },
         {
           "word": "Vojtěh",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         }
       ],
       "chips": [
@@ -1375,7 +1375,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "boy.",
@@ -1386,8 +1386,8 @@
         "Jaroslav",
         "jest",
         "hlapec",
-        "pes",
-        "jeste"
+        "jeste",
+        "Jest"
       ],
       "solutions": [
         [
@@ -1467,7 +1467,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "woman.",

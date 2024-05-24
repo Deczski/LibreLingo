@@ -40,9 +40,9 @@
         "Kto",
         "Ty",
         "jesi",
-        "To",
+        "to",
         "ti",
-        "i"
+        "je"
       ],
       "solutions": [
         [
@@ -91,9 +91,9 @@
         "are",
         "you",
         "We",
-        "The",
         "He",
-        "She"
+        "She",
+        "Are"
       ],
       "solutions": [
         [
@@ -137,7 +137,7 @@
         },
         {
           "word": "Vojtěh",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "and",
@@ -145,7 +145,7 @@
         },
         {
           "word": "Katarina.",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -155,8 +155,8 @@
         "i",
         "Katarina",
         "ti",
+        "to",
         "te",
-        "To",
         "Ja"
       ],
       "solutions": [
@@ -187,7 +187,7 @@
         },
         {
           "word": "Vojtěh",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "i",
@@ -195,7 +195,7 @@
         },
         {
           "word": "Katarina.",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -204,10 +204,10 @@
         "Vojtěh",
         "and",
         "Katarina",
-        "a",
         "am",
+        "a",
         "Are",
-        "or"
+        "the"
       ],
       "solutions": [
         [
@@ -263,9 +263,9 @@
         "ty",
         "jesi",
         "Kto",
+        "to",
         "Čto",
-        "Do",
-        "pero"
+        "Do"
       ],
       "solutions": [
         [
@@ -313,9 +313,9 @@
         "are",
         "you",
         "or",
-        "dog",
         "You",
-        "son"
+        "son",
+        "boy"
       ],
       "solutions": [
         [
@@ -369,9 +369,9 @@
         "jesm",
         "dobro",
         "Hvala",
-        "Para",
         "je",
-        "Da"
+        "Da",
+        "vaša"
       ],
       "solutions": [
         [
@@ -414,9 +414,9 @@
         "Thank",
         "you",
         "a",
-        "and",
         "man",
-        "is"
+        "and",
+        "are"
       ],
       "solutions": [
         [
@@ -461,7 +461,7 @@
         },
         {
           "word": "Vojtěh",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "and",
@@ -469,7 +469,7 @@
         },
         {
           "word": "Katarina?",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -536,7 +536,7 @@
         },
         {
           "word": "Vojtěh",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "i",
@@ -544,7 +544,7 @@
         },
         {
           "word": "Katarina?",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -554,8 +554,8 @@
         "and",
         "Katarina",
         "are",
+        "the",
         "And",
-        "The",
         "She"
       ],
       "solutions": [
@@ -598,7 +598,7 @@
         },
         {
           "word": "Vojtěh",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "and",
@@ -606,7 +606,7 @@
         },
         {
           "word": "Katarina.",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -618,9 +618,9 @@
         "Katarina",
         "ti",
         "Ja",
+        "to",
         "te",
-        "Do",
-        "To"
+        "Do"
       ],
       "solutions": [
         [
@@ -655,7 +655,7 @@
         },
         {
           "word": "Vojtěh",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "i",
@@ -663,7 +663,7 @@
         },
         {
           "word": "Katarina.",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -673,11 +673,11 @@
         "Vojtěh",
         "and",
         "Katarina",
-        "a",
         "am",
         "He",
+        "a",
         "Are",
-        "or"
+        "the"
       ],
       "solutions": [
         [
@@ -724,7 +724,7 @@
         },
         {
           "word": "Vojtěh?",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         }
       ],
       "chips": [
@@ -734,9 +734,9 @@
         "Ty",
         "Vojtěh",
         "Toj",
-        "To",
         "jesi",
-        "Vy"
+        "Vy",
+        "je"
       ],
       "solutions": [
         [
@@ -774,7 +774,7 @@
         },
         {
           "word": "Vojtěh?",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         }
       ],
       "chips": [
@@ -841,10 +841,10 @@
         "Kako",
         "Ty",
         "jesi",
-        "To",
         "je",
         "ženy",
-        "Do"
+        "Do",
+        "jej"
       ],
       "solutions": [
         [
@@ -928,7 +928,7 @@
         },
         {
           "word": "Vojtěh.",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "How",
@@ -949,8 +949,8 @@
         "Kako",
         "Ty",
         "jesi",
-        "To",
         "je",
+        "to",
         "Do",
         "od"
       ],
@@ -978,7 +978,7 @@
         },
         {
           "word": "Vojtěh.",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         },
         {
           "word": "Kako",
@@ -1057,10 +1057,10 @@
         "dobro",
         "A",
         "Ty",
-        "To",
         "je",
         "Ta",
-        "i"
+        "My",
+        "Vy"
       ],
       "solutions": [
         [
@@ -1109,8 +1109,8 @@
         "you",
         "a",
         "and",
-        "is",
-        "We"
+        "We",
+        "He"
       ],
       "solutions": [
         [
@@ -1177,8 +1177,8 @@
         "dobro",
         "Hvala",
         "Kako",
-        "Para",
         "je",
+        "to",
         "te"
       ],
       "solutions": [
@@ -1229,8 +1229,8 @@
         "you",
         "a",
         "and",
-        "is",
         "are",
+        "is",
         "man"
       ],
       "solutions": [
@@ -1278,7 +1278,7 @@
         },
         {
           "word": "Vojtěh?",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         }
       ],
       "chips": [
@@ -1314,7 +1314,7 @@
         },
         {
           "word": "Vojtěh?",
-          "definition": "Vojtěh (male name)\nVojtěh (name)"
+          "definition": "Vojtěh (male name)"
         }
       ],
       "chips": [
@@ -1322,7 +1322,7 @@
         "he",
         "Vojtěh",
         "It",
-        "is"
+        "I"
       ],
       "solutions": [
         [
@@ -1362,7 +1362,7 @@
         },
         {
           "word": "Katarina.",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
@@ -1410,7 +1410,7 @@
         },
         {
           "word": "Katarina.",
-          "definition": "Katarina (female name)\nKatarina (name)"
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [

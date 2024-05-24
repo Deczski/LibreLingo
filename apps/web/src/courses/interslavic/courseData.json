@@ -26,53 +26,6 @@
       "skills": [
         {
           "imageSet": [
-            "dog1",
-            "lion3",
-            "cat3"
-          ],
-          "summary": [
-            "pes",
-            "kot",
-            "medvěd",
-            "lev",
-            "katka",
-            "konj",
-            "To jest konj",
-            "Max jest pes",
-            "Katka i konj"
-          ],
-          "practiceHref": "animals",
-          "id": "38c2ea1c36d2",
-          "title": "Animals",
-          "levels": 2
-        },
-        {
-          "imageSet": [
-            "bread1",
-            "milk2",
-            "pasta3"
-          ],
-          "summary": [
-            "Hlěb",
-            "Mlěko",
-            "Para",
-            "Vkusnogo jedanja!",
-            "Prosim",
-            "Hlěb, prosim",
-            "Vodu, prosim",
-            "Katarina pije vodu",
-            "Para pije pivo",
-            "Vojtěh jedaje hlěb",
-            "Para jedaje hlěb",
-            "Para pije pivo"
-          ],
-          "practiceHref": "food",
-          "id": "569673478a3d",
-          "title": "Food",
-          "levels": 3
-        },
-        {
-          "imageSet": [
             "man1",
             "woman1",
             "hello1"

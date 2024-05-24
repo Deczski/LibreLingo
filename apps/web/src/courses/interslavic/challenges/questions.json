@@ -36,7 +36,7 @@
         "Kto",
         "Ty",
         "jesi",
-        "To",
+        "to",
         "je",
         "ti"
       ],
@@ -81,7 +81,7 @@
         "you",
         "We",
         "He",
-        "The"
+        "You"
       ],
       "solutions": [
         [
@@ -131,8 +131,8 @@
         "Čto",
         "Ty",
         "jesi",
-        "To",
-        "je"
+        "je",
+        "to"
       ],
       "solutions": [
         [
@@ -167,8 +167,8 @@
         "What",
         "are",
         "you",
-        "a",
-        "The"
+        "am",
+        "You"
       ],
       "solutions": [
         [
@@ -204,7 +204,7 @@
         },
         {
           "word": "the",
-          "definition": "-a\nta\nto\ntoj"
+          "definition": "-a"
         },
         {
           "word": "teacher?",
@@ -216,7 +216,7 @@
         "Ty",
         "učitelj",
         "te",
-        "pes"
+        "jesi"
       ],
       "solutions": [
         [
@@ -252,9 +252,9 @@
         "you",
         "the",
         "teacher",
-        "The",
         "are",
-        "She"
+        "She",
+        "The"
       ],
       "solutions": [
         [
@@ -297,7 +297,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "teacher",
@@ -309,7 +309,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "student?",
@@ -325,7 +325,7 @@
         "te",
         "ti",
         "li",
-        "pes"
+        "jesi"
       ],
       "solutions": [
         [
@@ -375,10 +375,10 @@
         "a",
         "student",
         "are",
-        "A",
         "am",
         "We",
         "He",
+        "the",
         "me"
       ],
       "solutions": [
@@ -436,7 +436,7 @@
         "jest",
         "on",
         "je",
-        "te"
+        "to"
       ],
       "solutions": [
         [
@@ -472,7 +472,7 @@
         "is",
         "he",
         "We",
-        "The"
+        "He"
       ],
       "solutions": [
         [
@@ -515,8 +515,8 @@
         "Kto",
         "jest",
         "ona",
-        "pes",
-        "Ona"
+        "Ona",
+        "Ono"
       ],
       "solutions": [
         [
@@ -551,8 +551,8 @@
         "Who",
         "is",
         "she",
-        "The",
-        "We"
+        "We",
+        "She"
       ],
       "solutions": [
         [
@@ -632,7 +632,7 @@
         "is",
         "it",
         "It",
-        "a"
+        "am"
       ],
       "solutions": [
         [
@@ -668,7 +668,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "girl?",
@@ -720,9 +720,9 @@
         "she",
         "a",
         "girl",
-        "is",
         "I",
-        "A"
+        "is",
+        "am"
       ],
       "solutions": [
         [
@@ -765,7 +765,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "boy?",
@@ -776,8 +776,8 @@
         "Jest",
         "on",
         "hlapec",
-        "pes",
-        "Ja"
+        "Ja",
+        "je"
       ],
       "solutions": [
         [
@@ -814,8 +814,8 @@
         "a",
         "boy",
         "I",
-        "is",
-        "A"
+        "am",
+        "We"
       ],
       "solutions": [
         [
@@ -858,7 +858,7 @@
         },
         {
           "word": "the",
-          "definition": "-a\nta\nto\ntoj"
+          "definition": "-a"
         },
         {
           "word": "bus?",
@@ -894,7 +894,7 @@
         },
         {
           "word": "to",
-          "definition": "it"
+          "definition": "to"
         },
         {
           "word": "avtobus?",
@@ -955,7 +955,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "car?",
@@ -994,7 +994,7 @@
         },
         {
           "word": "to",
-          "definition": "it"
+          "definition": "to"
         },
         {
           "word": "takože",
@@ -1011,8 +1011,8 @@
         "also",
         "a",
         "car",
-        "is",
         "am",
+        "is",
         "I",
         "It"
       ],
@@ -1052,7 +1052,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "bus",
@@ -1064,7 +1064,7 @@
         },
         {
           "word": "a",
-          "definition": "-\n-a"
+          "definition": "-a"
         },
         {
           "word": "car?",
@@ -1106,7 +1106,7 @@
         },
         {
           "word": "to",
-          "definition": "it"
+          "definition": "to"
         },
         {
           "word": "avtobus",
@@ -1129,12 +1129,12 @@
         "or",
         "a",
         "car",
-        "is",
         "I",
         "am",
-        "A",
+        "is",
         "It",
-        "of"
+        "of",
+        "We"
       ],
       "solutions": [
         [
@@ -1190,7 +1190,7 @@
         "Kto",
         "My",
         "jesmo",
-        "To",
+        "to",
         "je"
       ],
       "solutions": [
@@ -1227,7 +1227,7 @@
         "are",
         "we",
         "We",
-        "The"
+        "He"
       ],
       "solutions": [
         [
@@ -1270,7 +1270,7 @@
         "Čto",
         "My",
         "jesmo",
-        "To",
+        "to",
         "je"
       ],
       "solutions": [
@@ -1307,7 +1307,7 @@
         "are",
         "we",
         "We",
-        "a"
+        "am"
       ],
       "solutions": [
         [
@@ -1350,8 +1350,8 @@
         "Kto",
         "Vy",
         "jeste",
-        "te",
-        "je"
+        "to",
+        "te"
       ],
       "solutions": [
         [
@@ -1481,7 +1481,7 @@
         "Who",
         "are",
         "they",
-        "The",
+        "the",
         "She"
       ],
       "solutions": [
@@ -1561,7 +1561,7 @@
         "What",
         "are",
         "they",
-        "The",
+        "the",
         "She"
       ],
       "solutions": [
@@ -1598,7 +1598,7 @@
         },
         {
           "word": "the",
-          "definition": "-a\nta\nto\ntoj"
+          "definition": "-a"
         },
         {
           "word": "buses?",
@@ -1646,8 +1646,8 @@
         "they",
         "the",
         "buses",
-        "The",
         "She",
+        "The",
         "are"
       ],
       "solutions": [
@@ -1758,7 +1758,7 @@
         "or",
         "cars",
         "are",
-        "The",
+        "the",
         "We",
         "He"
       ],
@@ -1814,8 +1814,8 @@
         "Čto",
         "Vy",
         "jeste",
-        "te",
-        "je"
+        "to",
+        "te"
       ],
       "solutions": [
         [
@@ -1850,8 +1850,8 @@
         "What",
         "are",
         "you(plural",
-        "a",
-        "your"
+        "am",
+        "plural"
       ],
       "solutions": [
         [
@@ -1997,7 +1997,7 @@
         },
         {
           "word": "the",
-          "definition": "-a\nta\nto\ntoj"
+          "definition": "-a"
         },
         {
           "word": "teachers?",
@@ -2009,9 +2009,9 @@
         "sut",
         "ti",
         "učitelji",
+        "to",
         "te",
-        "Čto",
-        "ili"
+        "Čto"
       ],
       "solutions": [
         [
@@ -2052,8 +2052,8 @@
         "are",
         "the",
         "teachers",
-        "The",
         "She",
+        "The",
         "We"
       ],
       "solutions": [
@@ -2091,7 +2091,7 @@
         },
         {
           "word": "the",
-          "definition": "-a\nta\nto\ntoj"
+          "definition": "-a"
         },
         {
           "word": "women?",
@@ -2103,9 +2103,9 @@
         "sut",
         "te",
         "ženy",
+        "to",
         "je",
-        "Čto",
-        "ti"
+        "Čto"
       ],
       "solutions": [
         [
@@ -2146,8 +2146,8 @@
         "are",
         "the",
         "women",
-        "The",
         "She",
+        "The",
         "We"
       ],
       "solutions": [
@@ -2185,7 +2185,7 @@
         },
         {
           "word": "the",
-          "definition": "-a\nta\nto\ntoj"
+          "definition": "-a"
         },
         {
           "word": "men?",
@@ -2198,7 +2198,7 @@
         "ti",
         "muži",
         "muž",
-        "i",
+        "to",
         "Čto"
       ],
       "solutions": [
@@ -2240,9 +2240,9 @@
         "are",
         "the",
         "men",
-        "The",
         "We",
-        "She"
+        "She",
+        "me"
       ],
       "solutions": [
         [
@@ -2322,7 +2322,7 @@
         "Who",
         "are",
         "they",
-        "The",
+        "the",
         "She"
       ],
       "solutions": [
@@ -2379,7 +2379,7 @@
         "oni",
         "muž",
         "li",
-        "i"
+        "On"
       ],
       "solutions": [
         [
