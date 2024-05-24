@@ -31,32 +31,6 @@
             "cat3"
           ],
           "summary": [
-            "Byti",
-            "Jesm",
-            "Jesi",
-            "Jest",
-            "Jesmo",
-            "Jeste",
-            "Sut",
-            "Ja jesm",
-            "Ty jesi",
-            "My jesmo",
-            "Vy jeste",
-            "Oni sut",
-            "One sut"
-          ],
-          "practiceHref": "to-be",
-          "id": "d7279e4777cd",
-          "title": "To be",
-          "levels": 3
-        },
-        {
-          "imageSet": [
-            "dog1",
-            "lion3",
-            "cat3"
-          ],
-          "summary": [
             "pes",
             "kot",
             "medvěd",
@@ -112,6 +86,15 @@
             "Ty jesi",
             "on jest",
             "pozdrav",
+            "Ja jesm",
+            "Ty jesi",
+            "My jesmo",
+            "Vy jeste",
+            "On jest",
+            "Ona jest",
+            "Ono jest",
+            "Oni sut",
+            "One sut",
             "Ja jesm muž",
             "Pozdrav, Ja jesm Katarina",
             "Ja jesm děvčina",
@@ -126,7 +109,7 @@
           "practiceHref": "pozdrav",
           "id": "76a6c8df6b2b",
           "title": "Pozdrav!",
-          "levels": 4
+          "levels": 6
         }
       ]
     },

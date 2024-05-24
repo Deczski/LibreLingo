@@ -67,8 +67,8 @@
         "It's",
         "a",
         "horse",
-        "I",
-        "are"
+        "is",
+        "I"
       ],
       "solutions": [
         [
@@ -100,7 +100,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "a",
@@ -153,8 +153,8 @@
         "a",
         "dog",
         "am",
-        "I",
-        "A"
+        "A",
+        "I"
       ],
       "solutions": [
         [
@@ -206,8 +206,8 @@
         "Katka",
         "i",
         "konj",
-        "ona",
-        "ti"
+        "ti",
+        "Konj"
       ],
       "solutions": [
         [

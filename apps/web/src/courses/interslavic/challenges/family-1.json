@@ -132,7 +132,7 @@
         "praroditelji",
         "je",
         "jej",
-        "jesm"
+        "pes"
       ],
       "solutions": [
         [
@@ -157,7 +157,7 @@
         },
         {
           "word": "jesmo",
-          "definition": "(We) are"
+          "definition": "jesmo"
         },
         {
           "word": "njih",
@@ -269,7 +269,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "stari",
@@ -294,8 +294,8 @@
         "Are",
         "or",
         "And",
-        "she",
-        "car"
+        "car",
+        "cars"
       ],
       "solutions": [
         [
@@ -334,7 +334,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "tall",
@@ -357,10 +357,10 @@
         "i",
         "hudy",
         "od",
+        "To",
+        "pes",
         "Ty",
-        "jesi",
-        "My",
-        "Vy"
+        "jesi"
       ],
       "solutions": [
         [
@@ -414,10 +414,10 @@
         "and",
         "thin",
         "man",
+        "a",
         "am",
         "are",
-        "a",
-        "it"
+        "car"
       ],
       "solutions": [
         [
@@ -456,7 +456,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "a",
@@ -516,10 +516,10 @@
         "is",
         "a",
         "driver",
-        "are",
         "The",
-        "it",
-        "Her"
+        "are",
+        "Her",
+        "We"
       ],
       "solutions": [
         [
@@ -564,7 +564,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "big",
@@ -587,10 +587,10 @@
         "i",
         "črny",
         "jesi",
-        "ono",
         "ženy",
         "denj",
-        "ne"
+        "ne",
+        "Oni"
       ],
       "solutions": [
         [
@@ -656,7 +656,7 @@
         "bus",
         "cars",
         "His",
-        "am"
+        "a"
       ],
       "solutions": [
         [
@@ -705,7 +705,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "short",
@@ -786,9 +786,9 @@
         "fat",
         "The",
         "or",
-        "she",
-        "it",
-        "not"
+        "not",
+        "am",
+        "are"
       ],
       "solutions": [
         [
@@ -823,7 +823,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "your",
@@ -951,7 +951,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "a",
@@ -969,7 +969,7 @@
         "učiteljka",
         "naša",
         "vaša",
-        "Ja"
+        "Katka"
       ],
       "solutions": [
         [
@@ -1014,7 +1014,7 @@
         "am",
         "or",
         "car",
-        "are"
+        "and"
       ],
       "solutions": [
         [
@@ -1098,7 +1098,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "naši",
@@ -1116,7 +1116,7 @@
         "parents",
         "The",
         "Are",
-        "or"
+        "She"
       ],
       "solutions": [
         [
@@ -1157,7 +1157,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "blue.",
@@ -1281,7 +1281,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "big",
@@ -1375,12 +1375,12 @@
         "big",
         "and",
         "white",
-        "are",
         "The",
-        "it",
+        "are",
         "His",
         "This",
-        "she"
+        "She",
+        "We"
       ],
       "solutions": [
         [
@@ -1427,7 +1427,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "our",
@@ -1529,7 +1529,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "our",
@@ -1551,9 +1551,9 @@
         "te",
         "ne",
         "Ja",
-        "ona",
         "Da",
-        "otec"
+        "otec",
+        "Ta"
       ],
       "solutions": [
         [
@@ -1743,7 +1743,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "naši",
@@ -1767,7 +1767,7 @@
         "Her",
         "Water",
         "The",
-        "Are"
+        "She"
       ],
       "solutions": [
         [
@@ -1803,7 +1803,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "your(plural)",
@@ -1820,8 +1820,8 @@
         "vaša",
         "mati",
         "Naša",
-        "Ja",
-        "jesi"
+        "Para",
+        "Ja"
       ],
       "solutions": [
         [
@@ -1901,7 +1901,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "a",
@@ -1924,8 +1924,8 @@
         "prvodnica",
         "jesi",
         "ti",
-        "ona",
-        "Jest"
+        "Jest",
+        "jih"
       ],
       "solutions": [
         [
@@ -1975,9 +1975,9 @@
         "guide",
         "or",
         "The",
-        "it",
         "me",
-        "We"
+        "We",
+        "He"
       ],
       "solutions": [
         [
@@ -2020,7 +2020,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "her",
@@ -2043,8 +2043,8 @@
         "je",
         "ti",
         "te",
-        "Ja",
-        "jesm"
+        "Max",
+        "pes"
       ],
       "solutions": [
         [
@@ -2155,7 +2155,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "a",
@@ -2215,10 +2215,10 @@
         "is",
         "a",
         "priest",
-        "it",
         "Hi",
         "Is",
-        "He"
+        "He",
+        "or"
       ],
       "solutions": [
         [
@@ -2270,7 +2270,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "my",
@@ -2338,9 +2338,9 @@
         "my",
         "son",
         "or",
-        "it",
         "Is",
-        "His"
+        "His",
+        "of"
       ],
       "solutions": [
         [
@@ -2374,7 +2374,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "my",
@@ -2396,11 +2396,11 @@
         "od",
         "mojego",
         "syna",
-        "ono",
         "je",
-        "ona",
         "Toj",
-        "moj"
+        "moj",
+        "moja",
+        "to"
       ],
       "solutions": [
         [
@@ -2506,7 +2506,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "your",
@@ -2527,8 +2527,8 @@
         "te",
         "jej",
         "je",
-        "ono",
-        "Toj"
+        "Toj",
+        "moj"
       ],
       "solutions": [
         [
@@ -2638,7 +2638,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "your",
@@ -2766,7 +2766,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "my",
@@ -2783,10 +2783,10 @@
         "jest",
         "moja",
         "dočera",
-        "ona",
         "žena",
         "Moja",
-        "Ja"
+        "Ja",
+        "Ona"
       ],
       "solutions": [
         [
@@ -2833,10 +2833,10 @@
         "is",
         "my",
         "daughter",
-        "it",
         "His",
         "The",
-        "Hi"
+        "Hi",
+        "or"
       ],
       "solutions": [
         [
@@ -2874,7 +2874,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "a",
@@ -2985,7 +2985,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "my",
@@ -3002,10 +3002,10 @@
         "jest",
         "moja",
         "dočera",
-        "ona",
         "Moja",
+        "Para",
         "Ja",
-        "Para"
+        "žena"
       ],
       "solutions": [
         [
@@ -3052,10 +3052,10 @@
         "is",
         "my",
         "daughter",
-        "it",
         "the",
         "or",
-        "me"
+        "me",
+        "are"
       ],
       "solutions": [
         [
@@ -3136,7 +3136,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "studentki",
@@ -3149,8 +3149,8 @@
         "are",
         "students",
         "eats",
-        "You",
-        "your"
+        "your",
+        "Water"
       ],
       "solutions": [
         [
@@ -3183,7 +3183,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "my",

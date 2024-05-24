@@ -71,7 +71,7 @@
         },
         {
           "word": "jesi?",
-          "definition": "(You) are"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -81,7 +81,7 @@
         "you",
         "We",
         "He",
-        "You"
+        "The"
       ],
       "solutions": [
         [
@@ -160,15 +160,15 @@
         },
         {
           "word": "jesi?",
-          "definition": "(You) are"
+          "definition": "are"
         }
       ],
       "chips": [
         "What",
         "are",
         "you",
-        "am",
-        "You"
+        "a",
+        "The"
       ],
       "solutions": [
         [
@@ -216,7 +216,7 @@
         "Ty",
         "učitelj",
         "te",
-        "jesi"
+        "pes"
       ],
       "solutions": [
         [
@@ -236,7 +236,7 @@
       "phrase": [
         {
           "word": "Jesi",
-          "definition": "(You) are"
+          "definition": "are"
         },
         {
           "word": "Ty",
@@ -252,9 +252,9 @@
         "you",
         "the",
         "teacher",
-        "are",
         "The",
-        "she"
+        "are",
+        "She"
       ],
       "solutions": [
         [
@@ -325,7 +325,7 @@
         "te",
         "ti",
         "li",
-        "jesi"
+        "pes"
       ],
       "solutions": [
         [
@@ -347,7 +347,7 @@
       "phrase": [
         {
           "word": "Jesi",
-          "definition": "(You) are"
+          "definition": "are"
         },
         {
           "word": "Ty",
@@ -375,9 +375,9 @@
         "a",
         "student",
         "are",
+        "A",
         "am",
         "We",
-        "A",
         "He",
         "me"
       ],
@@ -424,7 +424,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "he?",
@@ -436,7 +436,7 @@
         "jest",
         "on",
         "je",
-        "ono"
+        "te"
       ],
       "solutions": [
         [
@@ -504,7 +504,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "she?",
@@ -515,8 +515,8 @@
         "Kto",
         "jest",
         "ona",
-        "ono",
-        "pes"
+        "pes",
+        "Ona"
       ],
       "solutions": [
         [
@@ -551,8 +551,8 @@
         "Who",
         "is",
         "she",
-        "We",
-        "The"
+        "The",
+        "We"
       ],
       "solutions": [
         [
@@ -584,7 +584,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "it?",
@@ -595,8 +595,8 @@
         "Čto",
         "jest",
         "ono",
-        "Kto",
-        "To"
+        "Ono",
+        "Kto"
       ],
       "solutions": [
         [
@@ -632,7 +632,7 @@
         "is",
         "it",
         "It",
-        "am"
+        "a"
       ],
       "solutions": [
         [
@@ -660,7 +660,7 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "she",
@@ -720,9 +720,9 @@
         "she",
         "a",
         "girl",
-        "I",
         "is",
-        "am"
+        "I",
+        "A"
       ],
       "solutions": [
         [
@@ -757,7 +757,7 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "he",
@@ -814,8 +814,8 @@
         "a",
         "boy",
         "I",
-        "am",
-        "We"
+        "is",
+        "A"
       ],
       "solutions": [
         [
@@ -850,7 +850,7 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "it",
@@ -943,7 +943,7 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "it",
@@ -1011,8 +1011,8 @@
         "also",
         "a",
         "car",
-        "am",
         "is",
+        "am",
         "I",
         "It"
       ],
@@ -1044,7 +1044,7 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "it",
@@ -1129,9 +1129,9 @@
         "or",
         "a",
         "car",
+        "is",
         "I",
         "am",
-        "is",
         "A",
         "It",
         "of"
@@ -1219,7 +1219,7 @@
         },
         {
           "word": "jesmo?",
-          "definition": "(We) are"
+          "definition": "jesmo?"
         }
       ],
       "chips": [
@@ -1299,7 +1299,7 @@
         },
         {
           "word": "jesmo?",
-          "definition": "(We) are"
+          "definition": "jesmo?"
         }
       ],
       "chips": [
@@ -1307,7 +1307,7 @@
         "are",
         "we",
         "We",
-        "am"
+        "a"
       ],
       "solutions": [
         [
@@ -1379,7 +1379,7 @@
         },
         {
           "word": "jeste?",
-          "definition": "You are (plural)"
+          "definition": "jeste?"
         }
       ],
       "chips": [
@@ -1445,7 +1445,7 @@
         "Kto",
         "Oni",
         "sut",
-        "One",
+        "Ono",
         "On"
       ],
       "solutions": [
@@ -1474,7 +1474,7 @@
         },
         {
           "word": "sut?",
-          "definition": "They are (plural)"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -1482,7 +1482,7 @@
         "are",
         "they",
         "The",
-        "she"
+        "She"
       ],
       "solutions": [
         [
@@ -1525,7 +1525,7 @@
         "Čto",
         "oni",
         "sut",
-        "ono",
+        "Ono",
         "Oni"
       ],
       "solutions": [
@@ -1554,15 +1554,15 @@
         },
         {
           "word": "sut?",
-          "definition": "They are (plural)"
+          "definition": "are"
         }
       ],
       "chips": [
         "What",
         "are",
         "they",
-        "They",
-        "The"
+        "The",
+        "She"
       ],
       "solutions": [
         [
@@ -1610,7 +1610,7 @@
         "oni",
         "avtobusy",
         "sut",
-        "ona"
+        "avto"
       ],
       "solutions": [
         [
@@ -1630,7 +1630,7 @@
       "phrase": [
         {
           "word": "Sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "oni",
@@ -1647,7 +1647,7 @@
         "the",
         "buses",
         "The",
-        "she",
+        "She",
         "are"
       ],
       "solutions": [
@@ -1709,8 +1709,8 @@
         "avta",
         "avto",
         "sut",
-        "ona",
-        "ti"
+        "ti",
+        "Oni"
       ],
       "solutions": [
         [
@@ -1732,7 +1732,7 @@
       "phrase": [
         {
           "word": "Sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "oni",
@@ -1758,8 +1758,8 @@
         "or",
         "cars",
         "are",
-        "We",
         "The",
+        "We",
         "He"
       ],
       "solutions": [
@@ -1843,15 +1843,15 @@
         },
         {
           "word": "jeste?",
-          "definition": "You are (plural)"
+          "definition": "jeste?"
         }
       ],
       "chips": [
         "What",
         "are",
         "you(plural",
-        "am",
-        "plural"
+        "a",
+        "your"
       ],
       "solutions": [
         [
@@ -1930,7 +1930,7 @@
       "phrase": [
         {
           "word": "Jeste",
-          "definition": "You are (plural)"
+          "definition": "Jeste"
         },
         {
           "word": "Vy",
@@ -2036,7 +2036,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "ti",
@@ -2053,7 +2053,7 @@
         "the",
         "teachers",
         "The",
-        "she",
+        "She",
         "We"
       ],
       "solutions": [
@@ -2130,7 +2130,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "te",
@@ -2147,7 +2147,7 @@
         "the",
         "women",
         "The",
-        "she",
+        "She",
         "We"
       ],
       "solutions": [
@@ -2224,7 +2224,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "ti",
@@ -2240,9 +2240,9 @@
         "are",
         "the",
         "men",
-        "We",
         "The",
-        "she"
+        "We",
+        "She"
       ],
       "solutions": [
         [
@@ -2286,7 +2286,7 @@
         "Kto",
         "sut",
         "oni",
-        "ono",
+        "Ono",
         "Oni"
       ],
       "solutions": [
@@ -2311,7 +2311,7 @@
         },
         {
           "word": "sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "oni?",
@@ -2323,7 +2323,7 @@
         "are",
         "they",
         "The",
-        "she"
+        "She"
       ],
       "solutions": [
         [
@@ -2379,7 +2379,7 @@
         "oni",
         "muž",
         "li",
-        "sut"
+        "i"
       ],
       "solutions": [
         [
@@ -2401,7 +2401,7 @@
       "phrase": [
         {
           "word": "Sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "Oni",

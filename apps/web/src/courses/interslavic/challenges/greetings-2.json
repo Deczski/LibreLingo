@@ -71,7 +71,7 @@
         },
         {
           "word": "jesi?",
-          "definition": "(You) are"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -81,7 +81,7 @@
         "you",
         "You",
         "or",
-        "We"
+        "dog"
       ],
       "solutions": [
         [
@@ -268,7 +268,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "nothing.",
@@ -352,7 +352,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "late.",
@@ -364,9 +364,9 @@
         "To",
         "jest",
         "pozdno",
-        "ono",
         "Toj",
-        "konj"
+        "konj",
+        "Vodu"
       ],
       "solutions": [
         [
@@ -442,7 +442,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "late.",
@@ -459,7 +459,7 @@
         "pozdno",
         "Do",
         "viděnja",
-        "ono",
+        "Ono",
         "je",
         "to",
         "ne"
@@ -547,7 +547,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "not",
@@ -563,7 +563,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "nothing.",
@@ -579,8 +579,8 @@
         "To",
         "jest",
         "ničto",
-        "ono",
         "to",
+        "Ono",
         "je",
         "Do",
         "te",
@@ -652,9 +652,9 @@
         "nothing",
         "fat",
         "Is",
+        "a",
         "am",
         "We",
-        "a",
         "He",
         "or"
       ],
@@ -780,7 +780,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "nothing.",

@@ -81,7 +81,7 @@
         },
         {
           "word": "jesi?",
-          "definition": "(You) are"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -93,7 +93,7 @@
         "We",
         "The",
         "He",
-        "Are"
+        "She"
       ],
       "solutions": [
         [
@@ -156,8 +156,8 @@
         "Katarina",
         "ti",
         "te",
-        "Ja",
-        "Vy"
+        "To",
+        "Ja"
       ],
       "solutions": [
         [
@@ -183,7 +183,7 @@
         },
         {
           "word": "Jesmo",
-          "definition": "(We) are"
+          "definition": "Jesmo"
         },
         {
           "word": "Vojtěh",
@@ -204,8 +204,8 @@
         "Vojtěh",
         "and",
         "Katarina",
-        "am",
         "a",
+        "am",
         "Are",
         "or"
       ],
@@ -303,7 +303,7 @@
         },
         {
           "word": "jesi?",
-          "definition": "(You) are"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -313,8 +313,8 @@
         "are",
         "you",
         "or",
-        "You",
         "dog",
+        "You",
         "son"
       ],
       "solutions": [
@@ -349,7 +349,7 @@
         },
         {
           "word": "am",
-          "definition": "Jesm"
+          "definition": "jesm\nnaiz"
         },
         {
           "word": "fine.",
@@ -371,7 +371,7 @@
         "Hvala",
         "Para",
         "je",
-        "ona"
+        "Da"
       ],
       "solutions": [
         [
@@ -396,7 +396,7 @@
         },
         {
           "word": "jesm",
-          "definition": "Am"
+          "definition": "am"
         },
         {
           "word": "dobro.",
@@ -416,7 +416,7 @@
         "a",
         "and",
         "man",
-        "are"
+        "is"
       ],
       "solutions": [
         [
@@ -480,8 +480,8 @@
         "Katarina",
         "ti",
         "oni",
-        "sut",
-        "On"
+        "On",
+        "Ona"
       ],
       "solutions": [
         [
@@ -528,7 +528,7 @@
       "phrase": [
         {
           "word": "Sut",
-          "definition": "They are (plural)"
+          "definition": "are"
         },
         {
           "word": "Oni",
@@ -556,7 +556,7 @@
         "are",
         "And",
         "The",
-        "man"
+        "She"
       ],
       "solutions": [
         [
@@ -620,7 +620,7 @@
         "Ja",
         "te",
         "Do",
-        "Vy"
+        "To"
       ],
       "solutions": [
         [
@@ -651,7 +651,7 @@
         },
         {
           "word": "Jesmo",
-          "definition": "(We) are"
+          "definition": "Jesmo"
         },
         {
           "word": "Vojtěh",
@@ -673,8 +673,8 @@
         "Vojtěh",
         "and",
         "Katarina",
-        "am",
         "a",
+        "am",
         "He",
         "Are",
         "or"
@@ -734,9 +734,9 @@
         "Ty",
         "Vojtěh",
         "Toj",
+        "To",
         "jesi",
-        "Vy",
-        "To"
+        "Vy"
       ],
       "solutions": [
         [
@@ -766,7 +766,7 @@
         },
         {
           "word": "Jesi",
-          "definition": "(You) are"
+          "definition": "are"
         },
         {
           "word": "Ty",
@@ -882,7 +882,7 @@
         },
         {
           "word": "jesi?",
-          "definition": "(You) are"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -990,7 +990,7 @@
         },
         {
           "word": "jesi?",
-          "definition": "(You) are"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -1036,7 +1036,7 @@
         },
         {
           "word": "am",
-          "definition": "Jesm"
+          "definition": "jesm\nnaiz"
         },
         {
           "word": "fine.",
@@ -1060,7 +1060,7 @@
         "To",
         "je",
         "Ta",
-        "My"
+        "i"
       ],
       "solutions": [
         [
@@ -1086,7 +1086,7 @@
         },
         {
           "word": "jesm",
-          "definition": "Am"
+          "definition": "am"
         },
         {
           "word": "dobro.",
@@ -1109,8 +1109,8 @@
         "you",
         "a",
         "and",
-        "We",
-        "is"
+        "is",
+        "We"
       ],
       "solutions": [
         [
@@ -1151,7 +1151,7 @@
         },
         {
           "word": "am",
-          "definition": "Jesm"
+          "definition": "jesm\nnaiz"
         },
         {
           "word": "also",
@@ -1179,7 +1179,7 @@
         "Kako",
         "Para",
         "je",
-        "ona"
+        "te"
       ],
       "solutions": [
         [
@@ -1205,7 +1205,7 @@
         },
         {
           "word": "jesm",
-          "definition": "Am"
+          "definition": "am"
         },
         {
           "word": "takože",
@@ -1229,8 +1229,8 @@
         "you",
         "a",
         "and",
-        "are",
         "is",
+        "are",
         "man"
       ],
       "solutions": [
@@ -1270,7 +1270,7 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "he",
@@ -1321,8 +1321,8 @@
         "Is",
         "he",
         "Vojtěh",
-        "I",
-        "We"
+        "It",
+        "is"
       ],
       "solutions": [
         [
@@ -1358,7 +1358,7 @@
         },
         {
           "word": "is",
-          "definition": "Jest\nda\njest"
+          "definition": "da\njest"
         },
         {
           "word": "Katarina.",
@@ -1372,7 +1372,7 @@
         "Katarina",
         "ona",
         "Ja",
-        "žena"
+        "On"
       ],
       "solutions": [
         [
@@ -1642,7 +1642,7 @@
         },
         {
           "word": "am",
-          "definition": "Jesm"
+          "definition": "jesm\nnaiz"
         }
       ],
       "id": "2102bcb3a80c",
