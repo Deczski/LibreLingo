@@ -2,8 +2,6 @@ Module:
   Name: "Basics"
 
 Skills:
-  - animals.yaml
-  - food.yaml
   - pozdrav.yaml
 
   # - clothes.yaml
