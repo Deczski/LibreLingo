@@ -1,14 +1,14 @@
 {
-  "id": "76a6c8df6b2b",
+  "id": "75e952736a7f",
   "levels": 6,
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Ja jesm",
-      "meaningInSourceLanguage": "I am",
-      "id": "419faffba1c7",
+      "formInTargetLanguage": "Ja jesm byl",
+      "meaningInSourceLanguage": "I was",
+      "id": "150de052b173",
       "priority": 0,
-      "group": "49b4b98394b7"
+      "group": "3d8031a19815"
     },
     {
       "type": "chips",
@@ -19,26 +19,28 @@
           "definition": "Ja\nni"
         },
         {
-          "word": "am",
-          "definition": "jesm\nnaiz"
+          "word": "was",
+          "definition": "zen"
         }
       ],
       "chips": [
         "Ja",
         "jesm",
+        "byl",
         "je",
-        "jest"
+        "pes"
       ],
       "solutions": [
         [
           "Ja",
-          "jesm"
+          "jesm",
+          "byl"
         ]
       ],
-      "formattedSolution": "Ja jesm",
-      "id": "54f783c5a494",
+      "formattedSolution": "Ja jesm byl",
+      "id": "d79319e030d8",
       "priority": 2,
-      "group": "49b4b98394b7"
+      "group": "3d8031a19815"
     },
     {
       "type": "chips",
@@ -51,32 +53,36 @@
         {
           "word": "jesm",
           "definition": "am"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
         }
       ],
       "chips": [
         "I",
-        "am",
+        "was",
         "a",
-        "It"
+        "is"
       ],
       "solutions": [
         [
           "I",
-          "am"
+          "was"
         ]
       ],
-      "formattedSolution": "I am",
-      "id": "831201642aa8",
+      "formattedSolution": "I was",
+      "id": "c986ea0dff91",
       "priority": 2,
-      "group": "49b4b98394b7"
+      "group": "3d8031a19815"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ty jesi",
-      "meaningInSourceLanguage": "You are (singular)",
-      "id": "02a77d0adba2",
+      "formInTargetLanguage": "Ty jesi byl",
+      "meaningInSourceLanguage": "You were (masculine)",
+      "id": "e5a26d2aa8b4",
       "priority": 0,
-      "group": "cbc2b8cd62f0"
+      "group": "4a5b511aac2c"
     },
     {
       "type": "chips",
@@ -87,30 +93,32 @@
           "definition": "ty\nzu"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
+          "word": "were",
+          "definition": "were"
         },
         {
-          "word": "(singular)",
-          "definition": "(singular)"
+          "word": "(masculine)",
+          "definition": "(masculine)"
         }
       ],
       "chips": [
         "Ty",
         "jesi",
-        "je",
-        "To"
+        "byl",
+        "My",
+        "Vy"
       ],
       "solutions": [
         [
           "Ty",
-          "jesi"
+          "jesi",
+          "byl"
         ]
       ],
-      "formattedSolution": "Ty jesi",
-      "id": "19a2d6bf6f8e",
+      "formattedSolution": "Ty jesi byl",
+      "id": "84e916775130",
       "priority": 2,
-      "group": "cbc2b8cd62f0"
+      "group": "4a5b511aac2c"
     },
     {
       "type": "chips",
@@ -123,34 +131,38 @@
         {
           "word": "jesi",
           "definition": "are"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
         }
       ],
       "chips": [
         "You",
+        "were",
+        "masculine",
         "are",
-        "singular",
-        "you",
-        "or"
+        "man"
       ],
       "solutions": [
         [
           "You",
-          "are",
-          "singular"
+          "were",
+          "masculine"
         ]
       ],
-      "formattedSolution": "You are (singular)",
-      "id": "b30eaf3be6c7",
+      "formattedSolution": "You were (masculine)",
+      "id": "03fab6c64774",
       "priority": 2,
-      "group": "cbc2b8cd62f0"
+      "group": "4a5b511aac2c"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "My jesmo",
+      "formInTargetLanguage": "Ty jesi byla (feminine)",
       "meaningInSourceLanguage": "We are",
-      "id": "607bba952b01",
+      "id": "d28ecf1cc856",
       "priority": 0,
-      "group": "a0de40ee1ef7"
+      "group": "216ee4bfdde5"
     },
     {
       "type": "chips",
@@ -166,33 +178,46 @@
         }
       ],
       "chips": [
-        "My",
-        "jesmo",
-        "jesm",
+        "Ty",
+        "jesi",
+        "byla",
+        "feminine",
+        "byli",
+        "Jesi",
         "je"
       ],
       "solutions": [
         [
-          "My",
-          "jesmo"
+          "Ty",
+          "jesi",
+          "byla",
+          "feminine"
         ]
       ],
-      "formattedSolution": "My jesmo",
-      "id": "a4a496f7d420",
+      "formattedSolution": "Ty jesi byla (feminine)",
+      "id": "d990ede68282",
       "priority": 2,
-      "group": "a0de40ee1ef7"
+      "group": "216ee4bfdde5"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "My",
-          "definition": "we"
+          "word": "Ty",
+          "definition": "you"
         },
         {
-          "word": "jesmo",
-          "definition": "jesmo"
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "byla",
+          "definition": "byla"
+        },
+        {
+          "word": "(feminine)",
+          "definition": "(feminine)"
         }
       ],
       "chips": [
@@ -208,17 +233,227 @@
         ]
       ],
       "formattedSolution": "We are",
-      "id": "428e612eaea1",
+      "id": "63adbb2c51a1",
       "priority": 2,
-      "group": "a0de40ee1ef7"
+      "group": "216ee4bfdde5"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Vy jeste",
-      "meaningInSourceLanguage": "You are (plural)",
-      "id": "9c3b26db34ef",
+      "formInTargetLanguage": "On byl",
+      "meaningInSourceLanguage": "He was",
+      "id": "0746ee24f63c",
       "priority": 0,
-      "group": "a1ff8ae70e37"
+      "group": "802f75e57588"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "hura\non"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        }
+      ],
+      "chips": [
+        "On",
+        "byl",
+        "Ty",
+        "My"
+      ],
+      "solutions": [
+        [
+          "On",
+          "byl"
+        ]
+      ],
+      "formattedSolution": "On byl",
+      "id": "32422d3f767a",
+      "priority": 2,
+      "group": "802f75e57588"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        }
+      ],
+      "chips": [
+        "He",
+        "was",
+        "a",
+        "is"
+      ],
+      "solutions": [
+        [
+          "He",
+          "was"
+        ]
+      ],
+      "formattedSolution": "He was",
+      "id": "a5a2fdd81018",
+      "priority": 2,
+      "group": "802f75e57588"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona byla",
+      "meaningInSourceLanguage": "She was",
+      "id": "d66a436f2d1a",
+      "priority": 0,
+      "group": "a579d25b327f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "hura"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "byla",
+        "byl",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "byla"
+        ]
+      ],
+      "formattedSolution": "Ona byla",
+      "id": "0cb282f60161",
+      "priority": 2,
+      "group": "a579d25b327f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "Ona"
+        },
+        {
+          "word": "byla",
+          "definition": "byla"
+        }
+      ],
+      "chips": [
+        "She",
+        "was",
+        "The",
+        "she"
+      ],
+      "solutions": [
+        [
+          "She",
+          "was"
+        ]
+      ],
+      "formattedSolution": "She was",
+      "id": "ead4488ec281",
+      "priority": 2,
+      "group": "a579d25b327f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo byli",
+      "meaningInSourceLanguage": "We were",
+      "id": "6c17043cc8f6",
+      "priority": 0,
+      "group": "afc7255b244b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "byli",
+        "byl",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "My jesmo byli",
+      "id": "cbbf9d677c82",
+      "priority": 2,
+      "group": "afc7255b244b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "jesmo",
+          "definition": "jesmo"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        }
+      ],
+      "chips": [
+        "We",
+        "were",
+        "we",
+        "are"
+      ],
+      "solutions": [
+        [
+          "We",
+          "were"
+        ]
+      ],
+      "formattedSolution": "We were",
+      "id": "dc9f8a67015f",
+      "priority": 2,
+      "group": "afc7255b244b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy jeste byli",
+      "meaningInSourceLanguage": "You were (plural)",
+      "id": "01d6be53d285",
+      "priority": 0,
+      "group": "2c0ad3c5ea45"
     },
     {
       "type": "chips",
@@ -229,8 +464,8 @@
           "definition": "ty\nzu"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
+          "word": "were",
+          "definition": "were"
         },
         {
           "word": "(plural)",
@@ -240,19 +475,21 @@
       "chips": [
         "Vy",
         "jeste",
-        "jest",
-        "je"
+        "byli",
+        "byl",
+        "jest"
       ],
       "solutions": [
         [
           "Vy",
-          "jeste"
+          "jeste",
+          "byli"
         ]
       ],
-      "formattedSolution": "Vy jeste",
-      "id": "c22daeb3f741",
+      "formattedSolution": "Vy jeste byli",
+      "id": "bea399ebce39",
       "priority": 2,
-      "group": "a1ff8ae70e37"
+      "group": "2c0ad3c5ea45"
     },
     {
       "type": "chips",
@@ -265,238 +502,38 @@
         {
           "word": "jeste",
           "definition": "jeste"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
         }
       ],
       "chips": [
         "You",
-        "are",
+        "were",
         "plural",
-        "you",
-        "Are"
+        "your",
+        "are"
       ],
       "solutions": [
         [
           "You",
-          "are",
+          "were",
           "plural"
         ]
       ],
-      "formattedSolution": "You are (plural)",
-      "id": "180b2db132b1",
+      "formattedSolution": "You were (plural)",
+      "id": "c9f56531c80d",
       "priority": 2,
-      "group": "a1ff8ae70e37"
+      "group": "2c0ad3c5ea45"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "On jest",
-      "meaningInSourceLanguage": "He is",
-      "id": "70a1c7be3b83",
+      "formInTargetLanguage": "Oni byli",
+      "meaningInSourceLanguage": "They were (masculine)",
+      "id": "ba31cba6a77e",
       "priority": 0,
-      "group": "159192c4f451"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "He",
-          "definition": "hura\non"
-        },
-        {
-          "word": "is",
-          "definition": "da\njest"
-        }
-      ],
-      "chips": [
-        "On",
-        "jest",
-        "je",
-        "pes"
-      ],
-      "solutions": [
-        [
-          "On",
-          "jest"
-        ]
-      ],
-      "formattedSolution": "On jest",
-      "id": "b7f002d80977",
-      "priority": 2,
-      "group": "159192c4f451"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "On",
-          "definition": "he"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        }
-      ],
-      "chips": [
-        "He",
-        "is",
-        "We",
-        "Hi"
-      ],
-      "solutions": [
-        [
-          "He",
-          "is"
-        ]
-      ],
-      "formattedSolution": "He is",
-      "id": "fa92ceffd292",
-      "priority": 2,
-      "group": "159192c4f451"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Ona jest",
-      "meaningInSourceLanguage": "She is",
-      "id": "d279b54effb5",
-      "priority": 0,
-      "group": "0355f55d1ba8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "She",
-          "definition": "hura"
-        },
-        {
-          "word": "is",
-          "definition": "da\njest"
-        }
-      ],
-      "chips": [
-        "Ona",
-        "jest",
-        "pes",
-        "jesm"
-      ],
-      "solutions": [
-        [
-          "Ona",
-          "jest"
-        ]
-      ],
-      "formattedSolution": "Ona jest",
-      "id": "41e349d3d9b1",
-      "priority": 2,
-      "group": "0355f55d1ba8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Ona",
-          "definition": "Ona"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        }
-      ],
-      "chips": [
-        "She",
-        "is",
-        "The",
-        "We"
-      ],
-      "solutions": [
-        [
-          "She",
-          "is"
-        ]
-      ],
-      "formattedSolution": "She is",
-      "id": "ea6fb2e7ff4d",
-      "priority": 2,
-      "group": "0355f55d1ba8"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Ono jest",
-      "meaningInSourceLanguage": "It is",
-      "id": "6375d136cccf",
-      "priority": 0,
-      "group": "4279f4b21b53"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "It",
-          "definition": "hura"
-        },
-        {
-          "word": "is",
-          "definition": "da\njest"
-        }
-      ],
-      "chips": [
-        "Ono",
-        "jest",
-        "pes",
-        "jesm"
-      ],
-      "solutions": [
-        [
-          "Ono",
-          "jest"
-        ]
-      ],
-      "formattedSolution": "Ono jest",
-      "id": "da1a1ac10ead",
-      "priority": 2,
-      "group": "4279f4b21b53"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Ono",
-          "definition": "Ono"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        }
-      ],
-      "chips": [
-        "It",
-        "is",
-        "it",
-        "Is"
-      ],
-      "solutions": [
-        [
-          "It",
-          "is"
-        ]
-      ],
-      "formattedSolution": "It is",
-      "id": "e686176b4d8d",
-      "priority": 2,
-      "group": "4279f4b21b53"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Oni sut",
-      "meaningInSourceLanguage": "They are (masculine)",
-      "id": "cb2ba7dddfcc",
-      "priority": 0,
-      "group": "e3e7caacd859"
+      "group": "e2611a104f9f"
     },
     {
       "type": "chips",
@@ -507,8 +544,8 @@
           "definition": "haiek"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
+          "word": "were",
+          "definition": "were"
         },
         {
           "word": "(masculine)",
@@ -517,20 +554,20 @@
       ],
       "chips": [
         "Oni",
-        "sut",
-        "On",
-        "Ona"
+        "byli",
+        "byl",
+        "ili"
       ],
       "solutions": [
         [
           "Oni",
-          "sut"
+          "byli"
         ]
       ],
-      "formattedSolution": "Oni sut",
-      "id": "db4530feef7d",
+      "formattedSolution": "Oni byli",
+      "id": "e2299e6ee304",
       "priority": 2,
-      "group": "e3e7caacd859"
+      "group": "e2611a104f9f"
     },
     {
       "type": "chips",
@@ -541,36 +578,36 @@
           "definition": "they"
         },
         {
-          "word": "sut",
-          "definition": "are"
+          "word": "byli",
+          "definition": "byli"
         }
       ],
       "chips": [
         "They",
-        "are",
+        "were",
         "masculine",
         "The",
-        "She"
+        "are"
       ],
       "solutions": [
         [
           "They",
-          "are",
+          "were",
           "masculine"
         ]
       ],
-      "formattedSolution": "They are (masculine)",
-      "id": "2bf49225ff97",
+      "formattedSolution": "They were (masculine)",
+      "id": "44bf2f4cd537",
       "priority": 2,
-      "group": "e3e7caacd859"
+      "group": "e2611a104f9f"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "One sut",
-      "meaningInSourceLanguage": "They are (feminine)",
-      "id": "943d0fa38302",
+      "formInTargetLanguage": "One byli",
+      "meaningInSourceLanguage": "They were (feminine)",
+      "id": "1dc9bde67739",
       "priority": 0,
-      "group": "f040d2dfba8d"
+      "group": "4da0a47a2ff4"
     },
     {
       "type": "chips",
@@ -581,8 +618,8 @@
           "definition": "haiek"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
+          "word": "were",
+          "definition": "were"
         },
         {
           "word": "(feminine)",
@@ -591,20 +628,20 @@
       ],
       "chips": [
         "One",
-        "sut",
-        "On",
-        "Ona"
+        "byli",
+        "Oni",
+        "byl"
       ],
       "solutions": [
         [
           "One",
-          "sut"
+          "byli"
         ]
       ],
-      "formattedSolution": "One sut",
-      "id": "c5c94bc20c60",
+      "formattedSolution": "One byli",
+      "id": "ddf7590a17a0",
       "priority": 2,
-      "group": "f040d2dfba8d"
+      "group": "4da0a47a2ff4"
     },
     {
       "type": "chips",
@@ -615,405 +652,384 @@
           "definition": "One"
         },
         {
-          "word": "sut",
-          "definition": "are"
+          "word": "byli",
+          "definition": "byli"
         }
       ],
       "chips": [
         "They",
-        "are",
+        "were",
         "feminine",
-        "The",
-        "She"
+        "here",
+        "The"
       ],
       "solutions": [
         [
           "They",
-          "are",
+          "were",
           "feminine"
         ]
       ],
-      "formattedSolution": "They are (feminine)",
-      "id": "9522d5cbce37",
+      "formattedSolution": "They were (feminine)",
+      "id": "eef86516d97f",
       "priority": 2,
-      "group": "f040d2dfba8d"
+      "group": "4da0a47a2ff4"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ja jesm muž",
-      "meaningInSourceLanguage": "I am a man.",
-      "id": "cead3c71dd1f",
+      "formInTargetLanguage": "My jesmo byli Studenti",
+      "meaningInSourceLanguage": "We were students",
+      "id": "3cd8066cedce",
       "priority": 0,
-      "group": "fa641f4dd61c"
+      "group": "29bad07ba04d"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "I",
-          "definition": "Ja\nni"
+          "word": "We",
+          "definition": "We"
         },
         {
-          "word": "am",
-          "definition": "jesm\nnaiz"
+          "word": "were",
+          "definition": "were"
         },
         {
-          "word": "a",
-          "definition": "-\n-a"
-        },
-        {
-          "word": "man.",
-          "definition": "muž"
+          "word": "students",
+          "definition": "ikasleak"
         }
       ],
       "chips": [
-        "Ja",
-        "jesm",
-        "muž",
-        "je",
-        "pes"
-      ],
-      "solutions": [
-        [
-          "Ja",
-          "jesm",
-          "muž"
-        ]
-      ],
-      "formattedSolution": "Ja jesm muž",
-      "id": "0a710fdf8fd3",
-      "priority": 2,
-      "group": "fa641f4dd61c"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Ja",
-          "definition": "I"
-        },
-        {
-          "word": "jesm",
-          "definition": "am"
-        },
-        {
-          "word": "muž",
-          "definition": "man"
-        }
-      ],
-      "chips": [
-        "I",
-        "am",
-        "a",
-        "man",
-        "A",
-        "It",
-        "my"
-      ],
-      "solutions": [
-        [
-          "I",
-          "am",
-          "a",
-          "man"
-        ]
-      ],
-      "formattedSolution": "I am a man.",
-      "id": "3f93e5a8e086",
-      "priority": 2,
-      "group": "fa641f4dd61c"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Pozdrav, Ja jesm Katarina",
-      "meaningInSourceLanguage": "Hello I am Katarina",
-      "id": "0cb8c8f96196",
-      "priority": 0,
-      "group": "4e7aaa7ddbc8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Hello",
-          "definition": "pozdrav"
-        },
-        {
-          "word": "I",
-          "definition": "Ja\nni"
-        },
-        {
-          "word": "am",
-          "definition": "jesm\nnaiz"
-        },
-        {
-          "word": "Katarina",
-          "definition": "Katarina (female name)\nKatarina (name)"
-        }
-      ],
-      "chips": [
-        "Pozdrav",
-        "Ja",
-        "jesm",
-        "Katarina",
-        "Para",
-        "tam",
-        "Ona"
-      ],
-      "solutions": [
-        [
-          "Pozdrav",
-          "Ja",
-          "jesm",
-          "Katarina"
-        ]
-      ],
-      "formattedSolution": "Pozdrav, Ja jesm Katarina",
-      "id": "843659e44a5d",
-      "priority": 2,
-      "group": "4e7aaa7ddbc8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Pozdrav,",
-          "definition": "hello"
-        },
-        {
-          "word": "Ja",
-          "definition": "I"
-        },
-        {
-          "word": "jesm",
-          "definition": "am"
-        },
-        {
-          "word": "Katarina",
-          "definition": "Katarina (female name)\nKatarina (name)"
-        }
-      ],
-      "chips": [
-        "Hello",
-        "I",
-        "am",
-        "Katarina",
-        "a",
-        "He",
-        "It"
-      ],
-      "solutions": [
-        [
-          "Hello",
-          "I",
-          "am",
-          "Katarina"
-        ]
-      ],
-      "formattedSolution": "Hello I am Katarina",
-      "id": "7ea4e12ffd83",
-      "priority": 2,
-      "group": "4e7aaa7ddbc8"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Ja jesm děvčina",
-      "meaningInSourceLanguage": "I am a girl.",
-      "id": "ca60a14bbe92",
-      "priority": 0,
-      "group": "cd7c5470f68d"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "I",
-          "definition": "Ja\nni"
-        },
-        {
-          "word": "am",
-          "definition": "jesm\nnaiz"
-        },
-        {
-          "word": "a",
-          "definition": "-\n-a"
-        },
-        {
-          "word": "girl.",
-          "definition": "děvčina\nneska"
-        }
-      ],
-      "chips": [
-        "Ja",
-        "jesm",
-        "děvčina",
+        "My",
+        "jesmo",
+        "byli",
+        "Studenti",
         "jesi",
-        "Ona"
+        "jest",
+        "jesm"
       ],
       "solutions": [
         [
-          "Ja",
-          "jesm",
-          "děvčina"
+          "My",
+          "jesmo",
+          "byli",
+          "Studenti"
         ]
       ],
-      "formattedSolution": "Ja jesm děvčina",
-      "id": "271163ac2d2d",
+      "formattedSolution": "My jesmo byli Studenti",
+      "id": "e9bdc1886c3d",
       "priority": 2,
-      "group": "cd7c5470f68d"
+      "group": "29bad07ba04d"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Ja",
-          "definition": "I"
+          "word": "My",
+          "definition": "we"
         },
         {
-          "word": "jesm",
-          "definition": "am"
+          "word": "jesmo",
+          "definition": "jesmo"
         },
         {
-          "word": "děvčina",
-          "definition": "a girl\ngirl\nthe girl"
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "Studenti",
+          "definition": "Studenti"
         }
       ],
       "chips": [
-        "I",
-        "am",
-        "a",
-        "girl",
-        "A",
-        "is",
-        "It"
+        "We",
+        "were",
+        "students",
+        "we",
+        "are"
       ],
       "solutions": [
         [
-          "I",
-          "am",
-          "a",
-          "girl"
+          "We",
+          "were",
+          "students"
         ]
       ],
-      "formattedSolution": "I am a girl.",
-      "id": "69ff64a83b0b",
+      "formattedSolution": "We were students",
+      "id": "419a95e40cd2",
       "priority": 2,
-      "group": "cd7c5470f68d"
+      "group": "29bad07ba04d"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Pozdrav, Ja jesm hlapec",
-      "meaningInSourceLanguage": "Hello, I am a boy.",
-      "id": "b98cd50a437f",
+      "formInTargetLanguage": "Oni byli tu",
+      "meaningInSourceLanguage": "They (masculine) were here",
+      "id": "804d83174b16",
       "priority": 0,
-      "group": "4d54e3cf6aa7"
+      "group": "a813061b9892"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Hello,",
-          "definition": "pozdrav"
+          "word": "They",
+          "definition": "haiek"
         },
         {
-          "word": "I",
-          "definition": "Ja\nni"
+          "word": "(masculine)",
+          "definition": "(masculine)"
         },
         {
-          "word": "am",
-          "definition": "jesm\nnaiz"
+          "word": "were",
+          "definition": "were"
         },
         {
-          "word": "a",
-          "definition": "-\n-a"
-        },
-        {
-          "word": "boy.",
-          "definition": "hlapec\nmutil"
+          "word": "here",
+          "definition": "here"
         }
       ],
       "chips": [
-        "Pozdrav",
-        "Ja",
-        "jesm",
-        "hlapec",
-        "pes",
-        "Para",
-        "je"
+        "Oni",
+        "byli",
+        "tu",
+        "ti",
+        "li"
       ],
       "solutions": [
         [
-          "Pozdrav",
-          "Ja",
-          "jesm",
-          "hlapec"
+          "Oni",
+          "byli",
+          "tu"
         ]
       ],
-      "formattedSolution": "Pozdrav, Ja jesm hlapec",
-      "id": "f3dd7c84e287",
+      "formattedSolution": "Oni byli tu",
+      "id": "24ca4a883542",
       "priority": 2,
-      "group": "4d54e3cf6aa7"
+      "group": "a813061b9892"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Pozdrav,",
-          "definition": "hello"
+          "word": "Oni",
+          "definition": "they"
         },
         {
-          "word": "Ja",
-          "definition": "I"
+          "word": "byli",
+          "definition": "byli"
         },
         {
-          "word": "jesm",
-          "definition": "am"
-        },
-        {
-          "word": "hlapec",
-          "definition": "boy"
+          "word": "tu",
+          "definition": "tu"
         }
       ],
       "chips": [
-        "Hello",
-        "I",
-        "am",
-        "a",
-        "boy",
-        "A",
-        "He",
-        "We",
-        "It"
+        "They",
+        "masculine",
+        "were",
+        "here",
+        "are",
+        "there",
+        "The"
       ],
       "solutions": [
         [
-          "Hello",
-          "I",
-          "am",
-          "a",
-          "boy"
+          "They",
+          "masculine",
+          "were",
+          "here"
         ]
       ],
-      "formattedSolution": "Hello, I am a boy.",
-      "id": "453ca651de64",
+      "formattedSolution": "They (masculine) were here",
+      "id": "81b13b4361bd",
       "priority": 2,
-      "group": "4d54e3cf6aa7"
+      "group": "a813061b9892"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ty jesi děvčina",
-      "meaningInSourceLanguage": "You are a girl.",
-      "id": "7cf0e3f3b450",
+      "formInTargetLanguage": "One byli tam",
+      "meaningInSourceLanguage": "They (feminine) were there",
+      "id": "446089de8251",
       "priority": 0,
-      "group": "385be15b9442"
+      "group": "793b18f5b8a0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "haiek"
+        },
+        {
+          "word": "(feminine)",
+          "definition": "(feminine)"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "there",
+          "definition": "hor"
+        }
+      ],
+      "chips": [
+        "One",
+        "byli",
+        "tam",
+        "Oni",
+        "byl"
+      ],
+      "solutions": [
+        [
+          "One",
+          "byli",
+          "tam"
+        ]
+      ],
+      "formattedSolution": "One byli tam",
+      "id": "407bf566b3db",
+      "priority": 2,
+      "group": "793b18f5b8a0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "One"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "tam",
+          "definition": "tam"
+        }
+      ],
+      "chips": [
+        "They",
+        "feminine",
+        "were",
+        "there",
+        "here",
+        "The",
+        "are"
+      ],
+      "solutions": [
+        [
+          "They",
+          "feminine",
+          "were",
+          "there"
+        ]
+      ],
+      "formattedSolution": "They (feminine) were there",
+      "id": "215939525980",
+      "priority": 2,
+      "group": "793b18f5b8a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo byli",
+      "meaningInSourceLanguage": "You were my friend",
+      "id": "4aa985eb8e94",
+      "priority": 0,
+      "group": "394d650acbbf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty\nzu"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "my",
+          "definition": "nire"
+        },
+        {
+          "word": "friend",
+          "definition": "laguna"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "byli",
+        "byl",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "My jesmo byli",
+      "id": "c87e0e2959b8",
+      "priority": 2,
+      "group": "394d650acbbf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "jesmo",
+          "definition": "jesmo"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        }
+      ],
+      "chips": [
+        "You",
+        "were",
+        "my",
+        "friend",
+        "are",
+        "or",
+        "men"
+      ],
+      "solutions": [
+        [
+          "You",
+          "were",
+          "my",
+          "friend"
+        ]
+      ],
+      "formattedSolution": "You were my friend",
+      "id": "7f7e2d337d54",
+      "priority": 2,
+      "group": "394d650acbbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy jeste byli",
+      "meaningInSourceLanguage": "You are a girl.",
+      "id": "abd350b4847f",
+      "priority": 0,
+      "group": "324d663d7b21"
     },
     {
       "type": "chips",
@@ -1037,39 +1053,39 @@
         }
       ],
       "chips": [
-        "Ty",
-        "jesi",
-        "děvčina",
-        "i",
-        "Jesi"
+        "Vy",
+        "jeste",
+        "byli",
+        "byl",
+        "jest"
       ],
       "solutions": [
         [
-          "Ty",
-          "jesi",
-          "děvčina"
+          "Vy",
+          "jeste",
+          "byli"
         ]
       ],
-      "formattedSolution": "Ty jesi děvčina",
-      "id": "774bfc60233e",
+      "formattedSolution": "Vy jeste byli",
+      "id": "c616e7cba1c2",
       "priority": 2,
-      "group": "385be15b9442"
+      "group": "324d663d7b21"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Ty",
-          "definition": "you"
+          "word": "Vy",
+          "definition": "Vy"
         },
         {
-          "word": "jesi",
-          "definition": "are"
+          "word": "jeste",
+          "definition": "jeste"
         },
         {
-          "word": "děvčina",
-          "definition": "a girl\ngirl\nthe girl"
+          "word": "byli",
+          "definition": "byli"
         }
       ],
       "chips": [
@@ -1090,9 +1106,9 @@
         ]
       ],
       "formattedSolution": "You are a girl.",
-      "id": "ebf4c91fcad3",
+      "id": "e8880c23165d",
       "priority": 2,
-      "group": "385be15b9442"
+      "group": "324d663d7b21"
     },
     {
       "type": "options",

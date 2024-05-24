@@ -110,6 +110,46 @@
           "id": "76a6c8df6b2b",
           "title": "Pozdrav!",
           "levels": 6
+        },
+        {
+          "imageSet": [
+            "man1",
+            "woman1",
+            "hello1"
+          ],
+          "summary": [
+            "muž",
+            "žena",
+            "hlapec",
+            "děvčina",
+            "Ja jesm",
+            "Ty jesi",
+            "on jest",
+            "pozdrav",
+            "Ja jesm byl",
+            "Ty jesi byl",
+            "Ty jesi byla (feminine)",
+            "On byl",
+            "Ona byla",
+            "My jesmo byli",
+            "Vy jeste byli",
+            "Oni byli",
+            "One byli",
+            "My jesmo byli Studenti",
+            "Oni byli tu",
+            "One byli tam",
+            "My jesmo byli",
+            "Vy jeste byli",
+            "Ty Jesi žena",
+            "Ty jesi muž",
+            "On jest Vojtěh",
+            "Jaroslav jest hlapec",
+            "Tatjana jest žena"
+          ],
+          "practiceHref": "pozdrav2",
+          "id": "75e952736a7f",
+          "title": "Pozdrav2",
+          "levels": 6
         }
       ]
     },
