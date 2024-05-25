@@ -250,7 +250,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "Vy"
+          "definition": "you(plural)"
         },
         {
           "word": "jeste",
@@ -386,7 +386,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "Ona"
+          "definition": "she"
         },
         {
           "word": "jest",
@@ -454,7 +454,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "Ono"
+          "definition": "it"
         },
         {
           "word": "jest",
@@ -522,7 +522,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they"
+          "definition": "they\nthey(masculine)"
         },
         {
           "word": "sut",
@@ -590,7 +590,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "One"
+          "definition": "they(feminine)"
         },
         {
           "word": "sut",

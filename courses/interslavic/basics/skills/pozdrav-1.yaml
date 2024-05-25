@@ -177,6 +177,12 @@ Mini-dictionary:
     - ty: you
     - jesi: are
     - on: he
+    - ona: she
+    - ono: it
+    - my: we
+    - vy: you(plural)
+    - oni: they(masculine)
+    - one: they(feminine)
     - jest: is
     - muž: man
     - žena: woman
@@ -192,13 +198,13 @@ Mini-dictionary:
     
     - Byti: to be
     - Ja Jesm: I am
-    - Ty Jesi: You are (singular)
+    - Ty Jesi: You are(singular)
     - On Jest: He is
     - Ona Jest: She is
     - Ono Jest: It is
     - My Jesmo: We are
-    - Oni Sut: They are (masculine)
-    - One Sut: They are (feminine)
+    - Oni Sut: They are(masculine)
+    - One Sut: They are(feminine)
 
   English:
     - Vojtěh: Vojtěh (male name)

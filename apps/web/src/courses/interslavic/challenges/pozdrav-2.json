@@ -262,7 +262,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "Ona"
+          "definition": "she"
         },
         {
           "word": "byla",
@@ -330,7 +330,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "Ono"
+          "definition": "it"
         },
         {
           "word": "bylo",
@@ -474,7 +474,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "Vy"
+          "definition": "you(plural)"
         },
         {
           "word": "jeste",
@@ -546,7 +546,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they"
+          "definition": "they\nthey(masculine)"
         },
         {
           "word": "byli",
@@ -614,7 +614,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "One"
+          "definition": "they(feminine)"
         },
         {
           "word": "byli",
@@ -960,7 +960,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "Ona"
+          "definition": "she"
         },
         {
           "word": "byla",
@@ -1043,7 +1043,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "Ono"
+          "definition": "it"
         },
         {
           "word": "bylo",
@@ -1051,7 +1051,7 @@
         },
         {
           "word": "tu",
-          "definition": "Here"
+          "definition": "tu"
         }
       ],
       "chips": [
@@ -1213,7 +1213,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "Vy"
+          "definition": "you(plural)"
         },
         {
           "word": "jeste",
@@ -1297,7 +1297,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they"
+          "definition": "they\nthey(masculine)"
         },
         {
           "word": "byli",
@@ -1377,7 +1377,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "One"
+          "definition": "they(feminine)"
         },
         {
           "word": "byli",
