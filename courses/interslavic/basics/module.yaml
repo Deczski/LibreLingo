@@ -2,7 +2,7 @@ Module:
   Name: "Basics"
 
 Skills:
-  - pozdrav 1.yaml
+  - pozdrav-1.yaml
 
   # - clothes.yaml
   # - nature.yaml

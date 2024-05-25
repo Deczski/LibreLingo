@@ -73,10 +73,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Ty jesi",
-      "meaningInSourceLanguage": "You are (singular)",
-      "id": "02a77d0adba2",
+      "meaningInSourceLanguage": "You are(singular)",
+      "id": "470eab0d01a3",
       "priority": 0,
-      "group": "cbc2b8cd62f0"
+      "group": "4c3474eae382"
     },
     {
       "type": "chips",
@@ -87,12 +87,8 @@
           "definition": "ty\nzu"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
-        },
-        {
-          "word": "(singular)",
-          "definition": "(singular)"
+          "word": "are(singular)",
+          "definition": "are(singular)"
         }
       ],
       "chips": [
@@ -108,9 +104,9 @@
         ]
       ],
       "formattedSolution": "Ty jesi",
-      "id": "19a2d6bf6f8e",
+      "id": "46a593b3d63a",
       "priority": 2,
-      "group": "cbc2b8cd62f0"
+      "group": "4c3474eae382"
     },
     {
       "type": "chips",
@@ -127,22 +123,20 @@
       ],
       "chips": [
         "You",
+        "are(singular",
         "are",
-        "singular",
-        "you",
-        "or"
+        "you"
       ],
       "solutions": [
         [
           "You",
-          "are",
-          "singular"
+          "are(singular"
         ]
       ],
-      "formattedSolution": "You are (singular)",
-      "id": "b30eaf3be6c7",
+      "formattedSolution": "You are(singular)",
+      "id": "262de4b81081",
       "priority": 2,
-      "group": "cbc2b8cd62f0"
+      "group": "4c3474eae382"
     },
     {
       "type": "options",
@@ -215,10 +209,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Vy jeste",
-      "meaningInSourceLanguage": "You are (plural)",
-      "id": "9c3b26db34ef",
+      "meaningInSourceLanguage": "You are(plural)",
+      "id": "afb82e70c2c8",
       "priority": 0,
-      "group": "a1ff8ae70e37"
+      "group": "73c2955f63fd"
     },
     {
       "type": "chips",
@@ -229,12 +223,8 @@
           "definition": "ty\nzu"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
-        },
-        {
-          "word": "(plural)",
-          "definition": "plurala"
+          "word": "are(plural)",
+          "definition": "are(plural)"
         }
       ],
       "chips": [
@@ -250,9 +240,9 @@
         ]
       ],
       "formattedSolution": "Vy jeste",
-      "id": "c22daeb3f741",
+      "id": "3df3ecce44de",
       "priority": 2,
-      "group": "a1ff8ae70e37"
+      "group": "73c2955f63fd"
     },
     {
       "type": "chips",
@@ -269,22 +259,20 @@
       ],
       "chips": [
         "You",
+        "are(plural",
         "are",
-        "plural",
-        "you",
-        "Are"
+        "you"
       ],
       "solutions": [
         [
           "You",
-          "are",
-          "plural"
+          "are(plural"
         ]
       ],
-      "formattedSolution": "You are (plural)",
-      "id": "180b2db132b1",
+      "formattedSolution": "You are(plural)",
+      "id": "3cb6557608e7",
       "priority": 2,
-      "group": "a1ff8ae70e37"
+      "group": "73c2955f63fd"
     },
     {
       "type": "options",
@@ -493,10 +481,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Oni sut",
-      "meaningInSourceLanguage": "They are (masculine)",
-      "id": "cb2ba7dddfcc",
+      "meaningInSourceLanguage": "They are(masculine)",
+      "id": "e070bdb86f2a",
       "priority": 0,
-      "group": "e3e7caacd859"
+      "group": "3d8958f43395"
     },
     {
       "type": "chips",
@@ -507,12 +495,8 @@
           "definition": "haiek"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
-        },
-        {
-          "word": "(masculine)",
-          "definition": "(masculine)"
+          "word": "are(masculine)",
+          "definition": "are(masculine)"
         }
       ],
       "chips": [
@@ -528,9 +512,9 @@
         ]
       ],
       "formattedSolution": "Oni sut",
-      "id": "db4530feef7d",
+      "id": "8c51d98c8e29",
       "priority": 2,
-      "group": "e3e7caacd859"
+      "group": "3d8958f43395"
     },
     {
       "type": "chips",
@@ -547,30 +531,28 @@
       ],
       "chips": [
         "They",
+        "are(masculine",
         "are",
-        "masculine",
-        "She",
-        "Are"
+        "they"
       ],
       "solutions": [
         [
           "They",
-          "are",
-          "masculine"
+          "are(masculine"
         ]
       ],
-      "formattedSolution": "They are (masculine)",
-      "id": "2bf49225ff97",
+      "formattedSolution": "They are(masculine)",
+      "id": "2b02ba2aef75",
       "priority": 2,
-      "group": "e3e7caacd859"
+      "group": "3d8958f43395"
     },
     {
       "type": "options",
       "formInTargetLanguage": "One sut",
-      "meaningInSourceLanguage": "They are (feminine)",
-      "id": "943d0fa38302",
+      "meaningInSourceLanguage": "They are(feminine)",
+      "id": "ee5a2a464195",
       "priority": 0,
-      "group": "f040d2dfba8d"
+      "group": "31de85eaae33"
     },
     {
       "type": "chips",
@@ -581,12 +563,8 @@
           "definition": "haiek"
         },
         {
-          "word": "are",
-          "definition": "dira\njesi\nzara"
-        },
-        {
-          "word": "(feminine)",
-          "definition": "(feminine)"
+          "word": "are(feminine)",
+          "definition": "are(feminine)"
         }
       ],
       "chips": [
@@ -602,9 +580,9 @@
         ]
       ],
       "formattedSolution": "One sut",
-      "id": "c5c94bc20c60",
+      "id": "319954640e2b",
       "priority": 2,
-      "group": "f040d2dfba8d"
+      "group": "31de85eaae33"
     },
     {
       "type": "chips",
@@ -621,22 +599,20 @@
       ],
       "chips": [
         "They",
+        "are(feminine",
         "are",
-        "feminine",
-        "She",
-        "Are"
+        "they"
       ],
       "solutions": [
         [
           "They",
-          "are",
-          "feminine"
+          "are(feminine"
         ]
       ],
-      "formattedSolution": "They are (feminine)",
-      "id": "9522d5cbce37",
+      "formattedSolution": "They are(feminine)",
+      "id": "469f83e916f8",
       "priority": 2,
-      "group": "f040d2dfba8d"
+      "group": "31de85eaae33"
     },
     {
       "type": "options",
@@ -1252,8 +1228,8 @@
         "a",
         "man",
         "am",
-        "or",
-        "car"
+        "and",
+        "or"
       ],
       "solutions": [
         [
@@ -1536,6 +1512,166 @@
       "id": "e0a52f94f66b",
       "priority": 2,
       "group": "d7d9001d1d63"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tatjana i Vojtěh",
+      "meaningInSourceLanguage": "Tatjana and Vojtěh",
+      "id": "af9b97cebe9e",
+      "priority": 0,
+      "group": "a5301736375f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "and",
+          "definition": "eta\ni"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)"
+        }
+      ],
+      "chips": [
+        "Tatjana",
+        "i",
+        "Vojtěh",
+        "ti",
+        "Toj"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "i",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Tatjana i Vojtěh",
+      "id": "1aa01195e52e",
+      "priority": 2,
+      "group": "a5301736375f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)"
+        }
+      ],
+      "chips": [
+        "Tatjana",
+        "and",
+        "Vojtěh",
+        "man",
+        "Thank"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "and",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Tatjana and Vojtěh",
+      "id": "12c946ea4d5f",
+      "priority": 2,
+      "group": "a5301736375f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo studenti",
+      "meaningInSourceLanguage": "We are students",
+      "id": "3e5d12bf91b0",
+      "priority": 0,
+      "group": "e80f4036769e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "are",
+          "definition": "dira\njesi\nzara"
+        },
+        {
+          "word": "students",
+          "definition": "ikasleak"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "studenti",
+        "jesm",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "studenti"
+        ]
+      ],
+      "formattedSolution": "My jesmo studenti",
+      "id": "3c53fffe2c87",
+      "priority": 2,
+      "group": "e80f4036769e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "jesmo",
+          "definition": "jesmo"
+        },
+        {
+          "word": "studenti",
+          "definition": "studenti"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "students",
+        "He",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "students"
+        ]
+      ],
+      "formattedSolution": "We are students",
+      "id": "e1198553ad4c",
+      "priority": 2,
+      "group": "e80f4036769e"
     },
     {
       "type": "cards",
