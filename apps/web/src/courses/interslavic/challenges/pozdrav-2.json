@@ -557,7 +557,7 @@
         "They(masculine",
         "were",
         "here",
-        "are"
+        "Where"
       ],
       "solutions": [
         [
@@ -625,7 +625,7 @@
         "They(feminine",
         "were",
         "here",
-        "fine"
+        "Where"
       ],
       "solutions": [
         [
@@ -716,8 +716,8 @@
         "a",
         "teacher",
         "am",
-        "car",
-        "We"
+        "",
+        "eat"
       ],
       "solutions": [
         [
@@ -810,8 +810,8 @@
         "a",
         "mathematician",
         "are",
-        "car",
-        "am"
+        "eat",
+        "car"
       ],
       "solutions": [
         [
@@ -1058,8 +1058,8 @@
         "It",
         "was",
         "here",
-        "I",
-        "am"
+        "eat",
+        "I"
       ],
       "solutions": [
         [
@@ -1233,7 +1233,7 @@
         "were",
         "athletes",
         "here",
-        "are"
+        "there"
       ],
       "solutions": [
         [

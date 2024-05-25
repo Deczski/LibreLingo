@@ -1,0 +1,1834 @@
+{
+  "id": "0beaa60946f0",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja budu",
+      "meaningInSourceLanguage": "I will",
+      "id": "02c2a927d522",
+      "priority": 0,
+      "group": "c3b569f128b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja\nni"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "budu",
+        "tu",
+        "budě"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "budu"
+        ]
+      ],
+      "formattedSolution": "Ja budu",
+      "id": "68b7dc6729fb",
+      "priority": 2,
+      "group": "c3b569f128b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "budu",
+          "definition": "budu"
+        }
+      ],
+      "chips": [
+        "I",
+        "will",
+        "is",
+        "It"
+      ],
+      "solutions": [
+        [
+          "I",
+          "will"
+        ],
+        [
+          "I",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "I will",
+      "id": "88f1fda3aa68",
+      "priority": 2,
+      "group": "c3b569f128b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty budeš",
+      "meaningInSourceLanguage": "You(singular) will",
+      "id": "491fb3dba341",
+      "priority": 0,
+      "group": "1573f160121f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "budeš",
+        "My",
+        "Vy"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "budeš"
+        ]
+      ],
+      "formattedSolution": "Ty budeš",
+      "id": "9e978ad8e100",
+      "priority": 2,
+      "group": "1573f160121f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "budeš",
+          "definition": "budeš"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "will",
+        "sing",
+        "girl"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "will"
+        ],
+        [
+          "You(singular",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "You(singular) will",
+      "id": "ece4e28659fb",
+      "priority": 2,
+      "group": "1573f160121f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On budě",
+      "meaningInSourceLanguage": "He will",
+      "id": "8d4ddb8f877c",
+      "priority": 0,
+      "group": "c684c14c8858"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "hura\non"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "On",
+        "budě",
+        "Ona",
+        "Ono"
+      ],
+      "solutions": [
+        [
+          "On",
+          "budě"
+        ]
+      ],
+      "formattedSolution": "On budě",
+      "id": "de870dd1c9c7",
+      "priority": 2,
+      "group": "c684c14c8858"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he"
+        },
+        {
+          "word": "budě",
+          "definition": "budě"
+        }
+      ],
+      "chips": [
+        "He",
+        "will",
+        "Hi",
+        "We"
+      ],
+      "solutions": [
+        [
+          "He",
+          "will"
+        ],
+        [
+          "He",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "He will",
+      "id": "56b4afaa1b61",
+      "priority": 2,
+      "group": "c684c14c8858"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona budě",
+      "meaningInSourceLanguage": "She will",
+      "id": "907ec09c40f8",
+      "priority": 0,
+      "group": "1331249ef01f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "hura"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "budě",
+        "On",
+        "Ono"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "budě"
+        ]
+      ],
+      "formattedSolution": "Ona budě",
+      "id": "2a4c0655af75",
+      "priority": 2,
+      "group": "1331249ef01f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "she"
+        },
+        {
+          "word": "budě",
+          "definition": "budě"
+        }
+      ],
+      "chips": [
+        "She",
+        "will",
+        "the",
+        "she"
+      ],
+      "solutions": [
+        [
+          "She",
+          "will"
+        ],
+        [
+          "She",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "She will",
+      "id": "5575bd646cd2",
+      "priority": 2,
+      "group": "1331249ef01f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono budě",
+      "meaningInSourceLanguage": "It will",
+      "id": "baff3dbd413b",
+      "priority": 0,
+      "group": "26cbe9e720ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "hura"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "budě",
+        "On",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "budě"
+        ]
+      ],
+      "formattedSolution": "Ono budě",
+      "id": "996035bac356",
+      "priority": 2,
+      "group": "26cbe9e720ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "it"
+        },
+        {
+          "word": "budě",
+          "definition": "budě"
+        }
+      ],
+      "chips": [
+        "It",
+        "will",
+        "it",
+        "I"
+      ],
+      "solutions": [
+        [
+          "It",
+          "will"
+        ],
+        [
+          "It",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "It will",
+      "id": "90560618e482",
+      "priority": 2,
+      "group": "26cbe9e720ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My buděmo",
+      "meaningInSourceLanguage": "We will",
+      "id": "02c4f1e0a00f",
+      "priority": 0,
+      "group": "429389a73a61"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "My",
+        "buděmo",
+        "budě",
+        "Ty"
+      ],
+      "solutions": [
+        [
+          "My",
+          "buděmo"
+        ]
+      ],
+      "formattedSolution": "My buděmo",
+      "id": "2bdafb78e782",
+      "priority": 2,
+      "group": "429389a73a61"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "buděmo",
+          "definition": "buděmo"
+        }
+      ],
+      "chips": [
+        "We",
+        "will",
+        "we",
+        "He"
+      ],
+      "solutions": [
+        [
+          "We",
+          "will"
+        ],
+        [
+          "We",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "We will",
+      "id": "44fbdd23f495",
+      "priority": 2,
+      "group": "429389a73a61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy buděte",
+      "meaningInSourceLanguage": "You(plural) will",
+      "id": "50bfbcef202a",
+      "priority": 0,
+      "group": "e09945f32072"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "You(plural)"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "buděte",
+        "budě",
+        "te"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "buděte"
+        ]
+      ],
+      "formattedSolution": "Vy buděte",
+      "id": "45c8325778e7",
+      "priority": 2,
+      "group": "e09945f32072"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "you(plural)"
+        },
+        {
+          "word": "buděte",
+          "definition": "buděte"
+        }
+      ],
+      "chips": [
+        "You(plural",
+        "will",
+        "you(plural",
+        "girl"
+      ],
+      "solutions": [
+        [
+          "You(plural",
+          "will"
+        ],
+        [
+          "You(plural",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "You(plural) will",
+      "id": "46f33c739277",
+      "priority": 2,
+      "group": "e09945f32072"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni budut",
+      "meaningInSourceLanguage": "They(masculine)",
+      "id": "077dcf82d078",
+      "priority": 0,
+      "group": "99208ecca27d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One budut",
+      "meaningInSourceLanguage": "They(feminine)",
+      "id": "2a6598261a0d",
+      "priority": 0,
+      "group": "aae59da42c2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja budu znati",
+      "meaningInSourceLanguage": "I will know",
+      "id": "38c32d484acc",
+      "priority": 0,
+      "group": "97b69ff26053"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja\nni"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "know",
+          "definition": "znati"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "budu",
+        "znati",
+        "Ona",
+        "tu"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "budu",
+          "znati"
+        ]
+      ],
+      "formattedSolution": "Ja budu znati",
+      "id": "8e0b8a476510",
+      "priority": 2,
+      "group": "97b69ff26053"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "budu",
+          "definition": "budu"
+        },
+        {
+          "word": "znati",
+          "definition": "znati"
+        }
+      ],
+      "chips": [
+        "I",
+        "will",
+        "know",
+        "is",
+        "It"
+      ],
+      "solutions": [
+        [
+          "I",
+          "will",
+          "know"
+        ]
+      ],
+      "formattedSolution": "I will know",
+      "id": "6761a61039c1",
+      "priority": 2,
+      "group": "97b69ff26053"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pozdrav. Kde Ty zautra budeš ?",
+      "meaningInSourceLanguage": "Hello. Where will You be tommorow ?",
+      "id": "c57c5da32d8a",
+      "priority": 0,
+      "group": "a339c11243e8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Hello.",
+          "definition": "pozdrav"
+        },
+        {
+          "word": "Where",
+          "definition": "Where"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "You",
+          "definition": "ty\nzu"
+        },
+        {
+          "word": "be",
+          "definition": "be"
+        },
+        {
+          "word": "tommorow",
+          "definition": "zautra"
+        }
+      ],
+      "chips": [
+        "Pozdrav",
+        "Kde",
+        "Ty",
+        "zautra",
+        "budeš",
+        "",
+        "od",
+        "te",
+        "Ta",
+        "Ja",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Pozdrav",
+          "Kde",
+          "Ty",
+          "zautra",
+          "budeš",
+          ""
+        ]
+      ],
+      "formattedSolution": "Pozdrav. Kde Ty zautra budeš ?",
+      "id": "d897414447c1",
+      "priority": 2,
+      "group": "a339c11243e8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pozdrav.",
+          "definition": "hello"
+        },
+        {
+          "word": "Kde",
+          "definition": "Where"
+        },
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "zautra",
+          "definition": "Tommorow"
+        },
+        {
+          "word": "budeš",
+          "definition": "budeš"
+        }
+      ],
+      "chips": [
+        "Hello",
+        "Where",
+        "will",
+        "You",
+        "be",
+        "tommorow",
+        "",
+        "We",
+        "He",
+        "or",
+        "me",
+        "Her",
+        "are"
+      ],
+      "solutions": [
+        [
+          "Hello",
+          "Where",
+          "will",
+          "You",
+          "be",
+          "tommorow",
+          ""
+        ]
+      ],
+      "formattedSolution": "Hello. Where will You be tommorow ?",
+      "id": "e1b94956445c",
+      "priority": 2,
+      "group": "a339c11243e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My budemo futbolisti",
+      "meaningInSourceLanguage": "We will be footballers",
+      "id": "fff26ef42e54",
+      "priority": 0,
+      "group": "df1dbe44a60d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "be",
+          "definition": "be"
+        },
+        {
+          "word": "footballers",
+          "definition": "footballers"
+        }
+      ],
+      "chips": [
+        "My",
+        "budemo",
+        "futbolisti",
+        "byl",
+        "bylo"
+      ],
+      "solutions": [
+        [
+          "My",
+          "budemo",
+          "futbolisti"
+        ]
+      ],
+      "formattedSolution": "My budemo futbolisti",
+      "id": "8cf52ac667ff",
+      "priority": 2,
+      "group": "df1dbe44a60d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "budemo",
+          "definition": "budemo"
+        },
+        {
+          "word": "futbolisti",
+          "definition": "futbolisti"
+        }
+      ],
+      "chips": [
+        "We",
+        "will",
+        "be",
+        "footballers",
+        "we",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "We",
+          "will",
+          "be",
+          "footballers"
+        ]
+      ],
+      "formattedSolution": "We will be footballers",
+      "id": "347e83d9b87a",
+      "priority": 2,
+      "group": "df1dbe44a60d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy buděte spati",
+      "meaningInSourceLanguage": "You will sleep",
+      "id": "df9b104bc0db",
+      "priority": 0,
+      "group": "6a7b741fa106"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty\nzu"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "sleep",
+          "definition": "sleep"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "buděte",
+        "spati",
+        "sut",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "buděte",
+          "spati"
+        ]
+      ],
+      "formattedSolution": "Vy buděte spati",
+      "id": "eb4188286f52",
+      "priority": 2,
+      "group": "6a7b741fa106"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "you(plural)"
+        },
+        {
+          "word": "buděte",
+          "definition": "buděte"
+        },
+        {
+          "word": "spati",
+          "definition": "Sleep"
+        }
+      ],
+      "chips": [
+        "You",
+        "will",
+        "sleep",
+        "you",
+        "Yes"
+      ],
+      "solutions": [
+        [
+          "You",
+          "will",
+          "sleep"
+        ]
+      ],
+      "formattedSolution": "You will sleep",
+      "id": "a11c1c625f79",
+      "priority": 2,
+      "group": "6a7b741fa106"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One budut pisati",
+      "meaningInSourceLanguage": "They(feminine) will write",
+      "id": "97120a6013f7",
+      "priority": 0,
+      "group": "f227d8e46394"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "write",
+          "definition": "write"
+        }
+      ],
+      "chips": [
+        "One",
+        "budut",
+        "pisati",
+        "sut",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "One",
+          "budut",
+          "pisati"
+        ]
+      ],
+      "formattedSolution": "One budut pisati",
+      "id": "2083abc1706b",
+      "priority": 2,
+      "group": "f227d8e46394"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "they(feminine)"
+        },
+        {
+          "word": "budut",
+          "definition": "budut"
+        },
+        {
+          "word": "pisati",
+          "definition": "pisati"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "will",
+        "write",
+        "white",
+        "fine"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "will",
+          "write"
+        ]
+      ],
+      "formattedSolution": "They(feminine) will write",
+      "id": "ca9abaf35137",
+      "priority": 2,
+      "group": "f227d8e46394"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni budut jedati",
+      "meaningInSourceLanguage": "They will eat",
+      "id": "ce131d2e91be",
+      "priority": 0,
+      "group": "365800a0271e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "haiek"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "eat",
+          "definition": "eat"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "budut",
+        "jedati",
+        "budu",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "budut",
+          "jedati"
+        ]
+      ],
+      "formattedSolution": "Oni budut jedati",
+      "id": "922c3298dad1",
+      "priority": 2,
+      "group": "365800a0271e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "they\nthey(masculine)"
+        },
+        {
+          "word": "budut",
+          "definition": "budut"
+        },
+        {
+          "word": "jedati",
+          "definition": "Eat"
+        }
+      ],
+      "chips": [
+        "They",
+        "will",
+        "eat",
+        "She",
+        "was"
+      ],
+      "solutions": [
+        [
+          "They",
+          "will",
+          "eat"
+        ]
+      ],
+      "formattedSolution": "They will eat",
+      "id": "7d91271292c0",
+      "priority": 2,
+      "group": "365800a0271e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja budu razuměti",
+      "meaningInSourceLanguage": "I will understand",
+      "id": "e69677541bce",
+      "priority": 0,
+      "group": "16663754a5be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja\nni"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "understand",
+          "definition": "understand"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "budu",
+        "razuměti",
+        "budě",
+        "sut"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "budu",
+          "razuměti"
+        ]
+      ],
+      "formattedSolution": "Ja budu razuměti",
+      "id": "6ca97ce0f347",
+      "priority": 2,
+      "group": "16663754a5be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "budu",
+          "definition": "budu"
+        },
+        {
+          "word": "razuměti",
+          "definition": "Understand"
+        }
+      ],
+      "chips": [
+        "I",
+        "will",
+        "understand",
+        "is",
+        "It"
+      ],
+      "solutions": [
+        [
+          "I",
+          "will",
+          "understand"
+        ]
+      ],
+      "formattedSolution": "I will understand",
+      "id": "6c7585de7110",
+      "priority": 2,
+      "group": "16663754a5be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty budeš igrati",
+      "meaningInSourceLanguage": "You(singular) will play",
+      "id": "6645012bd16d",
+      "priority": 0,
+      "group": "6505dd32785e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "play",
+          "definition": "play"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "budeš",
+        "igrati",
+        "tu",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "budeš",
+          "igrati"
+        ]
+      ],
+      "formattedSolution": "Ty budeš igrati",
+      "id": "b5c58120073d",
+      "priority": 2,
+      "group": "6505dd32785e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "budeš",
+          "definition": "budeš"
+        },
+        {
+          "word": "igrati",
+          "definition": "Play"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "will",
+        "play",
+        "sing",
+        "girl"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "will",
+          "play"
+        ]
+      ],
+      "formattedSolution": "You(singular) will play",
+      "id": "20dea7dff360",
+      "priority": 2,
+      "group": "6505dd32785e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My budemo pěvati",
+      "meaningInSourceLanguage": "We will sing",
+      "id": "1603f3c6eae3",
+      "priority": 0,
+      "group": "495d91a1caf5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "sing",
+          "definition": "sing"
+        }
+      ],
+      "chips": [
+        "My",
+        "budemo",
+        "pěvati",
+        "tu",
+        "to"
+      ],
+      "solutions": [
+        [
+          "My",
+          "budemo",
+          "pěvati"
+        ]
+      ],
+      "formattedSolution": "My budemo pěvati",
+      "id": "c5d28e15a59b",
+      "priority": 2,
+      "group": "495d91a1caf5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "budemo",
+          "definition": "budemo"
+        },
+        {
+          "word": "pěvati",
+          "definition": "pěvati"
+        }
+      ],
+      "chips": [
+        "We",
+        "will",
+        "sing",
+        "is",
+        "Hi"
+      ],
+      "solutions": [
+        [
+          "We",
+          "will",
+          "sing"
+        ]
+      ],
+      "formattedSolution": "We will sing",
+      "id": "3bf63d3ed78d",
+      "priority": 2,
+      "group": "495d91a1caf5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On budě plavati",
+      "meaningInSourceLanguage": "He will swim",
+      "id": "5d2f7fdda37f",
+      "priority": 0,
+      "group": "6e895fd79f9c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "hura\non"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "swim",
+          "definition": "Plavati"
+        }
+      ],
+      "chips": [
+        "On",
+        "budě",
+        "plavati",
+        "Ona",
+        "Oni"
+      ],
+      "solutions": [
+        [
+          "On",
+          "budě",
+          "plavati"
+        ]
+      ],
+      "formattedSolution": "On budě plavati",
+      "id": "d37d19f5a859",
+      "priority": 2,
+      "group": "6e895fd79f9c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he"
+        },
+        {
+          "word": "budě",
+          "definition": "budě"
+        },
+        {
+          "word": "plavati",
+          "definition": "Swim"
+        }
+      ],
+      "chips": [
+        "He",
+        "will",
+        "swim",
+        "Hi",
+        "is"
+      ],
+      "solutions": [
+        [
+          "He",
+          "will",
+          "swim"
+        ]
+      ],
+      "formattedSolution": "He will swim",
+      "id": "e1372396d8a7",
+      "priority": 2,
+      "group": "6e895fd79f9c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona budě tancevati",
+      "meaningInSourceLanguage": "She will dance",
+      "id": "b4a0e8e60879",
+      "priority": 0,
+      "group": "974846a9f38e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "hura"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "dance",
+          "definition": "dance"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "budě",
+        "tancevati",
+        "Oni",
+        "One"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "budě",
+          "tancevati"
+        ]
+      ],
+      "formattedSolution": "Ona budě tancevati",
+      "id": "888b35b53c2e",
+      "priority": 2,
+      "group": "974846a9f38e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "she"
+        },
+        {
+          "word": "budě",
+          "definition": "budě"
+        },
+        {
+          "word": "tancevati",
+          "definition": "Dance"
+        }
+      ],
+      "chips": [
+        "She",
+        "will",
+        "dance",
+        "are",
+        "the"
+      ],
+      "solutions": [
+        [
+          "She",
+          "will",
+          "dance"
+        ]
+      ],
+      "formattedSolution": "She will dance",
+      "id": "d21d81950e4a",
+      "priority": 2,
+      "group": "974846a9f38e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono budě jedati",
+      "meaningInSourceLanguage": "It will eat",
+      "id": "80956af6d7d7",
+      "priority": 0,
+      "group": "6dfa8e9d9935"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "hura"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "eat",
+          "definition": "eat"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "budě",
+        "jedati",
+        "Ona",
+        "Oni"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "budě",
+          "jedati"
+        ]
+      ],
+      "formattedSolution": "Ono budě jedati",
+      "id": "6ef14c23c176",
+      "priority": 2,
+      "group": "6dfa8e9d9935"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "it"
+        },
+        {
+          "word": "budě",
+          "definition": "budě"
+        },
+        {
+          "word": "jedati",
+          "definition": "Eat"
+        }
+      ],
+      "chips": [
+        "It",
+        "will",
+        "eat",
+        "it",
+        "fat"
+      ],
+      "solutions": [
+        [
+          "It",
+          "will",
+          "eat"
+        ]
+      ],
+      "formattedSolution": "It will eat",
+      "id": "4673f7daf81c",
+      "priority": 2,
+      "group": "6dfa8e9d9935"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My budemo futbolisti",
+      "meaningInSourceLanguage": "We will be footballers",
+      "id": "fff26ef42e54",
+      "priority": 0,
+      "group": "df1dbe44a60d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "be",
+          "definition": "be"
+        },
+        {
+          "word": "footballers",
+          "definition": "footballers"
+        }
+      ],
+      "chips": [
+        "My",
+        "budemo",
+        "futbolisti",
+        "byl",
+        "bylo"
+      ],
+      "solutions": [
+        [
+          "My",
+          "budemo",
+          "futbolisti"
+        ]
+      ],
+      "formattedSolution": "My budemo futbolisti",
+      "id": "8cf52ac667ff",
+      "priority": 2,
+      "group": "df1dbe44a60d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "budemo",
+          "definition": "budemo"
+        },
+        {
+          "word": "futbolisti",
+          "definition": "futbolisti"
+        }
+      ],
+      "chips": [
+        "We",
+        "will",
+        "be",
+        "footballers",
+        "we",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "We",
+          "will",
+          "be",
+          "footballers"
+        ]
+      ],
+      "formattedSolution": "We will be footballers",
+      "id": "347e83d9b87a",
+      "priority": 2,
+      "group": "df1dbe44a60d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy buděte kupovati",
+      "meaningInSourceLanguage": "You(plural) will buy",
+      "id": "b25299d044c6",
+      "priority": 0,
+      "group": "b9e1b393469a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "You(plural)"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "buy",
+          "definition": "buy"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "buděte",
+        "kupovati",
+        "sut",
+        "budě"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "buděte",
+          "kupovati"
+        ]
+      ],
+      "formattedSolution": "Vy buděte kupovati",
+      "id": "35e109140f62",
+      "priority": 2,
+      "group": "b9e1b393469a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "you(plural)"
+        },
+        {
+          "word": "buděte",
+          "definition": "buděte"
+        },
+        {
+          "word": "kupovati",
+          "definition": "kupovati"
+        }
+      ],
+      "chips": [
+        "You(plural",
+        "will",
+        "buy",
+        "ball",
+        "You"
+      ],
+      "solutions": [
+        [
+          "You(plural",
+          "will",
+          "buy"
+        ]
+      ],
+      "formattedSolution": "You(plural) will buy",
+      "id": "f7b920cb812b",
+      "priority": 2,
+      "group": "b9e1b393469a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One budut zautra tam",
+      "meaningInSourceLanguage": "They(feminine) will be there tommorow",
+      "id": "505caf100c5b",
+      "priority": 0,
+      "group": "df373429d142"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "will",
+          "definition": "will"
+        },
+        {
+          "word": "be",
+          "definition": "be"
+        },
+        {
+          "word": "there",
+          "definition": "hor"
+        },
+        {
+          "word": "tommorow",
+          "definition": "zautra"
+        }
+      ],
+      "chips": [
+        "One",
+        "budut",
+        "zautra",
+        "tam",
+        "sut",
+        "Ona",
+        "tu"
+      ],
+      "solutions": [
+        [
+          "One",
+          "budut",
+          "zautra",
+          "tam"
+        ]
+      ],
+      "formattedSolution": "One budut zautra tam",
+      "id": "e7d4084596c6",
+      "priority": 2,
+      "group": "df373429d142"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "they(feminine)"
+        },
+        {
+          "word": "budut",
+          "definition": "budut"
+        },
+        {
+          "word": "zautra",
+          "definition": "Tommorow"
+        },
+        {
+          "word": "tam",
+          "definition": "there"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "will",
+        "be",
+        "there",
+        "tommorow",
+        "here",
+        "were",
+        "the",
+        "They"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "will",
+          "be",
+          "there",
+          "tommorow"
+        ]
+      ],
+      "formattedSolution": "They(feminine) will be there tommorow",
+      "id": "526a794644a4",
+      "priority": 2,
+      "group": "df373429d142"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Plavati",
+      "meaningInSourceLanguage": "Swim",
+      "id": "c6dc0b62acf8",
+      "priority": 0,
+      "group": "0406fb04319f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Plavati"
+      ],
+      "phrase": [
+        {
+          "word": "Swim",
+          "definition": "Plavati"
+        }
+      ],
+      "id": "d8737bc31aef",
+      "priority": 1,
+      "group": "0406fb04319f"
+    }
+  ]
+}

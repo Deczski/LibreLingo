@@ -378,8 +378,8 @@
         "am",
         "We",
         "He",
-        "the",
-        "me"
+        "be",
+        "eat"
       ],
       "solutions": [
         [
@@ -814,8 +814,8 @@
         "a",
         "boy",
         "I",
-        "am",
-        "We"
+        "be",
+        "am"
       ],
       "solutions": [
         [
@@ -908,7 +908,7 @@
         "bus",
         "is",
         "It",
-        "I"
+        "be"
       ],
       "solutions": [
         [
@@ -1133,8 +1133,8 @@
         "am",
         "is",
         "It",
-        "of",
-        "We"
+        "",
+        "be"
       ],
       "solutions": [
         [
@@ -1758,9 +1758,9 @@
         "or",
         "cars",
         "are",
+        "be",
         "the",
-        "We",
-        "He"
+        "We"
       ],
       "solutions": [
         [

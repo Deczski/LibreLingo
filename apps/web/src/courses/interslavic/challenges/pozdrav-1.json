@@ -193,7 +193,7 @@
         "We",
         "are",
         "He",
-        "Are"
+        "be"
       ],
       "solutions": [
         [
@@ -329,7 +329,7 @@
         "He",
         "is",
         "We",
-        "Hi"
+        "be"
       ],
       "solutions": [
         [
@@ -684,9 +684,9 @@
         "am",
         "a",
         "man",
+        "",
         "It",
-        "me",
-        "my"
+        "me"
       ],
       "solutions": [
         [
@@ -735,9 +735,9 @@
         "Ja",
         "jesm",
         "Katarina",
+        "tam",
         "Ona",
-        "žena",
-        "Da"
+        "žena"
       ],
       "solutions": [
         [
@@ -865,9 +865,9 @@
         "am",
         "a",
         "girl",
+        "",
         "is",
-        "It",
-        "Hi"
+        "It"
       ],
       "solutions": [
         [
@@ -921,8 +921,8 @@
         "jesm",
         "hlapec",
         "je",
-        "Da",
-        "Ta"
+        "tam",
+        "Da"
       ],
       "solutions": [
         [
@@ -965,9 +965,9 @@
         "a",
         "boy",
         "He",
-        "We",
-        "It",
-        "Hi"
+        "be",
+        "",
+        "We"
       ],
       "solutions": [
         [
@@ -1579,7 +1579,7 @@
         "and",
         "Vojtěh",
         "man",
-        "Thank"
+        "eat"
       ],
       "solutions": [
         [
@@ -1659,7 +1659,7 @@
         "are",
         "students",
         "He",
-        "Are"
+        "be"
       ],
       "solutions": [
         [

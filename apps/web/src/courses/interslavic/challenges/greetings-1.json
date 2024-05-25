@@ -93,7 +93,7 @@
         "We",
         "He",
         "She",
-        "Are"
+        "be"
       ],
       "solutions": [
         [
@@ -370,8 +370,8 @@
         "dobro",
         "Hvala",
         "je",
-        "Da",
-        "vaša"
+        "tam",
+        "Da"
       ],
       "solutions": [
         [
@@ -676,8 +676,8 @@
         "am",
         "He",
         "a",
-        "Are",
-        "the"
+        "be",
+        "Are"
       ],
       "solutions": [
         [
@@ -1176,10 +1176,10 @@
         "takože",
         "dobro",
         "Hvala",
+        "tam",
         "Kako",
         "je",
-        "to",
-        "te"
+        "to"
       ],
       "solutions": [
         [

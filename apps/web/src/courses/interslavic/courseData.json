@@ -98,6 +98,44 @@
           "id": "75e952736a7f",
           "title": "Pozdrav-2",
           "levels": 5
+        },
+        {
+          "imageSet": [
+            "man3",
+            "woman3",
+            "hello3"
+          ],
+          "summary": [
+            "Plavati",
+            "Ja budu",
+            "Ty budeš",
+            "On budě",
+            "Ona budě",
+            "Ono budě",
+            "My buděmo",
+            "Vy buděte",
+            "Oni budut",
+            "One budut",
+            "Ja budu znati",
+            "Pozdrav. Kde Ty zautra budeš ?",
+            "My budemo futbolisti",
+            "Vy buděte spati",
+            "One budut pisati",
+            "Oni budut jedati",
+            "Ja budu razuměti",
+            "Ty budeš igrati",
+            "My budemo pěvati",
+            "On budě plavati",
+            "Ona budě tancevati",
+            "Ono budě jedati",
+            "My budemo futbolisti",
+            "Vy buděte kupovati",
+            "One budut zautra tam"
+          ],
+          "practiceHref": "pozdrav-3",
+          "id": "0beaa60946f0",
+          "title": "Pozdrav-3",
+          "levels": 6
         }
       ]
     },
