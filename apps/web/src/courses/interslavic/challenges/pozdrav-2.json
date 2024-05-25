@@ -1076,10 +1076,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "My jesmo byli studenti",
-      "meaningInSourceLanguage": "We were",
-      "id": "3f23cba0f898",
+      "meaningInSourceLanguage": "We were students",
+      "id": "2439d5ee4d77",
       "priority": 0,
-      "group": "1dd3dd1a577e"
+      "group": "be6e962cbb95"
     },
     {
       "type": "chips",
@@ -1092,6 +1092,10 @@
         {
           "word": "were",
           "definition": "were"
+        },
+        {
+          "word": "students",
+          "definition": "Studenti"
         }
       ],
       "chips": [
@@ -1112,9 +1116,9 @@
         ]
       ],
       "formattedSolution": "My jesmo byli studenti",
-      "id": "3f9dabf6781b",
+      "id": "c93982d3c122",
       "priority": 2,
-      "group": "1dd3dd1a577e"
+      "group": "be6e962cbb95"
     },
     {
       "type": "chips",
@@ -1140,19 +1144,21 @@
       "chips": [
         "We",
         "were",
+        "students",
         "we",
         "are"
       ],
       "solutions": [
         [
           "We",
-          "were"
+          "were",
+          "students"
         ]
       ],
-      "formattedSolution": "We were",
-      "id": "d4d34870eae8",
+      "formattedSolution": "We were students",
+      "id": "faf0547190a0",
       "priority": 2,
-      "group": "1dd3dd1a577e"
+      "group": "be6e962cbb95"
     },
     {
       "type": "options",
