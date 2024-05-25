@@ -78,18 +78,18 @@
     {
       "type": "options",
       "formInTargetLanguage": "Ty budeš",
-      "meaningInSourceLanguage": "You(singular) will",
-      "id": "491fb3dba341",
+      "meaningInSourceLanguage": "You<singular> will",
+      "id": "2f1af573d4cb",
       "priority": 0,
-      "group": "1573f160121f"
+      "group": "fe15f293b941"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "You(singular)",
-          "definition": "You(singular)"
+          "word": "You<singular>",
+          "definition": "You<singular>"
         },
         {
           "word": "will",
@@ -109,9 +109,9 @@
         ]
       ],
       "formattedSolution": "Ty budeš",
-      "id": "9e978ad8e100",
+      "id": "4c9848e52e26",
       "priority": 2,
-      "group": "1573f160121f"
+      "group": "fe15f293b941"
     },
     {
       "type": "chips",
@@ -127,26 +127,26 @@
         }
       ],
       "chips": [
-        "You(singular",
+        "You<singular",
         "will",
-        "sing",
-        "girl"
+        "You(singular",
+        "sing"
       ],
       "solutions": [
         [
-          "You(singular",
+          "You<singular",
           "will"
         ],
         [
-          "You(singular",
+          "You<singular",
           "will",
           "be"
         ]
       ],
-      "formattedSolution": "You(singular) will",
-      "id": "ece4e28659fb",
+      "formattedSolution": "You<singular> will",
+      "id": "29f1fa0f1a67",
       "priority": 2,
-      "group": "1573f160121f"
+      "group": "fe15f293b941"
     },
     {
       "type": "options",
