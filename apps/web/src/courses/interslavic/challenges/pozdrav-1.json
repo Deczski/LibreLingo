@@ -125,7 +125,7 @@
         "You",
         "are(singular",
         "are",
-        "you"
+        "You(singular"
       ],
       "solutions": [
         [
@@ -261,7 +261,7 @@
         "You",
         "are(plural",
         "are",
-        "you"
+        "You(plural"
       ],
       "solutions": [
         [
@@ -533,7 +533,7 @@
         "They",
         "are(masculine",
         "are",
-        "they"
+        "They(masculine"
       ],
       "solutions": [
         [
@@ -601,7 +601,7 @@
         "They",
         "are(feminine",
         "are",
-        "they"
+        "They(feminine"
       ],
       "solutions": [
         [
@@ -648,7 +648,7 @@
         "jesm",
         "muž",
         "je",
-        "te"
+        "tu"
       ],
       "solutions": [
         [
@@ -1405,8 +1405,8 @@
         "a",
         "boy",
         "am",
-        "or",
-        "Is"
+        "was",
+        "or"
       ],
       "solutions": [
         [
@@ -1498,7 +1498,7 @@
         "woman",
         "man",
         "am",
-        "and"
+        "was"
       ],
       "solutions": [
         [
@@ -1615,7 +1615,7 @@
         },
         {
           "word": "students",
-          "definition": "ikasleak"
+          "definition": "Studenti"
         }
       ],
       "chips": [
@@ -1651,7 +1651,7 @@
         },
         {
           "word": "studenti",
-          "definition": "studenti"
+          "definition": "Students"
         }
       ],
       "chips": [

@@ -1,0 +1,1455 @@
+{
+  "id": "75e952736a7f",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm byl",
+      "meaningInSourceLanguage": "I was",
+      "id": "150de052b173",
+      "priority": 0,
+      "group": "3d8031a19815"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja\nni"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "byl",
+        "je",
+        "Ty"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "byl"
+        ]
+      ],
+      "formattedSolution": "Ja jesm byl",
+      "id": "d79319e030d8",
+      "priority": 2,
+      "group": "3d8031a19815"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        }
+      ],
+      "chips": [
+        "I",
+        "was",
+        "a",
+        "am"
+      ],
+      "solutions": [
+        [
+          "I",
+          "was"
+        ]
+      ],
+      "formattedSolution": "I was",
+      "id": "c986ea0dff91",
+      "priority": 2,
+      "group": "3d8031a19815"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty jesi byl",
+      "meaningInSourceLanguage": "You were",
+      "id": "dab8477dac58",
+      "priority": 0,
+      "group": "26cc5616a1b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty\nzu"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "jesi",
+        "byl",
+        "My",
+        "Vy"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "jesi",
+          "byl"
+        ]
+      ],
+      "formattedSolution": "Ty jesi byl",
+      "id": "0a74dc438667",
+      "priority": 2,
+      "group": "26cc5616a1b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        }
+      ],
+      "chips": [
+        "You",
+        "were",
+        "are",
+        "here"
+      ],
+      "solutions": [
+        [
+          "You",
+          "were"
+        ]
+      ],
+      "formattedSolution": "You were",
+      "id": "a0a201a194c6",
+      "priority": 2,
+      "group": "26cc5616a1b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On byl",
+      "meaningInSourceLanguage": "He was",
+      "id": "0746ee24f63c",
+      "priority": 0,
+      "group": "802f75e57588"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "hura\non"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        }
+      ],
+      "chips": [
+        "On",
+        "byl",
+        "Ty",
+        "My"
+      ],
+      "solutions": [
+        [
+          "On",
+          "byl"
+        ]
+      ],
+      "formattedSolution": "On byl",
+      "id": "32422d3f767a",
+      "priority": 2,
+      "group": "802f75e57588"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        }
+      ],
+      "chips": [
+        "He",
+        "was",
+        "am",
+        "We"
+      ],
+      "solutions": [
+        [
+          "He",
+          "was"
+        ]
+      ],
+      "formattedSolution": "He was",
+      "id": "a5a2fdd81018",
+      "priority": 2,
+      "group": "802f75e57588"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona byla",
+      "meaningInSourceLanguage": "She was",
+      "id": "d66a436f2d1a",
+      "priority": 0,
+      "group": "a579d25b327f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "hura"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "byla",
+        "byl",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "byla"
+        ]
+      ],
+      "formattedSolution": "Ona byla",
+      "id": "0cb282f60161",
+      "priority": 2,
+      "group": "a579d25b327f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "Ona"
+        },
+        {
+          "word": "byla",
+          "definition": "byla"
+        }
+      ],
+      "chips": [
+        "She",
+        "was",
+        "the",
+        "she"
+      ],
+      "solutions": [
+        [
+          "She",
+          "was"
+        ]
+      ],
+      "formattedSolution": "She was",
+      "id": "ead4488ec281",
+      "priority": 2,
+      "group": "a579d25b327f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono bylo",
+      "meaningInSourceLanguage": "It was",
+      "id": "2cc9affe4c2c",
+      "priority": 0,
+      "group": "ea48902a10fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "hura"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "bylo",
+        "byl",
+        "ono"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "bylo"
+        ]
+      ],
+      "formattedSolution": "Ono bylo",
+      "id": "016527ce563a",
+      "priority": 2,
+      "group": "ea48902a10fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "Ono"
+        },
+        {
+          "word": "bylo",
+          "definition": "bylo"
+        }
+      ],
+      "chips": [
+        "It",
+        "was",
+        "I",
+        "am"
+      ],
+      "solutions": [
+        [
+          "It",
+          "was"
+        ]
+      ],
+      "formattedSolution": "It was",
+      "id": "11f13eb0b7d2",
+      "priority": 2,
+      "group": "ea48902a10fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo byli",
+      "meaningInSourceLanguage": "We were",
+      "id": "6c17043cc8f6",
+      "priority": 0,
+      "group": "afc7255b244b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "byli",
+        "byl",
+        "bylo"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "My jesmo byli",
+      "id": "cbbf9d677c82",
+      "priority": 2,
+      "group": "afc7255b244b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "jesmo",
+          "definition": "jesmo"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        }
+      ],
+      "chips": [
+        "We",
+        "were",
+        "we",
+        "are"
+      ],
+      "solutions": [
+        [
+          "We",
+          "were"
+        ]
+      ],
+      "formattedSolution": "We were",
+      "id": "dc9f8a67015f",
+      "priority": 2,
+      "group": "afc7255b244b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy jeste byli",
+      "meaningInSourceLanguage": "You(plural) were",
+      "id": "64aca8f45fe8",
+      "priority": 0,
+      "group": "c695787082d6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "You(plural)"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "jeste",
+        "byli",
+        "byl",
+        "Ty"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "jeste",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "Vy jeste byli",
+      "id": "8b8330235ab6",
+      "priority": 2,
+      "group": "c695787082d6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "Vy"
+        },
+        {
+          "word": "jeste",
+          "definition": "jeste"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        }
+      ],
+      "chips": [
+        "You(plural",
+        "were",
+        "here",
+        "you(plural"
+      ],
+      "solutions": [
+        [
+          "You(plural",
+          "were"
+        ]
+      ],
+      "formattedSolution": "You(plural) were",
+      "id": "db0764bf559f",
+      "priority": 2,
+      "group": "c695787082d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni byli",
+      "meaningInSourceLanguage": "They(masculine) were",
+      "id": "0c089dd3f859",
+      "priority": 0,
+      "group": "0c823d275cac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "They(masculine)"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "byli",
+        "byl",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "Oni byli",
+      "id": "eaf87287b5fd",
+      "priority": 2,
+      "group": "0c823d275cac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "they"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        }
+      ],
+      "chips": [
+        "They(masculine",
+        "were",
+        "here",
+        "are"
+      ],
+      "solutions": [
+        [
+          "They(masculine",
+          "were"
+        ]
+      ],
+      "formattedSolution": "They(masculine) were",
+      "id": "4e5ea9aaac42",
+      "priority": 2,
+      "group": "0c823d275cac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One byli",
+      "meaningInSourceLanguage": "They(feminine) were",
+      "id": "15033fa9bdf0",
+      "priority": 0,
+      "group": "5b6d4f98cd69"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "One",
+        "byli",
+        "Oni",
+        "byl"
+      ],
+      "solutions": [
+        [
+          "One",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "One byli",
+      "id": "8cf66013f261",
+      "priority": 2,
+      "group": "5b6d4f98cd69"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "One"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "were",
+        "here",
+        "fine"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "were"
+        ]
+      ],
+      "formattedSolution": "They(feminine) were",
+      "id": "0688b133a1b8",
+      "priority": 2,
+      "group": "5b6d4f98cd69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm byl učitelj",
+      "meaningInSourceLanguage": "I was a teacher",
+      "id": "8b18f28c8a4f",
+      "priority": 0,
+      "group": "1d333d07cf68"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja\nni"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "teacher",
+          "definition": "irakaslea\nučitel"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "byl",
+        "učitelj",
+        "je",
+        "te",
+        "jej"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "byl",
+          "učitelj"
+        ]
+      ],
+      "formattedSolution": "Ja jesm byl učitelj",
+      "id": "718d5d976511",
+      "priority": 2,
+      "group": "1d333d07cf68"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "učitelj",
+          "definition": "Teacher"
+        }
+      ],
+      "chips": [
+        "I",
+        "was",
+        "a",
+        "teacher",
+        "am",
+        "car",
+        "We"
+      ],
+      "solutions": [
+        [
+          "I",
+          "was",
+          "a",
+          "teacher"
+        ]
+      ],
+      "formattedSolution": "I was a teacher",
+      "id": "0fc9882977d3",
+      "priority": 2,
+      "group": "1d333d07cf68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty jesi byl matematik",
+      "meaningInSourceLanguage": "You(singular) were a mathematician",
+      "id": "9d1aa00e6ffe",
+      "priority": 0,
+      "group": "dcf1e7fc521e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "mathematician",
+          "definition": "Matematik"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "jesi",
+        "byl",
+        "matematik",
+        "je",
+        "byli",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "jesi",
+          "byl",
+          "matematik"
+        ]
+      ],
+      "formattedSolution": "Ty jesi byl matematik",
+      "id": "1a7df728da1f",
+      "priority": 2,
+      "group": "dcf1e7fc521e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "matematik",
+          "definition": "Mathematician"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "were",
+        "a",
+        "mathematician",
+        "are",
+        "car",
+        "am"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "were",
+          "a",
+          "mathematician"
+        ]
+      ],
+      "formattedSolution": "You(singular) were a mathematician",
+      "id": "b3e87263d833",
+      "priority": 2,
+      "group": "dcf1e7fc521e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On byl bogaty",
+      "meaningInSourceLanguage": "He was rich",
+      "id": "2327776cc3d5",
+      "priority": 0,
+      "group": "b64218fc2e47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "hura\non"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        },
+        {
+          "word": "rich",
+          "definition": "Bogaty"
+        }
+      ],
+      "chips": [
+        "On",
+        "byl",
+        "bogaty",
+        "Ty",
+        "My"
+      ],
+      "solutions": [
+        [
+          "On",
+          "byl",
+          "bogaty"
+        ]
+      ],
+      "formattedSolution": "On byl bogaty",
+      "id": "cba2b93ab27a",
+      "priority": 2,
+      "group": "b64218fc2e47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "bogaty",
+          "definition": "Rich"
+        }
+      ],
+      "chips": [
+        "He",
+        "was",
+        "rich",
+        "is",
+        "Hi"
+      ],
+      "solutions": [
+        [
+          "He",
+          "was",
+          "rich"
+        ]
+      ],
+      "formattedSolution": "He was rich",
+      "id": "38c284b26da3",
+      "priority": 2,
+      "group": "b64218fc2e47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona byla kraljeva",
+      "meaningInSourceLanguage": "She was a queen",
+      "id": "befdfe4c3832",
+      "priority": 0,
+      "group": "30250f2d75ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "hura"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "queen",
+          "definition": "kraljeva"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "byla",
+        "kraljeva",
+        "žena",
+        "byl"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "byla",
+          "kraljeva"
+        ]
+      ],
+      "formattedSolution": "Ona byla kraljeva",
+      "id": "1c6cc84ef6a5",
+      "priority": 2,
+      "group": "30250f2d75ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "Ona"
+        },
+        {
+          "word": "byla",
+          "definition": "byla"
+        },
+        {
+          "word": "kraljeva",
+          "definition": "queen"
+        }
+      ],
+      "chips": [
+        "She",
+        "was",
+        "a",
+        "queen",
+        "am",
+        "We",
+        "are"
+      ],
+      "solutions": [
+        [
+          "She",
+          "was",
+          "a",
+          "queen"
+        ]
+      ],
+      "formattedSolution": "She was a queen",
+      "id": "b795785e745d",
+      "priority": 2,
+      "group": "30250f2d75ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono bylo tu",
+      "meaningInSourceLanguage": "It was here",
+      "id": "d206763e061d",
+      "priority": 0,
+      "group": "9cb0f65ad5dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "hura"
+        },
+        {
+          "word": "was",
+          "definition": "zen"
+        },
+        {
+          "word": "here",
+          "definition": "Tu"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "bylo",
+        "tu",
+        "to",
+        "On"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "bylo",
+          "tu"
+        ]
+      ],
+      "formattedSolution": "Ono bylo tu",
+      "id": "bc67f6aad907",
+      "priority": 2,
+      "group": "9cb0f65ad5dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "Ono"
+        },
+        {
+          "word": "bylo",
+          "definition": "bylo"
+        },
+        {
+          "word": "tu",
+          "definition": "Here"
+        }
+      ],
+      "chips": [
+        "It",
+        "was",
+        "here",
+        "I",
+        "am"
+      ],
+      "solutions": [
+        [
+          "It",
+          "was",
+          "here"
+        ]
+      ],
+      "formattedSolution": "It was here",
+      "id": "94d9398cbe32",
+      "priority": 2,
+      "group": "9cb0f65ad5dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo byli studenti",
+      "meaningInSourceLanguage": "We were",
+      "id": "3f23cba0f898",
+      "priority": 0,
+      "group": "1dd3dd1a577e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "byli",
+        "studenti",
+        "jesi",
+        "syn",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "byli",
+          "studenti"
+        ]
+      ],
+      "formattedSolution": "My jesmo byli studenti",
+      "id": "3f9dabf6781b",
+      "priority": 2,
+      "group": "1dd3dd1a577e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "jesmo",
+          "definition": "jesmo"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "studenti",
+          "definition": "Students"
+        }
+      ],
+      "chips": [
+        "We",
+        "were",
+        "we",
+        "are"
+      ],
+      "solutions": [
+        [
+          "We",
+          "were"
+        ]
+      ],
+      "formattedSolution": "We were",
+      "id": "d4d34870eae8",
+      "priority": 2,
+      "group": "1dd3dd1a577e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy jeste byli sportniki",
+      "meaningInSourceLanguage": "You(plural) were athletes",
+      "id": "f18ff5157f32",
+      "priority": 0,
+      "group": "22c3c352e6df"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "You(plural)"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "athletes",
+          "definition": "Sportniki"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "jeste",
+        "byli",
+        "sportniki",
+        "ti",
+        "syn",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "jeste",
+          "byli",
+          "sportniki"
+        ]
+      ],
+      "formattedSolution": "Vy jeste byli sportniki",
+      "id": "3714499b8dca",
+      "priority": 2,
+      "group": "22c3c352e6df"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "Vy"
+        },
+        {
+          "word": "jeste",
+          "definition": "jeste"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "sportniki",
+          "definition": "Athletes"
+        }
+      ],
+      "chips": [
+        "You(plural",
+        "were",
+        "athletes",
+        "here",
+        "are"
+      ],
+      "solutions": [
+        [
+          "You(plural",
+          "were",
+          "athletes"
+        ]
+      ],
+      "formattedSolution": "You(plural) were athletes",
+      "id": "325daa40a82e",
+      "priority": 2,
+      "group": "22c3c352e6df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni byli kuhari",
+      "meaningInSourceLanguage": "They were cooks",
+      "id": "dcbda99cb7e6",
+      "priority": 0,
+      "group": "0b6ee17e40d9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "haiek"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "cooks",
+          "definition": "Kuhari"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "byli",
+        "kuhari",
+        "ili",
+        "oni"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "byli",
+          "kuhari"
+        ]
+      ],
+      "formattedSolution": "Oni byli kuhari",
+      "id": "3474bc509e7d",
+      "priority": 2,
+      "group": "0b6ee17e40d9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "they"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "kuhari",
+          "definition": "Cooks"
+        }
+      ],
+      "chips": [
+        "They",
+        "were",
+        "cooks",
+        "here",
+        "are"
+      ],
+      "solutions": [
+        [
+          "They",
+          "were",
+          "cooks"
+        ]
+      ],
+      "formattedSolution": "They were cooks",
+      "id": "9f561a19d43a",
+      "priority": 2,
+      "group": "0b6ee17e40d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One byli žurnalistki",
+      "meaningInSourceLanguage": "They were journalists",
+      "id": "a5fb73feb006",
+      "priority": 0,
+      "group": "c37ee02da334"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "haiek"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "journalists",
+          "definition": "Žurnalistki"
+        }
+      ],
+      "chips": [
+        "One",
+        "byli",
+        "žurnalistki",
+        "Oni",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "One",
+          "byli",
+          "žurnalistki"
+        ]
+      ],
+      "formattedSolution": "One byli žurnalistki",
+      "id": "10f4bef699a0",
+      "priority": 2,
+      "group": "c37ee02da334"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "One"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "žurnalistki",
+          "definition": "Journalists"
+        }
+      ],
+      "chips": [
+        "They",
+        "were",
+        "journalists",
+        "here",
+        "are"
+      ],
+      "solutions": [
+        [
+          "They",
+          "were",
+          "journalists"
+        ]
+      ],
+      "formattedSolution": "They were journalists",
+      "id": "4aa8a1fb4c29",
+      "priority": 2,
+      "group": "c37ee02da334"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "učitel",
+      "meaningInSourceLanguage": "teacher",
+      "id": "2b1fa0e8e37f",
+      "priority": 0,
+      "group": "29d878b82519"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "učitel"
+      ],
+      "phrase": [
+        {
+          "word": "teacher",
+          "definition": "irakaslea\nučitel"
+        }
+      ],
+      "id": "9f66c31b1462",
+      "priority": 1,
+      "group": "29d878b82519"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "kraljeva",
+      "meaningInSourceLanguage": "queen",
+      "id": "363f379c8a23",
+      "priority": 0,
+      "group": "0a6d50fd4cf1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "kraljeva"
+      ],
+      "phrase": [
+        {
+          "word": "queen",
+          "definition": "kraljeva"
+        }
+      ],
+      "id": "f52d678797eb",
+      "priority": 1,
+      "group": "0a6d50fd4cf1"
+    }
+  ]
+}

@@ -653,10 +653,10 @@
         "and",
         "black",
         "are",
+        "was",
         "bus",
         "cars",
-        "His",
-        "am"
+        "His"
       ],
       "solutions": [
         [
@@ -959,7 +959,7 @@
         },
         {
           "word": "teacher.",
-          "definition": "irakaslea"
+          "definition": "irakaslea\nučitel"
         }
       ],
       "chips": [
@@ -1116,7 +1116,7 @@
         "parents",
         "Are",
         "She",
-        "the"
+        "here"
       ],
       "solutions": [
         [
@@ -1767,7 +1767,7 @@
         "car",
         "Her",
         "She",
-        "Are"
+        "here"
       ],
       "solutions": [
         [
@@ -2103,10 +2103,10 @@
         "her",
         "grandmother",
         "the",
+        "here",
         "or",
         "me",
-        "their",
-        "father"
+        "their"
       ],
       "solutions": [
         [
@@ -2218,7 +2218,7 @@
         "Hi",
         "Is",
         "He",
-        "or"
+        "was"
       ],
       "solutions": [
         [
@@ -3097,7 +3097,7 @@
         },
         {
           "word": "students.",
-          "definition": "ikasleak"
+          "definition": "Studenti"
         }
       ],
       "chips": [
@@ -3149,8 +3149,8 @@
         "are",
         "students",
         "You",
-        "the",
-        "bus"
+        "here",
+        "the"
       ],
       "solutions": [
         [

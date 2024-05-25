@@ -1,0 +1,106 @@
+Skill:
+  Id: 12
+  Name: Pozdrav-2
+  Thumbnails:
+  - man2
+  - woman2
+  - hello2
+
+New words:
+  - Word: učitel
+    Translation: teacher
+
+  - Word: kraljeva
+    Translation: queen
+
+
+Phrases:
+
+- Phrase: Ja jesm byl
+  Translation: I was
+
+- Phrase: Ty jesi byl
+  Translation: You were
+
+- Phrase: On byl
+  Translation: He was
+
+- Phrase: Ona byla
+  Translation: She was        
+
+- Phrase: Ono bylo
+  Translation: It was
+
+- Phrase: My jesmo byli
+  Translation: We were
+
+- Phrase: Vy jeste byli
+  Translation: You(plural) were
+
+- Phrase: Oni byli
+  Translation: They(masculine) were
+
+- Phrase: One byli
+  Translation: They(feminine) were
+
+- Phrase: Ja jesm byl učitelj
+  Translation: I was a teacher
+
+- Phrase: Ty jesi byl matematik
+  Translation: You(singular) were a mathematician 
+
+- Phrase: On byl bogaty
+  Translation: He was rich
+
+- Phrase: Ona byla kraljeva
+  Translation: She was a queen     
+
+- Phrase: Ono bylo tu
+  Translation: It was here
+
+- Phrase: My jesmo byli studenti
+  Translation: We were
+
+- Phrase: Vy jeste byli sportniki
+  Translation: You(plural) were athletes
+
+- Phrase: Oni byli kuhari
+  Translation: They were cooks
+
+- Phrase: One byli žurnalistki
+  Translation: They were journalists
+
+Mini-dictionary:
+
+  Interslavic:
+
+  - Učitelj: Teacher
+  - Matematik: Mathematician
+  - Bogaty: Rich
+  - Kraljeva: Queen
+  - Tu: Here
+  - Studenti: Students
+  - Sportniki: Athletes
+  - Kuhari: Cooks
+  - Žurnalistki: Journalists
+  - Ja jesm byl: I was
+  - Ty jesi byl: You(singular) were
+  - On byl: He was
+  - Ona byla: She was
+  - Ono bylo: It was
+  - My jesmo byli: We were
+  - Vy jeste byli: You(plural) were
+  - Oni byli: They(masculine) were
+  - One byli: They(feminine) were
+
+  English:
+
+  - Teacher: Učitelj
+  - Mathematician: Matematik
+  - Rich: Bogaty
+  - Queen: Kraljeva
+  - Here: Tu
+  - Students: Studenti
+  - Athletes: Sportniki
+  - Cooks: Kuhari
+  - Journalists: Žurnalistki

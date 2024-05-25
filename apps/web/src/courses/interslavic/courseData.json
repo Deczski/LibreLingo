@@ -65,6 +65,39 @@
           "id": "76a6c8df6b2b",
           "title": "Pozdrav-1",
           "levels": 6
+        },
+        {
+          "imageSet": [
+            "man2",
+            "woman2",
+            "hello2"
+          ],
+          "summary": [
+            "učitel",
+            "kraljeva",
+            "Ja jesm byl",
+            "Ty jesi byl",
+            "On byl",
+            "Ona byla",
+            "Ono bylo",
+            "My jesmo byli",
+            "Vy jeste byli",
+            "Oni byli",
+            "One byli",
+            "Ja jesm byl učitelj",
+            "Ty jesi byl matematik",
+            "On byl bogaty",
+            "Ona byla kraljeva",
+            "Ono bylo tu",
+            "My jesmo byli studenti",
+            "Vy jeste byli sportniki",
+            "Oni byli kuhari",
+            "One byli žurnalistki"
+          ],
+          "practiceHref": "pozdrav-2",
+          "id": "75e952736a7f",
+          "title": "Pozdrav-2",
+          "levels": 5
         }
       ]
     },
