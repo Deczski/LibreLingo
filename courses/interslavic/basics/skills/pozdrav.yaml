@@ -1,6 +1,6 @@
 Skill:
   Id: 11
-  Name: Pozdrav!
+  Name: Pozdrav 1
   Thumbnails:
   - man1
   - woman1
@@ -88,28 +88,32 @@ Phrases:
     Translation: I am
 
   - Phrase: Ty jesi
-    Translation: You are (singular)
+    Translation: You are(singular)
 
   - Phrase: My jesmo
     Translation: We are
 
   - Phrase: Vy jeste
-    Translation: You are (plural)
+    Translation: You are(plural)
 
   - Phrase: On jest
     Translation: He is 
+    Images:
+      -he1.jpg
 
   - Phrase: Ona jest
     Translation: She is
+    Images:
+      -she1.jpg
 
   - Phrase: Ono jest
     Translation: It is   
 
   - Phrase: Oni sut
-    Translation: They are (masculine)
+    Translation: They are(masculine)
 
   - Phrase: One sut
-    Translation: They are (feminine)    
+    Translation: They are(feminine)    
 
 
   - Phrase: Ja jesm muž
@@ -153,6 +157,13 @@ Phrases:
       - Tatjana je žena
     Translation: Tatjana is a woman.
 
+  - Phrase: Tatjana i Vojtěh
+    Translation: Tatjana and Vojtěh
+
+  - Phrase: My jesmo studenti
+    Translation: We are students
+    Images:
+      - students1.jpg  
 
 Mini-dictionary:
 
@@ -177,6 +188,7 @@ Mini-dictionary:
     - jedin: one
     - pozdrav: hello
     - člověk: human
+    - i: and
     
     - Byti: to be
     - Ja Jesm: I am
@@ -208,3 +220,4 @@ Mini-dictionary:
     - one: jedin
     - hello: pozdrav
     - human: člověk
+    - and: i
