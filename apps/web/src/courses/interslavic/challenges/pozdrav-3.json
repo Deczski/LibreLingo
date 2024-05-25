@@ -20,14 +20,14 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         }
       ],
       "chips": [
         "Ja",
         "budu",
         "tu",
-        "budě"
+        "bude"
       ],
       "solutions": [
         [
@@ -93,14 +93,14 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         }
       ],
       "chips": [
         "Ty",
         "budeš",
-        "My",
-        "Vy"
+        "bude",
+        "My"
       ],
       "solutions": [
         [
@@ -150,11 +150,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "On budě",
+      "formInTargetLanguage": "On bude",
       "meaningInSourceLanguage": "He will",
-      "id": "8d4ddb8f877c",
+      "id": "0f4827d3eba3",
       "priority": 0,
-      "group": "c684c14c8858"
+      "group": "5cb6164fbb6f"
     },
     {
       "type": "chips",
@@ -166,25 +166,25 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         }
       ],
       "chips": [
         "On",
-        "budě",
-        "Ona",
-        "Ono"
+        "bude",
+        "One",
+        "Ona"
       ],
       "solutions": [
         [
           "On",
-          "budě"
+          "bude"
         ]
       ],
-      "formattedSolution": "On budě",
-      "id": "de870dd1c9c7",
+      "formattedSolution": "On bude",
+      "id": "bab3ea90756c",
       "priority": 2,
-      "group": "c684c14c8858"
+      "group": "5cb6164fbb6f"
     },
     {
       "type": "chips",
@@ -195,8 +195,8 @@
           "definition": "he"
         },
         {
-          "word": "budě",
-          "definition": "budě"
+          "word": "bude",
+          "definition": "bude"
         }
       ],
       "chips": [
@@ -217,17 +217,17 @@
         ]
       ],
       "formattedSolution": "He will",
-      "id": "56b4afaa1b61",
+      "id": "c0e9f353edb0",
       "priority": 2,
-      "group": "c684c14c8858"
+      "group": "5cb6164fbb6f"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ona budě",
+      "formInTargetLanguage": "Ona bude",
       "meaningInSourceLanguage": "She will",
-      "id": "907ec09c40f8",
+      "id": "61b44875c92a",
       "priority": 0,
-      "group": "1331249ef01f"
+      "group": "933402ea2c1e"
     },
     {
       "type": "chips",
@@ -239,25 +239,25 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         }
       ],
       "chips": [
         "Ona",
-        "budě",
-        "On",
-        "Ono"
+        "bude",
+        "One",
+        "On"
       ],
       "solutions": [
         [
           "Ona",
-          "budě"
+          "bude"
         ]
       ],
-      "formattedSolution": "Ona budě",
-      "id": "2a4c0655af75",
+      "formattedSolution": "Ona bude",
+      "id": "7b1e59542e65",
       "priority": 2,
-      "group": "1331249ef01f"
+      "group": "933402ea2c1e"
     },
     {
       "type": "chips",
@@ -268,8 +268,8 @@
           "definition": "she"
         },
         {
-          "word": "budě",
-          "definition": "budě"
+          "word": "bude",
+          "definition": "bude"
         }
       ],
       "chips": [
@@ -290,17 +290,17 @@
         ]
       ],
       "formattedSolution": "She will",
-      "id": "5575bd646cd2",
+      "id": "e41a889cfeaf",
       "priority": 2,
-      "group": "1331249ef01f"
+      "group": "933402ea2c1e"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ono budě",
+      "formInTargetLanguage": "Ono bude",
       "meaningInSourceLanguage": "It will",
-      "id": "baff3dbd413b",
+      "id": "3ebd4b23b985",
       "priority": 0,
-      "group": "26cbe9e720ca"
+      "group": "d23fe67200f6"
     },
     {
       "type": "chips",
@@ -308,29 +308,29 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura"
+          "definition": "hura\nto"
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         }
       ],
       "chips": [
         "Ono",
-        "budě",
-        "On",
-        "Ona"
+        "bude",
+        "One",
+        "On"
       ],
       "solutions": [
         [
           "Ono",
-          "budě"
+          "bude"
         ]
       ],
-      "formattedSolution": "Ono budě",
-      "id": "996035bac356",
+      "formattedSolution": "Ono bude",
+      "id": "8ac4080947f1",
       "priority": 2,
-      "group": "26cbe9e720ca"
+      "group": "d23fe67200f6"
     },
     {
       "type": "chips",
@@ -341,8 +341,8 @@
           "definition": "it"
         },
         {
-          "word": "budě",
-          "definition": "budě"
+          "word": "bude",
+          "definition": "bude"
         }
       ],
       "chips": [
@@ -363,17 +363,17 @@
         ]
       ],
       "formattedSolution": "It will",
-      "id": "90560618e482",
+      "id": "fd6a4d9cc51e",
       "priority": 2,
-      "group": "26cbe9e720ca"
+      "group": "d23fe67200f6"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "My buděmo",
+      "formInTargetLanguage": "My budemo",
       "meaningInSourceLanguage": "We will",
-      "id": "02c4f1e0a00f",
+      "id": "414971a9ffe6",
       "priority": 0,
-      "group": "429389a73a61"
+      "group": "c37fff77b9f1"
     },
     {
       "type": "chips",
@@ -385,25 +385,25 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         }
       ],
       "chips": [
         "My",
-        "buděmo",
-        "budě",
+        "budemo",
+        "bude",
         "Ty"
       ],
       "solutions": [
         [
           "My",
-          "buděmo"
+          "budemo"
         ]
       ],
-      "formattedSolution": "My buděmo",
-      "id": "2bdafb78e782",
+      "formattedSolution": "My budemo",
+      "id": "d3b23293ca8b",
       "priority": 2,
-      "group": "429389a73a61"
+      "group": "c37fff77b9f1"
     },
     {
       "type": "chips",
@@ -414,8 +414,8 @@
           "definition": "we"
         },
         {
-          "word": "buděmo",
-          "definition": "buděmo"
+          "word": "budemo",
+          "definition": "budemo"
         }
       ],
       "chips": [
@@ -436,17 +436,17 @@
         ]
       ],
       "formattedSolution": "We will",
-      "id": "44fbdd23f495",
+      "id": "5542866c2bb1",
       "priority": 2,
-      "group": "429389a73a61"
+      "group": "c37fff77b9f1"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Vy buděte",
+      "formInTargetLanguage": "Vy budete",
       "meaningInSourceLanguage": "You(plural) will",
-      "id": "50bfbcef202a",
+      "id": "4d841587b78d",
       "priority": 0,
-      "group": "e09945f32072"
+      "group": "e6c20659259c"
     },
     {
       "type": "chips",
@@ -458,25 +458,25 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         }
       ],
       "chips": [
         "Vy",
-        "buděte",
-        "budě",
+        "budete",
+        "bude",
         "te"
       ],
       "solutions": [
         [
           "Vy",
-          "buděte"
+          "budete"
         ]
       ],
-      "formattedSolution": "Vy buděte",
-      "id": "45c8325778e7",
+      "formattedSolution": "Vy budete",
+      "id": "e8f654000575",
       "priority": 2,
-      "group": "e09945f32072"
+      "group": "e6c20659259c"
     },
     {
       "type": "chips",
@@ -487,8 +487,8 @@
           "definition": "you(plural)"
         },
         {
-          "word": "buděte",
-          "definition": "buděte"
+          "word": "budete",
+          "definition": "budete"
         }
       ],
       "chips": [
@@ -509,9 +509,9 @@
         ]
       ],
       "formattedSolution": "You(plural) will",
-      "id": "46f33c739277",
+      "id": "50fe2202f900",
       "priority": 2,
-      "group": "e09945f32072"
+      "group": "e6c20659259c"
     },
     {
       "type": "options",
@@ -547,7 +547,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "know",
@@ -627,7 +627,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "You",
@@ -651,7 +651,7 @@
         "te",
         "je",
         "tu",
-        "ty"
+        "bude"
       ],
       "solutions": [
         [
@@ -734,7 +734,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "be",
@@ -805,11 +805,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Vy buděte spati",
+      "formInTargetLanguage": "Vy budete spati",
       "meaningInSourceLanguage": "You will sleep",
-      "id": "df9b104bc0db",
+      "id": "d4cbac2ecd46",
       "priority": 0,
-      "group": "6a7b741fa106"
+      "group": "569d958250bb"
     },
     {
       "type": "chips",
@@ -821,7 +821,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "sleep",
@@ -830,7 +830,7 @@
       ],
       "chips": [
         "Vy",
-        "buděte",
+        "budete",
         "spati",
         "sut",
         "ti"
@@ -838,14 +838,14 @@
       "solutions": [
         [
           "Vy",
-          "buděte",
+          "budete",
           "spati"
         ]
       ],
-      "formattedSolution": "Vy buděte spati",
-      "id": "eb4188286f52",
+      "formattedSolution": "Vy budete spati",
+      "id": "980537300e51",
       "priority": 2,
-      "group": "6a7b741fa106"
+      "group": "569d958250bb"
     },
     {
       "type": "chips",
@@ -856,8 +856,8 @@
           "definition": "you(plural)"
         },
         {
-          "word": "buděte",
-          "definition": "buděte"
+          "word": "budete",
+          "definition": "budete"
         },
         {
           "word": "spati",
@@ -879,9 +879,9 @@
         ]
       ],
       "formattedSolution": "You will sleep",
-      "id": "a11c1c625f79",
+      "id": "6e85e3f40505",
       "priority": 2,
-      "group": "6a7b741fa106"
+      "group": "569d958250bb"
     },
     {
       "type": "options",
@@ -901,7 +901,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "write",
@@ -981,11 +981,11 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "eat",
-          "definition": "eat"
+          "definition": "jedati"
         }
       ],
       "chips": [
@@ -1061,7 +1061,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "understand",
@@ -1072,8 +1072,8 @@
         "Ja",
         "budu",
         "razuměti",
-        "budě",
-        "sut"
+        "sut",
+        "tu"
       ],
       "solutions": [
         [
@@ -1141,7 +1141,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "play",
@@ -1153,7 +1153,7 @@
         "budeš",
         "igrati",
         "tu",
-        "ti"
+        "bude"
       ],
       "solutions": [
         [
@@ -1221,7 +1221,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "sing",
@@ -1233,7 +1233,7 @@
         "budemo",
         "pěvati",
         "tu",
-        "to"
+        "bude"
       ],
       "solutions": [
         [
@@ -1285,11 +1285,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "On budě plavati",
+      "formInTargetLanguage": "On bude plavati",
       "meaningInSourceLanguage": "He will swim",
-      "id": "5d2f7fdda37f",
+      "id": "32d1250af5f5",
       "priority": 0,
-      "group": "6e895fd79f9c"
+      "group": "043285382058"
     },
     {
       "type": "chips",
@@ -1301,7 +1301,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "swim",
@@ -1310,7 +1310,7 @@
       ],
       "chips": [
         "On",
-        "budě",
+        "bude",
         "plavati",
         "Ona",
         "Oni"
@@ -1318,14 +1318,14 @@
       "solutions": [
         [
           "On",
-          "budě",
+          "bude",
           "plavati"
         ]
       ],
-      "formattedSolution": "On budě plavati",
-      "id": "d37d19f5a859",
+      "formattedSolution": "On bude plavati",
+      "id": "b0f44b95b66b",
       "priority": 2,
-      "group": "6e895fd79f9c"
+      "group": "043285382058"
     },
     {
       "type": "chips",
@@ -1336,8 +1336,8 @@
           "definition": "he"
         },
         {
-          "word": "budě",
-          "definition": "budě"
+          "word": "bude",
+          "definition": "bude"
         },
         {
           "word": "plavati",
@@ -1359,17 +1359,17 @@
         ]
       ],
       "formattedSolution": "He will swim",
-      "id": "e1372396d8a7",
+      "id": "82a1648bdc75",
       "priority": 2,
-      "group": "6e895fd79f9c"
+      "group": "043285382058"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ona budě tancevati",
+      "formInTargetLanguage": "Ona bude tancevati",
       "meaningInSourceLanguage": "She will dance",
-      "id": "b4a0e8e60879",
+      "id": "bf51e1438663",
       "priority": 0,
-      "group": "974846a9f38e"
+      "group": "b48ac5d9e058"
     },
     {
       "type": "chips",
@@ -1381,7 +1381,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "dance",
@@ -1390,22 +1390,22 @@
       ],
       "chips": [
         "Ona",
-        "budě",
+        "bude",
         "tancevati",
-        "Oni",
-        "One"
+        "One",
+        "Oni"
       ],
       "solutions": [
         [
           "Ona",
-          "budě",
+          "bude",
           "tancevati"
         ]
       ],
-      "formattedSolution": "Ona budě tancevati",
-      "id": "888b35b53c2e",
+      "formattedSolution": "Ona bude tancevati",
+      "id": "09c0cd3bad87",
       "priority": 2,
-      "group": "974846a9f38e"
+      "group": "b48ac5d9e058"
     },
     {
       "type": "chips",
@@ -1416,8 +1416,8 @@
           "definition": "she"
         },
         {
-          "word": "budě",
-          "definition": "budě"
+          "word": "bude",
+          "definition": "bude"
         },
         {
           "word": "tancevati",
@@ -1439,17 +1439,17 @@
         ]
       ],
       "formattedSolution": "She will dance",
-      "id": "d21d81950e4a",
+      "id": "8a7ca98ea82a",
       "priority": 2,
-      "group": "974846a9f38e"
+      "group": "b48ac5d9e058"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ono budě jedati",
+      "formInTargetLanguage": "Ono bude jedati",
       "meaningInSourceLanguage": "It will eat",
-      "id": "80956af6d7d7",
+      "id": "0f3ff5c6835a",
       "priority": 0,
-      "group": "6dfa8e9d9935"
+      "group": "9f268de0d324"
     },
     {
       "type": "chips",
@@ -1457,20 +1457,20 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura"
+          "definition": "hura\nto"
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "eat",
-          "definition": "eat"
+          "definition": "jedati"
         }
       ],
       "chips": [
         "Ono",
-        "budě",
+        "bude",
         "jedati",
         "Ona",
         "Oni"
@@ -1478,14 +1478,14 @@
       "solutions": [
         [
           "Ono",
-          "budě",
+          "bude",
           "jedati"
         ]
       ],
-      "formattedSolution": "Ono budě jedati",
-      "id": "6ef14c23c176",
+      "formattedSolution": "Ono bude jedati",
+      "id": "4030f72dc534",
       "priority": 2,
-      "group": "6dfa8e9d9935"
+      "group": "9f268de0d324"
     },
     {
       "type": "chips",
@@ -1496,8 +1496,8 @@
           "definition": "it"
         },
         {
-          "word": "budě",
-          "definition": "budě"
+          "word": "bude",
+          "definition": "bude"
         },
         {
           "word": "jedati",
@@ -1519,9 +1519,9 @@
         ]
       ],
       "formattedSolution": "It will eat",
-      "id": "4673f7daf81c",
+      "id": "3b3ba8825ab7",
       "priority": 2,
-      "group": "6dfa8e9d9935"
+      "group": "9f268de0d324"
     },
     {
       "type": "options",
@@ -1541,7 +1541,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "be",
@@ -1612,11 +1612,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Vy buděte kupovati",
+      "formInTargetLanguage": "Vy budete kupovati",
       "meaningInSourceLanguage": "You(plural) will buy",
-      "id": "b25299d044c6",
+      "id": "ece675598ffc",
       "priority": 0,
-      "group": "b9e1b393469a"
+      "group": "d67e7ba691e9"
     },
     {
       "type": "chips",
@@ -1628,7 +1628,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "buy",
@@ -1637,22 +1637,22 @@
       ],
       "chips": [
         "Vy",
-        "buděte",
+        "budete",
         "kupovati",
         "sut",
-        "budě"
+        "bude"
       ],
       "solutions": [
         [
           "Vy",
-          "buděte",
+          "budete",
           "kupovati"
         ]
       ],
-      "formattedSolution": "Vy buděte kupovati",
-      "id": "35e109140f62",
+      "formattedSolution": "Vy budete kupovati",
+      "id": "f3b18d8a7b69",
       "priority": 2,
-      "group": "b9e1b393469a"
+      "group": "d67e7ba691e9"
     },
     {
       "type": "chips",
@@ -1663,8 +1663,8 @@
           "definition": "you(plural)"
         },
         {
-          "word": "buděte",
-          "definition": "buděte"
+          "word": "budete",
+          "definition": "budete"
         },
         {
           "word": "kupovati",
@@ -1686,9 +1686,9 @@
         ]
       ],
       "formattedSolution": "You(plural) will buy",
-      "id": "f7b920cb812b",
+      "id": "ae4b6bf63a34",
       "priority": 2,
-      "group": "b9e1b393469a"
+      "group": "d67e7ba691e9"
     },
     {
       "type": "options",
@@ -1708,7 +1708,7 @@
         },
         {
           "word": "will",
-          "definition": "will"
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
         },
         {
           "word": "be",

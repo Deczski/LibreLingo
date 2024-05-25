@@ -819,7 +819,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura"
+          "definition": "hura\nto"
         },
         {
           "word": "is",
@@ -2370,7 +2370,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura"
+          "definition": "hura\nto"
         },
         {
           "word": "is",
@@ -3105,9 +3105,9 @@
         "dočery",
         "sut",
         "studentki",
+        "bude",
         "student",
-        "denj",
-        "je"
+        "denj"
       ],
       "solutions": [
         [
@@ -3179,7 +3179,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura"
+          "definition": "hura\nto"
         },
         {
           "word": "is",

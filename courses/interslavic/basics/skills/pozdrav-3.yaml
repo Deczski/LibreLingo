@@ -22,27 +22,27 @@ Phrases:
   Alternative translations:
     - You<singular> will be  
 
-- Phrase: On budě
+- Phrase: On bude
   Translation: He will
   Alternative translations:
     - He will be    
 
-- Phrase: Ona budě
+- Phrase: Ona bude
   Translation: She will
   Alternative translations:
     - She will be  
 
-- Phrase: Ono budě
+- Phrase: Ono bude
   Translation: It will
   Alternative translations:
     - It will be    
 
-- Phrase: My buděmo
+- Phrase: My budemo
   Translation: We will
   Alternative translations:
     - We will be    
 
-- Phrase: Vy buděte
+- Phrase: Vy budete
   Translation: You(plural) will
   Alternative translations:
     - You(plural) will be    
@@ -66,7 +66,7 @@ Phrases:
 - Phrase: My budemo futbolisti
   Translation: We will be footballers
 
-- Phrase: Vy buděte spati
+- Phrase: Vy budete spati
   Translation: You will sleep
 
 - Phrase: One budut pisati
@@ -84,19 +84,19 @@ Phrases:
 - Phrase: My budemo pěvati
   Translation: We will sing
 
-- Phrase: On budě plavati
+- Phrase: On bude plavati
   Translation: He will swim
 
-- Phrase: Ona budě tancevati
+- Phrase: Ona bude tancevati
   Translation: She will dance
 
-- Phrase: Ono budě jedati
+- Phrase: Ono bude jedati
   Translation: It will eat
 
 - Phrase: My budemo futbolisti
   Translation: We will be footballers
 
-- Phrase: Vy buděte kupovati
+- Phrase: Vy budete kupovati
   Translation: You(plural) will buy
 
 - Phrase: One budut zautra tam
@@ -130,3 +130,13 @@ Mini-dictionary:
 
   - know: znati
   - tommorow: zautra
+  - will:
+    - budu
+    - budeš
+    - bude
+    - budemo
+    - budete
+    - budut
+  - it: to
+  - eat:
+    - jedati
