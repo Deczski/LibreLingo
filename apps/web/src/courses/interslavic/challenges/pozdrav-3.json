@@ -611,20 +611,16 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Pozdrav. Kde Ty zautra budeš ?",
-      "meaningInSourceLanguage": "Hello. Where will You be tommorow ?",
-      "id": "c57c5da32d8a",
+      "formInTargetLanguage": "Kde Ty zautra budeš ?",
+      "meaningInSourceLanguage": "Where will You be tommorow ?",
+      "id": "263070d92f08",
       "priority": 0,
-      "group": "a339c11243e8"
+      "group": "f879bbdae057"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
-        {
-          "word": "Hello.",
-          "definition": "pozdrav"
-        },
         {
           "word": "Where",
           "definition": "Where"
@@ -647,21 +643,18 @@
         }
       ],
       "chips": [
-        "Pozdrav",
         "Kde",
         "Ty",
         "zautra",
         "budeš",
         "",
-        "od",
         "te",
-        "Ta",
-        "Ja",
-        "je"
+        "je",
+        "tu",
+        "ty"
       ],
       "solutions": [
         [
-          "Pozdrav",
           "Kde",
           "Ty",
           "zautra",
@@ -669,19 +662,15 @@
           ""
         ]
       ],
-      "formattedSolution": "Pozdrav. Kde Ty zautra budeš ?",
-      "id": "d897414447c1",
+      "formattedSolution": "Kde Ty zautra budeš ?",
+      "id": "ad373d17d671",
       "priority": 2,
-      "group": "a339c11243e8"
+      "group": "f879bbdae057"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
-        {
-          "word": "Pozdrav.",
-          "definition": "hello"
-        },
         {
           "word": "Kde",
           "definition": "Where"
@@ -700,23 +689,20 @@
         }
       ],
       "chips": [
-        "Hello",
         "Where",
         "will",
         "You",
         "be",
         "tommorow",
         "",
-        "We",
-        "He",
         "or",
+        "We",
         "me",
-        "Her",
-        "are"
+        "are",
+        "He"
       ],
       "solutions": [
         [
-          "Hello",
           "Where",
           "will",
           "You",
@@ -725,10 +711,10 @@
           ""
         ]
       ],
-      "formattedSolution": "Hello. Where will You be tommorow ?",
-      "id": "e1b94956445c",
+      "formattedSolution": "Where will You be tommorow ?",
+      "id": "b81facdf02fc",
       "priority": 2,
-      "group": "a339c11243e8"
+      "group": "f879bbdae057"
     },
     {
       "type": "options",
