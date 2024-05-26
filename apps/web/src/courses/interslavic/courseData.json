@@ -59,12 +59,13 @@
             "Jaroslav jest hlapec",
             "Tatjana jest žena",
             "Tatjana i Vojtěh",
-            "My jesmo studenti"
+            "My jesmo studenti",
+            "Tatjana ne jest hlapec"
           ],
           "practiceHref": "pozdrav-1",
           "id": "76a6c8df6b2b",
           "title": "Pozdrav-1",
-          "levels": 6
+          "levels": 7
         },
         {
           "imageSet": [

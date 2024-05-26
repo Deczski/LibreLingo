@@ -1,6 +1,6 @@
 {
   "id": "76a6c8df6b2b",
-  "levels": 6,
+  "levels": 7,
   "challenges": [
     {
       "type": "options",
@@ -481,22 +481,22 @@
     {
       "type": "options",
       "formInTargetLanguage": "Oni sut",
-      "meaningInSourceLanguage": "They are(masculine)",
-      "id": "e070bdb86f2a",
+      "meaningInSourceLanguage": "They(masculine) are",
+      "id": "b25b58ab9fbc",
       "priority": 0,
-      "group": "3d8958f43395"
+      "group": "2caf55f5a1db"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "They",
-          "definition": "They"
+          "word": "They(masculine)",
+          "definition": "They(masculine)"
         },
         {
-          "word": "are(masculine)",
-          "definition": "are(masculine)"
+          "word": "are",
+          "definition": "jesi"
         }
       ],
       "chips": [
@@ -512,9 +512,9 @@
         ]
       ],
       "formattedSolution": "Oni sut",
-      "id": "8c51d98c8e29",
+      "id": "a4b1877f9150",
       "priority": 2,
-      "group": "3d8958f43395"
+      "group": "2caf55f5a1db"
     },
     {
       "type": "chips",
@@ -530,41 +530,41 @@
         }
       ],
       "chips": [
-        "They",
-        "are(masculine",
+        "They(masculine",
         "are",
-        "They(masculine"
+        "here",
+        "They"
       ],
       "solutions": [
         [
-          "They",
-          "are(masculine"
+          "They(masculine",
+          "are"
         ]
       ],
-      "formattedSolution": "They are(masculine)",
-      "id": "2b02ba2aef75",
+      "formattedSolution": "They(masculine) are",
+      "id": "63309602b5f8",
       "priority": 2,
-      "group": "3d8958f43395"
+      "group": "2caf55f5a1db"
     },
     {
       "type": "options",
       "formInTargetLanguage": "One sut",
-      "meaningInSourceLanguage": "They are(feminine)",
-      "id": "ee5a2a464195",
+      "meaningInSourceLanguage": "They(feminine) are",
+      "id": "478a697a80a9",
       "priority": 0,
-      "group": "31de85eaae33"
+      "group": "ea3fb0c239c8"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "They",
-          "definition": "They"
+          "word": "They(feminine)",
+          "definition": "They(feminine)"
         },
         {
-          "word": "are(feminine)",
-          "definition": "are(feminine)"
+          "word": "are",
+          "definition": "jesi"
         }
       ],
       "chips": [
@@ -580,9 +580,9 @@
         ]
       ],
       "formattedSolution": "One sut",
-      "id": "319954640e2b",
+      "id": "fc829318ec94",
       "priority": 2,
-      "group": "31de85eaae33"
+      "group": "ea3fb0c239c8"
     },
     {
       "type": "chips",
@@ -598,21 +598,21 @@
         }
       ],
       "chips": [
-        "They",
-        "are(feminine",
+        "They(feminine",
         "are",
-        "They(feminine"
+        "here",
+        "They"
       ],
       "solutions": [
         [
-          "They",
-          "are(feminine"
+          "They(feminine",
+          "are"
         ]
       ],
-      "formattedSolution": "They are(feminine)",
-      "id": "469f83e916f8",
+      "formattedSolution": "They(feminine) are",
+      "id": "9f1fbbedf409",
       "priority": 2,
-      "group": "31de85eaae33"
+      "group": "ea3fb0c239c8"
     },
     {
       "type": "options",
@@ -648,7 +648,7 @@
         "jesm",
         "muž",
         "je",
-        "tu"
+        "ne"
       ],
       "solutions": [
         [
@@ -1579,7 +1579,7 @@
         "and",
         "Vojtěh",
         "man",
-        "eat"
+        "not"
       ],
       "solutions": [
         [
@@ -1672,6 +1672,107 @@
       "id": "e1198553ad4c",
       "priority": 2,
       "group": "e80f4036769e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tatjana ne jest hlapec",
+      "meaningInSourceLanguage": "Tatjana is not a boy",
+      "id": "de9790a33a46",
+      "priority": 0,
+      "group": "3338864db798"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "boy",
+          "definition": "hlapec"
+        }
+      ],
+      "chips": [
+        "Tatjana",
+        "ne",
+        "jest",
+        "hlapec",
+        "je",
+        "te",
+        "jej"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "ne",
+          "jest",
+          "hlapec"
+        ]
+      ],
+      "formattedSolution": "Tatjana ne jest hlapec",
+      "id": "18b06853eefd",
+      "priority": 2,
+      "group": "3338864db798"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "hlapec",
+          "definition": "boy"
+        }
+      ],
+      "chips": [
+        "Tatjana",
+        "is",
+        "not",
+        "a",
+        "boy",
+        "am",
+        "It",
+        "eat",
+        "or"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "is",
+          "not",
+          "a",
+          "boy"
+        ]
+      ],
+      "formattedSolution": "Tatjana is not a boy",
+      "id": "e7c1ef801141",
+      "priority": 2,
+      "group": "3338864db798"
     },
     {
       "type": "cards",

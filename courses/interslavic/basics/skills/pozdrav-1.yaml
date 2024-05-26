@@ -162,10 +162,10 @@ Phrases:
     Translation: It is   
 
   - Phrase: Oni sut
-    Translation: They are(masculine)
+    Translation: They(masculine) are
 
   - Phrase: One sut
-    Translation: They are(feminine)    
+    Translation: They(feminine) are    
 
 
   - Phrase: Ja jesm muž
@@ -215,7 +215,11 @@ Phrases:
   - Phrase: My jesmo studenti
     Translation: We are students
     Images:
-      - students1.jpg  
+      - students1.jpg
+
+  - Phrase: Tatjana ne jest hlapec
+    Translation: Tatjana is not a boy
+
 
 Mini-dictionary:
 
@@ -257,6 +261,9 @@ Mini-dictionary:
     - My Jesmo: We are
     - Oni Sut: They are(masculine)
     - One Sut: They are(feminine)
+    - ne:
+      - no
+      - not 
 
   English:
     - Vojtěh: Vojtěh (male name)
@@ -282,3 +289,5 @@ Mini-dictionary:
     - hello: pozdrav
     - human: člověk
     - and: i
+    - no: ne
+    - not: ne

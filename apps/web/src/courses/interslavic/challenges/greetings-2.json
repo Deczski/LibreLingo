@@ -38,7 +38,7 @@
         "jesi",
         "je",
         "te",
-        "tam"
+        "ne"
       ],
       "solutions": [
         [
@@ -316,7 +316,7 @@
         "is",
         "nothing",
         "it",
-        "Is"
+        "not"
       ],
       "solutions": [
         [
@@ -461,8 +461,8 @@
         "viděnja",
         "Ono",
         "je",
-        "to",
-        "ne"
+        "ne",
+        "to"
       ],
       "solutions": [
         [
@@ -551,7 +551,7 @@
         },
         {
           "word": "not",
-          "definition": "not"
+          "definition": "ne"
         },
         {
           "word": "late.",
@@ -618,7 +618,7 @@
         },
         {
           "word": "ne",
-          "definition": "ne"
+          "definition": "no\nnot"
         },
         {
           "word": "jest",

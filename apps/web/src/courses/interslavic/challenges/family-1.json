@@ -374,8 +374,8 @@
         "Are",
         "or",
         "And",
-        "car",
-        "cars"
+        "not",
+        "car"
       ],
       "solutions": [
         [
@@ -667,9 +667,9 @@
         "i",
         "črny",
         "jesi",
+        "ne",
         "ženy",
         "denj",
-        "ne",
         "Oni"
       ],
       "solutions": [
@@ -864,10 +864,10 @@
         "short",
         "and",
         "fat",
+        "not",
         "eat",
         "the",
         "or",
-        "not",
         "am"
       ],
       "solutions": [
@@ -927,8 +927,8 @@
         "babice",
         "je",
         "te",
-        "to",
         "ne",
+        "to",
         "jej"
       ],
       "solutions": [
@@ -983,8 +983,8 @@
         "ball",
         "or",
         "am",
-        "it",
-        "Is"
+        "not",
+        "it"
       ],
       "solutions": [
         [
@@ -1254,8 +1254,8 @@
         "jesi",
         "jesm",
         "je",
-        "te",
-        "ne"
+        "ne",
+        "te"
       ],
       "solutions": [
         [
@@ -1524,8 +1524,8 @@
         "naš",
         "otec",
         "je",
-        "te",
-        "ne"
+        "ne",
+        "te"
       ],
       "solutions": [
         [
@@ -1628,8 +1628,8 @@
         "je",
         "naš",
         "dědok",
-        "te",
         "ne",
+        "te",
         "to",
         "Ja",
         "Kde",
@@ -2540,8 +2540,8 @@
         "tour",
         "or",
         "You",
-        "the",
-        "car"
+        "not",
+        "the"
       ],
       "solutions": [
         [
@@ -2672,8 +2672,8 @@
         "tour",
         "or",
         "You",
-        "the",
-        "not"
+        "not",
+        "the"
       ],
       "solutions": [
         [
@@ -3163,9 +3163,9 @@
         "dočery",
         "je",
         "jej",
+        "ne",
         "to",
-        "te",
-        "Do"
+        "te"
       ],
       "solutions": [
         [
