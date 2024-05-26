@@ -140,13 +140,13 @@ Phrases:
     Translation: I am
 
   - Phrase: Ty jesi
-    Translation: You are(singular)
+    Translation: You(singular) are
 
   - Phrase: My jesmo
     Translation: We are
 
   - Phrase: Vy jeste
-    Translation: You are(plural)
+    Translation: You(plural) are
 
   - Phrase: On jest
     Translation: He is 

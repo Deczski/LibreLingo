@@ -73,22 +73,22 @@
     {
       "type": "options",
       "formInTargetLanguage": "Ty jesi",
-      "meaningInSourceLanguage": "You are(singular)",
-      "id": "470eab0d01a3",
+      "meaningInSourceLanguage": "You(singular) are",
+      "id": "c347231d1bdd",
       "priority": 0,
-      "group": "4c3474eae382"
+      "group": "36ecd6dfb8c5"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "You",
-          "definition": "ty"
+          "word": "You(singular)",
+          "definition": "You(singular)"
         },
         {
-          "word": "are(singular)",
-          "definition": "are(singular)"
+          "word": "are",
+          "definition": "jesi"
         }
       ],
       "chips": [
@@ -104,9 +104,9 @@
         ]
       ],
       "formattedSolution": "Ty jesi",
-      "id": "46a593b3d63a",
+      "id": "bd5f5dae6851",
       "priority": 2,
-      "group": "4c3474eae382"
+      "group": "36ecd6dfb8c5"
     },
     {
       "type": "chips",
@@ -122,21 +122,21 @@
         }
       ],
       "chips": [
-        "You",
-        "are(singular",
+        "You(singular",
         "are",
-        "You(singular"
+        "You",
+        "You<singular"
       ],
       "solutions": [
         [
-          "You",
-          "are(singular"
+          "You(singular",
+          "are"
         ]
       ],
-      "formattedSolution": "You are(singular)",
-      "id": "262de4b81081",
+      "formattedSolution": "You(singular) are",
+      "id": "8cd9a296368e",
       "priority": 2,
-      "group": "4c3474eae382"
+      "group": "36ecd6dfb8c5"
     },
     {
       "type": "options",
@@ -209,22 +209,22 @@
     {
       "type": "options",
       "formInTargetLanguage": "Vy jeste",
-      "meaningInSourceLanguage": "You are(plural)",
-      "id": "afb82e70c2c8",
+      "meaningInSourceLanguage": "You(plural) are",
+      "id": "ac5ee57dbf8d",
       "priority": 0,
-      "group": "73c2955f63fd"
+      "group": "bca6e6dc9e6a"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "You",
-          "definition": "ty"
+          "word": "You(plural)",
+          "definition": "You(plural)"
         },
         {
-          "word": "are(plural)",
-          "definition": "are(plural)"
+          "word": "are",
+          "definition": "jesi"
         }
       ],
       "chips": [
@@ -240,9 +240,9 @@
         ]
       ],
       "formattedSolution": "Vy jeste",
-      "id": "3df3ecce44de",
+      "id": "5a0c7386795e",
       "priority": 2,
-      "group": "73c2955f63fd"
+      "group": "bca6e6dc9e6a"
     },
     {
       "type": "chips",
@@ -258,21 +258,21 @@
         }
       ],
       "chips": [
-        "You",
-        "are(plural",
+        "You(plural",
         "are",
-        "You(plural"
+        "You",
+        "Are"
       ],
       "solutions": [
         [
-          "You",
-          "are(plural"
+          "You(plural",
+          "are"
         ]
       ],
-      "formattedSolution": "You are(plural)",
-      "id": "3cb6557608e7",
+      "formattedSolution": "You(plural) are",
+      "id": "bd01742ef177",
       "priority": 2,
-      "group": "73c2955f63fd"
+      "group": "bca6e6dc9e6a"
     },
     {
       "type": "options",
