@@ -208,7 +208,7 @@
         },
         {
           "word": "teacher?",
-          "definition": "učitel"
+          "definition": "učitelj"
         }
       ],
       "chips": [
@@ -244,7 +244,7 @@
         },
         {
           "word": "učitelj?",
-          "definition": "Teacher"
+          "definition": "teacher"
         }
       ],
       "chips": [
@@ -301,7 +301,7 @@
         },
         {
           "word": "teacher",
-          "definition": "učitel"
+          "definition": "učitelj"
         },
         {
           "word": "or",
@@ -355,7 +355,7 @@
         },
         {
           "word": "učitelj",
-          "definition": "Teacher"
+          "definition": "teacher"
         },
         {
           "word": "ili",
@@ -508,7 +508,7 @@
         },
         {
           "word": "she?",
-          "definition": "she?"
+          "definition": "ona"
         }
       ],
       "chips": [
@@ -588,7 +588,7 @@
         },
         {
           "word": "it?",
-          "definition": "to"
+          "definition": "ono\nto"
         }
       ],
       "chips": [
@@ -664,7 +664,7 @@
         },
         {
           "word": "she",
-          "definition": "she"
+          "definition": "ona"
         },
         {
           "word": "a",
@@ -854,7 +854,7 @@
         },
         {
           "word": "it",
-          "definition": "to"
+          "definition": "ono\nto"
         },
         {
           "word": "the",
@@ -947,7 +947,7 @@
         },
         {
           "word": "it",
-          "definition": "to"
+          "definition": "ono\nto"
         },
         {
           "word": "also",
@@ -1048,7 +1048,7 @@
         },
         {
           "word": "it",
-          "definition": "to"
+          "definition": "ono\nto"
         },
         {
           "word": "a",

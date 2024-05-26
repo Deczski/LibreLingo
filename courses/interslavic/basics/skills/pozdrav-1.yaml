@@ -6,6 +6,59 @@ Skill:
   - woman1
   - hello1
 
+New words:
+  - Word: Ja
+    Translation: I
+    Images:
+      - iam
+
+New words:
+  - Word: Ty
+    Translation: You(singular)
+    Images:
+      - you2
+
+New words:
+  - Word: On
+    Translation: He
+    Images:
+      - he1
+
+New words:
+  - Word: Ona
+    Translation: She
+    Images:
+      - she2
+
+New words:
+  - Word: Ono
+    Translation: It
+    Images:
+      - baby3
+
+New words:
+  - Word: My
+    Translation: We
+    Images:
+      - we1
+
+New words:
+  - Word: Wy
+    Translation: You(plural)
+    Images:
+      - they1
+
+New words:
+  - Word: Oni
+    Translation: They(masculine)
+    Images:
+      - they2
+
+New words:
+  - Word: One
+    Translation: They(feminine)
+    Images:
+      - they3
 
 New words:
   - Word: muž
@@ -216,6 +269,9 @@ Mini-dictionary:
     - are: jesi
     - he: on
     - is: jest
+    - she: ona
+    - it: ono
+    - this: to
     - one: jedin
     - man: muž
     - woman: woman

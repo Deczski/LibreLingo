@@ -98,6 +98,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Brat i sestra",
+      "meaningInSourceLanguage": "Brother and sister",
+      "id": "1d14e6c3c2bb",
+      "priority": 0,
+      "group": "acbd3d48bbca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Brother",
+          "definition": "Brother"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "sister",
+          "definition": "brat\nsestra"
+        }
+      ],
+      "chips": [
+        "Brat",
+        "i",
+        "sestra",
+        "Ja",
+        "jest"
+      ],
+      "solutions": [
+        [
+          "Brat",
+          "i",
+          "sestra"
+        ]
+      ],
+      "formattedSolution": "Brat i sestra",
+      "id": "db9f0eecb130",
+      "priority": 2,
+      "group": "acbd3d48bbca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Brat",
+          "definition": "sister"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "sestra",
+          "definition": "sister"
+        }
+      ],
+      "chips": [
+        "Brother",
+        "and",
+        "sister",
+        "are",
+        "the"
+      ],
+      "solutions": [
+        [
+          "Brother",
+          "and",
+          "sister"
+        ]
+      ],
+      "formattedSolution": "Brother and sister",
+      "id": "b1f789a4370c",
+      "priority": 2,
+      "group": "acbd3d48bbca"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "My jesmo njih praroditelji",
       "meaningInSourceLanguage": "We are their grandparents.",
       "id": "4c29e82463d7",
@@ -819,7 +899,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "to"
+          "definition": "ono\nto"
         },
         {
           "word": "is",
@@ -959,7 +1039,7 @@
         },
         {
           "word": "teacher.",
-          "definition": "učitel"
+          "definition": "učitelj"
         }
       ],
       "chips": [
@@ -1799,7 +1879,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "She"
+          "definition": "ona"
         },
         {
           "word": "is",
@@ -2262,7 +2342,7 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "This"
+          "definition": "to"
         },
         {
           "word": "boy",
@@ -2355,130 +2435,6 @@
       "id": "c3ae5dd7aca1",
       "priority": 2,
       "group": "c79f501c4a25"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "To jest olovka od mojego syna",
-      "meaningInSourceLanguage": "It is my son’s pencil.",
-      "id": "8213afdc198e",
-      "priority": 0,
-      "group": "0473356f7c0a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "It",
-          "definition": "to"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "my",
-          "definition": "my"
-        },
-        {
-          "word": "son’s",
-          "definition": "son’s"
-        },
-        {
-          "word": "pencil.",
-          "definition": "pencil."
-        }
-      ],
-      "chips": [
-        "To",
-        "jest",
-        "olovka",
-        "od",
-        "mojego",
-        "syna",
-        "je",
-        "Toj",
-        "moj",
-        "moja",
-        "to"
-      ],
-      "solutions": [
-        [
-          "To",
-          "jest",
-          "olovka",
-          "od",
-          "mojego",
-          "syna"
-        ]
-      ],
-      "formattedSolution": "To jest olovka od mojego syna",
-      "id": "634e12d13a13",
-      "priority": 2,
-      "group": "0473356f7c0a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "To",
-          "definition": "To"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "olovka",
-          "definition": "olovka"
-        },
-        {
-          "word": "od",
-          "definition": "od"
-        },
-        {
-          "word": "mojego",
-          "definition": "mojego"
-        },
-        {
-          "word": "syna",
-          "definition": "syna"
-        }
-      ],
-      "chips": [
-        "It",
-        "is",
-        "my",
-        "son’s",
-        "pencil",
-        "it",
-        "Is",
-        "me",
-        "I"
-      ],
-      "solutions": [
-        [
-          "It",
-          "is",
-          "my",
-          "son’s",
-          "pencil"
-        ],
-        [
-          "It",
-          "is",
-          "the",
-          "pencil",
-          "of",
-          "my",
-          "son"
-        ]
-      ],
-      "formattedSolution": "It is my son’s pencil.",
-      "id": "d75fe347419b",
-      "priority": 2,
-      "group": "0473356f7c0a"
     },
     {
       "type": "options",
@@ -2758,7 +2714,7 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "This"
+          "definition": "to"
         },
         {
           "word": "girl",
@@ -2890,9 +2846,9 @@
         "dočera",
         "jest",
         "medsestra",
+        "sestra",
         "Jest",
-        "Dočera",
-        "moja"
+        "Dočera"
       ],
       "solutions": [
         [
@@ -3179,7 +3135,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "to"
+          "definition": "ono\nto"
         },
         {
           "word": "is",
@@ -3585,6 +3541,72 @@
       "id": "aff1054c59eb",
       "priority": 1,
       "group": "c18d304e60c3"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "daughter1.jpg",
+        "daughter2.jpg",
+        "daughter3.jpg"
+      ],
+      "formInTargetLanguage": "sestra",
+      "meaningInSourceLanguage": "sister",
+      "id": "ba0f4a70f3ff",
+      "priority": 0,
+      "group": "898c39dc8ae4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "daughter1.jpg",
+        "daughter2.jpg",
+        "daughter3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "sestra"
+      ],
+      "phrase": [
+        {
+          "word": "sister",
+          "definition": "brat\nsestra"
+        }
+      ],
+      "id": "34b0d441bc40",
+      "priority": 1,
+      "group": "898c39dc8ae4"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "brotherofbrother1.jpg",
+        "brotherofbrother2.jpg",
+        "brotherofbrother3.jpg"
+      ],
+      "formInTargetLanguage": "brat",
+      "meaningInSourceLanguage": "sister",
+      "id": "917a9f346a3f",
+      "priority": 0,
+      "group": "df68beedca5c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "brotherofbrother1.jpg",
+        "brotherofbrother2.jpg",
+        "brotherofbrother3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "brat"
+      ],
+      "phrase": [
+        {
+          "word": "sister",
+          "definition": "brat\nsestra"
+        }
+      ],
+      "id": "c8d730d47345",
+      "priority": 1,
+      "group": "df68beedca5c"
     }
   ]
 }

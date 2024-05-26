@@ -20,7 +20,7 @@
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         }
       ],
       "chips": [
@@ -168,7 +168,7 @@
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         }
       ],
       "chips": [
@@ -232,11 +232,11 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "She"
+          "definition": "ona"
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         }
       ],
       "chips": [
@@ -300,11 +300,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "to"
+          "definition": "ono\nto"
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         }
       ],
       "chips": [
@@ -656,7 +656,7 @@
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         },
         {
           "word": "a",
@@ -664,7 +664,7 @@
         },
         {
           "word": "teacher",
-          "definition": "učitel"
+          "definition": "učitelj"
         }
       ],
       "chips": [
@@ -707,7 +707,7 @@
         },
         {
           "word": "učitelj",
-          "definition": "Teacher"
+          "definition": "teacher"
         }
       ],
       "chips": [
@@ -844,7 +844,7 @@
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         },
         {
           "word": "rich",
@@ -920,11 +920,11 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "She"
+          "definition": "ona"
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         },
         {
           "word": "a",
@@ -1007,11 +1007,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "to"
+          "definition": "ono\nto"
         },
         {
           "word": "was",
-          "definition": "was"
+          "definition": "byl\nbyla\nbylo"
         },
         {
           "word": "here",
@@ -1410,27 +1410,27 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "učitel",
+      "formInTargetLanguage": "učitelj",
       "meaningInSourceLanguage": "teacher",
-      "id": "2b1fa0e8e37f",
+      "id": "cbdd1a8feb11",
       "priority": 0,
-      "group": "29d878b82519"
+      "group": "fe8b203efa19"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "učitel"
+        "učitelj"
       ],
       "phrase": [
         {
           "word": "teacher",
-          "definition": "učitel"
+          "definition": "učitelj"
         }
       ],
-      "id": "9f66c31b1462",
+      "id": "ba3a47b75843",
       "priority": 1,
-      "group": "29d878b82519"
+      "group": "fe8b203efa19"
     },
     {
       "type": "cards",

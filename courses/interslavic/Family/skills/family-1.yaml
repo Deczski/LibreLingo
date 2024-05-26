@@ -75,9 +75,27 @@ New words:
       - daughter2
       - daughter3
 
+  - Word: sestra
+    Translation: sister
+    Images:
+      - daughter1
+      - daughter2
+      - daughter3
+
+  - Word: brat
+    Translation: sister
+    Images:
+      - brotherofbrother1
+      - brotherofbrother2
+      - brotherofbrother3
+
+
 Phrases:
   - Phrase: Naši praroditelji byli doktori
     Translation: Our grandparents are doctors.
+
+  - Phrase: Brat i sestra
+    Translation: Brother and sister    
 
   - Phrase: My jesmo njih praroditelji
     Translation: We are their grandparents.
@@ -156,11 +174,6 @@ Phrases:
 
   - Phrase: Toj hlapec jest moj syn
     Translation: This boy is my son.
-
-  - Phrase: To jest olovka od mojego syna
-    Translation: It is my son’s pencil.
-    Alternative translations:
-      - It is the pencil of my son.
 
   - Phrase: Syn tvojego dědoka jest tvoj otec
     Translation: Your grandfather’s son is your father.
