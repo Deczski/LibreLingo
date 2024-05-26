@@ -24,11 +24,11 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "you?",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -264,11 +264,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "nothing.",
@@ -348,11 +348,11 @@
         },
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "late.",
@@ -438,11 +438,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "late.",
@@ -543,15 +543,15 @@
         },
         {
           "word": "it",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "not",
-          "definition": "ez"
+          "definition": "not"
         },
         {
           "word": "late.",
@@ -559,11 +559,11 @@
         },
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "nothing.",
@@ -618,7 +618,7 @@
         },
         {
           "word": "ne",
-          "definition": "not,no"
+          "definition": "ne"
         },
         {
           "word": "jest",
@@ -776,11 +776,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "nothing.",

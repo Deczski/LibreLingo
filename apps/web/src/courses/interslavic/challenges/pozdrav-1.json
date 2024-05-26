@@ -16,11 +16,11 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         }
       ],
       "chips": [
@@ -84,7 +84,7 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "are(singular)",
@@ -156,7 +156,7 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         }
       ],
       "chips": [
@@ -220,7 +220,7 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "are(plural)",
@@ -288,11 +288,11 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "hura\non"
+          "definition": "on"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         }
       ],
       "chips": [
@@ -356,11 +356,11 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "hura"
+          "definition": "She"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         }
       ],
       "chips": [
@@ -424,11 +424,11 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         }
       ],
       "chips": [
@@ -492,7 +492,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "haiek"
+          "definition": "They"
         },
         {
           "word": "are(masculine)",
@@ -560,7 +560,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "haiek"
+          "definition": "They"
         },
         {
           "word": "are(feminine)",
@@ -628,11 +628,11 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         },
         {
           "word": "a",
@@ -719,11 +719,11 @@
         },
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         },
         {
           "word": "Katarina",
@@ -809,11 +809,11 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         },
         {
           "word": "a",
@@ -821,7 +821,7 @@
         },
         {
           "word": "girl.",
-          "definition": "děvčina\nneska"
+          "definition": "děvčina"
         }
       ],
       "chips": [
@@ -900,11 +900,11 @@
         },
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         },
         {
           "word": "a",
@@ -912,7 +912,7 @@
         },
         {
           "word": "boy.",
-          "definition": "hlapec\nmutil"
+          "definition": "hlapec"
         }
       ],
       "chips": [
@@ -997,11 +997,11 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "a",
@@ -1009,7 +1009,7 @@
         },
         {
           "word": "girl.",
-          "definition": "děvčina\nneska"
+          "definition": "děvčina"
         }
       ],
       "chips": [
@@ -1084,11 +1084,11 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "a",
@@ -1171,11 +1171,11 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "a",
@@ -1258,11 +1258,11 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "hura\non"
+          "definition": "on"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "Vojtěh.",
@@ -1347,7 +1347,7 @@
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "a",
@@ -1355,7 +1355,7 @@
         },
         {
           "word": "boy.",
-          "definition": "hlapec\nmutil"
+          "definition": "hlapec"
         }
       ],
       "chips": [
@@ -1439,7 +1439,7 @@
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "a",
@@ -1531,7 +1531,7 @@
         },
         {
           "word": "and",
-          "definition": "eta\ni"
+          "definition": "i"
         },
         {
           "word": "Vojtěh",
@@ -1611,7 +1611,7 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "students",
@@ -1765,7 +1765,7 @@
       "phrase": [
         {
           "word": "boy",
-          "definition": "hlapec\nmutil"
+          "definition": "hlapec"
         }
       ],
       "id": "358868ceeaf2",
@@ -1798,7 +1798,7 @@
       "phrase": [
         {
           "word": "girl",
-          "definition": "děvčina\nneska"
+          "definition": "děvčina"
         }
       ],
       "id": "b28bd91b43c8",
@@ -1832,11 +1832,11 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         }
       ],
       "id": "2102bcb3a80c",
@@ -1870,11 +1870,11 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         }
       ],
       "id": "66f2267934f6",
@@ -1908,11 +1908,11 @@
       "phrase": [
         {
           "word": "he",
-          "definition": "hura\non"
+          "definition": "on"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         }
       ],
       "id": "8e4d743ac526",

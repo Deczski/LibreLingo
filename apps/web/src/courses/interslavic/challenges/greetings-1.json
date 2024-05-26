@@ -24,15 +24,15 @@
         },
         {
           "word": "Who",
-          "definition": "kto\nnor"
+          "definition": "kto"
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "you?",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -133,7 +133,7 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "Vojtěh",
@@ -141,7 +141,7 @@
         },
         {
           "word": "and",
-          "definition": "eta\ni"
+          "definition": "i"
         },
         {
           "word": "Katarina.",
@@ -249,11 +249,11 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "you?",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -345,11 +345,11 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         },
         {
           "word": "fine.",
@@ -361,7 +361,7 @@
         },
         {
           "word": "you.",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -453,11 +453,11 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "they",
-          "definition": "haiek"
+          "definition": "they"
         },
         {
           "word": "Vojtěh",
@@ -465,7 +465,7 @@
         },
         {
           "word": "and",
-          "definition": "eta\ni"
+          "definition": "i"
         },
         {
           "word": "Katarina?",
@@ -594,7 +594,7 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "Vojtěh",
@@ -602,7 +602,7 @@
         },
         {
           "word": "and",
-          "definition": "eta\ni"
+          "definition": "i"
         },
         {
           "word": "Katarina.",
@@ -716,11 +716,11 @@
         },
         {
           "word": "Are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "you",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "Vojtěh?",
@@ -828,11 +828,11 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "you?",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -936,11 +936,11 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "you.",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -1032,11 +1032,11 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         },
         {
           "word": "fine.",
@@ -1044,11 +1044,11 @@
         },
         {
           "word": "And",
-          "definition": "eta\ni"
+          "definition": "i"
         },
         {
           "word": "you?",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -1147,15 +1147,15 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         },
         {
           "word": "also",
-          "definition": "ere\ntakože"
+          "definition": "takože"
         },
         {
           "word": "fine.",
@@ -1167,7 +1167,7 @@
         },
         {
           "word": "you.",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "chips": [
@@ -1270,11 +1270,11 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "he",
-          "definition": "hura\non"
+          "definition": "on"
         },
         {
           "word": "Vojtěh?",
@@ -1354,11 +1354,11 @@
         },
         {
           "word": "She",
-          "definition": "hura"
+          "definition": "She"
         },
         {
           "word": "is",
-          "definition": "da\njest"
+          "definition": "jest"
         },
         {
           "word": "Katarina.",
@@ -1572,7 +1572,7 @@
         },
         {
           "word": "you",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "id": "bd6d964b45d6",
@@ -1638,11 +1638,11 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "am",
-          "definition": "jesm\nnaiz"
+          "definition": "jesm"
         }
       ],
       "id": "2102bcb3a80c",
@@ -1712,11 +1712,11 @@
         },
         {
           "word": "are",
-          "definition": "dira\njesi\nzara"
+          "definition": "jesi"
         },
         {
           "word": "you?",
-          "definition": "ty\nzu"
+          "definition": "ty"
         }
       ],
       "id": "fb4901c2c272",

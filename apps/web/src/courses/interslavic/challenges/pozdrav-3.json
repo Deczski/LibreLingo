@@ -16,7 +16,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "will",
@@ -162,7 +162,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "hura\non"
+          "definition": "on"
         },
         {
           "word": "will",
@@ -235,7 +235,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "hura"
+          "definition": "She"
         },
         {
           "word": "will",
@@ -308,7 +308,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "will",
@@ -516,10 +516,75 @@
     {
       "type": "options",
       "formInTargetLanguage": "Oni budut",
-      "meaningInSourceLanguage": "They(masculine)",
-      "id": "077dcf82d078",
+      "meaningInSourceLanguage": "They(masculine) will",
+      "id": "ea7f098aff61",
       "priority": 0,
-      "group": "99208ecca27d"
+      "group": "30829e92a172"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "They(masculine)"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "budut",
+        "budu",
+        "On"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "budut"
+        ]
+      ],
+      "formattedSolution": "Oni budut",
+      "id": "1d52fe4f4d3b",
+      "priority": 2,
+      "group": "30829e92a172"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "they\nthey(masculine)"
+        },
+        {
+          "word": "budut",
+          "definition": "budut"
+        }
+      ],
+      "chips": [
+        "They(masculine",
+        "will",
+        "They",
+        "sing"
+      ],
+      "solutions": [
+        [
+          "They(masculine",
+          "will"
+        ],
+        [
+          "They(masculine",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "They(masculine) will",
+      "id": "ff52d2c45701",
+      "priority": 2,
+      "group": "30829e92a172"
     },
     {
       "type": "options",
@@ -543,7 +608,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "will",
@@ -631,7 +696,7 @@
         },
         {
           "word": "You",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "be",
@@ -817,7 +882,7 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty\nzu"
+          "definition": "ty"
         },
         {
           "word": "will",
@@ -977,7 +1042,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "haiek"
+          "definition": "They"
         },
         {
           "word": "will",
@@ -1057,7 +1122,7 @@
       "phrase": [
         {
           "word": "I",
-          "definition": "Ja\nni"
+          "definition": "Ja"
         },
         {
           "word": "will",
@@ -1297,7 +1362,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "hura\non"
+          "definition": "on"
         },
         {
           "word": "will",
@@ -1377,7 +1442,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "hura"
+          "definition": "She"
         },
         {
           "word": "will",
@@ -1457,7 +1522,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "hura\nto"
+          "definition": "to"
         },
         {
           "word": "will",
@@ -1716,7 +1781,7 @@
         },
         {
           "word": "there",
-          "definition": "hor"
+          "definition": "there"
         },
         {
           "word": "tommorow",
