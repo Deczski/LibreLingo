@@ -1409,16 +1409,24 @@
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "teacher1.jpg",
+        "teacher2.jpg",
+        "teacher3.jpg"
+      ],
       "formInTargetLanguage": "učitelj",
       "meaningInSourceLanguage": "teacher",
-      "id": "cbdd1a8feb11",
+      "id": "9bd7509049da",
       "priority": 0,
-      "group": "fe8b203efa19"
+      "group": "e44e69f2d9d1"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "teacher1.jpg",
+        "teacher2.jpg",
+        "teacher3.jpg"
+      ],
       "formInTargetLanguage": [
         "učitelj"
       ],
@@ -1428,9 +1436,9 @@
           "definition": "učitelj"
         }
       ],
-      "id": "ba3a47b75843",
+      "id": "70a5faeca310",
       "priority": 1,
-      "group": "fe8b203efa19"
+      "group": "e44e69f2d9d1"
     },
     {
       "type": "cards",
