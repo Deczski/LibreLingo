@@ -1456,6 +1456,150 @@
       "id": "f52d678797eb",
       "priority": 1,
       "group": "0a6d50fd4cf1"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": "Pozdrav",
+      "meaningInSourceLanguage": "Hello",
+      "id": "f9b1d50383f7",
+      "priority": 0,
+      "group": "99dddc1fbaf6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Pozdrav"
+      ],
+      "phrase": [
+        {
+          "word": "Hello",
+          "definition": "pozdrav"
+        }
+      ],
+      "id": "5e4c5a54373e",
+      "priority": 1,
+      "group": "99dddc1fbaf6"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
+      "formInTargetLanguage": "Dobry denj",
+      "meaningInSourceLanguage": "Good day",
+      "id": "3ecac45bf6d6",
+      "priority": 0,
+      "group": "63d6b98f54c2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Dobry denj"
+      ],
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobro"
+        },
+        {
+          "word": "day",
+          "definition": "day"
+        }
+      ],
+      "id": "31db2dfb6c30",
+      "priority": 1,
+      "group": "63d6b98f54c2"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "morning1.jpg",
+        "morning2.jpg",
+        "morning3.jpg"
+      ],
+      "formInTargetLanguage": "Dobro jutro",
+      "meaningInSourceLanguage": "Good morning",
+      "id": "9cb9e5f64287",
+      "priority": 0,
+      "group": "74a35ad61c2a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "morning1.jpg",
+        "morning2.jpg",
+        "morning3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Dobro jutro"
+      ],
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobro"
+        },
+        {
+          "word": "morning",
+          "definition": "morning"
+        }
+      ],
+      "id": "7acd1d6fa682",
+      "priority": 1,
+      "group": "74a35ad61c2a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "thankyou1.jpg",
+        "thankyou2.jpg",
+        "thankyou3.jpg"
+      ],
+      "formInTargetLanguage": "Hvala",
+      "meaningInSourceLanguage": "Thank you",
+      "id": "4068a250df90",
+      "priority": 0,
+      "group": "8a835c724e8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "thankyou1.jpg",
+        "thankyou2.jpg",
+        "thankyou3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Hvala"
+      ],
+      "phrase": [
+        {
+          "word": "Thank",
+          "definition": "Thank"
+        },
+        {
+          "word": "you",
+          "definition": "ty"
+        }
+      ],
+      "id": "bd6d964b45d6",
+      "priority": 1,
+      "group": "8a835c724e8a"
     }
   ]
 }

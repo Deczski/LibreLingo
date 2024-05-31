@@ -167,10 +167,8 @@ Phrases:
   - Phrase: One sut
     Translation: They(feminine) are    
 
-
   - Phrase: Ja jesm muž
     Translation: I am a man.
-
 
   - Phrase: Pozdrav, Ja jesm Katarina
     Translation: Hello I am Katarina
@@ -178,14 +176,11 @@ Phrases:
   - Phrase: Ja jesm děvčina
     Translation: I am a girl.
 
-
   - Phrase: Pozdrav, Ja jesm hlapec
     Translation: Hello, I am a boy.
 
-
   - Phrase: Ty jesi děvčina
     Translation: You are a girl.
-
 
   - Phrase: Ty Jesi žena
     Translation: You are a woman.
@@ -203,7 +198,6 @@ Phrases:
       - Jaroslav je hlapec
     Translation: Jaroslav is a boy.
 
-
   - Phrase: Tatjana jest žena
     Alternative versions:
       - Tatjana je žena
@@ -214,8 +208,6 @@ Phrases:
 
   - Phrase: My jesmo studenti
     Translation: We are students
-    Images:
-      - students1.jpg
 
   - Phrase: Tatjana ne jest hlapec
     Translation: Tatjana is not a boy

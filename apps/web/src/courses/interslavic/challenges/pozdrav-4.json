@@ -548,11 +548,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "One budut",
+      "formInTargetLanguage": "One by",
       "meaningInSourceLanguage": "They(feminine) would",
-      "id": "4db91cca7506",
+      "id": "e9f93fee0e09",
       "priority": 0,
-      "group": "7b1eb4097445"
+      "group": "a2932416c90f"
     },
     {
       "type": "chips",
@@ -569,20 +569,20 @@
       ],
       "chips": [
         "One",
-        "budut",
-        "budu",
-        "bude"
+        "by",
+        "On",
+        "ne"
       ],
       "solutions": [
         [
           "One",
-          "budut"
+          "by"
         ]
       ],
-      "formattedSolution": "One budut",
-      "id": "67990d1778f2",
+      "formattedSolution": "One by",
+      "id": "5389fdf0fca9",
       "priority": 2,
-      "group": "7b1eb4097445"
+      "group": "a2932416c90f"
     },
     {
       "type": "chips",
@@ -593,8 +593,8 @@
           "definition": "they(feminine)"
         },
         {
-          "word": "budut",
-          "definition": "budut"
+          "word": "by",
+          "definition": "would"
         }
       ],
       "chips": [
@@ -610,9 +610,9 @@
         ]
       ],
       "formattedSolution": "They(feminine) would",
-      "id": "13280ce0fe1e",
+      "id": "7ca39e6f690b",
       "priority": 2,
-      "group": "7b1eb4097445"
+      "group": "a2932416c90f"
     },
     {
       "type": "options",
