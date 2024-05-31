@@ -314,8 +314,8 @@
         "you",
         "or",
         "You",
-        "son",
-        "boy"
+        "boy",
+        "not"
       ],
       "solutions": [
         [
@@ -733,10 +733,10 @@
         "Jesi",
         "Ty",
         "Vojtěh",
-        "Toj",
         "jesi",
         "Vy",
-        "je"
+        "je",
+        "by"
       ],
       "solutions": [
         [
@@ -894,7 +894,7 @@
         "You",
         "not",
         "or",
-        "son"
+        "boy"
       ],
       "solutions": [
         [
@@ -952,7 +952,7 @@
         "je",
         "to",
         "Do",
-        "od"
+        "Ja"
       ],
       "solutions": [
         [
@@ -1059,8 +1059,8 @@
         "Ty",
         "je",
         "by",
-        "Ta",
-        "My"
+        "My",
+        "Vy"
       ],
       "solutions": [
         [
@@ -1418,9 +1418,9 @@
         "She",
         "is",
         "Katarina",
-        "His",
         "are",
-        "We"
+        "We",
+        "He"
       ],
       "solutions": [
         [
