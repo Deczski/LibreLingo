@@ -87,6 +87,17 @@ Phrases:
 - Phrase: One budut zautra tam
   Translation: They(feminine) will be there tommorow
 
+- Phrase: Ja byh iměl mnogo groši jestli Ja byh mnogo rabotal
+  Translation: I would have a lot of money if I worked a lot
+
+- Phrase: Ty bys iměl muskuly jestli Ty bys mnogo trenoval
+  Translation: I would have muscles if You trained a lot
+
+- Phrase: My byhmo avto iměli jestli my byhmo je uže kupili
+  Translation: We would have a car if we had already bought it
+
+- Phrase: On by uže byl tut jestli On by načel včera
+  Translation: He would be here already if he had started yesterday
 
 Mini-dictionary:
 
@@ -108,6 +119,9 @@ Mini-dictionary:
   - vozil: drive
   - posylali: send
   - govoril: talk
+  - mnogo: a lot
+  - groši: money
+  - uže: already
 
   English:
 

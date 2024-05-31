@@ -1,6 +1,6 @@
 {
   "id": "0beaa60946f0",
-  "levels": 6,
+  "levels": 7,
   "challenges": [
     {
       "type": "options",
@@ -839,8 +839,8 @@
         "We",
         "would",
         "work",
-        "or",
-        "we"
+        "we",
+        "or"
       ],
       "solutions": [
         [
@@ -1567,7 +1567,7 @@
         "would",
         "eat",
         "not",
-        "it"
+        "lot"
       ],
       "solutions": [
         [
@@ -1800,9 +1800,9 @@
         "budut",
         "zautra",
         "tam",
+        "tut",
         "sut",
-        "Ona",
-        "tu"
+        "Ona"
       ],
       "solutions": [
         [
@@ -1862,6 +1862,725 @@
       "id": "526a794644a4",
       "priority": 2,
       "group": "df373429d142"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja byh iměl mnogo groši jestli Ja byh mnogo rabotal",
+      "meaningInSourceLanguage": "I would have a lot of money if I worked a lot",
+      "id": "db1ea35df37a",
+      "priority": 0,
+      "group": "05c971181fb2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "have",
+          "definition": "have"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "lot",
+          "definition": "lot"
+        },
+        {
+          "word": "of",
+          "definition": "of"
+        },
+        {
+          "word": "money",
+          "definition": "money"
+        },
+        {
+          "word": "if",
+          "definition": "if"
+        },
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "worked",
+          "definition": "worked"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "lot",
+          "definition": "lot"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "byh",
+        "iměl",
+        "mnogo",
+        "groši",
+        "jestli",
+        "Ja",
+        "byh",
+        "mnogo",
+        "rabotal",
+        "byl",
+        "by",
+        "to",
+        "moj",
+        "Ono",
+        "bys",
+        "ti",
+        "Do",
+        "noč"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "byh",
+          "iměl",
+          "mnogo",
+          "groši",
+          "jestli",
+          "Ja",
+          "byh",
+          "mnogo",
+          "rabotal"
+        ]
+      ],
+      "formattedSolution": "Ja byh iměl mnogo groši jestli Ja byh mnogo rabotal",
+      "id": "275943ee2618",
+      "priority": 2,
+      "group": "05c971181fb2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "byh",
+          "definition": "byh"
+        },
+        {
+          "word": "iměl",
+          "definition": "iměl"
+        },
+        {
+          "word": "mnogo",
+          "definition": "a lot"
+        },
+        {
+          "word": "groši",
+          "definition": "money"
+        },
+        {
+          "word": "jestli",
+          "definition": "jestli"
+        },
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "byh",
+          "definition": "byh"
+        },
+        {
+          "word": "mnogo",
+          "definition": "a lot"
+        },
+        {
+          "word": "rabotal",
+          "definition": "rabotal"
+        }
+      ],
+      "chips": [
+        "I",
+        "would",
+        "have",
+        "a",
+        "lot",
+        "of",
+        "money",
+        "if",
+        "I",
+        "worked",
+        "a",
+        "lot",
+        "or",
+        "It",
+        "",
+        "me",
+        "am",
+        "We",
+        "He",
+        "be",
+        "not",
+        "my",
+        "are"
+      ],
+      "solutions": [
+        [
+          "I",
+          "would",
+          "have",
+          "a",
+          "lot",
+          "of",
+          "money",
+          "if",
+          "I",
+          "worked",
+          "a",
+          "lot"
+        ]
+      ],
+      "formattedSolution": "I would have a lot of money if I worked a lot",
+      "id": "9d08357ab2cc",
+      "priority": 2,
+      "group": "05c971181fb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty bys iměl muskuly jestli Ty bys mnogo trenoval",
+      "meaningInSourceLanguage": "I would have muscles if You trained a lot",
+      "id": "ccd05c5ada2d",
+      "priority": 0,
+      "group": "921897549a0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "have",
+          "definition": "have"
+        },
+        {
+          "word": "muscles",
+          "definition": "muscles"
+        },
+        {
+          "word": "if",
+          "definition": "if"
+        },
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "trained",
+          "definition": "trained"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "lot",
+          "definition": "lot"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "bys",
+        "iměl",
+        "muskuly",
+        "jestli",
+        "Ty",
+        "bys",
+        "mnogo",
+        "trenoval",
+        "byl",
+        "by",
+        "ty",
+        "My",
+        "Vy",
+        "syn",
+        "bylo",
+        "byh"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "bys",
+          "iměl",
+          "muskuly",
+          "jestli",
+          "Ty",
+          "bys",
+          "mnogo",
+          "trenoval"
+        ]
+      ],
+      "formattedSolution": "Ty bys iměl muskuly jestli Ty bys mnogo trenoval",
+      "id": "35c01de5d7bb",
+      "priority": 2,
+      "group": "921897549a0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "bys",
+          "definition": "bys"
+        },
+        {
+          "word": "iměl",
+          "definition": "iměl"
+        },
+        {
+          "word": "muskuly",
+          "definition": "muskuly"
+        },
+        {
+          "word": "jestli",
+          "definition": "jestli"
+        },
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "bys",
+          "definition": "bys"
+        },
+        {
+          "word": "mnogo",
+          "definition": "a lot"
+        },
+        {
+          "word": "trenoval",
+          "definition": "trenoval"
+        }
+      ],
+      "chips": [
+        "I",
+        "would",
+        "have",
+        "muscles",
+        "if",
+        "You",
+        "trained",
+        "a",
+        "lot",
+        "of",
+        "or",
+        "me",
+        "am",
+        "are",
+        "We",
+        "He",
+        "is"
+      ],
+      "solutions": [
+        [
+          "I",
+          "would",
+          "have",
+          "muscles",
+          "if",
+          "You",
+          "trained",
+          "a",
+          "lot"
+        ]
+      ],
+      "formattedSolution": "I would have muscles if You trained a lot",
+      "id": "550d33492d4c",
+      "priority": 2,
+      "group": "921897549a0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My byhmo avto iměli jestli my byhmo je uže kupili",
+      "meaningInSourceLanguage": "We would have a car if we had already bought it",
+      "id": "78616cd1c714",
+      "priority": 0,
+      "group": "35931ac84a60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "have",
+          "definition": "have"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "if",
+          "definition": "if"
+        },
+        {
+          "word": "we",
+          "definition": "we"
+        },
+        {
+          "word": "had",
+          "definition": "had"
+        },
+        {
+          "word": "already",
+          "definition": "already"
+        },
+        {
+          "word": "bought",
+          "definition": "bought"
+        },
+        {
+          "word": "it",
+          "definition": "ono\nto"
+        }
+      ],
+      "chips": [
+        "My",
+        "byhmo",
+        "avto",
+        "iměli",
+        "jestli",
+        "my",
+        "byhmo",
+        "je",
+        "uže",
+        "kupili",
+        "byl",
+        "by",
+        "li",
+        "bylo",
+        "byli",
+        "byh",
+        "ili",
+        "to",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "My",
+          "byhmo",
+          "avto",
+          "iměli",
+          "jestli",
+          "my",
+          "byhmo",
+          "je",
+          "uže",
+          "kupili"
+        ]
+      ],
+      "formattedSolution": "My byhmo avto iměli jestli my byhmo je uže kupili",
+      "id": "4cd3768f0e20",
+      "priority": 2,
+      "group": "35931ac84a60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "byhmo",
+          "definition": "byhmo"
+        },
+        {
+          "word": "avto",
+          "definition": "car"
+        },
+        {
+          "word": "iměli",
+          "definition": "iměli"
+        },
+        {
+          "word": "jestli",
+          "definition": "jestli"
+        },
+        {
+          "word": "my",
+          "definition": "we"
+        },
+        {
+          "word": "byhmo",
+          "definition": "byhmo"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "uže",
+          "definition": "already"
+        },
+        {
+          "word": "kupili",
+          "definition": "kupili"
+        }
+      ],
+      "chips": [
+        "We",
+        "would",
+        "have",
+        "a",
+        "car",
+        "if",
+        "we",
+        "had",
+        "already",
+        "bought",
+        "it",
+        "am",
+        "be",
+        "are",
+        "He",
+        "or",
+        "me",
+        "eat",
+        "of",
+        "is",
+        "It"
+      ],
+      "solutions": [
+        [
+          "We",
+          "would",
+          "have",
+          "a",
+          "car",
+          "if",
+          "we",
+          "had",
+          "already",
+          "bought",
+          "it"
+        ]
+      ],
+      "formattedSolution": "We would have a car if we had already bought it",
+      "id": "67907ede904d",
+      "priority": 2,
+      "group": "35931ac84a60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On by uže byl tut jestli On by načel včera",
+      "meaningInSourceLanguage": "He would be here already if he had started yesterday",
+      "id": "7c8e760a09c8",
+      "priority": 0,
+      "group": "92400b3ce218"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "on"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "be",
+          "definition": "be"
+        },
+        {
+          "word": "here",
+          "definition": "Tu"
+        },
+        {
+          "word": "already",
+          "definition": "already"
+        },
+        {
+          "word": "if",
+          "definition": "if"
+        },
+        {
+          "word": "he",
+          "definition": "on"
+        },
+        {
+          "word": "had",
+          "definition": "had"
+        },
+        {
+          "word": "started",
+          "definition": "started"
+        },
+        {
+          "word": "yesterday",
+          "definition": "yesterday"
+        }
+      ],
+      "chips": [
+        "On",
+        "by",
+        "uže",
+        "byl",
+        "tut",
+        "jestli",
+        "On",
+        "by",
+        "načel",
+        "včera",
+        "je",
+        "ne",
+        "te",
+        "se",
+        "Ty",
+        "My",
+        "Vy",
+        "One",
+        "tu"
+      ],
+      "solutions": [
+        [
+          "On",
+          "by",
+          "uže",
+          "byl",
+          "tut",
+          "jestli",
+          "On",
+          "by",
+          "načel",
+          "včera"
+        ]
+      ],
+      "formattedSolution": "On by uže byl tut jestli On by načel včera",
+      "id": "89ae53c7273c",
+      "priority": 2,
+      "group": "92400b3ce218"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he"
+        },
+        {
+          "word": "by",
+          "definition": "by"
+        },
+        {
+          "word": "uže",
+          "definition": "already"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "tut",
+          "definition": "Here"
+        },
+        {
+          "word": "jestli",
+          "definition": "jestli"
+        },
+        {
+          "word": "On",
+          "definition": "he"
+        },
+        {
+          "word": "by",
+          "definition": "by"
+        },
+        {
+          "word": "načel",
+          "definition": "načel"
+        },
+        {
+          "word": "včera",
+          "definition": "včera"
+        }
+      ],
+      "chips": [
+        "He",
+        "would",
+        "be",
+        "here",
+        "already",
+        "if",
+        "he",
+        "had",
+        "started",
+        "yesterday",
+        "are",
+        "We",
+        "me",
+        "Her",
+        "the",
+        "or",
+        "am",
+        "She",
+        "a"
+      ],
+      "solutions": [
+        [
+          "He",
+          "would",
+          "be",
+          "here",
+          "already",
+          "if",
+          "he",
+          "had",
+          "started",
+          "yesterday"
+        ]
+      ],
+      "formattedSolution": "He would be here already if he had started yesterday",
+      "id": "11627056d47f",
+      "priority": 2,
+      "group": "92400b3ce218"
     },
     {
       "type": "cards",
