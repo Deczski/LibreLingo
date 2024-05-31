@@ -1684,11 +1684,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Vy byste kupovati",
+      "formInTargetLanguage": "Vy byste kupovali",
       "meaningInSourceLanguage": "You(plural) would buy",
-      "id": "289a56af7890",
+      "id": "a754e562955c",
       "priority": 0,
-      "group": "571f614daca5"
+      "group": "8a6102aac543"
     },
     {
       "type": "chips",
@@ -1710,21 +1710,21 @@
       "chips": [
         "Vy",
         "byste",
-        "kupovati",
-        "bys",
-        "by"
+        "kupovali",
+        "byl",
+        "byli"
       ],
       "solutions": [
         [
           "Vy",
           "byste",
-          "kupovati"
+          "kupovali"
         ]
       ],
-      "formattedSolution": "Vy byste kupovati",
-      "id": "b300c12b4980",
+      "formattedSolution": "Vy byste kupovali",
+      "id": "828ff700c038",
       "priority": 2,
-      "group": "571f614daca5"
+      "group": "8a6102aac543"
     },
     {
       "type": "chips",
@@ -1739,8 +1739,8 @@
           "definition": "would"
         },
         {
-          "word": "kupovati",
-          "definition": "Buy"
+          "word": "kupovali",
+          "definition": "kupovali"
         }
       ],
       "chips": [
@@ -1758,9 +1758,9 @@
         ]
       ],
       "formattedSolution": "You(plural) would buy",
-      "id": "580444482828",
+      "id": "5baaf354cdd4",
       "priority": 2,
-      "group": "571f614daca5"
+      "group": "8a6102aac543"
     },
     {
       "type": "options",
