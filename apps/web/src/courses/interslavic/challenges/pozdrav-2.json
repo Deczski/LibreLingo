@@ -932,7 +932,7 @@
         },
         {
           "word": "queen",
-          "definition": "kraljeva"
+          "definition": "Kraljeva"
         }
       ],
       "chips": [
@@ -968,7 +968,7 @@
         },
         {
           "word": "kraljeva",
-          "definition": "queen"
+          "definition": "Queen"
         }
       ],
       "chips": [
@@ -1431,31 +1431,6 @@
       "id": "ba3a47b75843",
       "priority": 1,
       "group": "fe8b203efa19"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "kraljeva",
-      "meaningInSourceLanguage": "queen",
-      "id": "363f379c8a23",
-      "priority": 0,
-      "group": "0a6d50fd4cf1"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "kraljeva"
-      ],
-      "phrase": [
-        {
-          "word": "queen",
-          "definition": "kraljeva"
-        }
-      ],
-      "id": "f52d678797eb",
-      "priority": 1,
-      "group": "0a6d50fd4cf1"
     },
     {
       "type": "cards",
