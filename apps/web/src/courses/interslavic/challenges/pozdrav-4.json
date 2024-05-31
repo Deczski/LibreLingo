@@ -1684,11 +1684,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Vy budete kupovati",
-      "meaningInSourceLanguage": "You(plural) will buy",
-      "id": "ece675598ffc",
+      "formInTargetLanguage": "Vy byste kupovati",
+      "meaningInSourceLanguage": "You(plural) would buy",
+      "id": "289a56af7890",
       "priority": 0,
-      "group": "d67e7ba691e9"
+      "group": "571f614daca5"
     },
     {
       "type": "chips",
@@ -1699,8 +1699,8 @@
           "definition": "You(plural)"
         },
         {
-          "word": "will",
-          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
         },
         {
           "word": "buy",
@@ -1709,22 +1709,22 @@
       ],
       "chips": [
         "Vy",
-        "budete",
+        "byste",
         "kupovati",
-        "sut",
-        "bude"
+        "bys",
+        "by"
       ],
       "solutions": [
         [
           "Vy",
-          "budete",
+          "byste",
           "kupovati"
         ]
       ],
-      "formattedSolution": "Vy budete kupovati",
-      "id": "f3b18d8a7b69",
+      "formattedSolution": "Vy byste kupovati",
+      "id": "b300c12b4980",
       "priority": 2,
-      "group": "d67e7ba691e9"
+      "group": "571f614daca5"
     },
     {
       "type": "chips",
@@ -1735,8 +1735,8 @@
           "definition": "you(plural)"
         },
         {
-          "word": "budete",
-          "definition": "budete"
+          "word": "byste",
+          "definition": "would"
         },
         {
           "word": "kupovati",
@@ -1745,123 +1745,22 @@
       ],
       "chips": [
         "You(plural",
-        "will",
+        "would",
         "buy",
-        "ball",
-        "girl"
+        "You",
+        "old"
       ],
       "solutions": [
         [
           "You(plural",
-          "will",
+          "would",
           "buy"
         ]
       ],
-      "formattedSolution": "You(plural) will buy",
-      "id": "ae4b6bf63a34",
+      "formattedSolution": "You(plural) would buy",
+      "id": "580444482828",
       "priority": 2,
-      "group": "d67e7ba691e9"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "One budut zautra tam",
-      "meaningInSourceLanguage": "They(feminine) will be there tommorow",
-      "id": "505caf100c5b",
-      "priority": 0,
-      "group": "df373429d142"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "They(feminine)",
-          "definition": "They(feminine)"
-        },
-        {
-          "word": "will",
-          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
-        },
-        {
-          "word": "be",
-          "definition": "be"
-        },
-        {
-          "word": "there",
-          "definition": "there"
-        },
-        {
-          "word": "tommorow",
-          "definition": "zautra"
-        }
-      ],
-      "chips": [
-        "One",
-        "budut",
-        "zautra",
-        "tam",
-        "tut",
-        "sut",
-        "Ona"
-      ],
-      "solutions": [
-        [
-          "One",
-          "budut",
-          "zautra",
-          "tam"
-        ]
-      ],
-      "formattedSolution": "One budut zautra tam",
-      "id": "e7d4084596c6",
-      "priority": 2,
-      "group": "df373429d142"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "One",
-          "definition": "they(feminine)"
-        },
-        {
-          "word": "budut",
-          "definition": "budut"
-        },
-        {
-          "word": "zautra",
-          "definition": "Tommorow"
-        },
-        {
-          "word": "tam",
-          "definition": "there"
-        }
-      ],
-      "chips": [
-        "They(feminine",
-        "will",
-        "be",
-        "there",
-        "tommorow",
-        "here",
-        "were",
-        "the",
-        "They"
-      ],
-      "solutions": [
-        [
-          "They(feminine",
-          "will",
-          "be",
-          "there",
-          "tommorow"
-        ]
-      ],
-      "formattedSolution": "They(feminine) will be there tommorow",
-      "id": "526a794644a4",
-      "priority": 2,
-      "group": "df373429d142"
+      "group": "571f614daca5"
     },
     {
       "type": "options",
