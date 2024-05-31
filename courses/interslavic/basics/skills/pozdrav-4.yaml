@@ -1,0 +1,121 @@
+Skill:
+  Id: 14
+  Name: Pozdrav-4
+  Thumbnails:
+  - man3
+  - woman3
+  - hello3
+
+New words:
+  - Word: Kupovati
+    Translation: Buy
+
+Phrases:
+
+- Phrase: Ja byh
+  Translation: I would
+
+
+- Phrase: Ty bys
+  Translation: You(singular) would
+
+
+- Phrase: On by
+  Translation: He would
+
+- Phrase: Ona by
+  Translation: She would
+
+- Phrase: Ono by
+  Translation: It would
+
+- Phrase: My byhmo
+  Translation: We would  
+
+- Phrase: Vy byste
+  Translation: You(plural) would
+
+- Phrase: Oni by
+  Translation: They(masculine) would
+
+- Phrase: One budut
+  Translation: They(feminine) would
+
+
+- Phrase: Ja byh kupoval
+  Translation: I would buy
+
+- Phrase: Ty bys govoril
+  Translation: You would talk
+
+- Phrase: My byhmo rabotali
+  Translation: We would work
+
+- Phrase: Vy byste pokazyvali
+  Translation: You would show
+
+- Phrase: One by posylali
+  Translation: They(feminine) would send
+
+- Phrase: Oni by spali
+  Translation: They would sleep
+
+- Phrase: Ja byh vozil se
+  Translation: I would drive
+
+- Phrase: Ty bys proboval
+  Translation: You(singular) would try
+
+- Phrase: My byhmo pametali
+  Translation: We would remember
+
+- Phrase: On by budoval
+  Translation: He would build
+
+- Phrase: Ona by tancevala
+  Translation: She would dance
+
+- Phrase: Ono by jedalo 
+  Translation: It would eat
+
+- Phrase: My byhmo byli basketbalisti
+  Translation: We would be basketball players
+
+- Phrase: Vy budete kupovati
+  Translation: You(plural) will buy
+
+- Phrase: One budut zautra tam
+  Translation: They(feminine) will be there tommorow
+
+
+Mini-dictionary:
+
+  Interslavic:
+
+  - Ja byh: I would
+  - Ty bys: You would
+  - On by: He would
+  - Ona by: She would
+  - Ono by: It would
+  - My byhmo: We would
+  - Vy byste: You(plural) would
+  - Oni by: They(masculine) would
+  - One by: They(feminine) would
+  - basketbalisti: basketball players
+  - budoval: build
+  - pametali: remeber
+  - se: reflexive pronoun
+  - vozil: drive
+  - posylali: send
+  - govoril: talk
+
+  English:
+
+  - know: znati
+  - tommorow: zautra
+  - would:
+    - byh
+    - bys
+    - by
+    - byhmo
+    - byste

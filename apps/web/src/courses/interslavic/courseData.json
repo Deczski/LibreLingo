@@ -102,7 +102,7 @@
         },
         {
           "imageSet": [
-            "man3",
+            "tommorow1",
             "woman3",
             "hello3"
           ],
@@ -134,8 +134,46 @@
             "One budut zautra tam"
           ],
           "practiceHref": "pozdrav-3",
-          "id": "0beaa60946f0",
+          "id": "f7ee2ecbddc1",
           "title": "Pozdrav-3",
+          "levels": 6
+        },
+        {
+          "imageSet": [
+            "man3",
+            "woman3",
+            "hello3"
+          ],
+          "summary": [
+            "Kupovati",
+            "Ja byh",
+            "Ty bys",
+            "On by",
+            "Ona by",
+            "Ono by",
+            "My byhmo",
+            "Vy byste",
+            "Oni by",
+            "One budut",
+            "Ja byh kupoval",
+            "Ty bys govoril",
+            "My byhmo rabotali",
+            "Vy byste pokazyvali",
+            "One by posylali",
+            "Oni by spali",
+            "Ja byh vozil se",
+            "Ty bys proboval",
+            "My byhmo pametali",
+            "On by budoval",
+            "Ona by tancevala",
+            "Ono by jedalo",
+            "My byhmo byli basketbalisti",
+            "Vy budete kupovati",
+            "One budut zautra tam"
+          ],
+          "practiceHref": "pozdrav-4",
+          "id": "0beaa60946f0",
+          "title": "Pozdrav-4",
           "levels": 6
         }
       ]
