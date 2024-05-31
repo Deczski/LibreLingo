@@ -7,8 +7,17 @@ Skill:
   - hello3
 
 New words:
+
   - Word: Kupovati
     Translation: Buy
+    Images:
+      - store1
+      - store2
+      - store3 
+
+  - Word: Rabotati
+    Translation: Work
+
 
 Phrases:
 
@@ -85,12 +94,19 @@ Phrases:
   Translation: You(plural) would buy
 
 - Phrase: Ja byh iměl mnogo groši jestli Ja byh mnogo rabotal
+  Alternative versions:
+    - Ja byh mnogo groši iměl jestli Ja byh mnogo rabotal
+    - Ja byh mnogo groši iměl ako li Ja byh mnogo rabotal
   Translation: I would have a lot of money if I worked a lot
+  Alternative translations:
+    - They(masculine) will be    
 
 - Phrase: Ty bys iměl muskuly jestli Ty bys mnogo trenoval
   Translation: I would have muscles if You trained a lot
 
-- Phrase: My byhmo avto iměli jestli my byhmo je uže kupili
+- Phrase: My byhmo iměli avto jestli my byhmo je uže kupili
+  Alternative versions:
+    - My byhmo avto iměli jestli my byhmo je uže kupili
   Translation: We would have a car if we had already bought it
 
 - Phrase: On by uže byl tut jestli On by načel včera

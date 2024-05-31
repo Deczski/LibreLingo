@@ -1858,16 +1858,24 @@
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "swim1.jpg",
+        "swim2.jpg",
+        "swim3.jpg"
+      ],
       "formInTargetLanguage": "Plavati",
       "meaningInSourceLanguage": "Swim",
-      "id": "c6dc0b62acf8",
+      "id": "2d3ebc68458a",
       "priority": 0,
-      "group": "0406fb04319f"
+      "group": "0b78b7dda4aa"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "swim1.jpg",
+        "swim2.jpg",
+        "swim3.jpg"
+      ],
       "formInTargetLanguage": [
         "Plavati"
       ],
@@ -1877,9 +1885,9 @@
           "definition": "Plavati"
         }
       ],
-      "id": "d8737bc31aef",
+      "id": "9d034fe313c1",
       "priority": 1,
-      "group": "0406fb04319f"
+      "group": "0b78b7dda4aa"
     }
   ]
 }

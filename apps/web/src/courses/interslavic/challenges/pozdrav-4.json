@@ -796,7 +796,7 @@
         },
         {
           "word": "work",
-          "definition": "work"
+          "definition": "Rabotati"
         }
       ],
       "chips": [
@@ -1856,6 +1856,31 @@
           "byh",
           "mnogo",
           "rabotal"
+        ],
+        [
+          "Ja",
+          "byh",
+          "mnogo",
+          "groši",
+          "iměl",
+          "jestli",
+          "Ja",
+          "byh",
+          "mnogo",
+          "rabotal"
+        ],
+        [
+          "Ja",
+          "byh",
+          "mnogo",
+          "groši",
+          "iměl",
+          "ako",
+          "li",
+          "Ja",
+          "byh",
+          "mnogo",
+          "rabotal"
         ]
       ],
       "formattedSolution": "Ja byh iměl mnogo groši jestli Ja byh mnogo rabotal",
@@ -1947,6 +1972,11 @@
           "worked",
           "a",
           "lot"
+        ],
+        [
+          "They(masculine",
+          "will",
+          "be"
         ]
       ],
       "formattedSolution": "I would have a lot of money if I worked a lot",
@@ -2120,11 +2150,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "My byhmo avto iměli jestli my byhmo je uže kupili",
+      "formInTargetLanguage": "My byhmo iměli avto jestli my byhmo je uže kupili",
       "meaningInSourceLanguage": "We would have a car if we had already bought it",
-      "id": "78616cd1c714",
+      "id": "ab9673bfec61",
       "priority": 0,
-      "group": "35931ac84a60"
+      "group": "0e310786c041"
     },
     {
       "type": "chips",
@@ -2178,8 +2208,8 @@
       "chips": [
         "My",
         "byhmo",
-        "avto",
         "iměli",
+        "avto",
         "jestli",
         "my",
         "byhmo",
@@ -2200,6 +2230,18 @@
         [
           "My",
           "byhmo",
+          "iměli",
+          "avto",
+          "jestli",
+          "my",
+          "byhmo",
+          "je",
+          "uže",
+          "kupili"
+        ],
+        [
+          "My",
+          "byhmo",
           "avto",
           "iměli",
           "jestli",
@@ -2210,10 +2252,10 @@
           "kupili"
         ]
       ],
-      "formattedSolution": "My byhmo avto iměli jestli my byhmo je uže kupili",
-      "id": "4cd3768f0e20",
+      "formattedSolution": "My byhmo iměli avto jestli my byhmo je uže kupili",
+      "id": "dd1a5d4e45f8",
       "priority": 2,
-      "group": "35931ac84a60"
+      "group": "0e310786c041"
     },
     {
       "type": "chips",
@@ -2228,12 +2270,12 @@
           "definition": "would"
         },
         {
-          "word": "avto",
-          "definition": "car"
-        },
-        {
           "word": "iměli",
           "definition": "iměli"
+        },
+        {
+          "word": "avto",
+          "definition": "car"
         },
         {
           "word": "jestli",
@@ -2299,9 +2341,9 @@
         ]
       ],
       "formattedSolution": "We would have a car if we had already bought it",
-      "id": "67907ede904d",
+      "id": "763bc1ca2b6c",
       "priority": 2,
-      "group": "35931ac84a60"
+      "group": "0e310786c041"
     },
     {
       "type": "options",
@@ -2483,16 +2525,24 @@
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "store1.jpg",
+        "store2.jpg",
+        "store3.jpg"
+      ],
       "formInTargetLanguage": "Kupovati",
       "meaningInSourceLanguage": "Buy",
-      "id": "aaf1710b779f",
+      "id": "9bb0d936c268",
       "priority": 0,
-      "group": "0a12da0c908d"
+      "group": "9fc0f24f0707"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "store1.jpg",
+        "store2.jpg",
+        "store3.jpg"
+      ],
       "formInTargetLanguage": [
         "Kupovati"
       ],
@@ -2502,9 +2552,34 @@
           "definition": "Kupovati"
         }
       ],
-      "id": "f5fa08d34ccd",
+      "id": "bbd3f2aef66a",
       "priority": 1,
-      "group": "0a12da0c908d"
+      "group": "9fc0f24f0707"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Rabotati",
+      "meaningInSourceLanguage": "Work",
+      "id": "1289e449498c",
+      "priority": 0,
+      "group": "dacd9f81c2e2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Rabotati"
+      ],
+      "phrase": [
+        {
+          "word": "Work",
+          "definition": "Rabotati"
+        }
+      ],
+      "id": "8ca5feb8c031",
+      "priority": 1,
+      "group": "dacd9f81c2e2"
     }
   ]
 }
