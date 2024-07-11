@@ -68,15 +68,6 @@ Phrases:
   - Phrase: Dobra noč Vojtěh.
     Translation: Good night Vojtěh.
 
-  # - Phrase: Bihar arte.
-  #   Translation: See you tomorrow.
-
-  # - Phrase: Gero arte.
-  #   Translation: See you later.
-
-  # - Phrase: Eskerrik asko. Bihar arte.
-  #   Translation: Thank you. See you tomorrow.
-
   - Phrase: To jest ničto.
     Translation: It is nothing.
 
@@ -85,9 +76,6 @@ Phrases:
 
   - Phrase: To jest pozdno. Do viděnja.
     Translation: It is late. Goodbye.
-
-  # - Phrase: Pomiluj. Toj avtobus jest
-  #   Translation: Sorry. The bus is late.
 
   - Phrase: Pozdno? To ne jest pozdno. To jest ničto.
     Translation: Late? it is not late. It is nothing.

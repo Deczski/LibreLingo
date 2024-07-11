@@ -124,7 +124,9 @@ Phrases:
 
 Mini-dictionary:
   Interslavic:
-    - da: Yes
+    - da: yes
+    - i: and
 
   English:
     - and: i
+    - yes: da

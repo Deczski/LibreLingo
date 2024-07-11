@@ -617,10 +617,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Ja jesm muž",
-      "meaningInSourceLanguage": "I am a man.",
-      "id": "cead3c71dd1f",
+      "meaningInSourceLanguage": "I am a man",
+      "id": "d53f9e928acf",
       "priority": 0,
-      "group": "fa641f4dd61c"
+      "group": "3e074b36f141"
     },
     {
       "type": "chips",
@@ -639,7 +639,7 @@
           "definition": "-a"
         },
         {
-          "word": "man.",
+          "word": "man",
           "definition": "muž"
         }
       ],
@@ -658,9 +658,9 @@
         ]
       ],
       "formattedSolution": "Ja jesm muž",
-      "id": "0a710fdf8fd3",
+      "id": "c62a850b0a37",
       "priority": 2,
-      "group": "fa641f4dd61c"
+      "group": "3e074b36f141"
     },
     {
       "type": "chips",
@@ -696,10 +696,10 @@
           "man"
         ]
       ],
-      "formattedSolution": "I am a man.",
-      "id": "3f93e5a8e086",
+      "formattedSolution": "I am a man",
+      "id": "17e584bb7887",
       "priority": 2,
-      "group": "fa641f4dd61c"
+      "group": "3e074b36f141"
     },
     {
       "type": "options",
@@ -798,10 +798,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Ja jesm děvčina",
-      "meaningInSourceLanguage": "I am a girl.",
-      "id": "ca60a14bbe92",
+      "meaningInSourceLanguage": "I am a girl",
+      "id": "14c00da4c2eb",
       "priority": 0,
-      "group": "cd7c5470f68d"
+      "group": "529a833e363e"
     },
     {
       "type": "chips",
@@ -820,7 +820,7 @@
           "definition": "-a"
         },
         {
-          "word": "girl.",
+          "word": "girl",
           "definition": "děvčina"
         }
       ],
@@ -839,9 +839,9 @@
         ]
       ],
       "formattedSolution": "Ja jesm děvčina",
-      "id": "271163ac2d2d",
+      "id": "db9da966fd7d",
       "priority": 2,
-      "group": "cd7c5470f68d"
+      "group": "529a833e363e"
     },
     {
       "type": "chips",
@@ -877,18 +877,18 @@
           "girl"
         ]
       ],
-      "formattedSolution": "I am a girl.",
-      "id": "69ff64a83b0b",
+      "formattedSolution": "I am a girl",
+      "id": "d28060df7a9e",
       "priority": 2,
-      "group": "cd7c5470f68d"
+      "group": "529a833e363e"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Pozdrav, Ja jesm hlapec",
-      "meaningInSourceLanguage": "Hello, I am a boy.",
-      "id": "b98cd50a437f",
+      "meaningInSourceLanguage": "Hello, I am a boy",
+      "id": "c2ccfe819b90",
       "priority": 0,
-      "group": "4d54e3cf6aa7"
+      "group": "b2fcfd2babc8"
     },
     {
       "type": "chips",
@@ -911,7 +911,7 @@
           "definition": "-a"
         },
         {
-          "word": "boy.",
+          "word": "boy",
           "definition": "hlapec"
         }
       ],
@@ -933,9 +933,9 @@
         ]
       ],
       "formattedSolution": "Pozdrav, Ja jesm hlapec",
-      "id": "f3dd7c84e287",
+      "id": "95dd9359ab85",
       "priority": 2,
-      "group": "4d54e3cf6aa7"
+      "group": "b2fcfd2babc8"
     },
     {
       "type": "chips",
@@ -978,18 +978,18 @@
           "boy"
         ]
       ],
-      "formattedSolution": "Hello, I am a boy.",
-      "id": "453ca651de64",
+      "formattedSolution": "Hello, I am a boy",
+      "id": "65716214bf35",
       "priority": 2,
-      "group": "4d54e3cf6aa7"
+      "group": "b2fcfd2babc8"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Ty jesi děvčina",
-      "meaningInSourceLanguage": "You are a girl.",
-      "id": "7cf0e3f3b450",
+      "meaningInSourceLanguage": "You are a girl",
+      "id": "e93eb64eb9e7",
       "priority": 0,
-      "group": "385be15b9442"
+      "group": "51232eb7a189"
     },
     {
       "type": "chips",
@@ -1008,7 +1008,7 @@
           "definition": "-a"
         },
         {
-          "word": "girl.",
+          "word": "girl",
           "definition": "děvčina"
         }
       ],
@@ -1027,9 +1027,9 @@
         ]
       ],
       "formattedSolution": "Ty jesi děvčina",
-      "id": "774bfc60233e",
+      "id": "41a3da008d1a",
       "priority": 2,
-      "group": "385be15b9442"
+      "group": "51232eb7a189"
     },
     {
       "type": "chips",
@@ -1065,18 +1065,18 @@
           "girl"
         ]
       ],
-      "formattedSolution": "You are a girl.",
-      "id": "ebf4c91fcad3",
+      "formattedSolution": "You are a girl",
+      "id": "e5ac2dd0faad",
       "priority": 2,
-      "group": "385be15b9442"
+      "group": "51232eb7a189"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Ty Jesi žena",
-      "meaningInSourceLanguage": "You are a woman.",
-      "id": "87035d369e74",
+      "meaningInSourceLanguage": "You are a woman",
+      "id": "cf67f57d5c26",
       "priority": 0,
-      "group": "d20d24240856"
+      "group": "4c1d96abb0c9"
     },
     {
       "type": "chips",
@@ -1095,7 +1095,7 @@
           "definition": "-a"
         },
         {
-          "word": "woman.",
+          "word": "woman",
           "definition": "woman\nžena"
         }
       ],
@@ -1114,9 +1114,9 @@
         ]
       ],
       "formattedSolution": "Ty Jesi žena",
-      "id": "8770215897f4",
+      "id": "4e1080a9752a",
       "priority": 2,
-      "group": "d20d24240856"
+      "group": "4c1d96abb0c9"
     },
     {
       "type": "chips",
@@ -1152,18 +1152,18 @@
           "woman"
         ]
       ],
-      "formattedSolution": "You are a woman.",
-      "id": "8407bdc95c33",
+      "formattedSolution": "You are a woman",
+      "id": "81d60bd77ba5",
       "priority": 2,
-      "group": "d20d24240856"
+      "group": "4c1d96abb0c9"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Ty jesi muž",
-      "meaningInSourceLanguage": "You are a man.",
-      "id": "cc4b0a5a550a",
+      "meaningInSourceLanguage": "You are a man",
+      "id": "685f2d2321fe",
       "priority": 0,
-      "group": "1b16db14c25c"
+      "group": "420d67a9fcdf"
     },
     {
       "type": "chips",
@@ -1182,7 +1182,7 @@
           "definition": "-a"
         },
         {
-          "word": "man.",
+          "word": "man",
           "definition": "muž"
         }
       ],
@@ -1201,9 +1201,9 @@
         ]
       ],
       "formattedSolution": "Ty jesi muž",
-      "id": "f173ceac17c3",
+      "id": "bdbcc8e7507b",
       "priority": 2,
-      "group": "1b16db14c25c"
+      "group": "420d67a9fcdf"
     },
     {
       "type": "chips",
@@ -1239,18 +1239,18 @@
           "man"
         ]
       ],
-      "formattedSolution": "You are a man.",
-      "id": "6d24788a5c62",
+      "formattedSolution": "You are a man",
+      "id": "d8a5257243e4",
       "priority": 2,
-      "group": "1b16db14c25c"
+      "group": "420d67a9fcdf"
     },
     {
       "type": "options",
       "formInTargetLanguage": "On jest Vojtěh",
-      "meaningInSourceLanguage": "He is Vojtěh.",
-      "id": "d96e911286d6",
+      "meaningInSourceLanguage": "He is Vojtěh",
+      "id": "a146188d68b1",
       "priority": 0,
-      "group": "36c914a39c26"
+      "group": "5b9761a62281"
     },
     {
       "type": "chips",
@@ -1265,7 +1265,7 @@
           "definition": "jest"
         },
         {
-          "word": "Vojtěh.",
+          "word": "Vojtěh",
           "definition": "Vojtěh (male name)"
         }
       ],
@@ -1289,9 +1289,9 @@
         ]
       ],
       "formattedSolution": "On jest Vojtěh",
-      "id": "f754cf10c9f3",
+      "id": "1ea58755c1ea",
       "priority": 2,
-      "group": "36c914a39c26"
+      "group": "5b9761a62281"
     },
     {
       "type": "chips",
@@ -1324,18 +1324,18 @@
           "Vojtěh"
         ]
       ],
-      "formattedSolution": "He is Vojtěh.",
-      "id": "a593713fe66b",
+      "formattedSolution": "He is Vojtěh",
+      "id": "c751dac53d4e",
       "priority": 2,
-      "group": "36c914a39c26"
+      "group": "5b9761a62281"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Jaroslav jest hlapec",
-      "meaningInSourceLanguage": "Jaroslav is a boy.",
-      "id": "f4a5a07e3214",
+      "meaningInSourceLanguage": "Jaroslav is a boy",
+      "id": "3ff529ae3457",
       "priority": 0,
-      "group": "c8949537c141"
+      "group": "598bbf260268"
     },
     {
       "type": "chips",
@@ -1354,7 +1354,7 @@
           "definition": "-a"
         },
         {
-          "word": "boy.",
+          "word": "boy",
           "definition": "hlapec"
         }
       ],
@@ -1378,9 +1378,9 @@
         ]
       ],
       "formattedSolution": "Jaroslav jest hlapec",
-      "id": "97cd21097790",
+      "id": "4864a884a10f",
       "priority": 2,
-      "group": "c8949537c141"
+      "group": "598bbf260268"
     },
     {
       "type": "chips",
@@ -1416,18 +1416,18 @@
           "boy"
         ]
       ],
-      "formattedSolution": "Jaroslav is a boy.",
-      "id": "de3a023081b4",
+      "formattedSolution": "Jaroslav is a boy",
+      "id": "31c9e0700830",
       "priority": 2,
-      "group": "c8949537c141"
+      "group": "598bbf260268"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Tatjana jest žena",
-      "meaningInSourceLanguage": "Tatjana is a woman.",
-      "id": "de9b8a79963b",
+      "meaningInSourceLanguage": "Tatjana is a woman",
+      "id": "4730ae1e4217",
       "priority": 0,
-      "group": "d7d9001d1d63"
+      "group": "870887266fe9"
     },
     {
       "type": "chips",
@@ -1446,7 +1446,7 @@
           "definition": "-a"
         },
         {
-          "word": "woman.",
+          "word": "woman",
           "definition": "woman\nžena"
         }
       ],
@@ -1470,9 +1470,9 @@
         ]
       ],
       "formattedSolution": "Tatjana jest žena",
-      "id": "fd262f5d9a6e",
+      "id": "57855e14c1a7",
       "priority": 2,
-      "group": "d7d9001d1d63"
+      "group": "870887266fe9"
     },
     {
       "type": "chips",
@@ -1508,10 +1508,10 @@
           "woman"
         ]
       ],
-      "formattedSolution": "Tatjana is a woman.",
-      "id": "e0a52f94f66b",
+      "formattedSolution": "Tatjana is a woman",
+      "id": "f3e2217273b9",
       "priority": 2,
-      "group": "d7d9001d1d63"
+      "group": "870887266fe9"
     },
     {
       "type": "options",

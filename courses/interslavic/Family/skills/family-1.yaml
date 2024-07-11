@@ -1,6 +1,6 @@
 Skill:
-  Id: 11
-  Name: Pozdrav-1
+  Id: 31
+  Name: Family-1
   Thumbnails:
   - man1
   - woman1
@@ -13,40 +13,32 @@ New words:
       - iam
 
 New words:
-  - Word: Ty
-    Translation: You(singular)
+  - Word: Mati
+    Translation: Mother
     Images:
-      - you2
+      - mother1
 
 New words:
-  - Word: On
-    Translation: He
+  - Word: Otec
+    Translation: Father
     Images:
-      - he1
+      - father1
 
 New words:
-  - Word: Ona
-    Translation: She
-    Images:
-      - she2
+  - Word: Babica
+    Translation: Grandmother
 
 New words:
-  - Word: Ono
-    Translation: It
-    Images:
-      - baby3
+  - Word: Brat
+    Translation: Brother
 
 New words:
-  - Word: My
-    Translation: We
-    Images:
-      - we1
+  - Word: Sěstra
+    Translation: Sister
 
 New words:
-  - Word: Wy
-    Translation: You(plural)
-    Images:
-      - they1
+  - Word: Dědok
+    Translation: Grandfather
 
 New words:
   - Word: Oni
@@ -168,40 +160,40 @@ Phrases:
     Translation: They(feminine) are    
 
   - Phrase: Ja jesm muž
-    Translation: I am a man
+    Translation: I am a man.
 
   - Phrase: Pozdrav, Ja jesm Katarina
     Translation: Hello I am Katarina
 
   - Phrase: Ja jesm děvčina
-    Translation: I am a girl
+    Translation: I am a girl.
 
   - Phrase: Pozdrav, Ja jesm hlapec
-    Translation: Hello, I am a boy
+    Translation: Hello, I am a boy.
 
   - Phrase: Ty jesi děvčina
-    Translation: You are a girl
+    Translation: You are a girl.
 
   - Phrase: Ty Jesi žena
-    Translation: You are a woman
+    Translation: You are a woman.
 
   - Phrase: Ty jesi muž
-    Translation: You are a man
+    Translation: You are a man.
 
   - Phrase: On jest Vojtěh
     Alternative versions:
       - On je Vojtěh
-    Translation: He is Vojtěh
+    Translation: He is Vojtěh.
 
   - Phrase: Jaroslav jest hlapec
     Alternative versions:
       - Jaroslav je hlapec
-    Translation: Jaroslav is a boy
+    Translation: Jaroslav is a boy.
 
   - Phrase: Tatjana jest žena
     Alternative versions:
       - Tatjana je žena
-    Translation: Tatjana is a woman
+    Translation: Tatjana is a woman.
 
   - Phrase: Tatjana i Vojtěh
     Translation: Tatjana and Vojtěh
