@@ -995,11 +995,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ono bylo tu",
+      "formInTargetLanguage": "Ono bylo tut",
       "meaningInSourceLanguage": "It was here",
-      "id": "d206763e061d",
+      "id": "09fda331c634",
       "priority": 0,
-      "group": "9cb0f65ad5dd"
+      "group": "08c2df296f05"
     },
     {
       "type": "chips",
@@ -1021,21 +1021,21 @@
       "chips": [
         "Ono",
         "bylo",
-        "tu",
-        "to",
-        "On"
+        "tut",
+        "byl",
+        "ono"
       ],
       "solutions": [
         [
           "Ono",
           "bylo",
-          "tu"
+          "tut"
         ]
       ],
-      "formattedSolution": "Ono bylo tu",
-      "id": "bc67f6aad907",
+      "formattedSolution": "Ono bylo tut",
+      "id": "d844c5e23800",
       "priority": 2,
-      "group": "9cb0f65ad5dd"
+      "group": "08c2df296f05"
     },
     {
       "type": "chips",
@@ -1050,8 +1050,8 @@
           "definition": "bylo"
         },
         {
-          "word": "tu",
-          "definition": "tu"
+          "word": "tut",
+          "definition": "Here"
         }
       ],
       "chips": [
@@ -1069,9 +1069,9 @@
         ]
       ],
       "formattedSolution": "It was here",
-      "id": "94d9398cbe32",
+      "id": "3894659042af",
       "priority": 2,
-      "group": "9cb0f65ad5dd"
+      "group": "08c2df296f05"
     },
     {
       "type": "options",
@@ -1250,18 +1250,18 @@
     {
       "type": "options",
       "formInTargetLanguage": "Oni byli kuhari",
-      "meaningInSourceLanguage": "They were cooks",
-      "id": "dcbda99cb7e6",
+      "meaningInSourceLanguage": "They(masculine) were cooks",
+      "id": "08ead42f14d4",
       "priority": 0,
-      "group": "0b6ee17e40d9"
+      "group": "ae451710a4fb"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "They",
-          "definition": "one(feminine)\noni(masculine)"
+          "word": "They(masculine)",
+          "definition": "They(masculine)"
         },
         {
           "word": "were",
@@ -1287,9 +1287,9 @@
         ]
       ],
       "formattedSolution": "Oni byli kuhari",
-      "id": "3474bc509e7d",
+      "id": "5546a3348223",
       "priority": 2,
-      "group": "0b6ee17e40d9"
+      "group": "ae451710a4fb"
     },
     {
       "type": "chips",
@@ -1309,39 +1309,39 @@
         }
       ],
       "chips": [
-        "They",
+        "They(masculine",
         "were",
         "cooks",
         "here",
-        "work"
+        "Where"
       ],
       "solutions": [
         [
-          "They",
+          "They(masculine",
           "were",
           "cooks"
         ]
       ],
-      "formattedSolution": "They were cooks",
-      "id": "9f561a19d43a",
+      "formattedSolution": "They(masculine) were cooks",
+      "id": "36141f972837",
       "priority": 2,
-      "group": "0b6ee17e40d9"
+      "group": "ae451710a4fb"
     },
     {
       "type": "options",
       "formInTargetLanguage": "One byli žurnalistki",
-      "meaningInSourceLanguage": "They were journalists",
-      "id": "a5fb73feb006",
+      "meaningInSourceLanguage": "They(feminine) were journalists",
+      "id": "8e95a4c4c916",
       "priority": 0,
-      "group": "c37ee02da334"
+      "group": "20808d4c5353"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "They",
-          "definition": "one(feminine)\noni(masculine)"
+          "word": "They(feminine)",
+          "definition": "They(feminine)"
         },
         {
           "word": "were",
@@ -1367,9 +1367,9 @@
         ]
       ],
       "formattedSolution": "One byli žurnalistki",
-      "id": "10f4bef699a0",
+      "id": "b9ac68992d20",
       "priority": 2,
-      "group": "c37ee02da334"
+      "group": "20808d4c5353"
     },
     {
       "type": "chips",
@@ -1389,23 +1389,23 @@
         }
       ],
       "chips": [
-        "They",
+        "They(feminine",
         "were",
         "journalists",
         "here",
-        "are"
+        "Where"
       ],
       "solutions": [
         [
-          "They",
+          "They(feminine",
           "were",
           "journalists"
         ]
       ],
-      "formattedSolution": "They were journalists",
-      "id": "4aa8a1fb4c29",
+      "formattedSolution": "They(feminine) were journalists",
+      "id": "74758fc80018",
       "priority": 2,
-      "group": "c37ee02da334"
+      "group": "20808d4c5353"
     },
     {
       "type": "cards",
