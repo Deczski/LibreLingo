@@ -39,8 +39,8 @@
         "Gorana",
         "Da",
         "Ta",
-        "bat",
-        "Ona"
+        "Ona",
+        "je"
       ],
       "solutions": [
         [
@@ -88,7 +88,7 @@
         "brother",
         "or",
         "a",
-        "an"
+        "are"
       ],
       "solutions": [
         [
@@ -145,10 +145,10 @@
         "sestra",
         "od",
         "Gorana",
-        "eta",
         "je",
         "ne",
-        "Da"
+        "Da",
+        "Ta"
       ],
       "solutions": [
         [
@@ -251,8 +251,8 @@
         "Aitorren",
         "anaia",
         "naiz",
-        "orain",
-        "naše"
+        "naše",
+        "aita"
       ],
       "solutions": [
         [
@@ -558,7 +558,7 @@
         "ne",
         "moja",
         "moje",
-        "eta"
+        "to"
       ],
       "solutions": [
         [
@@ -668,7 +668,7 @@
         },
         {
           "word": "tall",
-          "definition": "tall"
+          "definition": "vysoky"
         }
       ],
       "chips": [
@@ -725,7 +725,7 @@
         },
         {
           "word": "vysoky",
-          "definition": "vysoky"
+          "definition": "tall"
         }
       ],
       "chips": [
@@ -780,7 +780,7 @@
         },
         {
           "word": "tourist",
-          "definition": "tourist"
+          "definition": "Turist"
         },
         {
           "word": "is",
@@ -801,10 +801,10 @@
         "jest",
         "moja",
         "plemenica",
-        "eta",
         "žena",
         "aita",
-        "Ja"
+        "Ja",
+        "jesi"
       ],
       "solutions": [
         [
@@ -1343,12 +1343,12 @@
         "jest",
         "naša",
         "tetka",
-        "eta",
         "te",
         "naš",
         "naše",
         "Naša",
-        "bat"
+        "Ja",
+        "ne"
       ],
       "solutions": [
         [
@@ -1621,12 +1621,12 @@
         "je",
         "naša",
         "tetka",
-        "eta",
         "te",
         "Ja",
         "ne",
         "Da",
-        "Ta"
+        "Ta",
+        "to"
       ],
       "solutions": [
         [

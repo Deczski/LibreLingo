@@ -1,0 +1,2483 @@
+{
+  "id": "7c608468b19e",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Avtobus jest veliky i fioletovy",
+      "meaningInSourceLanguage": "The bus is big and purple.",
+      "id": "1e98ac0a0b01",
+      "priority": 0,
+      "group": "e243de5d097d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "bus",
+          "definition": "avtobus"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "big",
+          "definition": "veliky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "purple.",
+          "definition": "fioletovy"
+        }
+      ],
+      "chips": [
+        "Avtobus",
+        "jest",
+        "veliky",
+        "i",
+        "fioletovy",
+        "jesi",
+        "deti",
+        "je",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Avtobus",
+          "jest",
+          "veliky",
+          "i",
+          "fioletovy"
+        ]
+      ],
+      "formattedSolution": "Avtobus jest veliky i fioletovy",
+      "id": "ee7bea5659ae",
+      "priority": 2,
+      "group": "e243de5d097d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Avtobus",
+          "definition": "bus"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "veliky",
+          "definition": "big"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "fioletovy",
+          "definition": "purple"
+        }
+      ],
+      "chips": [
+        "The",
+        "bus",
+        "is",
+        "big",
+        "and",
+        "purple",
+        "be",
+        "are",
+        "buy",
+        "but",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bus",
+          "is",
+          "big",
+          "and",
+          "purple"
+        ],
+        [
+          "A",
+          "bus",
+          "is",
+          "big",
+          "and",
+          "purple"
+        ]
+      ],
+      "formattedSolution": "The bus is big and purple.",
+      "id": "227d54d96121",
+      "priority": 2,
+      "group": "e243de5d097d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To byl maly i zeleny bus",
+      "meaningInSourceLanguage": "It was a small green bus.",
+      "id": "2828ea21ea17",
+      "priority": 0,
+      "group": "4a3947583b52"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ono\nto"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbylo"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "small",
+          "definition": "maly"
+        },
+        {
+          "word": "green",
+          "definition": "zeleny"
+        },
+        {
+          "word": "bus.",
+          "definition": "avtobus"
+        }
+      ],
+      "chips": [
+        "To",
+        "byl",
+        "maly",
+        "i",
+        "zeleny",
+        "bus",
+        "Ty",
+        "My",
+        "Vy",
+        "li",
+        "Ta"
+      ],
+      "solutions": [
+        [
+          "To",
+          "byl",
+          "maly",
+          "i",
+          "zeleny",
+          "bus"
+        ]
+      ],
+      "formattedSolution": "To byl maly i zeleny bus",
+      "id": "4d28b98dc391",
+      "priority": 2,
+      "group": "4a3947583b52"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "To"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "maly",
+          "definition": "small"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "zeleny",
+          "definition": "green"
+        },
+        {
+          "word": "bus",
+          "definition": "bus"
+        }
+      ],
+      "chips": [
+        "It",
+        "was",
+        "a",
+        "small",
+        "green",
+        "bus",
+        "am",
+        "man",
+        "eat",
+        "I",
+        "are"
+      ],
+      "solutions": [
+        [
+          "It",
+          "was",
+          "a",
+          "small",
+          "green",
+          "bus"
+        ],
+        [
+          "It",
+          "was",
+          "the",
+          "small",
+          "green",
+          "bus"
+        ]
+      ],
+      "formattedSolution": "It was a small green bus.",
+      "id": "d2b343edbde3",
+      "priority": 2,
+      "group": "4a3947583b52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vysoky bus jest fioletovy",
+      "meaningInSourceLanguage": "The tall bus is purple",
+      "id": "40e2c985e3bc",
+      "priority": 0,
+      "group": "aeb605220d20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "tall",
+          "definition": "vysoky"
+        },
+        {
+          "word": "bus",
+          "definition": "avtobus"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "purple",
+          "definition": "fioletovy"
+        }
+      ],
+      "chips": [
+        "Vysoky",
+        "bus",
+        "jest",
+        "fioletovy",
+        "jesm",
+        "jesi",
+        "Jest"
+      ],
+      "solutions": [
+        [
+          "Vysoky",
+          "bus",
+          "jest",
+          "fioletovy"
+        ]
+      ],
+      "formattedSolution": "Vysoky bus jest fioletovy",
+      "id": "e54a2373d7af",
+      "priority": 2,
+      "group": "aeb605220d20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vysoky",
+          "definition": "tall"
+        },
+        {
+          "word": "bus",
+          "definition": "bus"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "fioletovy",
+          "definition": "purple"
+        }
+      ],
+      "chips": [
+        "The",
+        "tall",
+        "bus",
+        "is",
+        "purple",
+        "are",
+        "be",
+        "the",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "tall",
+          "bus",
+          "is",
+          "purple"
+        ],
+        [
+          "A",
+          "tall",
+          "bus",
+          "is",
+          "purple"
+        ]
+      ],
+      "formattedSolution": "The tall bus is purple",
+      "id": "c7347ec148c1",
+      "priority": 2,
+      "group": "aeb605220d20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To byl nevysoky fioletovy avtomobil",
+      "meaningInSourceLanguage": "It was a short purple car.",
+      "id": "33eb34bfb6b0",
+      "priority": 0,
+      "group": "f4a0d8826544"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ono\nto"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbylo"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "short",
+          "definition": "kratky\nnevysoky"
+        },
+        {
+          "word": "purple",
+          "definition": "fioletovy"
+        },
+        {
+          "word": "car.",
+          "definition": "avto"
+        }
+      ],
+      "chips": [
+        "To",
+        "byl",
+        "nevysoky",
+        "fioletovy",
+        "avtomobil",
+        "bylo",
+        "to",
+        "avto",
+        "Kto"
+      ],
+      "solutions": [
+        [
+          "To",
+          "byl",
+          "nevysoky",
+          "fioletovy",
+          "avtomobil"
+        ]
+      ],
+      "formattedSolution": "To byl nevysoky fioletovy avtomobil",
+      "id": "2d7303c3f596",
+      "priority": 2,
+      "group": "f4a0d8826544"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "To"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "nevysoky",
+          "definition": "short"
+        },
+        {
+          "word": "fioletovy",
+          "definition": "purple"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "avtomobil"
+        }
+      ],
+      "chips": [
+        "It",
+        "was",
+        "a",
+        "short",
+        "purple",
+        "car",
+        "or",
+        "am",
+        "are",
+        "eat",
+        "fat"
+      ],
+      "solutions": [
+        [
+          "It",
+          "was",
+          "a",
+          "short",
+          "purple",
+          "car"
+        ],
+        [
+          "It",
+          "was",
+          "the",
+          "short",
+          "purple",
+          "car"
+        ]
+      ],
+      "formattedSolution": "It was a short purple car.",
+      "id": "3516a18634f8",
+      "priority": 2,
+      "group": "f4a0d8826544"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kratky avtomobil je běly i stary",
+      "meaningInSourceLanguage": "The short car is white and old.",
+      "id": "4a770ecf3d6e",
+      "priority": 0,
+      "group": "116bfe93b786"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "short",
+          "definition": "kratky\nnevysoky"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "white",
+          "definition": "běly"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "old.",
+          "definition": "stary"
+        }
+      ],
+      "chips": [
+        "Kratky",
+        "avtomobil",
+        "je",
+        "běly",
+        "i",
+        "stary",
+        "ti",
+        "to",
+        "te",
+        "Ty",
+        "My"
+      ],
+      "solutions": [
+        [
+          "Kratky",
+          "avtomobil",
+          "je",
+          "běly",
+          "i",
+          "stary"
+        ]
+      ],
+      "formattedSolution": "Kratky avtomobil je běly i stary",
+      "id": "0c67128ee7b5",
+      "priority": 2,
+      "group": "116bfe93b786"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kratky",
+          "definition": "short"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "avtomobil"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "běly",
+          "definition": "white"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "stary",
+          "definition": "old"
+        }
+      ],
+      "chips": [
+        "The",
+        "short",
+        "car",
+        "is",
+        "white",
+        "and",
+        "old",
+        "are",
+        "She",
+        "the",
+        "or",
+        "Who",
+        "am"
+      ],
+      "solutions": [
+        [
+          "The",
+          "short",
+          "car",
+          "is",
+          "white",
+          "and",
+          "old"
+        ],
+        [
+          "A",
+          "short",
+          "car",
+          "is",
+          "white",
+          "and",
+          "old"
+        ]
+      ],
+      "formattedSolution": "The short car is white and old.",
+      "id": "e205207983ff",
+      "priority": 2,
+      "group": "116bfe93b786"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mlady šofer je tenky i nevysoky",
+      "meaningInSourceLanguage": "The young driver was thin and short.",
+      "id": "ad33783366ce",
+      "priority": 0,
+      "group": "d7dcb636231c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "young",
+          "definition": "mlady"
+        },
+        {
+          "word": "driver",
+          "definition": "driver"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbylo"
+        },
+        {
+          "word": "thin",
+          "definition": "tenky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "short.",
+          "definition": "kratky\nnevysoky"
+        }
+      ],
+      "chips": [
+        "Mlady",
+        "šofer",
+        "je",
+        "tenky",
+        "i",
+        "nevysoky",
+        "ne",
+        "te",
+        "My",
+        "Ty",
+        "Vy"
+      ],
+      "solutions": [
+        [
+          "Mlady",
+          "šofer",
+          "je",
+          "tenky",
+          "i",
+          "nevysoky"
+        ]
+      ],
+      "formattedSolution": "Mlady šofer je tenky i nevysoky",
+      "id": "07ec66df981a",
+      "priority": 2,
+      "group": "d7dcb636231c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mlady",
+          "definition": "young"
+        },
+        {
+          "word": "šofer",
+          "definition": "šofer"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "tenky",
+          "definition": "thin"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "nevysoky",
+          "definition": "short"
+        }
+      ],
+      "chips": [
+        "The",
+        "young",
+        "driver",
+        "was",
+        "thin",
+        "and",
+        "short",
+        "the",
+        "are",
+        "She",
+        "son",
+        "man",
+        "Who"
+      ],
+      "solutions": [
+        [
+          "The",
+          "young",
+          "driver",
+          "was",
+          "thin",
+          "and",
+          "short"
+        ],
+        [
+          "A",
+          "young",
+          "driver",
+          "was",
+          "thin",
+          "and",
+          "short"
+        ]
+      ],
+      "formattedSolution": "The young driver was thin and short.",
+      "id": "51949d702268",
+      "priority": 2,
+      "group": "d7dcb636231c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Stary člověk je tolsty i vysoky",
+      "meaningInSourceLanguage": "The old man is fat and tall.",
+      "id": "0223e7ef9fba",
+      "priority": 0,
+      "group": "011a38889006"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "old",
+          "definition": "stary"
+        },
+        {
+          "word": "man",
+          "definition": "muž"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "fat",
+          "definition": "tolsty"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "tall.",
+          "definition": "vysoky"
+        }
+      ],
+      "chips": [
+        "Stary",
+        "člověk",
+        "je",
+        "tolsty",
+        "i",
+        "vysoky",
+        "to",
+        "Ty",
+        "My",
+        "Vy",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Stary",
+          "člověk",
+          "je",
+          "tolsty",
+          "i",
+          "vysoky"
+        ]
+      ],
+      "formattedSolution": "Stary člověk je tolsty i vysoky",
+      "id": "b985d924d60f",
+      "priority": 2,
+      "group": "011a38889006"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Stary",
+          "definition": "old"
+        },
+        {
+          "word": "člověk",
+          "definition": "human"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "tolsty",
+          "definition": "fat"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "vysoky",
+          "definition": "tall"
+        }
+      ],
+      "chips": [
+        "The",
+        "old",
+        "man",
+        "is",
+        "fat",
+        "and",
+        "tall",
+        "am",
+        "a",
+        "was",
+        "eat",
+        "are",
+        "the"
+      ],
+      "solutions": [
+        [
+          "The",
+          "old",
+          "man",
+          "is",
+          "fat",
+          "and",
+          "tall"
+        ],
+        [
+          "An",
+          "old",
+          "man",
+          "is",
+          "fat",
+          "and",
+          "tall"
+        ]
+      ],
+      "formattedSolution": "The old man is fat and tall.",
+      "id": "c7aec2fa99ab",
+      "priority": 2,
+      "group": "011a38889006"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hotely byli vysoke i běle",
+      "meaningInSourceLanguage": "The hotels were tall and white.",
+      "id": "c6a1a8992b32",
+      "priority": 0,
+      "group": "b5a75f94bacb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "hotels",
+          "definition": "hotels"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "tall",
+          "definition": "vysoky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "white.",
+          "definition": "běly"
+        }
+      ],
+      "chips": [
+        "Hotely",
+        "byli",
+        "vysoke",
+        "i",
+        "běle",
+        "byl",
+        "bylo",
+        "byla",
+        "li"
+      ],
+      "solutions": [
+        [
+          "Hotely",
+          "byli",
+          "vysoke",
+          "i",
+          "běle"
+        ]
+      ],
+      "formattedSolution": "Hotely byli vysoke i běle",
+      "id": "933d3d07e624",
+      "priority": 2,
+      "group": "b5a75f94bacb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Hotely",
+          "definition": "Hotely"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "vysoke",
+          "definition": "vysoke"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "běle",
+          "definition": "běle"
+        }
+      ],
+      "chips": [
+        "The",
+        "hotels",
+        "were",
+        "tall",
+        "and",
+        "white",
+        "are",
+        "the",
+        "She",
+        "here",
+        "late"
+      ],
+      "solutions": [
+        [
+          "The",
+          "hotels",
+          "were",
+          "tall",
+          "and",
+          "white"
+        ]
+      ],
+      "formattedSolution": "The hotels were tall and white.",
+      "id": "d70025f31b2b",
+      "priority": 2,
+      "group": "b5a75f94bacb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vysoke hotely byli žolte i běle",
+      "meaningInSourceLanguage": "The tall hotels were yellow or white.",
+      "id": "78d747c8411e",
+      "priority": 0,
+      "group": "1a48a5fcbfab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "tall",
+          "definition": "vysoky"
+        },
+        {
+          "word": "hotels",
+          "definition": "hotels"
+        },
+        {
+          "word": "were",
+          "definition": "were"
+        },
+        {
+          "word": "yellow",
+          "definition": "žolty"
+        },
+        {
+          "word": "or",
+          "definition": "ili"
+        },
+        {
+          "word": "white.",
+          "definition": "běly"
+        }
+      ],
+      "chips": [
+        "Vysoke",
+        "hotely",
+        "byli",
+        "žolte",
+        "i",
+        "běle",
+        "byl",
+        "bylo",
+        "byla",
+        "te",
+        "li"
+      ],
+      "solutions": [
+        [
+          "Vysoke",
+          "hotely",
+          "byli",
+          "žolte",
+          "i",
+          "běle"
+        ]
+      ],
+      "formattedSolution": "Vysoke hotely byli žolte i běle",
+      "id": "c10f8bb019ed",
+      "priority": 2,
+      "group": "1a48a5fcbfab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vysoke",
+          "definition": "Vysoke"
+        },
+        {
+          "word": "hotely",
+          "definition": "hotely"
+        },
+        {
+          "word": "byli",
+          "definition": "byli"
+        },
+        {
+          "word": "žolte",
+          "definition": "žolte"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "běle",
+          "definition": "běle"
+        }
+      ],
+      "chips": [
+        "The",
+        "tall",
+        "hotels",
+        "were",
+        "yellow",
+        "or",
+        "white",
+        "here",
+        "are",
+        "the",
+        "We",
+        "He",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "tall",
+          "hotels",
+          "were",
+          "yellow",
+          "or",
+          "white"
+        ]
+      ],
+      "formattedSolution": "The tall hotels were yellow or white.",
+      "id": "b759d730dd8d",
+      "priority": 2,
+      "group": "1a48a5fcbfab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Veliky avtomobil jest oranževy",
+      "meaningInSourceLanguage": "The big car is orange.",
+      "id": "89828d72f412",
+      "priority": 0,
+      "group": "6719ef94a008"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "big",
+          "definition": "veliky"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "orange.",
+          "definition": "oranževy"
+        }
+      ],
+      "chips": [
+        "Veliky",
+        "avtomobil",
+        "jest",
+        "oranževy",
+        "jesi",
+        "jesm",
+        "ženy"
+      ],
+      "solutions": [
+        [
+          "Veliky",
+          "avtomobil",
+          "jest",
+          "oranževy"
+        ]
+      ],
+      "formattedSolution": "Veliky avtomobil jest oranževy",
+      "id": "da52edcd56cd",
+      "priority": 2,
+      "group": "6719ef94a008"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Veliky",
+          "definition": "big"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "avtomobil"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "oranževy",
+          "definition": "orange"
+        }
+      ],
+      "chips": [
+        "The",
+        "big",
+        "car",
+        "is",
+        "orange",
+        "are",
+        "be",
+        "or",
+        "am"
+      ],
+      "solutions": [
+        [
+          "The",
+          "big",
+          "car",
+          "is",
+          "orange"
+        ],
+        [
+          "A",
+          "big",
+          "car",
+          "is",
+          "orange"
+        ]
+      ],
+      "formattedSolution": "The big car is orange.",
+      "id": "4cc8ec67bcba",
+      "priority": 2,
+      "group": "6719ef94a008"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oranževy avtomobil byl veliky",
+      "meaningInSourceLanguage": "The orange car was big.",
+      "id": "1421e491a5b4",
+      "priority": 0,
+      "group": "2e47f4836a30"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "orange",
+          "definition": "oranževy"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbylo"
+        },
+        {
+          "word": "big.",
+          "definition": "veliky"
+        }
+      ],
+      "chips": [
+        "Oranževy",
+        "avtomobil",
+        "byl",
+        "veliky",
+        "byli",
+        "běly",
+        "maly"
+      ],
+      "solutions": [
+        [
+          "Oranževy",
+          "avtomobil",
+          "byl",
+          "veliky"
+        ]
+      ],
+      "formattedSolution": "Oranževy avtomobil byl veliky",
+      "id": "e1c561684f5e",
+      "priority": 2,
+      "group": "2e47f4836a30"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oranževy",
+          "definition": "orange"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "avtomobil"
+        },
+        {
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "veliky",
+          "definition": "big"
+        }
+      ],
+      "chips": [
+        "The",
+        "orange",
+        "car",
+        "was",
+        "big",
+        "are",
+        "man",
+        "am",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "orange",
+          "car",
+          "was",
+          "big"
+        ],
+        [
+          "An",
+          "orange",
+          "car",
+          "was",
+          "big"
+        ]
+      ],
+      "formattedSolution": "The orange car was big.",
+      "id": "0055f1e47be6",
+      "priority": 2,
+      "group": "2e47f4836a30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Avtomobily sut šere",
+      "meaningInSourceLanguage": "The cars are gray.",
+      "id": "617ff830ed19",
+      "priority": 0,
+      "group": "a52cbb76e0aa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "cars",
+          "definition": "avta"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "gray.",
+          "definition": "šery"
+        }
+      ],
+      "chips": [
+        "Avtomobily",
+        "sut",
+        "šere",
+        "tut",
+        "avto"
+      ],
+      "solutions": [
+        [
+          "Avtomobily",
+          "sut",
+          "šere"
+        ]
+      ],
+      "formattedSolution": "Avtomobily sut šere",
+      "id": "033e3d39f1e1",
+      "priority": 2,
+      "group": "a52cbb76e0aa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Avtomobily",
+          "definition": "Avtomobily"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "šere",
+          "definition": "šere"
+        }
+      ],
+      "chips": [
+        "The",
+        "cars",
+        "are",
+        "gray",
+        "Are",
+        "car",
+        "am"
+      ],
+      "solutions": [
+        [
+          "The",
+          "cars",
+          "are",
+          "gray"
+        ]
+      ],
+      "formattedSolution": "The cars are gray.",
+      "id": "3d7e3183e0b4",
+      "priority": 2,
+      "group": "a52cbb76e0aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kelner jest tenky a kuhar je tolsty",
+      "meaningInSourceLanguage": "The waiter was thin and the cook was fat.",
+      "id": "39950ab3d1db",
+      "priority": 0,
+      "group": "1ca4e29f8872"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "waiter",
+          "definition": "waiter"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbylo"
+        },
+        {
+          "word": "thin",
+          "definition": "tenky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "the",
+          "definition": "the"
+        },
+        {
+          "word": "cook",
+          "definition": "cook"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbylo"
+        },
+        {
+          "word": "fat.",
+          "definition": "tolsty"
+        }
+      ],
+      "chips": [
+        "Kelner",
+        "jest",
+        "tenky",
+        "a",
+        "kuhar",
+        "je",
+        "tolsty",
+        "te",
+        "ne",
+        "jesm",
+        "jesi",
+        "jeste",
+        "žena"
+      ],
+      "solutions": [
+        [
+          "Kelner",
+          "jest",
+          "tenky",
+          "a",
+          "kuhar",
+          "je",
+          "tolsty"
+        ]
+      ],
+      "formattedSolution": "Kelner jest tenky a kuhar je tolsty",
+      "id": "b946c3a038e7",
+      "priority": 2,
+      "group": "1ca4e29f8872"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kelner",
+          "definition": "Kelner"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "tenky",
+          "definition": "thin"
+        },
+        {
+          "word": "a",
+          "definition": "a"
+        },
+        {
+          "word": "kuhar",
+          "definition": "kuhar"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "tolsty",
+          "definition": "fat"
+        }
+      ],
+      "chips": [
+        "The",
+        "waiter",
+        "was",
+        "thin",
+        "and",
+        "the",
+        "cook",
+        "was",
+        "fat",
+        "She",
+        "man",
+        "eat",
+        "car",
+        "am",
+        "are",
+        "a",
+        "is"
+      ],
+      "solutions": [
+        [
+          "The",
+          "waiter",
+          "was",
+          "thin",
+          "and",
+          "the",
+          "cook",
+          "was",
+          "fat"
+        ],
+        [
+          "The",
+          "waiter",
+          "was",
+          "thin",
+          "and",
+          "the",
+          "chef",
+          "was",
+          "fat"
+        ],
+        [
+          "A",
+          "waiter",
+          "was",
+          "thin",
+          "and",
+          "a",
+          "cook",
+          "was",
+          "fat"
+        ],
+        [
+          "A",
+          "waiter",
+          "was",
+          "thin",
+          "and",
+          "a",
+          "chef",
+          "was",
+          "fat"
+        ]
+      ],
+      "formattedSolution": "The waiter was thin and the cook was fat.",
+      "id": "1467778e0ca1",
+      "priority": 2,
+      "group": "1ca4e29f8872"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Doktor je nevysoky ale ne jest tolsty",
+      "meaningInSourceLanguage": "The doctor is short, but he is not fat.",
+      "id": "5c473aad3874",
+      "priority": 0,
+      "group": "1f00ae2880b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "doctor",
+          "definition": "doctor"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "short,",
+          "definition": "kratky\nnevysoky"
+        },
+        {
+          "word": "but",
+          "definition": "but"
+        },
+        {
+          "word": "he",
+          "definition": "on"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "fat.",
+          "definition": "tolsty"
+        }
+      ],
+      "chips": [
+        "Doktor",
+        "je",
+        "nevysoky",
+        "ale",
+        "ne",
+        "jest",
+        "tolsty",
+        "te",
+        "Jest",
+        "to",
+        "jesm",
+        "jesi",
+        "jeste"
+      ],
+      "solutions": [
+        [
+          "Doktor",
+          "je",
+          "nevysoky",
+          "ale",
+          "ne",
+          "jest",
+          "tolsty"
+        ]
+      ],
+      "formattedSolution": "Doktor je nevysoky ale ne jest tolsty",
+      "id": "324633e1d709",
+      "priority": 2,
+      "group": "1f00ae2880b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Doktor",
+          "definition": "Doktor"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "nevysoky",
+          "definition": "short"
+        },
+        {
+          "word": "ale",
+          "definition": "ale"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "tolsty",
+          "definition": "fat"
+        }
+      ],
+      "chips": [
+        "The",
+        "doctor",
+        "is",
+        "short",
+        "but",
+        "he",
+        "is",
+        "not",
+        "fat",
+        "It",
+        "or",
+        "be",
+        "eat",
+        "the",
+        "of",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "doctor",
+          "is",
+          "short",
+          "but",
+          "he",
+          "is",
+          "not",
+          "fat"
+        ],
+        [
+          "The",
+          "doctor",
+          "is",
+          "short",
+          "but",
+          "she",
+          "is",
+          "not",
+          "fat"
+        ],
+        [
+          "A",
+          "doctor",
+          "is",
+          "short",
+          "but",
+          "he",
+          "is",
+          "not",
+          "fat"
+        ],
+        [
+          "A",
+          "doctor",
+          "is",
+          "short",
+          "but",
+          "she",
+          "is",
+          "not",
+          "fat"
+        ]
+      ],
+      "formattedSolution": "The doctor is short, but he is not fat.",
+      "id": "e230593263c9",
+      "priority": 2,
+      "group": "1f00ae2880b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Duhovnik jest vysoky i tenky, ale ne jest nevysoky i tolsty",
+      "meaningInSourceLanguage": "The priest is tall and thin, not short and fat.",
+      "id": "13552f2ec8d1",
+      "priority": 0,
+      "group": "db32249ebe8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "priest",
+          "definition": "priest"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "tall",
+          "definition": "vysoky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "thin,",
+          "definition": "tenky"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "short",
+          "definition": "kratky\nnevysoky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "fat.",
+          "definition": "tolsty"
+        }
+      ],
+      "chips": [
+        "Duhovnik",
+        "jest",
+        "vysoky",
+        "i",
+        "tenky",
+        "ale",
+        "ne",
+        "jest",
+        "nevysoky",
+        "i",
+        "tolsty",
+        "jesi",
+        "je",
+        "te",
+        "Jest",
+        "to",
+        "jesm",
+        "ti",
+        "li",
+        "Do",
+        "Ty"
+      ],
+      "solutions": [
+        [
+          "Duhovnik",
+          "jest",
+          "vysoky",
+          "i",
+          "tenky",
+          "ale",
+          "ne",
+          "jest",
+          "nevysoky",
+          "i",
+          "tolsty"
+        ]
+      ],
+      "formattedSolution": "Duhovnik jest vysoky i tenky, ale ne jest nevysoky i tolsty",
+      "id": "b0d099451e88",
+      "priority": 2,
+      "group": "db32249ebe8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Duhovnik",
+          "definition": "Duhovnik"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "vysoky",
+          "definition": "tall"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "tenky,",
+          "definition": "thin"
+        },
+        {
+          "word": "ale",
+          "definition": "ale"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "nevysoky",
+          "definition": "short"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "tolsty",
+          "definition": "fat"
+        }
+      ],
+      "chips": [
+        "The",
+        "priest",
+        "is",
+        "tall",
+        "and",
+        "thin",
+        "not",
+        "short",
+        "and",
+        "fat",
+        "are",
+        "eat",
+        "the",
+        "am",
+        "She",
+        "It",
+        "a",
+        "man",
+        "or"
+      ],
+      "solutions": [
+        [
+          "The",
+          "priest",
+          "is",
+          "tall",
+          "and",
+          "thin",
+          "not",
+          "short",
+          "and",
+          "fat"
+        ],
+        [
+          "A",
+          "priest",
+          "is",
+          "tall",
+          "and",
+          "thin",
+          "not",
+          "short",
+          "and",
+          "fat"
+        ]
+      ],
+      "formattedSolution": "The priest is tall and thin, not short and fat.",
+      "id": "caf9dc5f7cd8",
+      "priority": 2,
+      "group": "db32249ebe8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kuhar jest nevysoky i tolsty",
+      "meaningInSourceLanguage": "The cook is short and fat.",
+      "id": "efd91b2fb38f",
+      "priority": 0,
+      "group": "e64b581f374f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "cook",
+          "definition": "cook"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "short",
+          "definition": "kratky\nnevysoky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "fat.",
+          "definition": "tolsty"
+        }
+      ],
+      "chips": [
+        "Kuhar",
+        "jest",
+        "nevysoky",
+        "i",
+        "tolsty",
+        "jesi",
+        "Jest",
+        "jesm",
+        "jeste"
+      ],
+      "solutions": [
+        [
+          "Kuhar",
+          "jest",
+          "nevysoky",
+          "i",
+          "tolsty"
+        ]
+      ],
+      "formattedSolution": "Kuhar jest nevysoky i tolsty",
+      "id": "ab6aa9f6b5f0",
+      "priority": 2,
+      "group": "e64b581f374f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kuhar",
+          "definition": "Kuhar"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "nevysoky",
+          "definition": "short"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "tolsty",
+          "definition": "fat"
+        }
+      ],
+      "chips": [
+        "The",
+        "cook",
+        "is",
+        "short",
+        "and",
+        "fat",
+        "not",
+        "Who",
+        "or",
+        "am",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "cook",
+          "is",
+          "short",
+          "and",
+          "fat"
+        ],
+        [
+          "A",
+          "cook",
+          "is",
+          "short",
+          "and",
+          "fat"
+        ],
+        [
+          "The",
+          "chef",
+          "is",
+          "short",
+          "and",
+          "fat"
+        ],
+        [
+          "A",
+          "chef",
+          "is",
+          "short",
+          "and",
+          "fat"
+        ]
+      ],
+      "formattedSolution": "The cook is short and fat.",
+      "id": "577af9925ae0",
+      "priority": 2,
+      "group": "e64b581f374f"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "big1.jpg",
+        "big2.jpg",
+        "big3.jpg"
+      ],
+      "formInTargetLanguage": "veliky",
+      "meaningInSourceLanguage": "big",
+      "id": "0e33d8ecb4cd",
+      "priority": 0,
+      "group": "b0d9283012a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "big1.jpg",
+        "big2.jpg",
+        "big3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "veliky"
+      ],
+      "phrase": [
+        {
+          "word": "big",
+          "definition": "veliky"
+        }
+      ],
+      "id": "bb29174011ff",
+      "priority": 1,
+      "group": "b0d9283012a0"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "small1.jpg",
+        "small2.jpg",
+        "small3.jpg"
+      ],
+      "formInTargetLanguage": "maly",
+      "meaningInSourceLanguage": "small",
+      "id": "d946feb44911",
+      "priority": 0,
+      "group": "a115361c3697"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "small1.jpg",
+        "small2.jpg",
+        "small3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "maly"
+      ],
+      "phrase": [
+        {
+          "word": "small",
+          "definition": "maly"
+        }
+      ],
+      "id": "cd7db77bd1f9",
+      "priority": 1,
+      "group": "a115361c3697"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "tall1.jpg",
+        "tall2.jpg",
+        "tall3.jpg"
+      ],
+      "formInTargetLanguage": "vysoky",
+      "meaningInSourceLanguage": "tall",
+      "id": "2738a6c8cd3d",
+      "priority": 0,
+      "group": "0efb8d38d64d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "tall1.jpg",
+        "tall2.jpg",
+        "tall3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "vysoky"
+      ],
+      "phrase": [
+        {
+          "word": "tall",
+          "definition": "vysoky"
+        }
+      ],
+      "id": "145b05d4ff61",
+      "priority": 1,
+      "group": "0efb8d38d64d"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "short1.jpg",
+        "short2.jpg",
+        "short3.jpg"
+      ],
+      "formInTargetLanguage": "nevysoky",
+      "meaningInSourceLanguage": "short",
+      "id": "5607a80f84c2",
+      "priority": 0,
+      "group": "c6a6cff6f9e2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "short1.jpg",
+        "short2.jpg",
+        "short3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "nevysoky"
+      ],
+      "phrase": [
+        {
+          "word": "short",
+          "definition": "kratky\nnevysoky"
+        }
+      ],
+      "id": "3158eda7a971",
+      "priority": 1,
+      "group": "c6a6cff6f9e2"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "shortlength1.jpg",
+        "shortlength2.jpg",
+        "shortlength3.jpg"
+      ],
+      "formInTargetLanguage": "kratky",
+      "meaningInSourceLanguage": "short",
+      "id": "865f8355795e",
+      "priority": 0,
+      "group": "20ccbb820545"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "shortlength1.jpg",
+        "shortlength2.jpg",
+        "shortlength3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kratky"
+      ],
+      "phrase": [
+        {
+          "word": "short",
+          "definition": "kratky\nnevysoky"
+        }
+      ],
+      "id": "99fe8a8c32e5",
+      "priority": 1,
+      "group": "20ccbb820545"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "fat1.jpg",
+        "fat2.jpg",
+        "fat3.jpg"
+      ],
+      "formInTargetLanguage": "tolsty",
+      "meaningInSourceLanguage": "fat",
+      "id": "d2ab6487a47d",
+      "priority": 0,
+      "group": "d892cda01a31"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "fat1.jpg",
+        "fat2.jpg",
+        "fat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "tolsty"
+      ],
+      "phrase": [
+        {
+          "word": "fat",
+          "definition": "tolsty"
+        }
+      ],
+      "id": "6b63a2e2cf06",
+      "priority": 1,
+      "group": "d892cda01a31"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "thin1.jpg",
+        "thin2.jpg",
+        "thin3.jpg"
+      ],
+      "formInTargetLanguage": "tenky",
+      "meaningInSourceLanguage": "thin",
+      "id": "ea80317b48b6",
+      "priority": 0,
+      "group": "0e274ab888cb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "thin1.jpg",
+        "thin2.jpg",
+        "thin3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "tenky"
+      ],
+      "phrase": [
+        {
+          "word": "thin",
+          "definition": "tenky"
+        }
+      ],
+      "id": "b40051cf8fb2",
+      "priority": 1,
+      "group": "0e274ab888cb"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "child1.jpg",
+        "child2.jpg",
+        "child3.jpg"
+      ],
+      "formInTargetLanguage": "mlady",
+      "meaningInSourceLanguage": "young",
+      "id": "8722513e9df1",
+      "priority": 0,
+      "group": "f0799ceefc5e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "child1.jpg",
+        "child2.jpg",
+        "child3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "mlady"
+      ],
+      "phrase": [
+        {
+          "word": "young",
+          "definition": "mlady"
+        }
+      ],
+      "id": "83f627aa9ad6",
+      "priority": 1,
+      "group": "f0799ceefc5e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "grandfather1.jpg",
+        "grandfather2.jpg",
+        "grandfather3.jpg"
+      ],
+      "formInTargetLanguage": "stary",
+      "meaningInSourceLanguage": "old",
+      "id": "42016aeb2e2b",
+      "priority": 0,
+      "group": "3b477d5f2549"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "grandfather1.jpg",
+        "grandfather2.jpg",
+        "grandfather3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "stary"
+      ],
+      "phrase": [
+        {
+          "word": "old",
+          "definition": "stary"
+        }
+      ],
+      "id": "d995a30cb4fd",
+      "priority": 1,
+      "group": "3b477d5f2549"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "purple1.jpg",
+        "purple2.jpg",
+        "purple3.jpg"
+      ],
+      "formInTargetLanguage": "fioletovy",
+      "meaningInSourceLanguage": "purple",
+      "id": "1aa83d1761bd",
+      "priority": 0,
+      "group": "2495aad6027b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "purple1.jpg",
+        "purple2.jpg",
+        "purple3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "fioletovy"
+      ],
+      "phrase": [
+        {
+          "word": "purple",
+          "definition": "fioletovy"
+        }
+      ],
+      "id": "dd8aee339916",
+      "priority": 1,
+      "group": "2495aad6027b"
+    }
+  ]
+}

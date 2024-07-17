@@ -1,0 +1,143 @@
+Skill:
+  Id: 32
+  Name: Family 2
+  
+
+New words:
+  - Word: vnuk
+    Translation: grandson
+
+    Images:
+      - grandson1
+      - grandson3
+      - grandson2
+
+
+  - Word: tetka
+    Translation: aunt
+    Images:
+      - aunt1
+      - aunt2
+      - aunt3
+
+  - Word: ujec
+    Translation: uncle
+    Images:
+      - uncle1
+      - uncle2
+      - uncle3
+
+  - Word: kuzen
+    Translation: cousin (male)
+    Images:
+      - cousinmale1
+      - cousinmale2
+      - cousinmale3
+
+  - Word: kuzina
+    Translation: cousin (female)
+    Images:
+      - cousinfemale1
+      - cousinfemale2
+      - cousinfemale3
+
+  - Word: deti
+    Translation: children
+    Images:
+      - children1
+      - children2
+      - children3
+
+  - Word: děte
+    Translation: child
+    Images:
+      - child1
+      - child2
+      - child3
+
+Phrases:
+  - Phrase: Oni sut naše vnuki
+    Translation: They are our grandchildren.
+
+  - Phrase: Syn od mojego syna jest moj vnuk
+    Translation: The son of my son is my grandson.
+    Alternative translations:
+      - My son’s son is my grandson.
+
+  - Phrase: Dočera od mojej dočery je moja vnučka
+    Translation: The daughter of my daughter is my granddaughter.
+    Alternative translations:
+      - My daughter’s daughter is my granddaughter.
+
+  - Phrase: Nire aitaren emaztea nire ama da.
+    Translation: The wife of my father is my mother.
+    Alternative translations:
+      - My father’s wife is my mother.
+
+  - Phrase: Gizon hau nire senarra da.
+    Translation: This man is my husband.
+
+  - Phrase: Bere senarra tour gida da.
+    Translation: Her husband is a tour guide.
+
+  - Phrase: Nire amaren senarra nire aita da.
+    Translation: The husband of my mother is my father.
+    Alternative translations:
+      - My mother’s husband is my father.
+
+  - Phrase: Ja jesm tvoj ujec
+    Translation: I am your uncle.
+    Alternative translations:
+      - I’m your uncle.
+
+  - Phrase: Naš ujec je medbrat
+    Translation: Our uncle is a nurse.
+
+  - Phrase: Jih tetka je doktorica
+    Translation: Their aunt is a doctor.
+
+  - Phrase: Ona jest naša tetka
+    Translation: She is our aunt.
+
+  - Phrase: Naša tetka jest učitelka
+    Translation: Our aunt is a teacher.
+
+  - Phrase: Syn od mojego ujca je moj kuzen
+    Translation: My uncle’s son is my cousin (male).
+    Alternative translations:
+      - My uncle’s son is my cousin.
+
+  - Phrase: Moj kuzen jest tož kelner
+    Translation: My cousin (male) is also a waiter.
+    Alternative translations:
+      - My cousin is also a waiter.
+
+  - Phrase: Dočera mojej tetky je moja kuzynka
+    Translation: My aunt’s daughter is my cousin (female).
+    Alternative translations:
+      - My aunt’s daughter is my cousin.
+      - The daughter of my aunt is my cousin (female).
+      - The daughter of my aunt is my cousin.
+
+  - Phrase: Moj kuzen jest tož moj prijatelj
+    Translation: My cousin (female) is also my friend.
+    Alternative translations:
+      - My cousin is also my friend.
+
+  - Phrase: One sut moje deti
+    Translation: They are my children.
+
+  - Phrase: Ty jesi moje děte
+    Translation: You are my child.
+
+  - Phrase: To děti jest moj syn
+    Translation: The child is my son.
+
+
+    Mini-dictionary:
+
+      Interslavic:
+        - Tož: too
+
+      English:
+        - Too: tož

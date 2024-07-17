@@ -228,7 +228,7 @@
         "and",
         "daughter",
         "aunt",
-        "an"
+        "are"
       ],
       "solutions": [
         [
@@ -633,10 +633,10 @@
         "our",
         "grandfather",
         "the",
+        "fat",
         "car",
         "Her",
-        "tour",
-        "or"
+        "tour"
       ],
       "solutions": [
         [
@@ -1001,8 +1001,8 @@
         "jesm",
         "Katarina",
         "tam",
-        "eta",
-        "Ona"
+        "Ona",
+        "žena"
       ],
       "solutions": [
         [
@@ -1044,8 +1044,8 @@
         "am",
         "Katarina",
         "a",
-        "an",
-        "He"
+        "He",
+        "It"
       ],
       "solutions": [
         [
@@ -1131,8 +1131,8 @@
         "a",
         "girl",
         "",
-        "an",
-        "A"
+        "A",
+        "is"
       ],
       "solutions": [
         [
@@ -1232,7 +1232,7 @@
         "He",
         "be",
         "",
-        "an"
+        "A"
       ],
       "solutions": [
         [
@@ -1405,9 +1405,9 @@
         "are",
         "a",
         "woman",
-        "an",
         "am",
-        "man"
+        "man",
+        "or"
       ],
       "solutions": [
         [
@@ -1492,9 +1492,9 @@
         "are",
         "a",
         "man",
-        "an",
         "am",
-        "and"
+        "and",
+        "or"
       ],
       "solutions": [
         [
@@ -1761,9 +1761,9 @@
         "is",
         "a",
         "woman",
-        "an",
         "man",
-        "am"
+        "am",
+        "was"
       ],
       "solutions": [
         [
@@ -1844,7 +1844,7 @@
         "and",
         "Vojtěh",
         "aunt",
-        "an"
+        "man"
       ],
       "solutions": [
         [
@@ -2020,10 +2020,10 @@
         "not",
         "a",
         "boy",
-        "an",
         "am",
         "It",
-        "eat"
+        "eat",
+        "or"
       ],
       "solutions": [
         [

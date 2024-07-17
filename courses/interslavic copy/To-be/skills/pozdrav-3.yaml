@@ -1,0 +1,147 @@
+Skill:
+  Id: 13
+  Name: Pozdrav-3
+  Thumbnails:
+  - tommorow1
+  - woman3
+  - hello3
+
+New words:
+  - Word: Plavati
+    Translation: Swim
+    Images:
+      - swim1
+      - swim2
+      - swim3
+
+
+Phrases:
+
+- Phrase: Ja budu
+  Translation: I will
+  Alternative translations:
+    - I will be  
+
+- Phrase: Ty budeš
+  Translation: You(singular) will
+  Alternative translations:
+    - You(singular) will be  
+
+- Phrase: On bude
+  Translation: He will
+  Alternative translations:
+    - He will be    
+
+- Phrase: Ona bude
+  Translation: She will
+  Alternative translations:
+    - She will be  
+
+- Phrase: Ono bude
+  Translation: It will
+  Alternative translations:
+    - It will be    
+
+- Phrase: My budemo
+  Translation: We will
+  Alternative translations:
+    - We will be    
+
+- Phrase: Vy budete
+  Translation: You(plural) will
+  Alternative translations:
+    - You(plural) will be    
+
+- Phrase: Oni budut
+  Translation: They(masculine) will
+  Alternative translations:
+    - They(masculine) will be  
+
+- Phrase: One budut
+  Translation: They(feminine)
+  Alternative translations:
+    - They(feminine) will be
+
+- Phrase: Ja budu znati
+  Translation: I will know
+
+- Phrase: Kde Ty zautra budeš ?
+  Translation: Where will You be tommorow ?
+
+- Phrase: My budemo futbolisti
+  Translation: We will be footballers
+
+- Phrase: Vy budete spati
+  Translation: You will sleep
+
+- Phrase: One budut pisati
+  Translation: They(feminine) will write
+
+- Phrase: Oni budut jedati
+  Translation: They will eat
+
+- Phrase: Ja budu razuměti
+  Translation: I will understand
+
+- Phrase: Ty budeš igrati
+  Translation: You(singular) will play
+
+- Phrase: My budemo pěvati
+  Translation: We will sing
+
+- Phrase: On bude plavati
+  Translation: He will swim
+
+- Phrase: Ona bude tancevati
+  Translation: She will dance
+
+- Phrase: Ono bude jedati
+  Translation: It will eat
+
+- Phrase: My budemo futbolisti
+  Translation: We will be footballers
+
+- Phrase: Vy budete kupovati
+  Translation: You(plural) will buy
+
+- Phrase: One budut zautra tam
+  Translation: They(feminine) will be there tommorow
+
+
+Mini-dictionary:
+
+  Interslavic:
+
+  - Ja budu: I will
+  - Ty budeš: You will
+  - On budě: He will
+  - Ona budě: She will
+  - Ono budě: It will
+  - My budemo: We will
+  - Vy buděte: You(plural)
+  - Oni budut: They(masculine) will
+  - One budut: They(feminine) will
+  - Kde: Where
+  - Zautra: Tommorow
+  - Spati: Sleep
+  - Razuměti: Understand
+  - Igrati: Play
+  - Tancevati: Dance
+  - Jedati: Eat
+  - Plavati: Swim
+  - tam: there
+
+  English:
+
+  - know: znati
+  - tommorow: zautra
+  - will:
+    - budu
+    - budeš
+    - bude
+    - budemo
+    - budete
+    - budut
+  - it: to
+  - eat:
+    - jedati

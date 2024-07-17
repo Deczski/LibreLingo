@@ -1,5 +1,5 @@
 {
-  "id": "7c608468b19e",
+  "id": "fb37ae25378b",
   "levels": 6,
   "challenges": [
     {
@@ -215,8 +215,8 @@
         "my",
         "grandson",
         "or",
-        "an",
         "me",
+        "An",
         "man",
         "boy",
         "Is",
@@ -451,10 +451,10 @@
         "ama",
         "da",
         "aita",
-        "dira",
         "avta",
         "te",
-        "naše"
+        "naše",
+        "ale"
       ],
       "solutions": [
         [
@@ -582,9 +582,9 @@
         "senarra",
         "da",
         "naš",
-        "dira",
         "Ja",
-        "ne"
+        "ne",
+        "Da"
       ],
       "solutions": [
         [
@@ -631,10 +631,10 @@
         "is",
         "my",
         "husband",
-        "an",
         "Is",
         "am",
-        "a"
+        "a",
+        "and"
       ],
       "solutions": [
         [
@@ -693,10 +693,10 @@
         "tour",
         "gida",
         "da",
-        "dira",
         "žena",
-        "eta",
-        "Ja"
+        "Ja",
+        "Ona",
+        "te"
       ],
       "solutions": [
         [
@@ -817,10 +817,10 @@
         "nire",
         "aita",
         "da",
-        "dira",
         "ama",
         "naše",
         "Bere",
+        "šere",
         "ne"
       ],
       "solutions": [
@@ -882,7 +882,7 @@
         "or",
         "We",
         "He",
-        "an"
+        "am"
       ],
       "solutions": [
         [
@@ -988,7 +988,7 @@
         "uncle",
         "a",
         "or",
-        "an"
+        "We"
       ],
       "solutions": [
         [
@@ -1048,7 +1048,7 @@
         "medbrat",
         "ne",
         "te",
-        "bat"
+        "Ja"
       ],
       "solutions": [
         [
@@ -1149,7 +1149,7 @@
         "doktorica",
         "ti",
         "te",
-        "eta"
+        "Ja"
       ],
       "solutions": [
         [
@@ -1192,9 +1192,9 @@
         "a",
         "doctor",
         "or",
-        "an",
         "am",
-        "It"
+        "It",
+        "eat"
       ],
       "solutions": [
         [
@@ -1244,9 +1244,9 @@
         "jest",
         "naša",
         "tetka",
-        "eta",
         "žena",
-        "ne"
+        "ne",
+        "ona"
       ],
       "solutions": [
         [
@@ -1342,9 +1342,9 @@
         "tetka",
         "jest",
         "učitelka",
-        "eta",
         "žena",
-        "aita"
+        "aita",
+        "tetky"
       ],
       "solutions": [
         [
@@ -1386,10 +1386,10 @@
         "is",
         "a",
         "teacher",
-        "an",
         "am",
         "are",
-        "and"
+        "and",
+        "eat"
       ],
       "solutions": [
         [
@@ -1455,11 +1455,11 @@
         "moj",
         "kuzen",
         "moje",
-        "zen",
         "ne",
         "te",
         "moja",
-        "Moj"
+        "Moj",
+        "toj"
       ],
       "solutions": [
         [
@@ -1519,8 +1519,8 @@
         "cousin",
         "male",
         "me",
-        "an",
         "Is",
+        "An",
         "We",
         "He",
         "man"
@@ -1596,10 +1596,10 @@
         "jest",
         "tož",
         "kelner",
-        "zen",
         "je",
         "ne",
-        "te"
+        "te",
+        "toj"
       ],
       "solutions": [
         [
@@ -1648,12 +1648,12 @@
         "also",
         "a",
         "waiter",
-        "an",
         "am",
         "was",
         "are",
         "Is",
-        "me"
+        "me",
+        "We"
       ],
       "solutions": [
         [
@@ -1785,12 +1785,12 @@
         "my",
         "cousin",
         "female",
-        "an",
         "me",
         "am",
         "a",
         "man",
-        "Is"
+        "Is",
+        "bus"
       ],
       "solutions": [
         [
@@ -1885,11 +1885,11 @@
         "tož",
         "moj",
         "prijatelj",
+        "toj",
         "moje",
         "je",
         "to",
-        "te",
-        "moja"
+        "te"
       ],
       "solutions": [
         [
@@ -1944,11 +1944,11 @@
         "my",
         "friend",
         "me",
-        "an",
         "Is",
         "am",
         "are",
-        "We"
+        "We",
+        "He"
       ],
       "solutions": [
         [

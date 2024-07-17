@@ -4,11 +4,11 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Jest to",
-      "meaningInSourceLanguage": "Is it a yellow bus or an orange bus?",
-      "id": "61c2d97f43e6",
+      "formInTargetLanguage": "Jest toj bus žolty ili oranževy",
+      "meaningInSourceLanguage": "Is this bus yellow or orange",
+      "id": "cdeb400193b5",
       "priority": 0,
-      "group": "4c449e61eed7"
+      "group": "7bcfa65191d7"
     },
     {
       "type": "chips",
@@ -19,54 +19,53 @@
           "definition": "jest"
         },
         {
-          "word": "it",
-          "definition": "ono\nto"
-        },
-        {
-          "word": "a",
-          "definition": "-a"
-        },
-        {
-          "word": "yellow",
-          "definition": "žolty"
+          "word": "this",
+          "definition": "to"
         },
         {
           "word": "bus",
           "definition": "avtobus"
         },
         {
+          "word": "yellow",
+          "definition": "žolty"
+        },
+        {
           "word": "or",
           "definition": "ili"
         },
         {
-          "word": "an",
-          "definition": "an"
-        },
-        {
           "word": "orange",
           "definition": "oranževy"
-        },
-        {
-          "word": "bus?",
-          "definition": "avtobus"
         }
       ],
       "chips": [
         "Jest",
-        "to",
+        "toj",
+        "bus",
+        "žolty",
+        "ili",
+        "oranževy",
+        "tut",
         "te",
-        "Ja"
+        "tož",
+        "ale",
+        "jest"
       ],
       "solutions": [
         [
           "Jest",
-          "to"
+          "toj",
+          "bus",
+          "žolty",
+          "ili",
+          "oranževy"
         ]
       ],
-      "formattedSolution": "Jest to",
-      "id": "209bc2caff87",
+      "formattedSolution": "Jest toj bus žolty ili oranževy",
+      "id": "61e9064550b7",
       "priority": 2,
-      "group": "4c449e61eed7"
+      "group": "7bcfa65191d7"
     },
     {
       "type": "chips",
@@ -77,65 +76,61 @@
           "definition": "is"
         },
         {
-          "word": "to",
-          "definition": "to"
+          "word": "toj",
+          "definition": "toj"
+        },
+        {
+          "word": "bus",
+          "definition": "bus"
+        },
+        {
+          "word": "žolty",
+          "definition": "yellow"
+        },
+        {
+          "word": "ili",
+          "definition": "or"
+        },
+        {
+          "word": "oranževy",
+          "definition": "orange"
         }
       ],
       "chips": [
         "Is",
-        "it",
-        "a",
+        "this",
+        "bus",
         "yellow",
-        "bus",
         "or",
-        "an",
         "orange",
-        "bus",
         "is",
         "be",
-        "am",
         "of",
-        "I",
         "We",
-        "He",
-        "It"
+        "He"
       ],
       "solutions": [
         [
           "Is",
-          "it",
-          "a",
-          "yellow",
+          "this",
           "bus",
-          "or",
-          "an",
-          "orange",
-          "bus"
-        ],
-        [
-          "Is",
-          "it",
-          "the",
           "yellow",
-          "bus",
           "or",
-          "the",
-          "orange",
-          "bus"
+          "orange"
         ]
       ],
-      "formattedSolution": "Is it a yellow bus or an orange bus?",
-      "id": "a594eeebeb26",
+      "formattedSolution": "Is this bus yellow or orange",
+      "id": "1a50263099bb",
       "priority": 2,
-      "group": "4c449e61eed7"
+      "group": "7bcfa65191d7"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Autobus berdea zen, baina orain horia da.",
+      "formInTargetLanguage": "To byl zeleny bus, ale tutčas jest žolty",
       "meaningInSourceLanguage": "It was a green bus, but now it is yellow.",
-      "id": "d7c7e272c75b",
+      "id": "13238c580340",
       "priority": 0,
-      "group": "bbddbeb138c2"
+      "group": "cf545af11e55"
     },
     {
       "type": "chips",
@@ -183,67 +178,74 @@
         }
       ],
       "chips": [
-        "Autobus",
-        "berdea",
-        "zen",
-        "baina",
-        "orain",
-        "horia",
-        "da",
-        "eta",
-        "dira",
-        "Ja",
-        "Ona",
-        "žena",
-        "Da"
+        "To",
+        "byl",
+        "zeleny",
+        "bus",
+        "ale",
+        "tutčas",
+        "jest",
+        "žolty",
+        "tut",
+        "te",
+        "Ty",
+        "sut",
+        "je",
+        "My",
+        "Vy"
       ],
       "solutions": [
         [
-          "Autobus",
-          "berdea",
-          "zen",
-          "baina",
-          "orain",
-          "horia",
-          "da"
+          "To",
+          "byl",
+          "zeleny",
+          "bus",
+          "ale",
+          "tutčas",
+          "jest",
+          "žolty"
         ]
       ],
-      "formattedSolution": "Autobus berdea zen, baina orain horia da.",
-      "id": "7c70e34c586d",
+      "formattedSolution": "To byl zeleny bus, ale tutčas jest žolty",
+      "id": "baa0c742f109",
       "priority": 2,
-      "group": "bbddbeb138c2"
+      "group": "cf545af11e55"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Autobus",
-          "definition": "Autobus"
+          "word": "To",
+          "definition": "To"
         },
         {
-          "word": "berdea",
-          "definition": "berdea"
+          "word": "byl",
+          "definition": "byl"
         },
         {
-          "word": "zen,",
-          "definition": "zen,"
+          "word": "zeleny",
+          "definition": "green"
         },
         {
-          "word": "baina",
-          "definition": "baina"
+          "word": "bus,",
+          "definition": "bus,"
         },
         {
-          "word": "orain",
-          "definition": "orain"
+          "word": "ale",
+          "definition": "ale"
         },
         {
-          "word": "horia",
-          "definition": "horia"
+          "word": "tutčas",
+          "definition": "tutčas"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "žolty",
+          "definition": "yellow"
         }
       ],
       "chips": [
@@ -261,11 +263,11 @@
         "Is",
         "eat",
         "or",
-        "an",
         "I",
         "am",
         "We",
-        "He"
+        "He",
+        "not"
       ],
       "solutions": [
         [
@@ -294,17 +296,17 @@
         ]
       ],
       "formattedSolution": "It was a green bus, but now it is yellow.",
-      "id": "7b41d1161478",
+      "id": "5e0266b03d0c",
       "priority": 2,
-      "group": "bbddbeb138c2"
+      "group": "cf545af11e55"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Zein koloretakoa da autobusa?",
+      "formInTargetLanguage": "Kaky kolor imaje toj bus",
       "meaningInSourceLanguage": "Which color is the bus?",
-      "id": "161832240947",
+      "id": "86784bfc0cb4",
       "priority": 0,
-      "group": "c2f83e97b3f0"
+      "group": "8819f42b1cc3"
     },
     {
       "type": "chips",
@@ -332,46 +334,53 @@
         }
       ],
       "chips": [
-        "Zein",
-        "koloretakoa",
-        "da",
-        "autobusa",
-        "eta",
-        "to",
-        "avta"
+        "Kaky",
+        "kolor",
+        "imaje",
+        "toj",
+        "bus",
+        "moj",
+        "moje",
+        "ale",
+        "Toj"
       ],
       "solutions": [
         [
-          "Zein",
-          "koloretakoa",
-          "da",
-          "autobusa"
+          "Kaky",
+          "kolor",
+          "imaje",
+          "toj",
+          "bus"
         ]
       ],
-      "formattedSolution": "Zein koloretakoa da autobusa?",
-      "id": "863531721a53",
+      "formattedSolution": "Kaky kolor imaje toj bus",
+      "id": "4ebc19a9b170",
       "priority": 2,
-      "group": "c2f83e97b3f0"
+      "group": "8819f42b1cc3"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Zein",
-          "definition": "Zein"
+          "word": "Kaky",
+          "definition": "Kaky"
         },
         {
-          "word": "koloretakoa",
-          "definition": "koloretakoa"
+          "word": "kolor",
+          "definition": "color"
         },
         {
-          "word": "da",
-          "definition": "yes"
+          "word": "imaje",
+          "definition": "imaje"
         },
         {
-          "word": "autobusa?",
-          "definition": "autobusa?"
+          "word": "toj",
+          "definition": "toj"
+        },
+        {
+          "word": "bus",
+          "definition": "bus"
         }
       ],
       "chips": [
@@ -402,17 +411,17 @@
         ]
       ],
       "formattedSolution": "Which color is the bus?",
-      "id": "8c88c36399da",
+      "id": "fd70ebb1cb0c",
       "priority": 2,
-      "group": "c2f83e97b3f0"
+      "group": "8819f42b1cc3"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Autobusa gorria eta beltza da eta kotxea urdina eta laranja da.",
+      "formInTargetLanguage": "Toj bus jest črveny i črny i toj avtomobil jest nebesky i oranževy",
       "meaningInSourceLanguage": "The bus is red and black and the car is blue and orange.",
-      "id": "28abef0616a6",
+      "id": "0e3debe47442",
       "priority": 0,
-      "group": "76adfa059776"
+      "group": "63491c33cbf7"
     },
     {
       "type": "chips",
@@ -472,95 +481,109 @@
         }
       ],
       "chips": [
-        "Autobusa",
-        "gorria",
-        "eta",
-        "beltza",
-        "da",
-        "eta",
-        "kotxea",
-        "urdina",
-        "eta",
-        "laranja",
-        "da",
-        "otca",
-        "aita",
-        "Ja",
-        "Ona",
-        "avta",
-        "Da",
-        "Ta",
-        "žena",
-        "ama",
-        "dira"
+        "Toj",
+        "bus",
+        "jest",
+        "črveny",
+        "i",
+        "črny",
+        "i",
+        "toj",
+        "avtomobil",
+        "jest",
+        "nebesky",
+        "i",
+        "oranževy",
+        "ne",
+        "je",
+        "te",
+        "jesi",
+        "ti",
+        "Ty",
+        "to",
+        "My",
+        "Vy",
+        "Oni",
+        "li",
+        "Či"
       ],
       "solutions": [
         [
-          "Autobusa",
-          "gorria",
-          "eta",
-          "beltza",
-          "da",
-          "eta",
-          "kotxea",
-          "urdina",
-          "eta",
-          "laranja",
-          "da"
+          "Toj",
+          "bus",
+          "jest",
+          "črveny",
+          "i",
+          "črny",
+          "i",
+          "toj",
+          "avtomobil",
+          "jest",
+          "nebesky",
+          "i",
+          "oranževy"
         ]
       ],
-      "formattedSolution": "Autobusa gorria eta beltza da eta kotxea urdina eta laranja da.",
-      "id": "3feb8bf59846",
+      "formattedSolution": "Toj bus jest črveny i črny i toj avtomobil jest nebesky i oranževy",
+      "id": "6bcdb869a01c",
       "priority": 2,
-      "group": "76adfa059776"
+      "group": "63491c33cbf7"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Autobusa",
-          "definition": "Autobusa"
+          "word": "Toj",
+          "definition": "Toj"
         },
         {
-          "word": "gorria",
-          "definition": "gorria"
+          "word": "bus",
+          "definition": "bus"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "beltza",
-          "definition": "beltza"
+          "word": "črveny",
+          "definition": "red"
         },
         {
-          "word": "da",
-          "definition": "yes"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "črny",
+          "definition": "black"
         },
         {
-          "word": "kotxea",
-          "definition": "kotxea"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "urdina",
-          "definition": "urdina"
+          "word": "toj",
+          "definition": "toj"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "avtomobil",
+          "definition": "avtomobil"
         },
         {
-          "word": "laranja",
-          "definition": "laranja"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "nebesky",
+          "definition": "blue"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "oranževy",
+          "definition": "orange"
         }
       ],
       "chips": [
@@ -577,7 +600,6 @@
         "blue",
         "and",
         "orange",
-        "an",
         "are",
         "be",
         "am",
@@ -588,6 +610,7 @@
         "He",
         "man",
         "me",
+        "old",
         "She"
       ],
       "solutions": [
@@ -608,17 +631,17 @@
         ]
       ],
       "formattedSolution": "The bus is red and black and the car is blue and orange.",
-      "id": "4f0658bf1489",
+      "id": "8df1e250de3a",
       "priority": 2,
-      "group": "76adfa059776"
+      "group": "63491c33cbf7"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxe beltza zen, baina orain gorria da.",
+      "formInTargetLanguage": "To byl črny avtomobil, ale tutčas jest črveny",
       "meaningInSourceLanguage": "It was a black car, but now it is red.",
-      "id": "177b0f1c4f35",
+      "id": "e1a2046f24f5",
       "priority": 0,
-      "group": "620b306c4936"
+      "group": "653e8c2bb92f"
     },
     {
       "type": "chips",
@@ -666,67 +689,74 @@
         }
       ],
       "chips": [
-        "Kotxe",
-        "beltza",
-        "zen",
-        "baina",
-        "orain",
-        "gorria",
-        "da",
-        "eta",
-        "otca",
-        "aita",
-        "bat",
-        "Ja",
-        "Ona"
+        "To",
+        "byl",
+        "črny",
+        "avtomobil",
+        "ale",
+        "tutčas",
+        "jest",
+        "črveny",
+        "te",
+        "Ty",
+        "je",
+        "ne",
+        "tut",
+        "to",
+        "avto"
       ],
       "solutions": [
         [
-          "Kotxe",
-          "beltza",
-          "zen",
-          "baina",
-          "orain",
-          "gorria",
-          "da"
+          "To",
+          "byl",
+          "črny",
+          "avtomobil",
+          "ale",
+          "tutčas",
+          "jest",
+          "črveny"
         ]
       ],
-      "formattedSolution": "Kotxe beltza zen, baina orain gorria da.",
-      "id": "b899d9da99af",
+      "formattedSolution": "To byl črny avtomobil, ale tutčas jest črveny",
+      "id": "7427c9191aa6",
       "priority": 2,
-      "group": "620b306c4936"
+      "group": "653e8c2bb92f"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxe",
-          "definition": "Kotxe"
+          "word": "To",
+          "definition": "To"
         },
         {
-          "word": "beltza",
-          "definition": "beltza"
+          "word": "byl",
+          "definition": "byl"
         },
         {
-          "word": "zen,",
-          "definition": "zen,"
+          "word": "črny",
+          "definition": "black"
         },
         {
-          "word": "baina",
-          "definition": "baina"
+          "word": "avtomobil,",
+          "definition": "avtomobil,"
         },
         {
-          "word": "orain",
-          "definition": "orain"
+          "word": "ale",
+          "definition": "ale"
         },
         {
-          "word": "gorria",
-          "definition": "gorria"
+          "word": "tutčas",
+          "definition": "tutčas"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "črveny",
+          "definition": "red"
         }
       ],
       "chips": [
@@ -741,10 +771,10 @@
         "is",
         "red",
         "am",
-        "an",
         "be",
         "eat",
         "Is",
+        "fat",
         "I",
         "or",
         "We",
@@ -765,17 +795,17 @@
         ]
       ],
       "formattedSolution": "It was a black car, but now it is red.",
-      "id": "a2a6abd3ddfc",
+      "id": "c3d9d868fbe8",
       "priority": 2,
-      "group": "620b306c4936"
+      "group": "653e8c2bb92f"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxe bat zuria da eta kotxe bat urdina da.",
+      "formInTargetLanguage": "Jedin avtomobil jest běly a jedin jest nebesky",
       "meaningInSourceLanguage": "One car is white and one car is blue.",
-      "id": "b51faf32138a",
+      "id": "475cdc2794a4",
       "priority": 0,
-      "group": "045b03e7094e"
+      "group": "0648d7959b1a"
     },
     {
       "type": "chips",
@@ -819,81 +849,74 @@
         }
       ],
       "chips": [
-        "Kotxe",
-        "bat",
-        "zuria",
-        "da",
-        "eta",
-        "kotxe",
-        "bat",
-        "urdina",
-        "da",
-        "Ja",
-        "Da",
-        "Ta",
-        "tam",
-        "ti",
-        "te",
-        "Ona",
-        "Kde"
+        "Jedin",
+        "avtomobil",
+        "jest",
+        "běly",
+        "a",
+        "jedin",
+        "jest",
+        "nebesky",
+        "jesi",
+        "jesm",
+        "Jest",
+        "je",
+        "jesmo",
+        "jeste",
+        "deti"
       ],
       "solutions": [
         [
-          "Kotxe",
-          "bat",
-          "zuria",
-          "da",
-          "eta",
-          "kotxe",
-          "bat",
-          "urdina",
-          "da"
+          "Jedin",
+          "avtomobil",
+          "jest",
+          "běly",
+          "a",
+          "jedin",
+          "jest",
+          "nebesky"
         ]
       ],
-      "formattedSolution": "Kotxe bat zuria da eta kotxe bat urdina da.",
-      "id": "5b6f969cb1ac",
+      "formattedSolution": "Jedin avtomobil jest běly a jedin jest nebesky",
+      "id": "633c36a20fd4",
       "priority": 2,
-      "group": "045b03e7094e"
+      "group": "0648d7959b1a"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxe",
-          "definition": "Kotxe"
-        },
-        {
-          "word": "bat",
+          "word": "Jedin",
           "definition": "one"
         },
         {
-          "word": "zuria",
-          "definition": "zuria"
+          "word": "avtomobil",
+          "definition": "avtomobil"
         },
         {
-          "word": "da",
-          "definition": "yes"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "běly",
+          "definition": "white"
         },
         {
-          "word": "kotxe",
-          "definition": "kotxe"
+          "word": "a",
+          "definition": "a"
         },
         {
-          "word": "bat",
+          "word": "jedin",
           "definition": "one"
         },
         {
-          "word": "urdina",
-          "definition": "urdina"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "nebesky",
+          "definition": "blue"
         }
       ],
       "chips": [
@@ -906,14 +929,14 @@
         "car",
         "is",
         "blue",
-        "an",
         "are",
         "be",
         "We",
         "He",
         "me",
         "am",
-        "She"
+        "She",
+        "a"
       ],
       "solutions": [
         [
@@ -929,17 +952,17 @@
         ]
       ],
       "formattedSolution": "One car is white and one car is blue.",
-      "id": "c15bc01868cb",
+      "id": "e357146af5f7",
       "priority": 2,
-      "group": "045b03e7094e"
+      "group": "0648d7959b1a"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Haiek kotxe zuriak ziren, baina orain horiak dira.",
+      "formInTargetLanguage": "Oni byli běle avtomobily, ale tutčas sut žolte",
       "meaningInSourceLanguage": "They were white cars, but now they are yellow.",
-      "id": "8db4c31f8cee",
+      "id": "ba1841a711e7",
       "priority": 0,
-      "group": "819982b0ab83"
+      "group": "0da1d610946b"
     },
     {
       "type": "chips",
@@ -983,74 +1006,74 @@
         }
       ],
       "chips": [
-        "Haiek",
-        "kotxe",
-        "zuriak",
-        "ziren",
-        "baina",
-        "orain",
-        "horiak",
-        "dira",
-        "horia",
-        "zuria",
-        "aita",
-        "Nire",
-        "brat",
-        "anaia",
-        "grisa"
+        "Oni",
+        "byli",
+        "běle",
+        "avtomobily",
+        "ale",
+        "tutčas",
+        "sut",
+        "žolte",
+        "byl",
+        "ili",
+        "byla",
+        "tut",
+        "li",
+        "běly",
+        "bylo"
       ],
       "solutions": [
         [
-          "Haiek",
-          "kotxe",
-          "zuriak",
-          "ziren",
-          "baina",
-          "orain",
-          "horiak",
-          "dira"
+          "Oni",
+          "byli",
+          "běle",
+          "avtomobily",
+          "ale",
+          "tutčas",
+          "sut",
+          "žolte"
         ]
       ],
-      "formattedSolution": "Haiek kotxe zuriak ziren, baina orain horiak dira.",
-      "id": "93d15eb86c95",
+      "formattedSolution": "Oni byli běle avtomobily, ale tutčas sut žolte",
+      "id": "9300e8c6cd62",
       "priority": 2,
-      "group": "819982b0ab83"
+      "group": "0da1d610946b"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Haiek",
-          "definition": "Haiek"
+          "word": "Oni",
+          "definition": "they\nthey(masculine)"
         },
         {
-          "word": "kotxe",
-          "definition": "kotxe"
+          "word": "byli",
+          "definition": "byli"
         },
         {
-          "word": "zuriak",
-          "definition": "zuriak"
+          "word": "běle",
+          "definition": "běle"
         },
         {
-          "word": "ziren,",
-          "definition": "ziren,"
+          "word": "avtomobily,",
+          "definition": "avtomobily,"
         },
         {
-          "word": "baina",
-          "definition": "baina"
+          "word": "ale",
+          "definition": "ale"
         },
         {
-          "word": "orain",
-          "definition": "orain"
+          "word": "tutčas",
+          "definition": "tutčas"
         },
         {
-          "word": "horiak",
-          "definition": "horiak"
+          "word": "sut",
+          "definition": "are"
         },
         {
-          "word": "dira.",
-          "definition": "dira."
+          "word": "žolte",
+          "definition": "žolte"
         }
       ],
       "chips": [
@@ -1086,379 +1109,17 @@
         ]
       ],
       "formattedSolution": "They were white cars, but now they are yellow.",
-      "id": "b8e4ff110505",
+      "id": "14593d056a67",
       "priority": 2,
-      "group": "819982b0ab83"
+      "group": "0da1d610946b"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Poltsa bat beltza zen eta poltsa bat grisa zen.",
-      "meaningInSourceLanguage": "One purse was black and one purse was gray.",
-      "id": "d13371b8c127",
-      "priority": 0,
-      "group": "75de62128033"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "One",
-          "definition": "jedin"
-        },
-        {
-          "word": "purse",
-          "definition": "purse"
-        },
-        {
-          "word": "was",
-          "definition": "byl\nbyla\nbylo"
-        },
-        {
-          "word": "black",
-          "definition": "črny"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "one",
-          "definition": "jedin"
-        },
-        {
-          "word": "purse",
-          "definition": "purse"
-        },
-        {
-          "word": "was",
-          "definition": "byl\nbyla\nbylo"
-        },
-        {
-          "word": "gray.",
-          "definition": "šery"
-        }
-      ],
-      "chips": [
-        "Poltsa",
-        "bat",
-        "beltza",
-        "zen",
-        "eta",
-        "poltsa",
-        "bat",
-        "grisa",
-        "zen",
-        "Ja",
-        "Da",
-        "Ta",
-        "aita",
-        "brat",
-        "brata",
-        "žena",
-        "byl"
-      ],
-      "solutions": [
-        [
-          "Poltsa",
-          "bat",
-          "beltza",
-          "zen",
-          "eta",
-          "poltsa",
-          "bat",
-          "grisa",
-          "zen"
-        ]
-      ],
-      "formattedSolution": "Poltsa bat beltza zen eta poltsa bat grisa zen.",
-      "id": "ed5fed771bf6",
-      "priority": 2,
-      "group": "75de62128033"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Poltsa",
-          "definition": "Poltsa"
-        },
-        {
-          "word": "bat",
-          "definition": "one"
-        },
-        {
-          "word": "beltza",
-          "definition": "beltza"
-        },
-        {
-          "word": "zen",
-          "definition": "zen"
-        },
-        {
-          "word": "eta",
-          "definition": "eta"
-        },
-        {
-          "word": "poltsa",
-          "definition": "poltsa"
-        },
-        {
-          "word": "bat",
-          "definition": "one"
-        },
-        {
-          "word": "grisa",
-          "definition": "grisa"
-        },
-        {
-          "word": "zen.",
-          "definition": "zen."
-        }
-      ],
-      "chips": [
-        "One",
-        "purse",
-        "was",
-        "black",
-        "and",
-        "one",
-        "purse",
-        "was",
-        "gray",
-        "are",
-        "an",
-        "bus",
-        "car",
-        "am",
-        "a",
-        "man",
-        "be"
-      ],
-      "solutions": [
-        [
-          "One",
-          "purse",
-          "was",
-          "black",
-          "and",
-          "one",
-          "purse",
-          "was",
-          "gray"
-        ],
-        [
-          "A",
-          "purse",
-          "was",
-          "black",
-          "and",
-          "a",
-          "purse",
-          "was",
-          "gray"
-        ]
-      ],
-      "formattedSolution": "One purse was black and one purse was gray.",
-      "id": "c2ba95fe3ac5",
-      "priority": 2,
-      "group": "75de62128033"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Poltsa bat berdea zen.",
-      "meaningInSourceLanguage": "One purse was green",
-      "id": "fbee6b2875dd",
-      "priority": 0,
-      "group": "c5fb73e9abe8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "One",
-          "definition": "jedin"
-        },
-        {
-          "word": "purse",
-          "definition": "purse"
-        },
-        {
-          "word": "was",
-          "definition": "byl\nbyla\nbylo"
-        },
-        {
-          "word": "green",
-          "definition": "zeleny"
-        }
-      ],
-      "chips": [
-        "Poltsa",
-        "bat",
-        "berdea",
-        "zen",
-        "brat",
-        "brata",
-        "eta"
-      ],
-      "solutions": [
-        [
-          "Poltsa",
-          "bat",
-          "berdea",
-          "zen"
-        ]
-      ],
-      "formattedSolution": "Poltsa bat berdea zen.",
-      "id": "20d354ddec11",
-      "priority": 2,
-      "group": "c5fb73e9abe8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Poltsa",
-          "definition": "Poltsa"
-        },
-        {
-          "word": "bat",
-          "definition": "one"
-        },
-        {
-          "word": "berdea",
-          "definition": "berdea"
-        },
-        {
-          "word": "zen.",
-          "definition": "zen."
-        }
-      ],
-      "chips": [
-        "One",
-        "purse",
-        "was",
-        "green",
-        "are",
-        "one",
-        "We"
-      ],
-      "solutions": [
-        [
-          "One",
-          "purse",
-          "was",
-          "green"
-        ],
-        [
-          "A",
-          "purse",
-          "was",
-          "green"
-        ]
-      ],
-      "formattedSolution": "One purse was green",
-      "id": "6643ca66c6f6",
-      "priority": 2,
-      "group": "c5fb73e9abe8"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Poltsak horiak ziren.",
-      "meaningInSourceLanguage": "The purses were yellow.",
-      "id": "bb94d540f824",
-      "priority": 0,
-      "group": "54a8e841d898"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "The",
-          "definition": "The"
-        },
-        {
-          "word": "purses",
-          "definition": "purses"
-        },
-        {
-          "word": "were",
-          "definition": "were"
-        },
-        {
-          "word": "yellow.",
-          "definition": "žolty"
-        }
-      ],
-      "chips": [
-        "Poltsak",
-        "horiak",
-        "ziren",
-        "horia",
-        "zuriak"
-      ],
-      "solutions": [
-        [
-          "Poltsak",
-          "horiak",
-          "ziren"
-        ]
-      ],
-      "formattedSolution": "Poltsak horiak ziren.",
-      "id": "d90999fef676",
-      "priority": 2,
-      "group": "54a8e841d898"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Poltsak",
-          "definition": "Poltsak"
-        },
-        {
-          "word": "horiak",
-          "definition": "horiak"
-        },
-        {
-          "word": "ziren.",
-          "definition": "ziren."
-        }
-      ],
-      "chips": [
-        "The",
-        "purses",
-        "were",
-        "yellow",
-        "here",
-        "are",
-        "purse"
-      ],
-      "solutions": [
-        [
-          "The",
-          "purses",
-          "were",
-          "yellow"
-        ]
-      ],
-      "formattedSolution": "The purses were yellow.",
-      "id": "7c083c207a4a",
-      "priority": 2,
-      "group": "54a8e841d898"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Autobusa eta kotxea urdinak dira.",
+      "formInTargetLanguage": "Toj bus i avtomobil sut nebeske",
       "meaningInSourceLanguage": "The bus and the car are blue.",
-      "id": "cc904ca72f13",
+      "id": "d9f712c0f33f",
       "priority": 0,
-      "group": "e6c14395f28a"
+      "group": "8507218d6624"
     },
     {
       "type": "chips",
@@ -1494,53 +1155,60 @@
         }
       ],
       "chips": [
-        "Autobusa",
-        "eta",
-        "kotxea",
-        "urdinak",
-        "dira",
-        "aita",
-        "otca",
-        "urdina",
-        "avta"
+        "Toj",
+        "bus",
+        "i",
+        "avtomobil",
+        "sut",
+        "nebeske",
+        "byl",
+        "tut",
+        "to",
+        "Sut",
+        "ti"
       ],
       "solutions": [
         [
-          "Autobusa",
-          "eta",
-          "kotxea",
-          "urdinak",
-          "dira"
+          "Toj",
+          "bus",
+          "i",
+          "avtomobil",
+          "sut",
+          "nebeske"
         ]
       ],
-      "formattedSolution": "Autobusa eta kotxea urdinak dira.",
-      "id": "64af95a825c9",
+      "formattedSolution": "Toj bus i avtomobil sut nebeske",
+      "id": "a688d8f95035",
       "priority": 2,
-      "group": "e6c14395f28a"
+      "group": "8507218d6624"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Autobusa",
-          "definition": "Autobusa"
+          "word": "Toj",
+          "definition": "Toj"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "bus",
+          "definition": "bus"
         },
         {
-          "word": "kotxea",
-          "definition": "kotxea"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "urdinak",
-          "definition": "urdinak"
+          "word": "avtomobil",
+          "definition": "avtomobil"
         },
         {
-          "word": "dira.",
-          "definition": "dira."
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "nebeske",
+          "definition": "nebeske"
         }
       ],
       "chips": [
@@ -1579,17 +1247,17 @@
         ]
       ],
       "formattedSolution": "The bus and the car are blue.",
-      "id": "d06f7736815f",
+      "id": "370a8730cbc2",
       "priority": 2,
-      "group": "e6c14395f28a"
+      "group": "8507218d6624"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Autobusa beltza zen eta kotxea zuria zen.",
+      "formInTargetLanguage": "Toj avtobus byl črny a avtomobil byl běly",
       "meaningInSourceLanguage": "The bus was black and the car was white.",
-      "id": "01f59b7fae76",
+      "id": "d9b26112c720",
       "priority": 0,
-      "group": "5aa8190ce5f6"
+      "group": "93b904a06440"
     },
     {
       "type": "chips",
@@ -1633,67 +1301,74 @@
         }
       ],
       "chips": [
-        "Autobusa",
-        "beltza",
-        "zen",
-        "eta",
-        "kotxea",
-        "zuria",
-        "zen",
-        "žena",
-        "te",
-        "otca",
-        "tetka",
-        "avta",
-        "aita"
+        "Toj",
+        "avtobus",
+        "byl",
+        "črny",
+        "a",
+        "avtomobil",
+        "byl",
+        "běly",
+        "bus",
+        "Ty",
+        "byla",
+        "bylo",
+        "to",
+        "toj",
+        "My"
       ],
       "solutions": [
         [
-          "Autobusa",
-          "beltza",
-          "zen",
-          "eta",
-          "kotxea",
-          "zuria",
-          "zen"
+          "Toj",
+          "avtobus",
+          "byl",
+          "črny",
+          "a",
+          "avtomobil",
+          "byl",
+          "běly"
         ]
       ],
-      "formattedSolution": "Autobusa beltza zen eta kotxea zuria zen.",
-      "id": "1bf5c9ddca4d",
+      "formattedSolution": "Toj avtobus byl črny a avtomobil byl běly",
+      "id": "547d6a66b3dc",
       "priority": 2,
-      "group": "5aa8190ce5f6"
+      "group": "93b904a06440"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Autobusa",
-          "definition": "Autobusa"
+          "word": "Toj",
+          "definition": "Toj"
         },
         {
-          "word": "beltza",
-          "definition": "beltza"
+          "word": "avtobus",
+          "definition": "bus"
         },
         {
-          "word": "zen",
-          "definition": "zen"
+          "word": "byl",
+          "definition": "byl"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "črny",
+          "definition": "black"
         },
         {
-          "word": "kotxea",
-          "definition": "kotxea"
+          "word": "a",
+          "definition": "a"
         },
         {
-          "word": "zuria",
-          "definition": "zuria"
+          "word": "avtomobil",
+          "definition": "avtomobil"
         },
         {
-          "word": "zen.",
-          "definition": "zen."
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "běly",
+          "definition": "white"
         }
       ],
       "chips": [
@@ -1708,12 +1383,12 @@
         "white",
         "are",
         "She",
-        "an",
         "am",
         "a",
         "man",
         "be",
-        "eat"
+        "eat",
+        "fat"
       ],
       "solutions": [
         [
@@ -1740,17 +1415,17 @@
         ]
       ],
       "formattedSolution": "The bus was black and the car was white.",
-      "id": "d25aa7bf9840",
+      "id": "188d1dec9fd0",
       "priority": 2,
-      "group": "5aa8190ce5f6"
+      "group": "93b904a06440"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Zein koloretakoa zen kotxea?",
+      "formInTargetLanguage": "Kaky kolor iměl toj avtomobil",
       "meaningInSourceLanguage": "Which color was the car?",
-      "id": "aebc2069229b",
+      "id": "bbd9d0de995f",
       "priority": 0,
-      "group": "e9542f87d6a0"
+      "group": "f719da955880"
     },
     {
       "type": "chips",
@@ -1778,46 +1453,53 @@
         }
       ],
       "chips": [
-        "Zein",
-        "koloretakoa",
-        "zen",
-        "kotxea",
-        "eta",
-        "žena",
-        "te"
+        "Kaky",
+        "kolor",
+        "iměl",
+        "toj",
+        "avtomobil",
+        "moj",
+        "Kto",
+        "to",
+        "avto"
       ],
       "solutions": [
         [
-          "Zein",
-          "koloretakoa",
-          "zen",
-          "kotxea"
+          "Kaky",
+          "kolor",
+          "iměl",
+          "toj",
+          "avtomobil"
         ]
       ],
-      "formattedSolution": "Zein koloretakoa zen kotxea?",
-      "id": "44021d1f86fe",
+      "formattedSolution": "Kaky kolor iměl toj avtomobil",
+      "id": "4ca89968075c",
       "priority": 2,
-      "group": "e9542f87d6a0"
+      "group": "f719da955880"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Zein",
-          "definition": "Zein"
+          "word": "Kaky",
+          "definition": "Kaky"
         },
         {
-          "word": "koloretakoa",
-          "definition": "koloretakoa"
+          "word": "kolor",
+          "definition": "color"
         },
         {
-          "word": "zen",
-          "definition": "zen"
+          "word": "iměl",
+          "definition": "iměl"
         },
         {
-          "word": "kotxea?",
-          "definition": "kotxea?"
+          "word": "toj",
+          "definition": "toj"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "avtomobil"
         }
       ],
       "chips": [
@@ -1862,17 +1544,17 @@
         ]
       ],
       "formattedSolution": "Which color was the car?",
-      "id": "ac5cdfc9af6d",
+      "id": "554b7c8afe3d",
       "priority": 2,
-      "group": "e9542f87d6a0"
+      "group": "f719da955880"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxea laranja zen.",
+      "formInTargetLanguage": "Toj avtomobil byl oranževy",
       "meaningInSourceLanguage": "The car was orange.",
-      "id": "a842b0ad270d",
+      "id": "61a0ec29ec31",
       "priority": 0,
-      "group": "f7d5c1af7d40"
+      "group": "e9b007574c2d"
     },
     {
       "type": "chips",
@@ -1896,39 +1578,46 @@
         }
       ],
       "chips": [
-        "Kotxea",
-        "laranja",
-        "zen",
-        "žena",
-        "Gorana"
+        "Toj",
+        "avtomobil",
+        "byl",
+        "oranževy",
+        "moj",
+        "tož",
+        "toj"
       ],
       "solutions": [
         [
-          "Kotxea",
-          "laranja",
-          "zen"
+          "Toj",
+          "avtomobil",
+          "byl",
+          "oranževy"
         ]
       ],
-      "formattedSolution": "Kotxea laranja zen.",
-      "id": "a461e2edbace",
+      "formattedSolution": "Toj avtomobil byl oranževy",
+      "id": "6c4fc9a7b6b5",
       "priority": 2,
-      "group": "f7d5c1af7d40"
+      "group": "e9b007574c2d"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxea",
-          "definition": "Kotxea"
+          "word": "Toj",
+          "definition": "Toj"
         },
         {
-          "word": "laranja",
-          "definition": "laranja"
+          "word": "avtomobil",
+          "definition": "avtomobil"
         },
         {
-          "word": "zen.",
-          "definition": "zen."
+          "word": "byl",
+          "definition": "byl"
+        },
+        {
+          "word": "oranževy",
+          "definition": "orange"
         }
       ],
       "chips": [
@@ -1938,7 +1627,7 @@
         "orange",
         "are",
         "man",
-        "an"
+        "am"
       ],
       "solutions": [
         [
@@ -1955,132 +1644,17 @@
         ]
       ],
       "formattedSolution": "The car was orange.",
-      "id": "bf57d25324e2",
+      "id": "e6c6ae3d5c59",
       "priority": 2,
-      "group": "f7d5c1af7d40"
+      "group": "e9b007574c2d"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Poltsak laranjak eta berdeak dira.",
-      "meaningInSourceLanguage": "The purses are orange and green.",
-      "id": "b433a7b5d15c",
-      "priority": 0,
-      "group": "f0f5067db32f"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "The",
-          "definition": "The"
-        },
-        {
-          "word": "purses",
-          "definition": "purses"
-        },
-        {
-          "word": "are",
-          "definition": "jesi"
-        },
-        {
-          "word": "orange",
-          "definition": "oranževy"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "green.",
-          "definition": "zeleny"
-        }
-      ],
-      "chips": [
-        "Poltsak",
-        "laranjak",
-        "eta",
-        "berdeak",
-        "dira",
-        "aita",
-        "brata",
-        "berdea",
-        "žena"
-      ],
-      "solutions": [
-        [
-          "Poltsak",
-          "laranjak",
-          "eta",
-          "berdeak",
-          "dira"
-        ]
-      ],
-      "formattedSolution": "Poltsak laranjak eta berdeak dira.",
-      "id": "63f55026517d",
-      "priority": 2,
-      "group": "f0f5067db32f"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Poltsak",
-          "definition": "Poltsak"
-        },
-        {
-          "word": "laranjak",
-          "definition": "laranjak"
-        },
-        {
-          "word": "eta",
-          "definition": "eta"
-        },
-        {
-          "word": "berdeak",
-          "definition": "berdeak"
-        },
-        {
-          "word": "dira.",
-          "definition": "dira."
-        }
-      ],
-      "chips": [
-        "The",
-        "purses",
-        "are",
-        "orange",
-        "and",
-        "green",
-        "Are",
-        "red",
-        "One",
-        "She",
-        "the"
-      ],
-      "solutions": [
-        [
-          "The",
-          "purses",
-          "are",
-          "orange",
-          "and",
-          "green"
-        ]
-      ],
-      "formattedSolution": "The purses are orange and green.",
-      "id": "2b974f086f1d",
-      "priority": 2,
-      "group": "f0f5067db32f"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Kotxeak grisak dira.",
+      "formInTargetLanguage": "Te avtomobily sut šere",
       "meaningInSourceLanguage": "The cars are gray.",
-      "id": "7b8495b68fe8",
+      "id": "f65c41c73010",
       "priority": 0,
-      "group": "7871e3e04cf0"
+      "group": "d38273def2c2"
     },
     {
       "type": "chips",
@@ -2104,39 +1678,46 @@
         }
       ],
       "chips": [
-        "Kotxeak",
-        "grisak",
-        "dira",
-        "grisa",
-        "gida"
+        "Te",
+        "avtomobily",
+        "sut",
+        "šere",
+        "te",
+        "ale",
+        "Ty"
       ],
       "solutions": [
         [
-          "Kotxeak",
-          "grisak",
-          "dira"
+          "Te",
+          "avtomobily",
+          "sut",
+          "šere"
         ]
       ],
-      "formattedSolution": "Kotxeak grisak dira.",
-      "id": "185e86ef9370",
+      "formattedSolution": "Te avtomobily sut šere",
+      "id": "7598deb9a9f8",
       "priority": 2,
-      "group": "7871e3e04cf0"
+      "group": "d38273def2c2"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxeak",
-          "definition": "Kotxeak"
+          "word": "Te",
+          "definition": "Te"
         },
         {
-          "word": "grisak",
-          "definition": "grisak"
+          "word": "avtomobily",
+          "definition": "avtomobily"
         },
         {
-          "word": "dira.",
-          "definition": "dira."
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "šere",
+          "definition": "šere"
         }
       ],
       "chips": [
@@ -2157,9 +1738,9 @@
         ]
       ],
       "formattedSolution": "The cars are gray.",
-      "id": "d773b58cd76a",
+      "id": "0f4a4ae781df",
       "priority": 2,
-      "group": "7871e3e04cf0"
+      "group": "d38273def2c2"
     },
     {
       "type": "cards",

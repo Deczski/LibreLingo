@@ -375,11 +375,11 @@
         "a",
         "student",
         "are",
-        "an",
         "am",
         "We",
         "He",
-        "be"
+        "be",
+        "eat"
       ],
       "solutions": [
         [
@@ -515,8 +515,8 @@
         "Kto",
         "jest",
         "ona",
-        "eta",
-        "Ona"
+        "Ona",
+        "Ono"
       ],
       "solutions": [
         [
@@ -1013,8 +1013,8 @@
         "car",
         "am",
         "is",
-        "an",
-        "I"
+        "I",
+        "It"
       ],
       "solutions": [
         [
@@ -1132,9 +1132,9 @@
         "I",
         "am",
         "is",
-        "an",
         "It",
-        ""
+        "",
+        "A"
       ],
       "solutions": [
         [
@@ -1610,7 +1610,7 @@
         "oni",
         "avtobusy",
         "tut",
-        "sut"
+        "bus"
       ],
       "solutions": [
         [

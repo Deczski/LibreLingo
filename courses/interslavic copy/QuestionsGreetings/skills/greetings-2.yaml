@@ -1,0 +1,90 @@
+Skill:
+  Id: 23
+  Name: Greetings 2
+
+
+
+New words:
+  - Word: do viděnja
+    Translation: goodbye
+    Also accepted:
+      - bye
+    Images:
+      - bye1
+      - bye2
+      - bye3
+
+  - Word: zajutra
+    Translation: tomorrow
+    Images:
+      - tomorrow1
+      - tomorrow2
+      - tomorrow3
+
+  - Word: To jest ničto.
+    Translation: It is nothing.
+    Images:
+      - itsnothing1
+      - itsnothing2
+      - itsnothing3
+
+  - Word: dobra noč
+    Translation: good night
+    Also accepted:
+      - night
+    Images:
+      - moon1
+      - moon2
+      - moon3
+
+  - Word: pozdněje
+    Translation: later
+    Images:
+      - late1
+      - late2
+      - late3
+
+  - Word: pozdno
+    Translation: late
+    Images:
+      - now1
+      - now2
+      - now3
+
+  - Word: vitanje
+    Translation: welcome
+    Images:
+      - hello1
+      - hello2
+      - hello3
+
+Phrases:
+  - Phrase: Vitanje. Kako ty jesi?
+    Translation: Welcome. How are you?
+
+  - Phrase: Do viděnja Vojtěh.
+    Translation: Goodbye Vojtěh.
+
+  - Phrase: Dobra noč Vojtěh.
+    Translation: Good night Vojtěh.
+
+  - Phrase: To jest ničto.
+    Translation: It is nothing.
+
+  - Phrase: Pomiluj. To jest pozdno.
+    Translation: Sorry. It is late.
+
+  - Phrase: To jest pozdno. Do viděnja.
+    Translation: It is late. Goodbye.
+
+  - Phrase: Pozdno? To ne jest pozdno. To jest ničto.
+    Translation: Late? it is not late. It is nothing.
+    Alternative translations:
+      - Late? it isn't late. It is nothing.
+
+Mini-dictionary:
+  Interslavic:
+    - jest: is
+
+  English:
+    - bus: avtobus

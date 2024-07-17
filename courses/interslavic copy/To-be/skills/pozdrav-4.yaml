@@ -1,0 +1,154 @@
+Skill:
+  Id: 14
+  Name: Pozdrav-4
+  Thumbnails:
+  - man3
+  - woman3
+  - hello3
+
+New words:
+
+  - Word: Kupovati
+    Translation: Buy
+    Images:
+      - store1
+      - store2
+      - store3 
+
+  - Word: Rabotati
+    Translation: Work
+
+
+Phrases:
+
+- Phrase: Ja byh
+  Translation: I would
+
+
+- Phrase: Ty bys
+  Translation: You(singular) would
+
+
+- Phrase: On by
+  Translation: He would
+
+- Phrase: Ona by
+  Translation: She would
+
+- Phrase: Ono by
+  Translation: It would
+
+- Phrase: My byhmo
+  Translation: We would  
+
+- Phrase: Vy byste
+  Translation: You(plural) would
+
+- Phrase: Oni by
+  Translation: They(masculine) would
+
+- Phrase: One by
+  Translation: They(feminine) would
+
+
+- Phrase: Ja byh kupoval
+  Translation: I would buy
+
+- Phrase: Ty bys govoril
+  Translation: You would talk
+
+- Phrase: My byhmo rabotali
+  Translation: We would work
+
+- Phrase: Vy byste pokazyvali
+  Translation: You would show
+
+- Phrase: One by posylali
+  Translation: They(feminine) would send
+
+- Phrase: Oni by spali
+  Translation: They would sleep
+
+- Phrase: Ja byh vozil se
+  Translation: I would drive
+
+- Phrase: Ty bys proboval
+  Translation: You(singular) would try
+
+- Phrase: My byhmo pametali
+  Translation: We would remember
+
+- Phrase: On by budoval
+  Translation: He would build
+
+- Phrase: Ona by tancevala
+  Translation: She would dance
+
+- Phrase: Ono by jedalo 
+  Translation: It would eat
+
+- Phrase: My byhmo byli basketbalisti
+  Translation: We would be basketball players
+
+- Phrase: Vy byste kupovali
+  Translation: You(plural) would buy
+
+- Phrase: Ja byh iměl mnogo groši jestli Ja byh mnogo rabotal
+  Alternative versions:
+    - Ja byh mnogo groši iměl jestli Ja byh mnogo rabotal
+    - Ja byh mnogo groši iměl ako li Ja byh mnogo rabotal
+  Translation: I would have a lot of money if I worked a lot 
+
+- Phrase: Ty bys iměl muskuly jestli Ty bys mnogo trenoval
+  Translation: I would have muscles if You trained a lot
+
+- Phrase: My byhmo iměli avto jestli my byhmo je uže kupili
+  Alternative versions:
+    - My byhmo avto iměli jestli my byhmo je uže kupili
+  Translation: We would have a car if we had already bought it
+
+- Phrase: On by uže byl tut jestli On by načel včera
+  Translation: He would be here already if he had started yesterday
+
+Mini-dictionary:
+
+  Interslavic:
+
+  - Ja byh: I would
+  - Ty bys: You would
+  - On by: He would
+  - Ona by: She would
+  - Ono by: It would
+  - My byhmo: We would
+  - Vy byste: You(plural) would
+  - Oni by: They(masculine) would
+  - One by: They(feminine) would
+  - basketbalisti: basketball players
+  - budoval: build
+  - pametali: remeber
+  - se: reflexive pronoun
+  - vozil: drive
+  - posylali: send
+  - govoril: talk
+  - mnogo: a lot
+  - groši: money
+  - uže: already
+  - byh: would
+  - bys: would
+  - by: would
+  - byhmo: would
+  - byste: would
+
+
+  English:
+
+  - know: znati
+  - tommorow: zautra
+  - would:
+    - byh
+    - bys
+    - by
+    - byhmo
+    - byste
+  - they: oni(masculine)
+  - they: one(feminine)

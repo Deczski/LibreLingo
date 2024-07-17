@@ -1,0 +1,285 @@
+Skill:
+  Id: 11
+  Name: Pozdrav-1
+  Thumbnails:
+  - man1
+  - woman1
+  - hello1
+
+New words:
+  - Word: Ja
+    Translation: I
+    Images:
+      - iam
+
+New words:
+  - Word: Ty
+    Translation: You(singular)
+    Images:
+      - you2
+
+New words:
+  - Word: On
+    Translation: He
+    Images:
+      - he1
+
+New words:
+  - Word: Ona
+    Translation: She
+    Images:
+      - she2
+
+New words:
+  - Word: Ono
+    Translation: It
+    Images:
+      - baby3
+
+New words:
+  - Word: My
+    Translation: We
+    Images:
+      - we1
+
+New words:
+  - Word: Wy
+    Translation: You(plural)
+    Images:
+      - they1
+
+New words:
+  - Word: Oni
+    Translation: They(masculine)
+    Images:
+      - they2
+
+New words:
+  - Word: One
+    Translation: They(feminine)
+    Images:
+      - they3
+
+New words:
+  - Word: muž
+    Translation: man
+    Images:
+      - man1
+      - man2
+      - man3
+
+  - Word: žena
+    Translation: woman
+    Images:
+      - woman1
+      - woman2
+      - woman3
+
+  - Word: hlapec
+    Translation: boy
+    Also accepted:
+      - the boy
+      - a boy
+    Images:
+      - boy1
+      - boy2
+      - boy3
+
+  - Word: děvčina
+    Translation: girl
+    Also accepted:
+      - the girl
+      - a girl
+    Images:
+      - girl1
+      - girl2
+      - girl3
+
+  - Word: Ja jesm
+    Synonyms:
+      - Jesm
+    Translation: I am
+    Images:
+      - iam1
+      - iam2
+      - iam3
+
+  - Word: Ty jesi
+    Synonyms:
+      - jesi
+    Translation: you are
+    Also accepted:
+      - you're
+    Images:
+      - you1
+      - you2
+      - you3
+
+  - Word: on jest
+    Synonyms:
+      - on je
+    Translation: he is
+    Images:
+      - he1
+      - he3
+      - he2
+
+
+  - Word: pozdrav
+    Translation: hello
+    Also accepted:
+      - hi
+    Images:
+      - hello1
+      - hello2
+      - hello3
+
+Phrases:
+
+  - Phrase: Ja jesm
+    Translation: I am
+
+  - Phrase: Ty jesi
+    Translation: You(singular) are
+
+  - Phrase: My jesmo
+    Translation: We are
+
+  - Phrase: Vy jeste
+    Translation: You(plural) are
+
+  - Phrase: On jest
+    Translation: He is 
+    Images:
+      -he1.jpg
+
+  - Phrase: Ona jest
+    Translation: She is
+    Images:
+      -she1.jpg
+
+  - Phrase: Ono jest
+    Translation: It is   
+
+  - Phrase: Oni sut
+    Translation: They(masculine) are
+
+  - Phrase: One sut
+    Translation: They(feminine) are    
+
+  - Phrase: Ja jesm muž
+    Translation: I am a man
+
+  - Phrase: Pozdrav, Ja jesm Katarina
+    Translation: Hello I am Katarina
+
+  - Phrase: Ja jesm děvčina
+    Translation: I am a girl
+
+  - Phrase: Pozdrav, Ja jesm hlapec
+    Translation: Hello, I am a boy
+
+  - Phrase: Ty jesi děvčina
+    Translation: You are a girl
+
+  - Phrase: Ty Jesi žena
+    Translation: You are a woman
+
+  - Phrase: Ty jesi muž
+    Translation: You are a man
+
+  - Phrase: On jest Vojtěh
+    Alternative versions:
+      - On je Vojtěh
+    Translation: He is Vojtěh
+
+  - Phrase: Jaroslav jest hlapec
+    Alternative versions:
+      - Jaroslav je hlapec
+    Translation: Jaroslav is a boy
+
+  - Phrase: Tatjana jest žena
+    Alternative versions:
+      - Tatjana je žena
+    Translation: Tatjana is a woman
+
+  - Phrase: Tatjana i Vojtěh
+    Translation: Tatjana and Vojtěh
+
+  - Phrase: My jesmo studenti
+    Translation: We are students
+
+  - Phrase: Tatjana ne jest hlapec
+    Translation: Tatjana is not a boy
+
+
+Mini-dictionary:
+
+  Interslavic:
+    - Vojtěh: Vojtěh (male name)
+    - Jaroslav: Jaroslav (male name)
+    - Katarina: Katarina (female name)
+    - Tatjana: Tatjana (female name)
+    - ja: I
+    - jesm: am
+    - ty: you
+    - jesi: are
+    - on: he
+    - ona: she
+    - ono: it
+    - my: we
+    - vy: you(plural)
+    - oni: they(masculine)
+    - one: they(feminine)
+    - jest: is
+    - muž: man
+    - žena: woman
+    - hlapec: boy
+    - děvčina:
+        - girl
+        - a girl
+        - the girl
+    - jedin: one
+    - pozdrav: hello
+    - člověk: human
+    - i: and
+    
+    - Byti: to be
+    - Ja Jesm: I am
+    - Ty Jesi: You are(singular)
+    - On Jest: He is
+    - Ona Jest: She is
+    - Ono Jest: It is
+    - My Jesmo: We are
+    - Oni Sut: They are(masculine)
+    - One Sut: They are(feminine)
+    - ne:
+      - no
+      - not 
+
+  English:
+    - Vojtěh: Vojtěh (male name)
+    - Jaroslav: Jaroslav (male name)
+    - Katarina: Katarina (female name)
+    - Tatjana: Tatjana (female name)
+    - I: Ja
+    - am: jesm
+    - you: ty
+    - are: jesi
+    - he: on
+    - is: jest
+    - she: ona
+    - it: ono
+    - this: to
+    - one: jedin
+    - man: muž
+    - woman: woman
+    - boy: hlapec
+    - girl: děvčina
+    - a: -a
+    - one: jedin
+    - hello: pozdrav
+    - human: člověk
+    - and: i
+    - no: ne
+    - not: ne
