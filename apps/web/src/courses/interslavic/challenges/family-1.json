@@ -1,14 +1,254 @@
 {
-  "id": "6b628c9807e3",
-  "levels": 8,
+  "id": "2fdd76f3de18",
+  "levels": 7,
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Naši praroditelji byli doktori",
-      "meaningInSourceLanguage": "Our grandparents are doctors.",
-      "id": "bbbb34359279",
+      "formInTargetLanguage": "Mati i otec",
+      "meaningInSourceLanguage": "Mother and father",
+      "id": "395e159c5e80",
       "priority": 0,
-      "group": "55774fcaf2aa"
+      "group": "c5efdc11ab47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Mother",
+          "definition": "Mati"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "father",
+          "definition": "Otec"
+        }
+      ],
+      "chips": [
+        "Mati",
+        "i",
+        "otec",
+        "ti",
+        "te"
+      ],
+      "solutions": [
+        [
+          "Mati",
+          "i",
+          "otec"
+        ]
+      ],
+      "formattedSolution": "Mati i otec",
+      "id": "2cb0d5c7aa61",
+      "priority": 2,
+      "group": "c5efdc11ab47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mati",
+          "definition": "Mother"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "otec",
+          "definition": "Father"
+        }
+      ],
+      "chips": [
+        "Mother",
+        "and",
+        "father",
+        "the",
+        "late"
+      ],
+      "solutions": [
+        [
+          "Mother",
+          "and",
+          "father"
+        ]
+      ],
+      "formattedSolution": "Mother and father",
+      "id": "ee4d23590fc7",
+      "priority": 2,
+      "group": "c5efdc11ab47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dědok i babica",
+      "meaningInSourceLanguage": "Grandfather and grandmother",
+      "id": "68ff242d0871",
+      "priority": 0,
+      "group": "a793f7b0416f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Grandfather",
+          "definition": "Dědok"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "grandmother",
+          "definition": "Babica"
+        }
+      ],
+      "chips": [
+        "Dědok",
+        "i",
+        "babica",
+        "li",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Dědok",
+          "i",
+          "babica"
+        ]
+      ],
+      "formattedSolution": "Dědok i babica",
+      "id": "239cdc65c620",
+      "priority": 2,
+      "group": "a793f7b0416f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dědok",
+          "definition": "Grandfather"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "babica",
+          "definition": "Grandmother"
+        }
+      ],
+      "chips": [
+        "Grandfather",
+        "and",
+        "grandmother",
+        "grandfather",
+        "father"
+      ],
+      "solutions": [
+        [
+          "Grandfather",
+          "and",
+          "grandmother"
+        ]
+      ],
+      "formattedSolution": "Grandfather and grandmother",
+      "id": "12d7c33c5499",
+      "priority": 2,
+      "group": "a793f7b0416f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Syn i dočera",
+      "meaningInSourceLanguage": "son and daughter",
+      "id": "cc03eeb71bbf",
+      "priority": 0,
+      "group": "0953ec1fe719"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "son",
+          "definition": "syn"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "daughter",
+          "definition": "dočera"
+        }
+      ],
+      "chips": [
+        "Syn",
+        "i",
+        "dočera",
+        "Ja",
+        "Ty"
+      ],
+      "solutions": [
+        [
+          "Syn",
+          "i",
+          "dočera"
+        ]
+      ],
+      "formattedSolution": "Syn i dočera",
+      "id": "421bf37cdc91",
+      "priority": 2,
+      "group": "0953ec1fe719"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Syn",
+          "definition": "son"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "dočera",
+          "definition": "daughter"
+        }
+      ],
+      "chips": [
+        "son",
+        "and",
+        "daughter",
+        "are",
+        "man"
+      ],
+      "solutions": [
+        [
+          "son",
+          "and",
+          "daughter"
+        ]
+      ],
+      "formattedSolution": "son and daughter",
+      "id": "589e4b7be400",
+      "priority": 2,
+      "group": "0953ec1fe719"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Naši praroditelji sut doktori",
+      "meaningInSourceLanguage": "Our grandparents are doctors.",
+      "id": "0652732f2b5e",
+      "priority": 0,
+      "group": "7c8199996104"
     },
     {
       "type": "chips",
@@ -34,24 +274,24 @@
       "chips": [
         "Naši",
         "praroditelji",
-        "byli",
+        "sut",
         "doktori",
-        "mati",
-        "ili",
-        "stari"
+        "Mati",
+        "spati",
+        "znati"
       ],
       "solutions": [
         [
           "Naši",
           "praroditelji",
-          "byli",
+          "sut",
           "doktori"
         ]
       ],
-      "formattedSolution": "Naši praroditelji byli doktori",
-      "id": "2bc0c3c88058",
+      "formattedSolution": "Naši praroditelji sut doktori",
+      "id": "ca5295444cce",
       "priority": 2,
-      "group": "55774fcaf2aa"
+      "group": "7c8199996104"
     },
     {
       "type": "chips",
@@ -66,8 +306,8 @@
           "definition": "grandparents"
         },
         {
-          "word": "byli",
-          "definition": "byli"
+          "word": "sut",
+          "definition": "are"
         },
         {
           "word": "doktori",
@@ -92,1030 +332,9 @@
         ]
       ],
       "formattedSolution": "Our grandparents are doctors.",
-      "id": "44b84661d11d",
+      "id": "dc1ac64408fb",
       "priority": 2,
-      "group": "55774fcaf2aa"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Brat i sestra",
-      "meaningInSourceLanguage": "Brother and sister",
-      "id": "1d14e6c3c2bb",
-      "priority": 0,
-      "group": "acbd3d48bbca"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Brother",
-          "definition": "Brother"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "sister",
-          "definition": "brat\nsestra"
-        }
-      ],
-      "chips": [
-        "Brat",
-        "i",
-        "sestra",
-        "Ja",
-        "jest"
-      ],
-      "solutions": [
-        [
-          "Brat",
-          "i",
-          "sestra"
-        ]
-      ],
-      "formattedSolution": "Brat i sestra",
-      "id": "db9f0eecb130",
-      "priority": 2,
-      "group": "acbd3d48bbca"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Brat",
-          "definition": "sister"
-        },
-        {
-          "word": "i",
-          "definition": "and"
-        },
-        {
-          "word": "sestra",
-          "definition": "sister"
-        }
-      ],
-      "chips": [
-        "Brother",
-        "and",
-        "sister",
-        "are",
-        "the"
-      ],
-      "solutions": [
-        [
-          "Brother",
-          "and",
-          "sister"
-        ]
-      ],
-      "formattedSolution": "Brother and sister",
-      "id": "b1f789a4370c",
-      "priority": 2,
-      "group": "acbd3d48bbca"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "My jesmo njih praroditelji",
-      "meaningInSourceLanguage": "We are their grandparents.",
-      "id": "4c29e82463d7",
-      "priority": 0,
-      "group": "0803d3eaae7d"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "We",
-          "definition": "We"
-        },
-        {
-          "word": "are",
-          "definition": "jesi"
-        },
-        {
-          "word": "their",
-          "definition": "their"
-        },
-        {
-          "word": "grandparents.",
-          "definition": "praroditelji"
-        }
-      ],
-      "chips": [
-        "My",
-        "jesmo",
-        "njih",
-        "praroditelji",
-        "je",
-        "jej",
-        "jesm"
-      ],
-      "solutions": [
-        [
-          "My",
-          "jesmo",
-          "njih",
-          "praroditelji"
-        ]
-      ],
-      "formattedSolution": "My jesmo njih praroditelji",
-      "id": "6dac8584d6b4",
-      "priority": 2,
-      "group": "0803d3eaae7d"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "My",
-          "definition": "we"
-        },
-        {
-          "word": "jesmo",
-          "definition": "jesmo"
-        },
-        {
-          "word": "njih",
-          "definition": "njih"
-        },
-        {
-          "word": "praroditelji",
-          "definition": "grandparents"
-        }
-      ],
-      "chips": [
-        "We",
-        "are",
-        "their",
-        "grandparents",
-        "Are",
-        "the",
-        "He"
-      ],
-      "solutions": [
-        [
-          "We",
-          "are",
-          "their",
-          "grandparents"
-        ]
-      ],
-      "formattedSolution": "We are their grandparents.",
-      "id": "71f58bfef887",
-      "priority": 2,
-      "group": "0803d3eaae7d"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Jego praroditelji sut stari i nizki",
-      "meaningInSourceLanguage": "His grandparents are old and short.",
-      "id": "f6819b2e9682",
-      "priority": 0,
-      "group": "0fd1f2641124"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "His",
-          "definition": "His"
-        },
-        {
-          "word": "grandparents",
-          "definition": "praroditelji"
-        },
-        {
-          "word": "are",
-          "definition": "jesi"
-        },
-        {
-          "word": "old",
-          "definition": "old"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "short.",
-          "definition": "short."
-        }
-      ],
-      "chips": [
-        "Jego",
-        "praroditelji",
-        "sut",
-        "stari",
-        "i",
-        "nizki",
-        "ili",
-        "ti",
-        "li",
-        "mati",
-        "spati"
-      ],
-      "solutions": [
-        [
-          "Jego",
-          "praroditelji",
-          "sut",
-          "stari",
-          "i",
-          "nizki"
-        ]
-      ],
-      "formattedSolution": "Jego praroditelji sut stari i nizki",
-      "id": "060a760f8bd4",
-      "priority": 2,
-      "group": "0fd1f2641124"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Jego",
-          "definition": "Jego"
-        },
-        {
-          "word": "praroditelji",
-          "definition": "grandparents"
-        },
-        {
-          "word": "sut",
-          "definition": "are"
-        },
-        {
-          "word": "stari",
-          "definition": "stari"
-        },
-        {
-          "word": "i",
-          "definition": "and"
-        },
-        {
-          "word": "nizki",
-          "definition": "nizki"
-        }
-      ],
-      "chips": [
-        "His",
-        "grandparents",
-        "are",
-        "old",
-        "and",
-        "short",
-        "had",
-        "Are",
-        "or",
-        "And",
-        "not"
-      ],
-      "solutions": [
-        [
-          "His",
-          "grandparents",
-          "are",
-          "old",
-          "and",
-          "short"
-        ]
-      ],
-      "formattedSolution": "His grandparents are old and short.",
-      "id": "fd8a0b9bc244",
-      "priority": 2,
-      "group": "0fd1f2641124"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Naš dědok jest vysoky i hudy",
-      "meaningInSourceLanguage": "Our grandfather is tall and thin.",
-      "id": "f237cdb55694",
-      "priority": 0,
-      "group": "a4a953fe3823"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Our",
-          "definition": "Our"
-        },
-        {
-          "word": "grandfather",
-          "definition": "dědok"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "tall",
-          "definition": "tall"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "thin.",
-          "definition": "thin."
-        }
-      ],
-      "chips": [
-        "Naš",
-        "dědok",
-        "jest",
-        "vysoky",
-        "i",
-        "hudy",
-        "od",
-        "Ty",
-        "jesi",
-        "My",
-        "Vy"
-      ],
-      "solutions": [
-        [
-          "Naš",
-          "dědok",
-          "jest",
-          "vysoky",
-          "i",
-          "hudy"
-        ]
-      ],
-      "formattedSolution": "Naš dědok jest vysoky i hudy",
-      "id": "d3e5422b20f2",
-      "priority": 2,
-      "group": "a4a953fe3823"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Naš",
-          "definition": "Naš"
-        },
-        {
-          "word": "dědok",
-          "definition": "grandfather"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "vysoky",
-          "definition": "vysoky"
-        },
-        {
-          "word": "i",
-          "definition": "and"
-        },
-        {
-          "word": "hudy",
-          "definition": "hudy"
-        }
-      ],
-      "chips": [
-        "Our",
-        "grandfather",
-        "is",
-        "tall",
-        "and",
-        "thin",
-        "the",
-        "man",
-        "had",
-        "am",
-        "are"
-      ],
-      "solutions": [
-        [
-          "Our",
-          "grandfather",
-          "is",
-          "tall",
-          "and",
-          "thin"
-        ]
-      ],
-      "formattedSolution": "Our grandfather is tall and thin.",
-      "id": "7fc84ad17a68",
-      "priority": 2,
-      "group": "a4a953fe3823"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Jih dědok jest šofer",
-      "meaningInSourceLanguage": "Their grandfather is a driver.",
-      "id": "cf7b5976ec33",
-      "priority": 0,
-      "group": "e1745ac0be09"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Their",
-          "definition": "Their"
-        },
-        {
-          "word": "grandfather",
-          "definition": "dědok"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "a",
-          "definition": "-a"
-        },
-        {
-          "word": "driver.",
-          "definition": "driver."
-        }
-      ],
-      "chips": [
-        "Jih",
-        "dědok",
-        "jest",
-        "šofer",
-        "je",
-        "Jest",
-        "jih"
-      ],
-      "solutions": [
-        [
-          "Jih",
-          "dědok",
-          "jest",
-          "šofer"
-        ]
-      ],
-      "formattedSolution": "Jih dědok jest šofer",
-      "id": "0e9d085b0b92",
-      "priority": 2,
-      "group": "e1745ac0be09"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Jih",
-          "definition": "Jih"
-        },
-        {
-          "word": "dědok",
-          "definition": "grandfather"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "šofer",
-          "definition": "šofer"
-        }
-      ],
-      "chips": [
-        "Their",
-        "grandfather",
-        "is",
-        "a",
-        "driver",
-        "are",
-        "if",
-        "the",
-        "Her"
-      ],
-      "solutions": [
-        [
-          "Their",
-          "grandfather",
-          "is",
-          "a",
-          "driver"
-        ],
-        [
-          "Their",
-          "grandfather",
-          "is",
-          "the",
-          "driver"
-        ]
-      ],
-      "formattedSolution": "Their grandfather is a driver.",
-      "id": "cfa372e6968d",
-      "priority": 2,
-      "group": "e1745ac0be09"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Dědokov konj jest veliky i črny.",
-      "meaningInSourceLanguage": "Grandfather’s horse is big and black.",
-      "id": "28e613f4ca2b",
-      "priority": 0,
-      "group": "7f7692a4b1b5"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Grandfather’s",
-          "definition": "Grandfather’s"
-        },
-        {
-          "word": "horse",
-          "definition": "horse"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "big",
-          "definition": "big"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "black.",
-          "definition": "black."
-        }
-      ],
-      "chips": [
-        "Dědokov",
-        "konj",
-        "jest",
-        "veliky",
-        "i",
-        "črny",
-        "jesi",
-        "ne",
-        "ženy",
-        "denj",
-        "Oni"
-      ],
-      "solutions": [
-        [
-          "Dědokov",
-          "konj",
-          "jest",
-          "veliky",
-          "i",
-          "črny"
-        ],
-        [
-          "Konj",
-          "od",
-          "dědka",
-          "jest",
-          "veliky",
-          "i",
-          "črny"
-        ]
-      ],
-      "formattedSolution": "Dědokov konj jest veliky i črny.",
-      "id": "68bb44261ff8",
-      "priority": 2,
-      "group": "7f7692a4b1b5"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Dědokov",
-          "definition": "Dědokov"
-        },
-        {
-          "word": "konj",
-          "definition": "konj"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "veliky",
-          "definition": "veliky"
-        },
-        {
-          "word": "i",
-          "definition": "and"
-        },
-        {
-          "word": "črny.",
-          "definition": "črny."
-        }
-      ],
-      "chips": [
-        "Grandfather’s",
-        "horse",
-        "is",
-        "big",
-        "and",
-        "black",
-        "are",
-        "was",
-        "be",
-        "had",
-        "bus"
-      ],
-      "solutions": [
-        [
-          "Grandfather’s",
-          "horse",
-          "is",
-          "big",
-          "and",
-          "black"
-        ],
-        [
-          "The",
-          "horse",
-          "of",
-          "grandfather",
-          "is",
-          "big",
-          "and",
-          "black"
-        ]
-      ],
-      "formattedSolution": "Grandfather’s horse is big and black.",
-      "id": "05c501cab8d0",
-      "priority": 2,
-      "group": "7f7692a4b1b5"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Jih babica jest nizka i tolsta",
-      "meaningInSourceLanguage": "Their grandmother is short and fat.",
-      "id": "77abe17d23a9",
-      "priority": 0,
-      "group": "e9865aa84a13"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Their",
-          "definition": "Their"
-        },
-        {
-          "word": "grandmother",
-          "definition": "babica"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "short",
-          "definition": "short"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "fat.",
-          "definition": "fat."
-        }
-      ],
-      "chips": [
-        "Jih",
-        "babica",
-        "jest",
-        "nizka",
-        "i",
-        "tolsta",
-        "ti",
-        "li",
-        "jih",
-        "Ja",
-        "Či"
-      ],
-      "solutions": [
-        [
-          "Jih",
-          "babica",
-          "jest",
-          "nizka",
-          "i",
-          "tolsta"
-        ]
-      ],
-      "formattedSolution": "Jih babica jest nizka i tolsta",
-      "id": "d2236a74a95f",
-      "priority": 2,
-      "group": "e9865aa84a13"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Jih",
-          "definition": "Jih"
-        },
-        {
-          "word": "babica",
-          "definition": "grandmother"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "nizka",
-          "definition": "nizka"
-        },
-        {
-          "word": "i",
-          "definition": "and"
-        },
-        {
-          "word": "tolsta",
-          "definition": "tolsta"
-        }
-      ],
-      "chips": [
-        "Their",
-        "grandmother",
-        "is",
-        "short",
-        "and",
-        "fat",
-        "not",
-        "eat",
-        "had",
-        "the",
-        "or"
-      ],
-      "solutions": [
-        [
-          "Their",
-          "grandmother",
-          "is",
-          "short",
-          "and",
-          "fat"
-        ]
-      ],
-      "formattedSolution": "Their grandmother is short and fat.",
-      "id": "3bb4a933ac42",
-      "priority": 2,
-      "group": "e9865aa84a13"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "To jest krugla od tvojej babice",
-      "meaningInSourceLanguage": "It is your grandmother’s ball.",
-      "id": "b2c8bc00d868",
-      "priority": 0,
-      "group": "9e5e895a1dc9"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "It",
-          "definition": "ono\nto"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "your",
-          "definition": "your"
-        },
-        {
-          "word": "grandmother’s",
-          "definition": "grandmother’s"
-        },
-        {
-          "word": "ball.",
-          "definition": "ball."
-        }
-      ],
-      "chips": [
-        "To",
-        "jest",
-        "krugla",
-        "od",
-        "tvojej",
-        "babice",
-        "je",
-        "te",
-        "ne",
-        "se",
-        "to"
-      ],
-      "solutions": [
-        [
-          "To",
-          "jest",
-          "krugla",
-          "od",
-          "tvojej",
-          "babice"
-        ]
-      ],
-      "formattedSolution": "To jest krugla od tvojej babice",
-      "id": "12456b3a7db8",
-      "priority": 2,
-      "group": "9e5e895a1dc9"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "To",
-          "definition": "To"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "krugla",
-          "definition": "krugla"
-        },
-        {
-          "word": "od",
-          "definition": "od"
-        },
-        {
-          "word": "tvojej",
-          "definition": "tvojej"
-        },
-        {
-          "word": "babice",
-          "definition": "babice"
-        }
-      ],
-      "chips": [
-        "It",
-        "is",
-        "your",
-        "grandmother’s",
-        "ball",
-        "or",
-        "am",
-        "not",
-        "it"
-      ],
-      "solutions": [
-        [
-          "It",
-          "is",
-          "your",
-          "grandmother’s",
-          "ball"
-        ],
-        [
-          "It",
-          "is",
-          "the",
-          "ball",
-          "of",
-          "your",
-          "grandmother"
-        ]
-      ],
-      "formattedSolution": "It is your grandmother’s ball.",
-      "id": "0262a63c2475",
-      "priority": 2,
-      "group": "9e5e895a1dc9"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Naša babica je učiteljka",
-      "meaningInSourceLanguage": "Our grandmother is a teacher.",
-      "id": "e5d652ca5342",
-      "priority": 0,
-      "group": "16085208f56a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Our",
-          "definition": "Our"
-        },
-        {
-          "word": "grandmother",
-          "definition": "babica"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "a",
-          "definition": "-a"
-        },
-        {
-          "word": "teacher.",
-          "definition": "učitelj"
-        }
-      ],
-      "chips": [
-        "Naša",
-        "babica",
-        "je",
-        "učiteljka",
-        "naša",
-        "vaša",
-        "Ja"
-      ],
-      "solutions": [
-        [
-          "Naša",
-          "babica",
-          "je",
-          "učiteljka"
-        ]
-      ],
-      "formattedSolution": "Naša babica je učiteljka",
-      "id": "ad5205f31070",
-      "priority": 2,
-      "group": "16085208f56a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Naša",
-          "definition": "Naša"
-        },
-        {
-          "word": "babica",
-          "definition": "grandmother"
-        },
-        {
-          "word": "je",
-          "definition": "je"
-        },
-        {
-          "word": "učiteljka",
-          "definition": "učiteljka"
-        }
-      ],
-      "chips": [
-        "Our",
-        "grandmother",
-        "is",
-        "a",
-        "teacher",
-        "am",
-        "car",
-        "the",
-        "or"
-      ],
-      "solutions": [
-        [
-          "Our",
-          "grandmother",
-          "is",
-          "a",
-          "teacher"
-        ],
-        [
-          "Our",
-          "grandmother",
-          "is",
-          "the",
-          "teacher"
-        ]
-      ],
-      "formattedSolution": "Our grandmother is a teacher.",
-      "id": "ebdc98812a38",
-      "priority": 2,
-      "group": "16085208f56a"
+      "group": "7c8199996104"
     },
     {
       "type": "options",
@@ -1153,7 +372,7 @@
         "roditelji",
         "ili",
         "oni",
-        "ti"
+        "li"
       ],
       "solutions": [
         [
@@ -1213,284 +432,6 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Avtomobil od naših roditeljev jest nebesky",
-      "meaningInSourceLanguage": "Our parents’ car is blue.",
-      "id": "5f9914a12160",
-      "priority": 0,
-      "group": "e812a7e869b1"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Our",
-          "definition": "Our"
-        },
-        {
-          "word": "parents’",
-          "definition": "roditelji"
-        },
-        {
-          "word": "car",
-          "definition": "avto"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "blue.",
-          "definition": "blue."
-        }
-      ],
-      "chips": [
-        "Avtomobil",
-        "od",
-        "naših",
-        "roditeljev",
-        "jest",
-        "nebesky",
-        "jesi",
-        "jesm",
-        "je",
-        "ne",
-        "vozil"
-      ],
-      "solutions": [
-        [
-          "Avtomobil",
-          "od",
-          "naših",
-          "roditeljev",
-          "jest",
-          "nebesky"
-        ]
-      ],
-      "formattedSolution": "Avtomobil od naših roditeljev jest nebesky",
-      "id": "18587a13f469",
-      "priority": 2,
-      "group": "e812a7e869b1"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Avtomobil",
-          "definition": "Avtomobil"
-        },
-        {
-          "word": "od",
-          "definition": "od"
-        },
-        {
-          "word": "naših",
-          "definition": "naših"
-        },
-        {
-          "word": "roditeljev",
-          "definition": "roditeljev"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "nebesky",
-          "definition": "nebesky"
-        }
-      ],
-      "chips": [
-        "Our",
-        "parents",
-        "car",
-        "is",
-        "blue",
-        "are",
-        "bus",
-        "cars",
-        "our"
-      ],
-      "solutions": [
-        [
-          "Our",
-          "parents",
-          "car",
-          "is",
-          "blue"
-        ],
-        [
-          "The",
-          "car",
-          "of",
-          "our",
-          "parents",
-          "is",
-          "blue"
-        ]
-      ],
-      "formattedSolution": "Our parents’ car is blue.",
-      "id": "9483318c154e",
-      "priority": 2,
-      "group": "e812a7e869b1"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Dom od jih roditeljev jest veliki i běly",
-      "meaningInSourceLanguage": "Their parents’ house is big and white.",
-      "id": "5d2ce8b8df5f",
-      "priority": 0,
-      "group": "c2c1bf6e2602"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Their",
-          "definition": "Their"
-        },
-        {
-          "word": "parents’",
-          "definition": "roditelji"
-        },
-        {
-          "word": "house",
-          "definition": "house"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "big",
-          "definition": "big"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "white.",
-          "definition": "white."
-        }
-      ],
-      "chips": [
-        "Dom",
-        "od",
-        "jih",
-        "roditeljev",
-        "jest",
-        "veliki",
-        "i",
-        "běly",
-        "je",
-        "li",
-        "ili",
-        "ti",
-        "te",
-        "Či",
-        "jej"
-      ],
-      "solutions": [
-        [
-          "Dom",
-          "od",
-          "jih",
-          "roditeljev",
-          "jest",
-          "veliki",
-          "i",
-          "běly"
-        ]
-      ],
-      "formattedSolution": "Dom od jih roditeljev jest veliki i běly",
-      "id": "cdf785da7236",
-      "priority": 2,
-      "group": "c2c1bf6e2602"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Dom",
-          "definition": "Dom"
-        },
-        {
-          "word": "od",
-          "definition": "od"
-        },
-        {
-          "word": "jih",
-          "definition": "jih"
-        },
-        {
-          "word": "roditeljev",
-          "definition": "roditeljev"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "veliki",
-          "definition": "veliki"
-        },
-        {
-          "word": "i",
-          "definition": "and"
-        },
-        {
-          "word": "běly",
-          "definition": "běly"
-        }
-      ],
-      "chips": [
-        "Their",
-        "parents",
-        "house",
-        "is",
-        "big",
-        "and",
-        "white",
-        "are",
-        "His",
-        "This",
-        "She",
-        "be",
-        "the"
-      ],
-      "solutions": [
-        [
-          "Their",
-          "parents",
-          "house",
-          "is",
-          "big",
-          "and",
-          "white"
-        ],
-        [
-          "The",
-          "house",
-          "of",
-          "their",
-          "parents",
-          "is",
-          "big",
-          "and",
-          "white"
-        ]
-      ],
-      "formattedSolution": "Their parents’ house is big and white.",
-      "id": "1670e448ed53",
-      "priority": 2,
-      "group": "c2c1bf6e2602"
-    },
-    {
-      "type": "options",
       "formInTargetLanguage": "On jest naš otec",
       "meaningInSourceLanguage": "He is our father.",
       "id": "02dac097ee66",
@@ -1515,7 +456,7 @@
         },
         {
           "word": "father.",
-          "definition": "otec"
+          "definition": "Otec"
         }
       ],
       "chips": [
@@ -1558,7 +499,7 @@
         },
         {
           "word": "otec",
-          "definition": "father"
+          "definition": "Father"
         }
       ],
       "chips": [
@@ -1568,7 +509,7 @@
         "father",
         "he",
         "or",
-        "Her"
+        "We"
       ],
       "solutions": [
         [
@@ -1585,11 +526,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Otec od našego otca je naš dědok",
+      "formInTargetLanguage": "Otec od našego otca jest naš dědok",
       "meaningInSourceLanguage": "Our father’s father is our grandfather.",
-      "id": "1d4e20ef7305",
+      "id": "816e74b68dfc",
       "priority": 0,
-      "group": "e8d34785d046"
+      "group": "5962cdeb9166"
     },
     {
       "type": "chips",
@@ -1605,7 +546,7 @@
         },
         {
           "word": "father",
-          "definition": "otec"
+          "definition": "Otec"
         },
         {
           "word": "is",
@@ -1617,7 +558,7 @@
         },
         {
           "word": "grandfather.",
-          "definition": "dědok"
+          "definition": "Dědok"
         }
       ],
       "chips": [
@@ -1625,15 +566,15 @@
         "od",
         "našego",
         "otca",
-        "je",
+        "jest",
         "naš",
         "dědok",
         "ne",
         "te",
+        "je",
         "to",
-        "Ja",
-        "Kde",
-        "se"
+        "otec",
+        "Ja"
       ],
       "solutions": [
         [
@@ -1641,15 +582,15 @@
           "od",
           "našego",
           "otca",
-          "je",
+          "jest",
           "naš",
           "dědok"
         ]
       ],
-      "formattedSolution": "Otec od našego otca je naš dědok",
-      "id": "5592121c40d3",
+      "formattedSolution": "Otec od našego otca jest naš dědok",
+      "id": "aed027e15574",
       "priority": 2,
-      "group": "e8d34785d046"
+      "group": "5962cdeb9166"
     },
     {
       "type": "chips",
@@ -1657,7 +598,7 @@
       "phrase": [
         {
           "word": "Otec",
-          "definition": "father"
+          "definition": "Father"
         },
         {
           "word": "od",
@@ -1672,8 +613,8 @@
           "definition": "otca"
         },
         {
-          "word": "je",
-          "definition": "je"
+          "word": "jest",
+          "definition": "is"
         },
         {
           "word": "naš",
@@ -1681,7 +622,7 @@
         },
         {
           "word": "dědok",
-          "definition": "grandfather"
+          "definition": "Grandfather"
         }
       ],
       "chips": [
@@ -1692,10 +633,10 @@
         "our",
         "grandfather",
         "the",
-        "fat",
         "car",
-        "tour",
-        "Her"
+        "or",
+        "are",
+        "She"
       ],
       "solutions": [
         [
@@ -1718,995 +659,17 @@
         ]
       ],
       "formattedSolution": "Our father’s father is our grandfather.",
-      "id": "e85fc98271dc",
+      "id": "db7a135fe1c8",
       "priority": 2,
-      "group": "e8d34785d046"
+      "group": "5962cdeb9166"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Naš otec i naša mati sut naši roditelji",
-      "meaningInSourceLanguage": "Our father and  mother are our parents.",
-      "id": "a8181a572705",
-      "priority": 0,
-      "group": "8ca7b2d5aefb"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Our",
-          "definition": "Our"
-        },
-        {
-          "word": "father",
-          "definition": "otec"
-        },
-        {
-          "word": "and",
-          "definition": "i"
-        },
-        {
-          "word": "mother",
-          "definition": "mati"
-        },
-        {
-          "word": "are",
-          "definition": "jesi"
-        },
-        {
-          "word": "our",
-          "definition": "our"
-        },
-        {
-          "word": "parents.",
-          "definition": "roditelji"
-        }
-      ],
-      "chips": [
-        "Naš",
-        "otec",
-        "i",
-        "naša",
-        "mati",
-        "sut",
-        "naši",
-        "roditelji",
-        "Naši",
-        "naš",
-        "ti",
-        "Mati",
-        "tam",
-        "ili",
-        "te"
-      ],
-      "solutions": [
-        [
-          "Naš",
-          "otec",
-          "i",
-          "naša",
-          "mati",
-          "sut",
-          "naši",
-          "roditelji"
-        ]
-      ],
-      "formattedSolution": "Naš otec i naša mati sut naši roditelji",
-      "id": "9898de7bbf66",
-      "priority": 2,
-      "group": "8ca7b2d5aefb"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Naš",
-          "definition": "Naš"
-        },
-        {
-          "word": "otec",
-          "definition": "father"
-        },
-        {
-          "word": "i",
-          "definition": "and"
-        },
-        {
-          "word": "naša",
-          "definition": "naša"
-        },
-        {
-          "word": "mati",
-          "definition": "mother"
-        },
-        {
-          "word": "sut",
-          "definition": "are"
-        },
-        {
-          "word": "naši",
-          "definition": "naši"
-        },
-        {
-          "word": "roditelji",
-          "definition": "parents"
-        }
-      ],
-      "chips": [
-        "Our",
-        "father",
-        "and",
-        "mother",
-        "are",
-        "our",
-        "parents",
-        "car",
-        "the",
-        "or",
-        "Her",
-        "She",
-        "here"
-      ],
-      "solutions": [
-        [
-          "Our",
-          "father",
-          "and",
-          "mother",
-          "are",
-          "our",
-          "parents"
-        ]
-      ],
-      "formattedSolution": "Our father and  mother are our parents.",
-      "id": "70b39da9befa",
-      "priority": 2,
-      "group": "8ca7b2d5aefb"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Ona jest vaša mati",
-      "meaningInSourceLanguage": "She is your(plural) mother.",
-      "id": "42ea726815f2",
-      "priority": 0,
-      "group": "256bb54b47a1"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "She",
-          "definition": "ona"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "your(plural)",
-          "definition": "your(plural)"
-        },
-        {
-          "word": "mother.",
-          "definition": "mati"
-        }
-      ],
-      "chips": [
-        "Ona",
-        "jest",
-        "vaša",
-        "mati",
-        "Naša",
-        "Ja",
-        "jesi"
-      ],
-      "solutions": [
-        [
-          "Ona",
-          "jest",
-          "vaša",
-          "mati"
-        ]
-      ],
-      "formattedSolution": "Ona jest vaša mati",
-      "id": "c6147a631966",
-      "priority": 2,
-      "group": "256bb54b47a1"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Ona",
-          "definition": "she"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "vaša",
-          "definition": "vaša"
-        },
-        {
-          "word": "mati",
-          "definition": "mother"
-        }
-      ],
-      "chips": [
-        "She",
-        "is",
-        "your(plural",
-        "mother",
-        "the",
-        "or",
-        "she"
-      ],
-      "solutions": [
-        [
-          "She",
-          "is",
-          "your(plural",
-          "mother"
-        ]
-      ],
-      "formattedSolution": "She is your(plural) mother.",
-      "id": "e2c2c86dc6f3",
-      "priority": 2,
-      "group": "256bb54b47a1"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Jih mati jest turistična prvodnica",
-      "meaningInSourceLanguage": "Their mother is a tour guide.",
-      "id": "8c39b04d3b61",
-      "priority": 0,
-      "group": "6e30d5d3cee4"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Their",
-          "definition": "Their"
-        },
-        {
-          "word": "mother",
-          "definition": "mati"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "a",
-          "definition": "-a"
-        },
-        {
-          "word": "tour",
-          "definition": "tour"
-        },
-        {
-          "word": "guide.",
-          "definition": "guide."
-        }
-      ],
-      "chips": [
-        "Jih",
-        "mati",
-        "jest",
-        "turistična",
-        "prvodnica",
-        "jesi",
-        "ti",
-        "tut",
-        "Jest"
-      ],
-      "solutions": [
-        [
-          "Jih",
-          "mati",
-          "jest",
-          "turistična",
-          "prvodnica"
-        ]
-      ],
-      "formattedSolution": "Jih mati jest turistična prvodnica",
-      "id": "c0d500e30254",
-      "priority": 2,
-      "group": "6e30d5d3cee4"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Jih",
-          "definition": "Jih"
-        },
-        {
-          "word": "mati",
-          "definition": "mother"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "turistična",
-          "definition": "turistična"
-        },
-        {
-          "word": "prvodnica",
-          "definition": "prvodnica"
-        }
-      ],
-      "chips": [
-        "Their",
-        "mother",
-        "is",
-        "a",
-        "tour",
-        "guide",
-        "the",
-        "or",
-        "me",
-        "We",
-        "He"
-      ],
-      "solutions": [
-        [
-          "Their",
-          "mother",
-          "is",
-          "a",
-          "tour",
-          "guide"
-        ]
-      ],
-      "formattedSolution": "Their mother is a tour guide.",
-      "id": "69d8334f6827",
-      "priority": 2,
-      "group": "6e30d5d3cee4"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Mati od jej mati jest jej babica",
-      "meaningInSourceLanguage": "Her mother’s mother is her grandmother.",
-      "id": "a70104f3b4f9",
-      "priority": 0,
-      "group": "9e827019fb99"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Her",
-          "definition": "Her"
-        },
-        {
-          "word": "mother’s",
-          "definition": "mother’s"
-        },
-        {
-          "word": "mother",
-          "definition": "mati"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "her",
-          "definition": "her"
-        },
-        {
-          "word": "grandmother.",
-          "definition": "babica"
-        }
-      ],
-      "chips": [
-        "Mati",
-        "od",
-        "jej",
-        "mati",
-        "jest",
-        "jej",
-        "babica",
-        "jesi",
-        "je",
-        "ti",
-        "te",
-        "Ja",
-        "jesm"
-      ],
-      "solutions": [
-        [
-          "Mati",
-          "od",
-          "jej",
-          "mati",
-          "jest",
-          "jej",
-          "babica"
-        ]
-      ],
-      "formattedSolution": "Mati od jej mati jest jej babica",
-      "id": "75d4dd46cbc7",
-      "priority": 2,
-      "group": "9e827019fb99"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Mati",
-          "definition": "mother"
-        },
-        {
-          "word": "od",
-          "definition": "od"
-        },
-        {
-          "word": "jej",
-          "definition": "jej"
-        },
-        {
-          "word": "mati",
-          "definition": "mother"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "jej",
-          "definition": "jej"
-        },
-        {
-          "word": "babica",
-          "definition": "grandmother"
-        }
-      ],
-      "chips": [
-        "Her",
-        "mother’s",
-        "mother",
-        "is",
-        "her",
-        "grandmother",
-        "the",
-        "here",
-        "there",
-        "or",
-        "me"
-      ],
-      "solutions": [
-        [
-          "Her",
-          "mother’s",
-          "mother",
-          "is",
-          "her",
-          "grandmother"
-        ],
-        [
-          "The",
-          "mother",
-          "of",
-          "her",
-          "mother",
-          "is",
-          "her",
-          "grandmother"
-        ]
-      ],
-      "formattedSolution": "Her mother’s mother is her grandmother.",
-      "id": "66b01f309173",
-      "priority": 2,
-      "group": "9e827019fb99"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Jego syn jest duhovnik",
-      "meaningInSourceLanguage": "His son is a priest.",
-      "id": "7bef1430885b",
-      "priority": 0,
-      "group": "eca03d4555f6"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "His",
-          "definition": "His"
-        },
-        {
-          "word": "son",
-          "definition": "syn"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "a",
-          "definition": "-a"
-        },
-        {
-          "word": "priest.",
-          "definition": "priest."
-        }
-      ],
-      "chips": [
-        "Jego",
-        "syn",
-        "jest",
-        "duhovnik",
-        "jesi",
-        "Jest",
-        "denj"
-      ],
-      "solutions": [
-        [
-          "Jego",
-          "syn",
-          "jest",
-          "duhovnik"
-        ]
-      ],
-      "formattedSolution": "Jego syn jest duhovnik",
-      "id": "5e5d86dc736e",
-      "priority": 2,
-      "group": "eca03d4555f6"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Jego",
-          "definition": "Jego"
-        },
-        {
-          "word": "syn",
-          "definition": "son"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "duhovnik",
-          "definition": "duhovnik"
-        }
-      ],
-      "chips": [
-        "His",
-        "son",
-        "is",
-        "a",
-        "priest",
-        "if",
-        "Hi",
-        "Is",
-        "He"
-      ],
-      "solutions": [
-        [
-          "His",
-          "son",
-          "is",
-          "a",
-          "priest"
-        ],
-        [
-          "His",
-          "son",
-          "is",
-          "a",
-          "priest"
-        ],
-        [
-          "His",
-          "son",
-          "is",
-          "the",
-          "priest"
-        ]
-      ],
-      "formattedSolution": "His son is a priest.",
-      "id": "d7adef20618c",
-      "priority": 2,
-      "group": "eca03d4555f6"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Toj hlapec jest moj syn",
-      "meaningInSourceLanguage": "This boy is my son.",
-      "id": "29b658da0663",
-      "priority": 0,
-      "group": "c79f501c4a25"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "This",
-          "definition": "to"
-        },
-        {
-          "word": "boy",
-          "definition": "hlapec"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "my",
-          "definition": "my"
-        },
-        {
-          "word": "son.",
-          "definition": "syn"
-        }
-      ],
-      "chips": [
-        "Toj",
-        "hlapec",
-        "jest",
-        "moj",
-        "syn",
-        "jej",
-        "je",
-        "se",
-        "Ty"
-      ],
-      "solutions": [
-        [
-          "Toj",
-          "hlapec",
-          "jest",
-          "moj",
-          "syn"
-        ]
-      ],
-      "formattedSolution": "Toj hlapec jest moj syn",
-      "id": "b407e6ab157d",
-      "priority": 2,
-      "group": "c79f501c4a25"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Toj",
-          "definition": "Toj"
-        },
-        {
-          "word": "hlapec",
-          "definition": "boy"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "moj",
-          "definition": "moj"
-        },
-        {
-          "word": "syn",
-          "definition": "son"
-        }
-      ],
-      "chips": [
-        "This",
-        "boy",
-        "is",
-        "my",
-        "son",
-        "of",
-        "if",
-        "or",
-        "Is"
-      ],
-      "solutions": [
-        [
-          "This",
-          "boy",
-          "is",
-          "my",
-          "son"
-        ]
-      ],
-      "formattedSolution": "This boy is my son.",
-      "id": "c3ae5dd7aca1",
-      "priority": 2,
-      "group": "c79f501c4a25"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Syn tvojego dědoka jest tvoj otec",
-      "meaningInSourceLanguage": "Your grandfather’s son is your father.",
-      "id": "3a5d89cb53c6",
-      "priority": 0,
-      "group": "3c929321d167"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Your",
-          "definition": "Your"
-        },
-        {
-          "word": "grandfather’s",
-          "definition": "grandfather’s"
-        },
-        {
-          "word": "son",
-          "definition": "syn"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "your",
-          "definition": "your"
-        },
-        {
-          "word": "father.",
-          "definition": "otec"
-        }
-      ],
-      "chips": [
-        "Syn",
-        "tvojego",
-        "dědoka",
-        "jest",
-        "tvoj",
-        "otec",
-        "to",
-        "te",
-        "jej",
-        "je",
-        "Toj"
-      ],
-      "solutions": [
-        [
-          "Syn",
-          "tvojego",
-          "dědoka",
-          "jest",
-          "tvoj",
-          "otec"
-        ]
-      ],
-      "formattedSolution": "Syn tvojego dědoka jest tvoj otec",
-      "id": "73f693e020df",
-      "priority": 2,
-      "group": "3c929321d167"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Syn",
-          "definition": "son"
-        },
-        {
-          "word": "tvojego",
-          "definition": "tvojego"
-        },
-        {
-          "word": "dědoka",
-          "definition": "dědoka"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "tvoj",
-          "definition": "tvoj"
-        },
-        {
-          "word": "otec",
-          "definition": "father"
-        }
-      ],
-      "chips": [
-        "Your",
-        "grandfather’s",
-        "son",
-        "is",
-        "your",
-        "father",
-        "tour",
-        "or",
-        "You",
-        "not",
-        "car"
-      ],
-      "solutions": [
-        [
-          "Your",
-          "grandfather’s",
-          "son",
-          "is",
-          "your",
-          "father"
-        ],
-        [
-          "The",
-          "son",
-          "of",
-          "your",
-          "grandfather",
-          "is",
-          "your",
-          "father"
-        ]
-      ],
-      "formattedSolution": "Your grandfather’s son is your father.",
-      "id": "879c535458da",
-      "priority": 2,
-      "group": "3c929321d167"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Dočera tvojej babicy jest tvoja mati",
-      "meaningInSourceLanguage": "Your grandmother’s daughter is your mother.",
-      "id": "a1beb64bd0b2",
-      "priority": 0,
-      "group": "8a6b9074f09a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Your",
-          "definition": "Your"
-        },
-        {
-          "word": "grandmother’s",
-          "definition": "grandmother’s"
-        },
-        {
-          "word": "daughter",
-          "definition": "dočera"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "your",
-          "definition": "your"
-        },
-        {
-          "word": "mother.",
-          "definition": "mati"
-        }
-      ],
-      "chips": [
-        "Dočera",
-        "tvojej",
-        "babicy",
-        "jest",
-        "tvoja",
-        "mati",
-        "tvoj",
-        "moja",
-        "jesi",
-        "jej",
-        "mojej"
-      ],
-      "solutions": [
-        [
-          "Dočera",
-          "tvojej",
-          "babicy",
-          "jest",
-          "tvoja",
-          "mati"
-        ]
-      ],
-      "formattedSolution": "Dočera tvojej babicy jest tvoja mati",
-      "id": "ec3bf63d0a35",
-      "priority": 2,
-      "group": "8a6b9074f09a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Dočera",
-          "definition": "daughter"
-        },
-        {
-          "word": "tvojej",
-          "definition": "tvojej"
-        },
-        {
-          "word": "babicy",
-          "definition": "babicy"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "tvoja",
-          "definition": "tvoja"
-        },
-        {
-          "word": "mati",
-          "definition": "mother"
-        }
-      ],
-      "chips": [
-        "Your",
-        "grandmother’s",
-        "daughter",
-        "is",
-        "your",
-        "mother",
-        "tour",
-        "or",
-        "You",
-        "not",
-        "the"
-      ],
-      "solutions": [
-        [
-          "Your",
-          "grandmother’s",
-          "daughter",
-          "is",
-          "your",
-          "mother"
-        ],
-        [
-          "The",
-          "daughter",
-          "of",
-          "your",
-          "grandmother",
-          "is",
-          "your",
-          "mother"
-        ]
-      ],
-      "formattedSolution": "Your grandmother’s daughter is your mother.",
-      "id": "c44b1c9bdb34",
-      "priority": 2,
-      "group": "8a6b9074f09a"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Ta děvčina jest moja dočera",
+      "formInTargetLanguage": "Ta devčina je moja dočera",
       "meaningInSourceLanguage": "This girl is my daughter.",
-      "id": "d32321fea967",
+      "id": "e88a1961902a",
       "priority": 0,
-      "group": "f6f4c7df22cb"
+      "group": "d9d34fa63182"
     },
     {
       "type": "chips",
@@ -2735,28 +698,28 @@
       ],
       "chips": [
         "Ta",
-        "děvčina",
-        "jest",
+        "devčina",
+        "je",
         "moja",
         "dočera",
+        "Ja",
         "žena",
-        "včera",
-        "Moja",
-        "Ja"
+        "Da",
+        "Moja"
       ],
       "solutions": [
         [
           "Ta",
-          "děvčina",
-          "jest",
+          "devčina",
+          "je",
           "moja",
           "dočera"
         ]
       ],
-      "formattedSolution": "Ta děvčina jest moja dočera",
-      "id": "9c53922cc29b",
+      "formattedSolution": "Ta devčina je moja dočera",
+      "id": "c09534fac68c",
       "priority": 2,
-      "group": "f6f4c7df22cb"
+      "group": "d9d34fa63182"
     },
     {
       "type": "chips",
@@ -2767,12 +730,12 @@
           "definition": "Ta"
         },
         {
-          "word": "děvčina",
-          "definition": "a girl\ngirl\nthe girl"
+          "word": "devčina",
+          "definition": "devčina"
         },
         {
-          "word": "jest",
-          "definition": "is"
+          "word": "je",
+          "definition": "je"
         },
         {
           "word": "moja",
@@ -2790,9 +753,9 @@
         "my",
         "daughter",
         "if",
-        "His",
         "Hi",
-        "or"
+        "or",
+        "Is"
       ],
       "solutions": [
         [
@@ -2804,17 +767,17 @@
         ]
       ],
       "formattedSolution": "This girl is my daughter.",
-      "id": "784438b50040",
+      "id": "ed95d8027c44",
       "priority": 2,
-      "group": "f6f4c7df22cb"
+      "group": "d9d34fa63182"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Moja dočera jest medsestra",
+      "formInTargetLanguage": "Moja dočera je medsestra",
       "meaningInSourceLanguage": "My daughter is a  nurse.",
-      "id": "796d016b600a",
+      "id": "4bb2f8080085",
       "priority": 0,
-      "group": "5ba6f9070e15"
+      "group": "e093ebadc32d"
     },
     {
       "type": "chips",
@@ -2844,24 +807,24 @@
       "chips": [
         "Moja",
         "dočera",
-        "jest",
+        "je",
         "medsestra",
-        "sestra",
+        "moja",
         "včera",
-        "Jest"
+        "jest"
       ],
       "solutions": [
         [
           "Moja",
           "dočera",
-          "jest",
+          "je",
           "medsestra"
         ]
       ],
-      "formattedSolution": "Moja dočera jest medsestra",
-      "id": "06a2c7987fb1",
+      "formattedSolution": "Moja dočera je medsestra",
+      "id": "254023acc0ce",
       "priority": 2,
-      "group": "5ba6f9070e15"
+      "group": "e093ebadc32d"
     },
     {
       "type": "chips",
@@ -2876,8 +839,8 @@
           "definition": "daughter"
         },
         {
-          "word": "jest",
-          "definition": "is"
+          "word": "je",
+          "definition": "je"
         },
         {
           "word": "medsestra",
@@ -2902,138 +865,20 @@
           "is",
           "a",
           "nurse"
-        ],
-        [
-          "The",
-          "daughter",
-          "of",
-          "your",
-          "grandmother",
-          "is",
-          "your",
-          "mother"
         ]
       ],
       "formattedSolution": "My daughter is a  nurse.",
-      "id": "ba3e863a9497",
+      "id": "08f42fcd28d1",
       "priority": 2,
-      "group": "5ba6f9070e15"
+      "group": "e093ebadc32d"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ta turistka jest moja dočera",
-      "meaningInSourceLanguage": "The tourist is my daughter.",
-      "id": "7c549c338d32",
-      "priority": 0,
-      "group": "7399083c56a3"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "The",
-          "definition": "The"
-        },
-        {
-          "word": "tourist",
-          "definition": "tourist"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "my",
-          "definition": "my"
-        },
-        {
-          "word": "daughter.",
-          "definition": "dočera"
-        }
-      ],
-      "chips": [
-        "Ta",
-        "turistka",
-        "jest",
-        "moja",
-        "dočera",
-        "Moja",
-        "Ja",
-        "žena",
-        "je"
-      ],
-      "solutions": [
-        [
-          "Ta",
-          "turistka",
-          "jest",
-          "moja",
-          "dočera"
-        ]
-      ],
-      "formattedSolution": "Ta turistka jest moja dočera",
-      "id": "c512efc42e51",
-      "priority": 2,
-      "group": "7399083c56a3"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Ta",
-          "definition": "Ta"
-        },
-        {
-          "word": "turistka",
-          "definition": "turistka"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "moja",
-          "definition": "moja"
-        },
-        {
-          "word": "dočera",
-          "definition": "daughter"
-        }
-      ],
-      "chips": [
-        "The",
-        "tourist",
-        "is",
-        "my",
-        "daughter",
-        "the",
-        "or",
-        "me",
-        "are"
-      ],
-      "solutions": [
-        [
-          "The",
-          "tourist",
-          "is",
-          "my",
-          "daughter"
-        ]
-      ],
-      "formattedSolution": "The tourist is my daughter.",
-      "id": "0047d788e877",
-      "priority": 2,
-      "group": "7399083c56a3"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Tvoje dočery sut studentki",
+      "formInTargetLanguage": "Tvoje dočery sut studentky",
       "meaningInSourceLanguage": "Your daughters are students.",
-      "id": "cff6699b6029",
+      "id": "dcd6af7ad198",
       "priority": 0,
-      "group": "6000cbf2e8d9"
+      "group": "4017097b8a52"
     },
     {
       "type": "chips",
@@ -3060,23 +905,23 @@
         "Tvoje",
         "dočery",
         "sut",
-        "studentki",
+        "studentky",
+        "tut",
         "bude",
-        "se",
-        "tut"
+        "se"
       ],
       "solutions": [
         [
           "Tvoje",
           "dočery",
           "sut",
-          "studentki"
+          "studentky"
         ]
       ],
-      "formattedSolution": "Tvoje dočery sut studentki",
-      "id": "7001174c46e6",
+      "formattedSolution": "Tvoje dočery sut studentky",
+      "id": "9e2980a18aa8",
       "priority": 2,
-      "group": "6000cbf2e8d9"
+      "group": "4017097b8a52"
     },
     {
       "type": "chips",
@@ -3095,8 +940,8 @@
           "definition": "are"
         },
         {
-          "word": "studentki",
-          "definition": "studentki"
+          "word": "studentky",
+          "definition": "studentky"
         }
       ],
       "chips": [
@@ -3117,331 +962,1082 @@
         ]
       ],
       "formattedSolution": "Your daughters are students.",
-      "id": "b0f19fd2d108",
+      "id": "8c7eccef0ffc",
       "priority": 2,
-      "group": "6000cbf2e8d9"
+      "group": "4017097b8a52"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "To jest pero od mojej dočery",
-      "meaningInSourceLanguage": "It is my daughter’s pen.",
-      "id": "5bbefc6f3c03",
+      "formInTargetLanguage": "Pozdrav, Ja jesm Katarina",
+      "meaningInSourceLanguage": "Hello I am Katarina",
+      "id": "0cb8c8f96196",
       "priority": 0,
-      "group": "e1d39b3bb3a0"
+      "group": "4e7aaa7ddbc8"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "It",
-          "definition": "ono\nto"
+          "word": "Hello",
+          "definition": "pozdrav"
         },
         {
-          "word": "is",
-          "definition": "jest"
+          "word": "I",
+          "definition": "Ja"
         },
         {
-          "word": "my",
-          "definition": "my"
+          "word": "am",
+          "definition": "jesm"
         },
         {
-          "word": "daughter’s",
-          "definition": "daughter’s"
-        },
-        {
-          "word": "pen.",
-          "definition": "pen."
+          "word": "Katarina",
+          "definition": "Katarina (female name)"
         }
       ],
       "chips": [
-        "To",
-        "jest",
-        "pero",
-        "od",
-        "mojej",
-        "dočery",
-        "je",
-        "jej",
-        "ne",
-        "se",
-        "to"
+        "Pozdrav",
+        "Ja",
+        "jesm",
+        "Katarina",
+        "tam",
+        "Ona",
+        "žena"
       ],
       "solutions": [
         [
-          "To",
-          "jest",
-          "pero",
-          "od",
-          "mojej",
-          "dočery"
+          "Pozdrav",
+          "Ja",
+          "jesm",
+          "Katarina"
         ]
       ],
-      "formattedSolution": "To jest pero od mojej dočery",
-      "id": "6b5810091c7b",
+      "formattedSolution": "Pozdrav, Ja jesm Katarina",
+      "id": "843659e44a5d",
       "priority": 2,
-      "group": "e1d39b3bb3a0"
+      "group": "4e7aaa7ddbc8"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "To",
-          "definition": "To"
+          "word": "Pozdrav,",
+          "definition": "hello"
+        },
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "Katarina",
+          "definition": "Katarina (female name)"
+        }
+      ],
+      "chips": [
+        "Hello",
+        "I",
+        "am",
+        "Katarina",
+        "a",
+        "He",
+        "It"
+      ],
+      "solutions": [
+        [
+          "Hello",
+          "I",
+          "am",
+          "Katarina"
+        ]
+      ],
+      "formattedSolution": "Hello I am Katarina",
+      "id": "7ea4e12ffd83",
+      "priority": 2,
+      "group": "4e7aaa7ddbc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm děvčina",
+      "meaningInSourceLanguage": "I am a girl.",
+      "id": "ca60a14bbe92",
+      "priority": 0,
+      "group": "cd7c5470f68d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "girl.",
+          "definition": "děvčina"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "děvčina",
+        "jesi",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "děvčina"
+        ]
+      ],
+      "formattedSolution": "Ja jesm děvčina",
+      "id": "271163ac2d2d",
+      "priority": 2,
+      "group": "cd7c5470f68d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "děvčina",
+          "definition": "a girl\ngirl\nthe girl"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "a",
+        "girl",
+        "",
+        "is",
+        "It"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "a",
+          "girl"
+        ]
+      ],
+      "formattedSolution": "I am a girl.",
+      "id": "69ff64a83b0b",
+      "priority": 2,
+      "group": "cd7c5470f68d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pozdrav, Ja jesm hlapec",
+      "meaningInSourceLanguage": "Hello, I am a boy.",
+      "id": "b98cd50a437f",
+      "priority": 0,
+      "group": "4d54e3cf6aa7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Hello,",
+          "definition": "pozdrav"
+        },
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "boy.",
+          "definition": "hlapec"
+        }
+      ],
+      "chips": [
+        "Pozdrav",
+        "Ja",
+        "jesm",
+        "hlapec",
+        "je",
+        "tam",
+        "Da"
+      ],
+      "solutions": [
+        [
+          "Pozdrav",
+          "Ja",
+          "jesm",
+          "hlapec"
+        ]
+      ],
+      "formattedSolution": "Pozdrav, Ja jesm hlapec",
+      "id": "f3dd7c84e287",
+      "priority": 2,
+      "group": "4d54e3cf6aa7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pozdrav,",
+          "definition": "hello"
+        },
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "hlapec",
+          "definition": "boy"
+        }
+      ],
+      "chips": [
+        "Hello",
+        "I",
+        "am",
+        "a",
+        "boy",
+        "He",
+        "be",
+        "",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Hello",
+          "I",
+          "am",
+          "a",
+          "boy"
+        ]
+      ],
+      "formattedSolution": "Hello, I am a boy.",
+      "id": "453ca651de64",
+      "priority": 2,
+      "group": "4d54e3cf6aa7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty jesi děvčina",
+      "meaningInSourceLanguage": "You are a girl.",
+      "id": "7cf0e3f3b450",
+      "priority": 0,
+      "group": "385be15b9442"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "girl.",
+          "definition": "děvčina"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "jesi",
+        "děvčina",
+        "Jesi",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "jesi",
+          "děvčina"
+        ]
+      ],
+      "formattedSolution": "Ty jesi děvčina",
+      "id": "774bfc60233e",
+      "priority": 2,
+      "group": "385be15b9442"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "děvčina",
+          "definition": "a girl\ngirl\nthe girl"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "a",
+        "girl",
+        "or",
+        "am",
+        "car"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "a",
+          "girl"
+        ]
+      ],
+      "formattedSolution": "You are a girl.",
+      "id": "ebf4c91fcad3",
+      "priority": 2,
+      "group": "385be15b9442"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty Jesi žena",
+      "meaningInSourceLanguage": "You are a woman.",
+      "id": "87035d369e74",
+      "priority": 0,
+      "group": "d20d24240856"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "woman.",
+          "definition": "woman\nžena"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "Jesi",
+        "žena",
+        "ženy",
+        "Ja"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "Jesi",
+          "žena"
+        ]
+      ],
+      "formattedSolution": "Ty Jesi žena",
+      "id": "8770215897f4",
+      "priority": 2,
+      "group": "d20d24240856"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "Jesi",
+          "definition": "are"
+        },
+        {
+          "word": "žena",
+          "definition": "woman"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "a",
+        "woman",
+        "am",
+        "man",
+        "or"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "a",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "You are a woman.",
+      "id": "8407bdc95c33",
+      "priority": 2,
+      "group": "d20d24240856"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty jesi muž",
+      "meaningInSourceLanguage": "You are a man.",
+      "id": "cc4b0a5a550a",
+      "priority": 0,
+      "group": "1b16db14c25c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "man.",
+          "definition": "muž"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "jesi",
+        "muž",
+        "je",
+        "My"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "jesi",
+          "muž"
+        ]
+      ],
+      "formattedSolution": "Ty jesi muž",
+      "id": "f173ceac17c3",
+      "priority": 2,
+      "group": "1b16db14c25c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "muž",
+          "definition": "man"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "a",
+        "man",
+        "am",
+        "and",
+        "car"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "a",
+          "man"
+        ]
+      ],
+      "formattedSolution": "You are a man.",
+      "id": "6d24788a5c62",
+      "priority": 2,
+      "group": "1b16db14c25c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On jest Vojtěh",
+      "meaningInSourceLanguage": "He is Vojtěh.",
+      "id": "d96e911286d6",
+      "priority": 0,
+      "group": "36c914a39c26"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "on"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "Vojtěh.",
+          "definition": "Vojtěh (male name)"
+        }
+      ],
+      "chips": [
+        "On",
+        "jest",
+        "Vojtěh",
+        "je",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "On",
+          "jest",
+          "Vojtěh"
+        ],
+        [
+          "On",
+          "je",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "On jest Vojtěh",
+      "id": "f754cf10c9f3",
+      "priority": 2,
+      "group": "36c914a39c26"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he"
         },
         {
           "word": "jest",
           "definition": "is"
         },
         {
-          "word": "pero",
-          "definition": "pero"
-        },
-        {
-          "word": "od",
-          "definition": "od"
-        },
-        {
-          "word": "mojej",
-          "definition": "mojej"
-        },
-        {
-          "word": "dočery",
-          "definition": "dočery"
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)"
         }
       ],
       "chips": [
-        "It",
+        "He",
         "is",
-        "my",
-        "daughter’s",
-        "pen",
-        "it",
-        "Is",
-        "me",
-        "We"
+        "Vojtěh",
+        "We",
+        "It"
       ],
       "solutions": [
         [
-          "It",
+          "He",
           "is",
-          "my",
-          "daughter’s",
-          "pen"
-        ],
-        [
-          "It",
-          "is",
-          "the",
-          "pen",
-          "of",
-          "my",
-          "daughter"
+          "Vojtěh"
         ]
       ],
-      "formattedSolution": "It is my daughter’s pen.",
-      "id": "57061a3d2b41",
+      "formattedSolution": "He is Vojtěh.",
+      "id": "a593713fe66b",
       "priority": 2,
-      "group": "e1d39b3bb3a0"
+      "group": "36c914a39c26"
     },
     {
-      "type": "cards",
-      "pictures": [
-        "family1.jpg",
-        "family2.jpg",
-        "family3.jpg"
-      ],
-      "formInTargetLanguage": "semja",
-      "meaningInSourceLanguage": "family",
-      "id": "c8aaf313ccc1",
+      "type": "options",
+      "formInTargetLanguage": "Jaroslav jest hlapec",
+      "meaningInSourceLanguage": "Jaroslav is a boy.",
+      "id": "f4a5a07e3214",
       "priority": 0,
-      "group": "72a9d75bf1ef"
+      "group": "c8949537c141"
     },
     {
-      "type": "shortInput",
-      "pictures": [
-        "family1.jpg",
-        "family2.jpg",
-        "family3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "semja"
-      ],
+      "type": "chips",
+      "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "family",
-          "definition": "semja"
+          "word": "Jaroslav",
+          "definition": "Jaroslav (male name)"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "boy.",
+          "definition": "hlapec"
         }
       ],
-      "id": "e796a2c0419b",
-      "priority": 1,
-      "group": "72a9d75bf1ef"
+      "chips": [
+        "Jaroslav",
+        "jest",
+        "hlapec",
+        "jeste",
+        "Jest"
+      ],
+      "solutions": [
+        [
+          "Jaroslav",
+          "jest",
+          "hlapec"
+        ],
+        [
+          "Jaroslav",
+          "je",
+          "hlapec"
+        ]
+      ],
+      "formattedSolution": "Jaroslav jest hlapec",
+      "id": "97cd21097790",
+      "priority": 2,
+      "group": "c8949537c141"
     },
     {
-      "type": "cards",
-      "pictures": [
-        "parents1.jpg",
-        "parents2.jpg",
-        "parents3.jpg"
-      ],
-      "formInTargetLanguage": "roditelji",
-      "meaningInSourceLanguage": "parents",
-      "id": "4afd4278c11c",
-      "priority": 0,
-      "group": "7a38a9b25d13"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "parents1.jpg",
-        "parents2.jpg",
-        "parents3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "roditelji"
-      ],
+      "type": "chips",
+      "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "parents",
-          "definition": "roditelji"
+          "word": "Jaroslav",
+          "definition": "Jaroslav (male name)"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "hlapec",
+          "definition": "boy"
         }
       ],
-      "id": "426297b7230d",
-      "priority": 1,
-      "group": "7a38a9b25d13"
+      "chips": [
+        "Jaroslav",
+        "is",
+        "a",
+        "boy",
+        "am",
+        "was",
+        "of"
+      ],
+      "solutions": [
+        [
+          "Jaroslav",
+          "is",
+          "a",
+          "boy"
+        ]
+      ],
+      "formattedSolution": "Jaroslav is a boy.",
+      "id": "de3a023081b4",
+      "priority": 2,
+      "group": "c8949537c141"
     },
     {
-      "type": "cards",
-      "pictures": [
-        "grandparents1.jpg",
-        "grandparents2.jpg",
-        "grandparents3.jpg"
-      ],
-      "formInTargetLanguage": "praroditelji",
-      "meaningInSourceLanguage": "grandparents",
-      "id": "ef1bb9eca368",
+      "type": "options",
+      "formInTargetLanguage": "Tatjana jest žena",
+      "meaningInSourceLanguage": "Tatjana is a woman.",
+      "id": "de9b8a79963b",
       "priority": 0,
-      "group": "92cd17d00af8"
+      "group": "d7d9001d1d63"
     },
     {
-      "type": "shortInput",
-      "pictures": [
-        "grandparents1.jpg",
-        "grandparents2.jpg",
-        "grandparents3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "praroditelji"
-      ],
+      "type": "chips",
+      "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "grandparents",
-          "definition": "praroditelji"
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "woman.",
+          "definition": "woman\nžena"
         }
       ],
-      "id": "f2fdba820c8c",
-      "priority": 1,
-      "group": "92cd17d00af8"
+      "chips": [
+        "Tatjana",
+        "jest",
+        "žena",
+        "jesm",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "jest",
+          "žena"
+        ],
+        [
+          "Tatjana",
+          "je",
+          "žena"
+        ]
+      ],
+      "formattedSolution": "Tatjana jest žena",
+      "id": "fd262f5d9a6e",
+      "priority": 2,
+      "group": "d7d9001d1d63"
     },
     {
-      "type": "cards",
-      "pictures": [
-        "grandfather1.jpg",
-        "grandfather2.jpg",
-        "grandfather3.jpg"
-      ],
-      "formInTargetLanguage": "dědok",
-      "meaningInSourceLanguage": "grandfather",
-      "id": "749ba823a09e",
-      "priority": 0,
-      "group": "2db89f16a80c"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "grandfather1.jpg",
-        "grandfather2.jpg",
-        "grandfather3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "dědok"
-      ],
+      "type": "chips",
+      "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "grandfather",
-          "definition": "dědok"
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "žena",
+          "definition": "woman"
         }
       ],
-      "id": "186698b4bd45",
-      "priority": 1,
-      "group": "2db89f16a80c"
+      "chips": [
+        "Tatjana",
+        "is",
+        "a",
+        "woman",
+        "man",
+        "am",
+        "was"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "is",
+          "a",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "Tatjana is a woman.",
+      "id": "e0a52f94f66b",
+      "priority": 2,
+      "group": "d7d9001d1d63"
     },
     {
-      "type": "cards",
-      "pictures": [
-        "grandmother1.jpg",
-        "grandmother2.jpg",
-        "grandmother3.jpg"
-      ],
-      "formInTargetLanguage": "babica",
-      "meaningInSourceLanguage": "grandmother",
-      "id": "4319e74141b2",
+      "type": "options",
+      "formInTargetLanguage": "Tatjana i Vojtěh",
+      "meaningInSourceLanguage": "Tatjana and Vojtěh",
+      "id": "af9b97cebe9e",
       "priority": 0,
-      "group": "2814179a6e04"
+      "group": "a5301736375f"
     },
     {
-      "type": "shortInput",
-      "pictures": [
-        "grandmother1.jpg",
-        "grandmother2.jpg",
-        "grandmother3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "babica"
-      ],
+      "type": "chips",
+      "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "grandmother",
-          "definition": "babica"
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)"
         }
       ],
-      "id": "6e2332667b98",
-      "priority": 1,
-      "group": "2814179a6e04"
+      "chips": [
+        "Tatjana",
+        "i",
+        "Vojtěh",
+        "ti",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "i",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Tatjana i Vojtěh",
+      "id": "1aa01195e52e",
+      "priority": 2,
+      "group": "a5301736375f"
     },
     {
-      "type": "cards",
-      "pictures": [
-        "father1.jpg",
-        "father2.jpg",
-        "father3.jpg"
-      ],
-      "formInTargetLanguage": "otec",
-      "meaningInSourceLanguage": "father",
-      "id": "66ef72a1bb4d",
-      "priority": 0,
-      "group": "24148e3e42a9"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "father1.jpg",
-        "father2.jpg",
-        "father3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "otec"
-      ],
+      "type": "chips",
+      "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "father",
-          "definition": "otec"
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "Vojtěh",
+          "definition": "Vojtěh (male name)"
         }
       ],
-      "id": "b2a2784e0d82",
-      "priority": 1,
-      "group": "24148e3e42a9"
+      "chips": [
+        "Tatjana",
+        "and",
+        "Vojtěh",
+        "man",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "and",
+          "Vojtěh"
+        ]
+      ],
+      "formattedSolution": "Tatjana and Vojtěh",
+      "id": "12c946ea4d5f",
+      "priority": 2,
+      "group": "a5301736375f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo studenti",
+      "meaningInSourceLanguage": "We are students",
+      "id": "3e5d12bf91b0",
+      "priority": 0,
+      "group": "e80f4036769e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "students",
+          "definition": "Studenti"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "studenti",
+        "jesm",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "studenti"
+        ]
+      ],
+      "formattedSolution": "My jesmo studenti",
+      "id": "3c53fffe2c87",
+      "priority": 2,
+      "group": "e80f4036769e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "jesmo",
+          "definition": "jesmo"
+        },
+        {
+          "word": "studenti",
+          "definition": "Students"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "students",
+        "He",
+        "be"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "students"
+        ]
+      ],
+      "formattedSolution": "We are students",
+      "id": "e1198553ad4c",
+      "priority": 2,
+      "group": "e80f4036769e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tatjana ne jest hlapec",
+      "meaningInSourceLanguage": "Tatjana is not a boy",
+      "id": "de9790a33a46",
+      "priority": 0,
+      "group": "3338864db798"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "boy",
+          "definition": "hlapec"
+        }
+      ],
+      "chips": [
+        "Tatjana",
+        "ne",
+        "jest",
+        "hlapec",
+        "je",
+        "te",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "ne",
+          "jest",
+          "hlapec"
+        ]
+      ],
+      "formattedSolution": "Tatjana ne jest hlapec",
+      "id": "18b06853eefd",
+      "priority": 2,
+      "group": "3338864db798"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tatjana",
+          "definition": "Tatjana (female name)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "hlapec",
+          "definition": "boy"
+        }
+      ],
+      "chips": [
+        "Tatjana",
+        "is",
+        "not",
+        "a",
+        "boy",
+        "am",
+        "It",
+        "eat",
+        "lot"
+      ],
+      "solutions": [
+        [
+          "Tatjana",
+          "is",
+          "not",
+          "a",
+          "boy"
+        ]
+      ],
+      "formattedSolution": "Tatjana is not a boy",
+      "id": "e7c1ef801141",
+      "priority": 2,
+      "group": "3338864db798"
     },
     {
       "type": "cards",
@@ -3450,11 +2046,11 @@
         "mother2.jpg",
         "mother3.jpg"
       ],
-      "formInTargetLanguage": "mati",
-      "meaningInSourceLanguage": "mother",
-      "id": "283428e0faef",
+      "formInTargetLanguage": "Mati",
+      "meaningInSourceLanguage": "Mother",
+      "id": "cd72114279d9",
       "priority": 0,
-      "group": "e163296d2015"
+      "group": "298a512994b5"
     },
     {
       "type": "shortInput",
@@ -3464,17 +2060,166 @@
         "mother3.jpg"
       ],
       "formInTargetLanguage": [
-        "mati"
+        "Mati"
       ],
       "phrase": [
         {
-          "word": "mother",
-          "definition": "mati"
+          "word": "Mother",
+          "definition": "Mati"
         }
       ],
-      "id": "c11e63c7fc43",
+      "id": "fba220df5bae",
       "priority": 1,
-      "group": "e163296d2015"
+      "group": "298a512994b5"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "father1.jpg",
+        "father2.jpg",
+        "father3.jpg"
+      ],
+      "formInTargetLanguage": "Otec",
+      "meaningInSourceLanguage": "Father",
+      "id": "b2c7ebf05434",
+      "priority": 0,
+      "group": "5e2f47cb8a84"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "father1.jpg",
+        "father2.jpg",
+        "father3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Otec"
+      ],
+      "phrase": [
+        {
+          "word": "Father",
+          "definition": "Otec"
+        }
+      ],
+      "id": "2c803b1847e0",
+      "priority": 1,
+      "group": "5e2f47cb8a84"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "grandmother1.jpg",
+        "grandmother2.jpg",
+        "grandmother3.jpg"
+      ],
+      "formInTargetLanguage": "Babica",
+      "meaningInSourceLanguage": "Grandmother",
+      "id": "6017a4ac1730",
+      "priority": 0,
+      "group": "6aa659a85038"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "grandmother1.jpg",
+        "grandmother2.jpg",
+        "grandmother3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Babica"
+      ],
+      "phrase": [
+        {
+          "word": "Grandmother",
+          "definition": "Babica"
+        }
+      ],
+      "id": "695292b7d440",
+      "priority": 1,
+      "group": "6aa659a85038"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Brat",
+      "meaningInSourceLanguage": "Brother",
+      "id": "175822da0ee3",
+      "priority": 0,
+      "group": "876237d26779"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Brat"
+      ],
+      "phrase": [
+        {
+          "word": "Brother",
+          "definition": "Brat"
+        }
+      ],
+      "id": "c37be7fc1df1",
+      "priority": 1,
+      "group": "876237d26779"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Sěstra",
+      "meaningInSourceLanguage": "Sister",
+      "id": "3244f3176ba1",
+      "priority": 0,
+      "group": "a80b4b22d643"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Sěstra"
+      ],
+      "phrase": [
+        {
+          "word": "Sister",
+          "definition": "Sěstra"
+        }
+      ],
+      "id": "82f7c8350a54",
+      "priority": 1,
+      "group": "a80b4b22d643"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "grandfather1.jpg",
+        "grandfather2.jpg",
+        "grandfather3.jpg"
+      ],
+      "formInTargetLanguage": "Dědok",
+      "meaningInSourceLanguage": "Grandfather",
+      "id": "864206b6f01b",
+      "priority": 0,
+      "group": "1c5cd1472fe9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "grandfather1.jpg",
+        "grandfather2.jpg",
+        "grandfather3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Dědok"
+      ],
+      "phrase": [
+        {
+          "word": "Grandfather",
+          "definition": "Dědok"
+        }
+      ],
+      "id": "669fc4572bd2",
+      "priority": 1,
+      "group": "1c5cd1472fe9"
     },
     {
       "type": "cards",
@@ -3545,68 +2290,68 @@
     {
       "type": "cards",
       "pictures": [
-        "daughter1.jpg",
-        "daughter2.jpg",
-        "daughter3.jpg"
+        "parents1.jpg",
+        "parents2.jpg",
+        "parents3.jpg"
       ],
-      "formInTargetLanguage": "sestra",
-      "meaningInSourceLanguage": "sister",
-      "id": "ba0f4a70f3ff",
+      "formInTargetLanguage": "roditelji",
+      "meaningInSourceLanguage": "parents",
+      "id": "4afd4278c11c",
       "priority": 0,
-      "group": "898c39dc8ae4"
+      "group": "7a38a9b25d13"
     },
     {
       "type": "shortInput",
       "pictures": [
-        "daughter1.jpg",
-        "daughter2.jpg",
-        "daughter3.jpg"
+        "parents1.jpg",
+        "parents2.jpg",
+        "parents3.jpg"
       ],
       "formInTargetLanguage": [
-        "sestra"
+        "roditelji"
       ],
       "phrase": [
         {
-          "word": "sister",
-          "definition": "brat\nsestra"
+          "word": "parents",
+          "definition": "roditelji"
         }
       ],
-      "id": "34b0d441bc40",
+      "id": "426297b7230d",
       "priority": 1,
-      "group": "898c39dc8ae4"
+      "group": "7a38a9b25d13"
     },
     {
       "type": "cards",
       "pictures": [
-        "brotherofbrother1.jpg",
-        "brotherofbrother2.jpg",
-        "brotherofbrother3.jpg"
+        "parents1.jpg",
+        "parents2.jpg",
+        "parents3.jpg"
       ],
-      "formInTargetLanguage": "brat",
-      "meaningInSourceLanguage": "sister",
-      "id": "917a9f346a3f",
+      "formInTargetLanguage": "praroditelji",
+      "meaningInSourceLanguage": "grandparents",
+      "id": "dae1158ab999",
       "priority": 0,
-      "group": "df68beedca5c"
+      "group": "e2a496575e7e"
     },
     {
       "type": "shortInput",
       "pictures": [
-        "brotherofbrother1.jpg",
-        "brotherofbrother2.jpg",
-        "brotherofbrother3.jpg"
+        "parents1.jpg",
+        "parents2.jpg",
+        "parents3.jpg"
       ],
       "formInTargetLanguage": [
-        "brat"
+        "praroditelji"
       ],
       "phrase": [
         {
-          "word": "sister",
-          "definition": "brat\nsestra"
+          "word": "grandparents",
+          "definition": "praroditelji"
         }
       ],
-      "id": "c8d730d47345",
+      "id": "7c46986d3a69",
       "priority": 1,
-      "group": "df68beedca5c"
+      "group": "e2a496575e7e"
     }
   ]
 }

@@ -281,6 +281,56 @@
           "levels": 3
         }
       ]
+    },
+    {
+      "title": "3. Family",
+      "skills": [
+        {
+          "imageSet": [
+            "man1",
+            "woman1",
+            "hello1"
+          ],
+          "summary": [
+            "Mati",
+            "Otec",
+            "Babica",
+            "Brat",
+            "Sěstra",
+            "Dědok",
+            "syn",
+            "dočera",
+            "roditelji",
+            "praroditelji",
+            "Mati i otec",
+            "Dědok i babica",
+            "Syn i dočera",
+            "Naši praroditelji sut doktori",
+            "Oni sut naši roditelji",
+            "On jest naš otec",
+            "Otec od našego otca jest naš dědok",
+            "Ta devčina je moja dočera",
+            "Moja dočera je medsestra",
+            "Tvoje dočery sut studentky",
+            "Pozdrav, Ja jesm Katarina",
+            "Ja jesm děvčina",
+            "Pozdrav, Ja jesm hlapec",
+            "Ty jesi děvčina",
+            "Ty Jesi žena",
+            "Ty jesi muž",
+            "On jest Vojtěh",
+            "Jaroslav jest hlapec",
+            "Tatjana jest žena",
+            "Tatjana i Vojtěh",
+            "My jesmo studenti",
+            "Tatjana ne jest hlapec"
+          ],
+          "practiceHref": "family-1",
+          "id": "2fdd76f3de18",
+          "title": "Family-1",
+          "levels": 7
+        }
+      ]
     }
   ]
 }
