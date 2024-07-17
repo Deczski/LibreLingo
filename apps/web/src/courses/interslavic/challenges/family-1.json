@@ -68,7 +68,7 @@
         "and",
         "father",
         "the",
-        "late"
+        "mother"
       ],
       "solutions": [
         [
@@ -227,8 +227,8 @@
         "son",
         "and",
         "daughter",
-        "are",
-        "man"
+        "aunt",
+        "are"
       ],
       "solutions": [
         [
@@ -277,8 +277,8 @@
         "sut",
         "doktori",
         "Mati",
-        "spati",
-        "znati"
+        "deti",
+        "děti"
       ],
       "solutions": [
         [
@@ -509,7 +509,7 @@
         "father",
         "he",
         "or",
-        "We"
+        "Her"
       ],
       "solutions": [
         [
@@ -574,7 +574,7 @@
         "je",
         "to",
         "otec",
-        "Ja"
+        "naše"
       ],
       "solutions": [
         [
@@ -634,9 +634,9 @@
         "grandfather",
         "the",
         "car",
-        "or",
-        "are",
-        "She"
+        "Her",
+        "tour",
+        "or"
       ],
       "solutions": [
         [
@@ -810,8 +810,8 @@
         "je",
         "medsestra",
         "moja",
-        "včera",
-        "jest"
+        "moje",
+        "včera"
       ],
       "solutions": [
         [
@@ -949,9 +949,9 @@
         "daughters",
         "are",
         "students",
+        "aunt",
         "You",
-        "here",
-        "there"
+        "here"
       ],
       "solutions": [
         [
@@ -1843,8 +1843,8 @@
         "Tatjana",
         "and",
         "Vojtěh",
-        "man",
-        "not"
+        "aunt",
+        "man"
       ],
       "solutions": [
         [

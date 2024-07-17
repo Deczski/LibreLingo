@@ -1,0 +1,2513 @@
+{
+  "id": "fb37ae25378b",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni sut naše vnuki",
+      "meaningInSourceLanguage": "They are our grandchildren.",
+      "id": "032edbb93a80",
+      "priority": 0,
+      "group": "e9816a8bcfd5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "one(feminine)\noni(masculine)"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "our",
+          "definition": "our"
+        },
+        {
+          "word": "grandchildren.",
+          "definition": "grandchildren."
+        }
+      ],
+      "chips": [
+        "Oni",
+        "sut",
+        "naše",
+        "vnuki",
+        "Ona",
+        "One",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "sut",
+          "naše",
+          "vnuki"
+        ]
+      ],
+      "formattedSolution": "Oni sut naše vnuki",
+      "id": "777f9006fc8d",
+      "priority": 2,
+      "group": "e9816a8bcfd5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "they\nthey(masculine)"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "naše",
+          "definition": "naše"
+        },
+        {
+          "word": "vnuki",
+          "definition": "vnuki"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "our",
+        "grandchildren",
+        "She",
+        "here",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "our",
+          "grandchildren"
+        ]
+      ],
+      "formattedSolution": "They are our grandchildren.",
+      "id": "0900b1c53554",
+      "priority": 2,
+      "group": "e9816a8bcfd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Syn od mojego syna jest moj vnuk",
+      "meaningInSourceLanguage": "The son of my son is my grandson.",
+      "id": "7df35c70cf63",
+      "priority": 0,
+      "group": "86b4df896c6e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "son",
+          "definition": "syn"
+        },
+        {
+          "word": "of",
+          "definition": "of"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "son",
+          "definition": "syn"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "grandson.",
+          "definition": "vnuk"
+        }
+      ],
+      "chips": [
+        "Syn",
+        "od",
+        "mojego",
+        "syna",
+        "jest",
+        "moj",
+        "vnuk",
+        "je",
+        "ne",
+        "moja",
+        "Moj",
+        "moje",
+        "syn"
+      ],
+      "solutions": [
+        [
+          "Syn",
+          "od",
+          "mojego",
+          "syna",
+          "jest",
+          "moj",
+          "vnuk"
+        ]
+      ],
+      "formattedSolution": "Syn od mojego syna jest moj vnuk",
+      "id": "f19ec5408c88",
+      "priority": 2,
+      "group": "86b4df896c6e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Syn",
+          "definition": "son"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "mojego",
+          "definition": "mojego"
+        },
+        {
+          "word": "syna",
+          "definition": "syna"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "moj",
+          "definition": "moj"
+        },
+        {
+          "word": "vnuk",
+          "definition": "grandson"
+        }
+      ],
+      "chips": [
+        "The",
+        "son",
+        "of",
+        "my",
+        "son",
+        "is",
+        "my",
+        "grandson",
+        "or",
+        "me",
+        "man",
+        "boy",
+        "if",
+        "Is",
+        "My"
+      ],
+      "solutions": [
+        [
+          "The",
+          "son",
+          "of",
+          "my",
+          "son",
+          "is",
+          "my",
+          "grandson"
+        ],
+        [
+          "My",
+          "son’s",
+          "son",
+          "is",
+          "my",
+          "grandson"
+        ]
+      ],
+      "formattedSolution": "The son of my son is my grandson.",
+      "id": "45460152fdc3",
+      "priority": 2,
+      "group": "86b4df896c6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dočera od mojej dočery je moja vnučka",
+      "meaningInSourceLanguage": "The daughter of my daughter is my granddaughter.",
+      "id": "4cb0294f7ac4",
+      "priority": 0,
+      "group": "ecc90605ac01"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "daughter",
+          "definition": "dočera"
+        },
+        {
+          "word": "of",
+          "definition": "of"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "daughter",
+          "definition": "dočera"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "granddaughter.",
+          "definition": "granddaughter."
+        }
+      ],
+      "chips": [
+        "Dočera",
+        "od",
+        "mojej",
+        "dočery",
+        "je",
+        "moja",
+        "vnučka",
+        "moje",
+        "noč",
+        "Moja",
+        "moj",
+        "dočera",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Dočera",
+          "od",
+          "mojej",
+          "dočery",
+          "je",
+          "moja",
+          "vnučka"
+        ]
+      ],
+      "formattedSolution": "Dočera od mojej dočery je moja vnučka",
+      "id": "a672019f65c2",
+      "priority": 2,
+      "group": "ecc90605ac01"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dočera",
+          "definition": "daughter"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "mojej",
+          "definition": "mojej"
+        },
+        {
+          "word": "dočery",
+          "definition": "dočery"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "moja",
+          "definition": "moja"
+        },
+        {
+          "word": "vnučka",
+          "definition": "vnučka"
+        }
+      ],
+      "chips": [
+        "The",
+        "daughter",
+        "of",
+        "my",
+        "daughter",
+        "is",
+        "my",
+        "granddaughter",
+        "me",
+        "We",
+        "He",
+        "She",
+        "be",
+        "the",
+        "or"
+      ],
+      "solutions": [
+        [
+          "The",
+          "daughter",
+          "of",
+          "my",
+          "daughter",
+          "is",
+          "my",
+          "granddaughter"
+        ],
+        [
+          "My",
+          "daughter’s",
+          "daughter",
+          "is",
+          "my",
+          "granddaughter"
+        ]
+      ],
+      "formattedSolution": "The daughter of my daughter is my granddaughter.",
+      "id": "1d7c7135b579",
+      "priority": 2,
+      "group": "ecc90605ac01"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nire aitaren emaztea nire ama da.",
+      "meaningInSourceLanguage": "The wife of my father is my mother.",
+      "id": "a57dbe2012bd",
+      "priority": 0,
+      "group": "316fd1fdbe19"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "wife",
+          "definition": "wife"
+        },
+        {
+          "word": "of",
+          "definition": "of"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "father",
+          "definition": "Otec"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "mother.",
+          "definition": "Mati"
+        }
+      ],
+      "chips": [
+        "Nire",
+        "aitaren",
+        "emaztea",
+        "nire",
+        "ama",
+        "da",
+        "aita",
+        "avta",
+        "te",
+        "naše",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Nire",
+          "aitaren",
+          "emaztea",
+          "nire",
+          "ama",
+          "da"
+        ]
+      ],
+      "formattedSolution": "Nire aitaren emaztea nire ama da.",
+      "id": "78b9d5e8c6a4",
+      "priority": 2,
+      "group": "316fd1fdbe19"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nire",
+          "definition": "Nire"
+        },
+        {
+          "word": "aitaren",
+          "definition": "aitaren"
+        },
+        {
+          "word": "emaztea",
+          "definition": "emaztea"
+        },
+        {
+          "word": "nire",
+          "definition": "nire"
+        },
+        {
+          "word": "ama",
+          "definition": "ama"
+        },
+        {
+          "word": "da.",
+          "definition": "yes"
+        }
+      ],
+      "chips": [
+        "The",
+        "wife",
+        "of",
+        "my",
+        "father",
+        "is",
+        "my",
+        "mother",
+        "me",
+        "the",
+        "We",
+        "He",
+        "be",
+        "if",
+        "or"
+      ],
+      "solutions": [
+        [
+          "The",
+          "wife",
+          "of",
+          "my",
+          "father",
+          "is",
+          "my",
+          "mother"
+        ],
+        [
+          "My",
+          "father’s",
+          "wife",
+          "is",
+          "my",
+          "mother"
+        ]
+      ],
+      "formattedSolution": "The wife of my father is my mother.",
+      "id": "4243dcf692c6",
+      "priority": 2,
+      "group": "316fd1fdbe19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gizon hau nire senarra da.",
+      "meaningInSourceLanguage": "This man is my husband.",
+      "id": "3ed05646ec9c",
+      "priority": 0,
+      "group": "a49750bb443f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "to"
+        },
+        {
+          "word": "man",
+          "definition": "muž"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "husband.",
+          "definition": "husband."
+        }
+      ],
+      "chips": [
+        "Gizon",
+        "hau",
+        "nire",
+        "senarra",
+        "da",
+        "naš",
+        "Ja",
+        "ne",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Gizon",
+          "hau",
+          "nire",
+          "senarra",
+          "da"
+        ]
+      ],
+      "formattedSolution": "Gizon hau nire senarra da.",
+      "id": "8dc36844d8bc",
+      "priority": 2,
+      "group": "a49750bb443f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Gizon",
+          "definition": "Gizon"
+        },
+        {
+          "word": "hau",
+          "definition": "hau"
+        },
+        {
+          "word": "nire",
+          "definition": "nire"
+        },
+        {
+          "word": "senarra",
+          "definition": "senarra"
+        },
+        {
+          "word": "da.",
+          "definition": "yes"
+        }
+      ],
+      "chips": [
+        "This",
+        "man",
+        "is",
+        "my",
+        "husband",
+        "had",
+        "Is",
+        "am",
+        "a"
+      ],
+      "solutions": [
+        [
+          "This",
+          "man",
+          "is",
+          "my",
+          "husband"
+        ]
+      ],
+      "formattedSolution": "This man is my husband.",
+      "id": "e69077274c30",
+      "priority": 2,
+      "group": "a49750bb443f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bere senarra tour gida da.",
+      "meaningInSourceLanguage": "Her husband is a tour guide.",
+      "id": "f8f15e115769",
+      "priority": 0,
+      "group": "caebfc74dd53"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Her",
+          "definition": "Her"
+        },
+        {
+          "word": "husband",
+          "definition": "husband"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "tour",
+          "definition": "tour"
+        },
+        {
+          "word": "guide.",
+          "definition": "guide."
+        }
+      ],
+      "chips": [
+        "Bere",
+        "senarra",
+        "tour",
+        "gida",
+        "da",
+        "žena",
+        "Ja",
+        "Ona",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Bere",
+          "senarra",
+          "tour",
+          "gida",
+          "da"
+        ]
+      ],
+      "formattedSolution": "Bere senarra tour gida da.",
+      "id": "1d96ab995a7d",
+      "priority": 2,
+      "group": "caebfc74dd53"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Bere",
+          "definition": "Bere"
+        },
+        {
+          "word": "senarra",
+          "definition": "senarra"
+        },
+        {
+          "word": "tour",
+          "definition": "tour"
+        },
+        {
+          "word": "gida",
+          "definition": "gida"
+        },
+        {
+          "word": "da.",
+          "definition": "yes"
+        }
+      ],
+      "chips": [
+        "Her",
+        "husband",
+        "is",
+        "a",
+        "tour",
+        "guide",
+        "He",
+        "and",
+        "be",
+        "had",
+        "or"
+      ],
+      "solutions": [
+        [
+          "Her",
+          "husband",
+          "is",
+          "a",
+          "tour",
+          "guide"
+        ]
+      ],
+      "formattedSolution": "Her husband is a tour guide.",
+      "id": "8721f792f35d",
+      "priority": 2,
+      "group": "caebfc74dd53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nire amaren senarra nire aita da.",
+      "meaningInSourceLanguage": "The husband of my mother is my father.",
+      "id": "3086c57e44b0",
+      "priority": 0,
+      "group": "d9a11cfba348"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "husband",
+          "definition": "husband"
+        },
+        {
+          "word": "of",
+          "definition": "of"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "mother",
+          "definition": "Mati"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "father.",
+          "definition": "Otec"
+        }
+      ],
+      "chips": [
+        "Nire",
+        "amaren",
+        "senarra",
+        "nire",
+        "aita",
+        "da",
+        "ama",
+        "naše",
+        "Bere",
+        "ne",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Nire",
+          "amaren",
+          "senarra",
+          "nire",
+          "aita",
+          "da"
+        ]
+      ],
+      "formattedSolution": "Nire amaren senarra nire aita da.",
+      "id": "a7497ef249de",
+      "priority": 2,
+      "group": "d9a11cfba348"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nire",
+          "definition": "Nire"
+        },
+        {
+          "word": "amaren",
+          "definition": "amaren"
+        },
+        {
+          "word": "senarra",
+          "definition": "senarra"
+        },
+        {
+          "word": "nire",
+          "definition": "nire"
+        },
+        {
+          "word": "aita",
+          "definition": "aita"
+        },
+        {
+          "word": "da.",
+          "definition": "yes"
+        }
+      ],
+      "chips": [
+        "The",
+        "husband",
+        "of",
+        "my",
+        "mother",
+        "is",
+        "my",
+        "father",
+        "me",
+        "be",
+        "the",
+        "or",
+        "We",
+        "He",
+        "am"
+      ],
+      "solutions": [
+        [
+          "The",
+          "husband",
+          "of",
+          "my",
+          "mother",
+          "is",
+          "my",
+          "father"
+        ],
+        [
+          "My",
+          "mother’s",
+          "husband",
+          "is",
+          "my",
+          "father"
+        ]
+      ],
+      "formattedSolution": "The husband of my mother is my father.",
+      "id": "2bf875e6cc79",
+      "priority": 2,
+      "group": "d9a11cfba348"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm tvoj ujec",
+      "meaningInSourceLanguage": "I am your uncle.",
+      "id": "18df9a842d81",
+      "priority": 0,
+      "group": "1aaf356a1341"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "your",
+          "definition": "your"
+        },
+        {
+          "word": "uncle.",
+          "definition": "ujec"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "tvoj",
+        "ujec",
+        "je",
+        "te",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "tvoj",
+          "ujec"
+        ]
+      ],
+      "formattedSolution": "Ja jesm tvoj ujec",
+      "id": "4c8e67e613bf",
+      "priority": 2,
+      "group": "1aaf356a1341"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "tvoj",
+          "definition": "tvoj"
+        },
+        {
+          "word": "ujec",
+          "definition": "uncle"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "your",
+        "uncle",
+        "a",
+        "or",
+        "We"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "your",
+          "uncle"
+        ],
+        [
+          "I’m",
+          "your",
+          "uncle"
+        ]
+      ],
+      "formattedSolution": "I am your uncle.",
+      "id": "c85941def1e5",
+      "priority": 2,
+      "group": "1aaf356a1341"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Naš ujec je medbrat",
+      "meaningInSourceLanguage": "Our uncle is a nurse.",
+      "id": "48ddbd361418",
+      "priority": 0,
+      "group": "768a8f1830ef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Our",
+          "definition": "Our"
+        },
+        {
+          "word": "uncle",
+          "definition": "ujec"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "nurse.",
+          "definition": "nurse."
+        }
+      ],
+      "chips": [
+        "Naš",
+        "ujec",
+        "je",
+        "medbrat",
+        "ne",
+        "se",
+        "te"
+      ],
+      "solutions": [
+        [
+          "Naš",
+          "ujec",
+          "je",
+          "medbrat"
+        ]
+      ],
+      "formattedSolution": "Naš ujec je medbrat",
+      "id": "3a22402626a9",
+      "priority": 2,
+      "group": "768a8f1830ef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Naš",
+          "definition": "Naš"
+        },
+        {
+          "word": "ujec",
+          "definition": "uncle"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "medbrat",
+          "definition": "medbrat"
+        }
+      ],
+      "chips": [
+        "Our",
+        "uncle",
+        "is",
+        "a",
+        "nurse",
+        "are",
+        "We",
+        "He",
+        "be"
+      ],
+      "solutions": [
+        [
+          "Our",
+          "uncle",
+          "is",
+          "a",
+          "nurse"
+        ]
+      ],
+      "formattedSolution": "Our uncle is a nurse.",
+      "id": "0371be0e3dcf",
+      "priority": 2,
+      "group": "768a8f1830ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jih tetka je doktorica",
+      "meaningInSourceLanguage": "Their aunt is a doctor.",
+      "id": "b7bf8abf16de",
+      "priority": 0,
+      "group": "6e6d8999ea1f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Their",
+          "definition": "Their"
+        },
+        {
+          "word": "aunt",
+          "definition": "tetka"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "doctor.",
+          "definition": "doctor."
+        }
+      ],
+      "chips": [
+        "Jih",
+        "tetka",
+        "je",
+        "doktorica",
+        "ti",
+        "te",
+        "Ja"
+      ],
+      "solutions": [
+        [
+          "Jih",
+          "tetka",
+          "je",
+          "doktorica"
+        ]
+      ],
+      "formattedSolution": "Jih tetka je doktorica",
+      "id": "aaef6b6ba257",
+      "priority": 2,
+      "group": "6e6d8999ea1f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jih",
+          "definition": "Jih"
+        },
+        {
+          "word": "tetka",
+          "definition": "aunt"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "doktorica",
+          "definition": "doktorica"
+        }
+      ],
+      "chips": [
+        "Their",
+        "aunt",
+        "is",
+        "a",
+        "doctor",
+        "or",
+        "am",
+        "It",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "Their",
+          "aunt",
+          "is",
+          "a",
+          "doctor"
+        ]
+      ],
+      "formattedSolution": "Their aunt is a doctor.",
+      "id": "eb518eb0544a",
+      "priority": 2,
+      "group": "6e6d8999ea1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona jest naša tetka",
+      "meaningInSourceLanguage": "She is our aunt.",
+      "id": "8f741d8cc095",
+      "priority": 0,
+      "group": "1884c9c8fa82"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "ona"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "our",
+          "definition": "our"
+        },
+        {
+          "word": "aunt.",
+          "definition": "tetka"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "jest",
+        "naša",
+        "tetka",
+        "žena",
+        "ne",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "jest",
+          "naša",
+          "tetka"
+        ]
+      ],
+      "formattedSolution": "Ona jest naša tetka",
+      "id": "b2e1f9509c4b",
+      "priority": 2,
+      "group": "1884c9c8fa82"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "she"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "naša",
+          "definition": "naša"
+        },
+        {
+          "word": "tetka",
+          "definition": "aunt"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "our",
+        "aunt",
+        "or",
+        "bus",
+        "Our"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "our",
+          "aunt"
+        ]
+      ],
+      "formattedSolution": "She is our aunt.",
+      "id": "36e2f1ea6b57",
+      "priority": 2,
+      "group": "1884c9c8fa82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Naša tetka jest učitelka",
+      "meaningInSourceLanguage": "Our aunt is a teacher.",
+      "id": "a86c6e7cc929",
+      "priority": 0,
+      "group": "04561c357cce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Our",
+          "definition": "Our"
+        },
+        {
+          "word": "aunt",
+          "definition": "tetka"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "teacher.",
+          "definition": "učitelj"
+        }
+      ],
+      "chips": [
+        "Naša",
+        "tetka",
+        "jest",
+        "učitelka",
+        "žena",
+        "aita",
+        "tetky"
+      ],
+      "solutions": [
+        [
+          "Naša",
+          "tetka",
+          "jest",
+          "učitelka"
+        ]
+      ],
+      "formattedSolution": "Naša tetka jest učitelka",
+      "id": "54aeeef5b624",
+      "priority": 2,
+      "group": "04561c357cce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Naša",
+          "definition": "Naša"
+        },
+        {
+          "word": "tetka",
+          "definition": "aunt"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "učitelka",
+          "definition": "učitelka"
+        }
+      ],
+      "chips": [
+        "Our",
+        "aunt",
+        "is",
+        "a",
+        "teacher",
+        "am",
+        "are",
+        "and",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "Our",
+          "aunt",
+          "is",
+          "a",
+          "teacher"
+        ]
+      ],
+      "formattedSolution": "Our aunt is a teacher.",
+      "id": "d6d1e70820e7",
+      "priority": 2,
+      "group": "04561c357cce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Syn od mojego ujca je moj kuzen",
+      "meaningInSourceLanguage": "My uncle’s son is my cousin (male).",
+      "id": "a77040e04123",
+      "priority": 0,
+      "group": "3f86af28f26b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "My"
+        },
+        {
+          "word": "uncle’s",
+          "definition": "uncle’s"
+        },
+        {
+          "word": "son",
+          "definition": "syn"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "cousin",
+          "definition": "cousin"
+        },
+        {
+          "word": "(male).",
+          "definition": "(male)."
+        }
+      ],
+      "chips": [
+        "Syn",
+        "od",
+        "mojego",
+        "ujca",
+        "je",
+        "moj",
+        "kuzen",
+        "moje",
+        "ne",
+        "se",
+        "uže",
+        "te",
+        "moja"
+      ],
+      "solutions": [
+        [
+          "Syn",
+          "od",
+          "mojego",
+          "ujca",
+          "je",
+          "moj",
+          "kuzen"
+        ]
+      ],
+      "formattedSolution": "Syn od mojego ujca je moj kuzen",
+      "id": "2730b2ace51a",
+      "priority": 2,
+      "group": "3f86af28f26b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Syn",
+          "definition": "son"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "mojego",
+          "definition": "mojego"
+        },
+        {
+          "word": "ujca",
+          "definition": "ujca"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "moj",
+          "definition": "moj"
+        },
+        {
+          "word": "kuzen",
+          "definition": "cousin (male)"
+        }
+      ],
+      "chips": [
+        "My",
+        "uncle’s",
+        "son",
+        "is",
+        "my",
+        "cousin",
+        "male",
+        "me",
+        "Is",
+        "We",
+        "He",
+        "man",
+        "be"
+      ],
+      "solutions": [
+        [
+          "My",
+          "uncle’s",
+          "son",
+          "is",
+          "my",
+          "cousin",
+          "male"
+        ],
+        [
+          "My",
+          "uncle’s",
+          "son",
+          "is",
+          "my",
+          "cousin"
+        ]
+      ],
+      "formattedSolution": "My uncle’s son is my cousin (male).",
+      "id": "5a437cfcf1b8",
+      "priority": 2,
+      "group": "3f86af28f26b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Moj kuzen jest tož kelner",
+      "meaningInSourceLanguage": "My cousin (male) is also a waiter.",
+      "id": "319212e61e01",
+      "priority": 0,
+      "group": "d9a40bec1961"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "My"
+        },
+        {
+          "word": "cousin",
+          "definition": "cousin"
+        },
+        {
+          "word": "(male)",
+          "definition": "(male)"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "also",
+          "definition": "takože"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "waiter.",
+          "definition": "waiter."
+        }
+      ],
+      "chips": [
+        "Moj",
+        "kuzen",
+        "jest",
+        "tož",
+        "kelner",
+        "je",
+        "ne",
+        "te",
+        "One"
+      ],
+      "solutions": [
+        [
+          "Moj",
+          "kuzen",
+          "jest",
+          "tož",
+          "kelner"
+        ]
+      ],
+      "formattedSolution": "Moj kuzen jest tož kelner",
+      "id": "728eb20574d5",
+      "priority": 2,
+      "group": "d9a40bec1961"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Moj",
+          "definition": "Moj"
+        },
+        {
+          "word": "kuzen",
+          "definition": "cousin (male)"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "tož",
+          "definition": "tož"
+        },
+        {
+          "word": "kelner",
+          "definition": "kelner"
+        }
+      ],
+      "chips": [
+        "My",
+        "cousin",
+        "male",
+        "is",
+        "also",
+        "a",
+        "waiter",
+        "am",
+        "was",
+        "are",
+        "if",
+        "Is",
+        "me"
+      ],
+      "solutions": [
+        [
+          "My",
+          "cousin",
+          "male",
+          "is",
+          "also",
+          "a",
+          "waiter"
+        ],
+        [
+          "My",
+          "cousin",
+          "is",
+          "also",
+          "a",
+          "waiter"
+        ]
+      ],
+      "formattedSolution": "My cousin (male) is also a waiter.",
+      "id": "87ee1e719e0c",
+      "priority": 2,
+      "group": "d9a40bec1961"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dočera mojej tetky je moja kuzynka",
+      "meaningInSourceLanguage": "My aunt’s daughter is my cousin (female).",
+      "id": "0924c9ffee76",
+      "priority": 0,
+      "group": "fff97f17daff"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "My"
+        },
+        {
+          "word": "aunt’s",
+          "definition": "aunt’s"
+        },
+        {
+          "word": "daughter",
+          "definition": "dočera"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "cousin",
+          "definition": "cousin"
+        },
+        {
+          "word": "(female).",
+          "definition": "(female)."
+        }
+      ],
+      "chips": [
+        "Dočera",
+        "mojej",
+        "tetky",
+        "je",
+        "moja",
+        "kuzynka",
+        "moje",
+        "Moja",
+        "moj",
+        "žena",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Dočera",
+          "mojej",
+          "tetky",
+          "je",
+          "moja",
+          "kuzynka"
+        ]
+      ],
+      "formattedSolution": "Dočera mojej tetky je moja kuzynka",
+      "id": "bd90d94cdf6d",
+      "priority": 2,
+      "group": "fff97f17daff"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dočera",
+          "definition": "daughter"
+        },
+        {
+          "word": "mojej",
+          "definition": "mojej"
+        },
+        {
+          "word": "tetky",
+          "definition": "tetky"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "moja",
+          "definition": "moja"
+        },
+        {
+          "word": "kuzynka",
+          "definition": "kuzynka"
+        }
+      ],
+      "chips": [
+        "My",
+        "aunt’s",
+        "daughter",
+        "is",
+        "my",
+        "cousin",
+        "female",
+        "me",
+        "am",
+        "a",
+        "man",
+        "Is",
+        "bus"
+      ],
+      "solutions": [
+        [
+          "My",
+          "aunt’s",
+          "daughter",
+          "is",
+          "my",
+          "cousin",
+          "female"
+        ],
+        [
+          "My",
+          "aunt’s",
+          "daughter",
+          "is",
+          "my",
+          "cousin"
+        ],
+        [
+          "The",
+          "daughter",
+          "of",
+          "my",
+          "aunt",
+          "is",
+          "my",
+          "cousin",
+          "female"
+        ],
+        [
+          "The",
+          "daughter",
+          "of",
+          "my",
+          "aunt",
+          "is",
+          "my",
+          "cousin"
+        ]
+      ],
+      "formattedSolution": "My aunt’s daughter is my cousin (female).",
+      "id": "099afe33822b",
+      "priority": 2,
+      "group": "fff97f17daff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Moj kuzen jest tož moj prijatelj",
+      "meaningInSourceLanguage": "My cousin (female) is also my friend.",
+      "id": "f1f69190f20c",
+      "priority": 0,
+      "group": "a9abab7c5a4c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "My"
+        },
+        {
+          "word": "cousin",
+          "definition": "cousin"
+        },
+        {
+          "word": "(female)",
+          "definition": "(female)"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "also",
+          "definition": "takože"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "friend.",
+          "definition": "friend."
+        }
+      ],
+      "chips": [
+        "Moj",
+        "kuzen",
+        "jest",
+        "tož",
+        "moj",
+        "prijatelj",
+        "moje",
+        "je",
+        "to",
+        "te",
+        "moja"
+      ],
+      "solutions": [
+        [
+          "Moj",
+          "kuzen",
+          "jest",
+          "tož",
+          "moj",
+          "prijatelj"
+        ]
+      ],
+      "formattedSolution": "Moj kuzen jest tož moj prijatelj",
+      "id": "0bec1941c624",
+      "priority": 2,
+      "group": "a9abab7c5a4c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Moj",
+          "definition": "Moj"
+        },
+        {
+          "word": "kuzen",
+          "definition": "cousin (male)"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "tož",
+          "definition": "tož"
+        },
+        {
+          "word": "moj",
+          "definition": "moj"
+        },
+        {
+          "word": "prijatelj",
+          "definition": "prijatelj"
+        }
+      ],
+      "chips": [
+        "My",
+        "cousin",
+        "female",
+        "is",
+        "also",
+        "my",
+        "friend",
+        "me",
+        "if",
+        "Is",
+        "am",
+        "are",
+        "We"
+      ],
+      "solutions": [
+        [
+          "My",
+          "cousin",
+          "female",
+          "is",
+          "also",
+          "my",
+          "friend"
+        ],
+        [
+          "My",
+          "cousin",
+          "is",
+          "also",
+          "my",
+          "friend"
+        ]
+      ],
+      "formattedSolution": "My cousin (female) is also my friend.",
+      "id": "ab40c116bd86",
+      "priority": 2,
+      "group": "a9abab7c5a4c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One sut moje deti",
+      "meaningInSourceLanguage": "They are my children.",
+      "id": "7b1f7e15acb0",
+      "priority": 0,
+      "group": "7af51f905f15"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "one(feminine)\noni(masculine)"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "children.",
+          "definition": "deti"
+        }
+      ],
+      "chips": [
+        "One",
+        "sut",
+        "moje",
+        "deti",
+        "je",
+        "ne",
+        "se"
+      ],
+      "solutions": [
+        [
+          "One",
+          "sut",
+          "moje",
+          "deti"
+        ]
+      ],
+      "formattedSolution": "One sut moje deti",
+      "id": "6104e058a7b5",
+      "priority": 2,
+      "group": "7af51f905f15"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "they(feminine)"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "moje",
+          "definition": "moje"
+        },
+        {
+          "word": "deti",
+          "definition": "children"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "my",
+        "children",
+        "She",
+        "Are",
+        "the"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "my",
+          "children"
+        ]
+      ],
+      "formattedSolution": "They are my children.",
+      "id": "3abfd37c60e9",
+      "priority": 2,
+      "group": "7af51f905f15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty jesi moje děte",
+      "meaningInSourceLanguage": "You are my child.",
+      "id": "dd2437679829",
+      "priority": 0,
+      "group": "e25af3aa8e01"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "child.",
+          "definition": "děte"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "jesi",
+        "moje",
+        "děte",
+        "je",
+        "te",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "jesi",
+          "moje",
+          "děte"
+        ]
+      ],
+      "formattedSolution": "Ty jesi moje děte",
+      "id": "175400764ff5",
+      "priority": 2,
+      "group": "e25af3aa8e01"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "moje",
+          "definition": "moje"
+        },
+        {
+          "word": "děte",
+          "definition": "child"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "my",
+        "child",
+        "or",
+        "me",
+        "am"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "my",
+          "child"
+        ]
+      ],
+      "formattedSolution": "You are my child.",
+      "id": "4800062a7b9f",
+      "priority": 2,
+      "group": "e25af3aa8e01"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To děti jest moj syn",
+      "meaningInSourceLanguage": "The child is my son.",
+      "id": "6653e0bd3b32",
+      "priority": 0,
+      "group": "aeedefd5bddc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "child",
+          "definition": "děte"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "son.",
+          "definition": "syn"
+        }
+      ],
+      "chips": [
+        "To",
+        "děti",
+        "jest",
+        "moj",
+        "syn",
+        "to",
+        "Ty",
+        "sut",
+        "je"
+      ],
+      "solutions": [
+        [
+          "To",
+          "děti",
+          "jest",
+          "moj",
+          "syn"
+        ]
+      ],
+      "formattedSolution": "To děti jest moj syn",
+      "id": "358adb927108",
+      "priority": 2,
+      "group": "aeedefd5bddc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "To"
+        },
+        {
+          "word": "děti",
+          "definition": "děti"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "moj",
+          "definition": "moj"
+        },
+        {
+          "word": "syn",
+          "definition": "son"
+        }
+      ],
+      "chips": [
+        "The",
+        "child",
+        "is",
+        "my",
+        "son",
+        "if",
+        "me",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "child",
+          "is",
+          "my",
+          "son"
+        ]
+      ],
+      "formattedSolution": "The child is my son.",
+      "id": "baf5c8ae3c99",
+      "priority": 2,
+      "group": "aeedefd5bddc"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "grandson1.jpg",
+        "grandson3.jpg",
+        "grandson2.jpg"
+      ],
+      "formInTargetLanguage": "vnuk",
+      "meaningInSourceLanguage": "grandson",
+      "id": "524135d5afb9",
+      "priority": 0,
+      "group": "fc6c28eae2ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "grandson1.jpg",
+        "grandson3.jpg",
+        "grandson2.jpg"
+      ],
+      "formInTargetLanguage": [
+        "vnuk"
+      ],
+      "phrase": [
+        {
+          "word": "grandson",
+          "definition": "vnuk"
+        }
+      ],
+      "id": "a8ff4d9df54d",
+      "priority": 1,
+      "group": "fc6c28eae2ee"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "aunt1.jpg",
+        "aunt2.jpg",
+        "aunt3.jpg"
+      ],
+      "formInTargetLanguage": "tetka",
+      "meaningInSourceLanguage": "aunt",
+      "id": "be63fa85bb9a",
+      "priority": 0,
+      "group": "680a51e32828"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "aunt1.jpg",
+        "aunt2.jpg",
+        "aunt3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "tetka"
+      ],
+      "phrase": [
+        {
+          "word": "aunt",
+          "definition": "tetka"
+        }
+      ],
+      "id": "b8ecbc0f81f1",
+      "priority": 1,
+      "group": "680a51e32828"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "uncle1.jpg",
+        "uncle2.jpg",
+        "uncle3.jpg"
+      ],
+      "formInTargetLanguage": "ujec",
+      "meaningInSourceLanguage": "uncle",
+      "id": "c7d14acd0aa2",
+      "priority": 0,
+      "group": "45c4254ad8be"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "uncle1.jpg",
+        "uncle2.jpg",
+        "uncle3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "ujec"
+      ],
+      "phrase": [
+        {
+          "word": "uncle",
+          "definition": "ujec"
+        }
+      ],
+      "id": "5636fb1cd24c",
+      "priority": 1,
+      "group": "45c4254ad8be"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cousinmale1.jpg",
+        "cousinmale2.jpg",
+        "cousinmale3.jpg"
+      ],
+      "formInTargetLanguage": "kuzen",
+      "meaningInSourceLanguage": "cousin (male)",
+      "id": "fdbecf7f4957",
+      "priority": 0,
+      "group": "831224bdd351"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cousinmale1.jpg",
+        "cousinmale2.jpg",
+        "cousinmale3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kuzen"
+      ],
+      "phrase": [
+        {
+          "word": "cousin",
+          "definition": "cousin"
+        },
+        {
+          "word": "(male)",
+          "definition": "(male)"
+        }
+      ],
+      "id": "dfdbb5ee06d5",
+      "priority": 1,
+      "group": "831224bdd351"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cousinfemale1.jpg",
+        "cousinfemale2.jpg",
+        "cousinfemale3.jpg"
+      ],
+      "formInTargetLanguage": "kuzina",
+      "meaningInSourceLanguage": "cousin (female)",
+      "id": "9105f1238f51",
+      "priority": 0,
+      "group": "9f999166353a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cousinfemale1.jpg",
+        "cousinfemale2.jpg",
+        "cousinfemale3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kuzina"
+      ],
+      "phrase": [
+        {
+          "word": "cousin",
+          "definition": "cousin"
+        },
+        {
+          "word": "(female)",
+          "definition": "(female)"
+        }
+      ],
+      "id": "610fbd107222",
+      "priority": 1,
+      "group": "9f999166353a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "children1.jpg",
+        "children2.jpg",
+        "children3.jpg"
+      ],
+      "formInTargetLanguage": "deti",
+      "meaningInSourceLanguage": "children",
+      "id": "776902358ed8",
+      "priority": 0,
+      "group": "00037764057a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "children1.jpg",
+        "children2.jpg",
+        "children3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "deti"
+      ],
+      "phrase": [
+        {
+          "word": "children",
+          "definition": "deti"
+        }
+      ],
+      "id": "5956ee6b716a",
+      "priority": 1,
+      "group": "00037764057a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "child1.jpg",
+        "child2.jpg",
+        "child3.jpg"
+      ],
+      "formInTargetLanguage": "děte",
+      "meaningInSourceLanguage": "child",
+      "id": "f482b2bacb60",
+      "priority": 0,
+      "group": "aef10a87ef14"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "child1.jpg",
+        "child2.jpg",
+        "child3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "děte"
+      ],
+      "phrase": [
+        {
+          "word": "child",
+          "definition": "děte"
+        }
+      ],
+      "id": "d4359c777e0d",
+      "priority": 1,
+      "group": "aef10a87ef14"
+    }
+  ]
+}

@@ -1,0 +1,1818 @@
+{
+  "id": "3890d971bae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm brat od Gorana",
+      "meaningInSourceLanguage": "I am Goran’s brother",
+      "id": "b8776518a1d2",
+      "priority": 0,
+      "group": "c081ab60ad51"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "Goran’s",
+          "definition": "Goran’s"
+        },
+        {
+          "word": "brother",
+          "definition": "Brat"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "brat",
+        "od",
+        "Gorana",
+        "Da",
+        "Ta",
+        "Ona",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "brat",
+          "od",
+          "Gorana"
+        ]
+      ],
+      "formattedSolution": "Ja jesm brat od Gorana",
+      "id": "50702e975b92",
+      "priority": 2,
+      "group": "c081ab60ad51"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "brat",
+          "definition": "Brother"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "Gorana",
+          "definition": "Gorana"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "Goran’s",
+        "brother",
+        "or",
+        "a",
+        "are"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "Goran’s",
+          "brother"
+        ],
+        [
+          "I",
+          "am",
+          "brother",
+          "of",
+          "Goran"
+        ]
+      ],
+      "formattedSolution": "I am Goran’s brother",
+      "id": "10ac366f23cc",
+      "priority": 2,
+      "group": "c081ab60ad51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm sestra od Gorana",
+      "meaningInSourceLanguage": "I am Goran's sister",
+      "id": "ac40ae760d43",
+      "priority": 0,
+      "group": "b773acdc056e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "Goran's",
+          "definition": "Goran's"
+        },
+        {
+          "word": "sister",
+          "definition": "Sěstra"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "sestra",
+        "od",
+        "Gorana",
+        "je",
+        "ne",
+        "se",
+        "Da"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "sestra",
+          "od",
+          "Gorana"
+        ]
+      ],
+      "formattedSolution": "Ja jesm sestra od Gorana",
+      "id": "c23cb643fb51",
+      "priority": 2,
+      "group": "b773acdc056e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "sestra",
+          "definition": "sestra"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "Gorana",
+          "definition": "Gorana"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "Goran's",
+        "sister",
+        "is",
+        "a",
+        "or"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "Goran's",
+          "sister"
+        ],
+        [
+          "I",
+          "am",
+          "sister",
+          "of",
+          "Goran"
+        ]
+      ],
+      "formattedSolution": "I am Goran's sister",
+      "id": "1d35af2a5932",
+      "priority": 2,
+      "group": "b773acdc056e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Aitorren anaia naiz",
+      "meaningInSourceLanguage": "I am Aitor’s brother",
+      "id": "556757bd8b67",
+      "priority": 0,
+      "group": "c263db079e0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "Aitor’s",
+          "definition": "Aitor’s"
+        },
+        {
+          "word": "brother",
+          "definition": "Brat"
+        }
+      ],
+      "chips": [
+        "Aitorren",
+        "anaia",
+        "naiz",
+        "naše",
+        "aita"
+      ],
+      "solutions": [
+        [
+          "Aitorren",
+          "anaia",
+          "naiz"
+        ]
+      ],
+      "formattedSolution": "Aitorren anaia naiz",
+      "id": "6f90f10b74e8",
+      "priority": 2,
+      "group": "c263db079e0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Aitorren",
+          "definition": "Aitorren"
+        },
+        {
+          "word": "anaia",
+          "definition": "anaia"
+        },
+        {
+          "word": "naiz",
+          "definition": "naiz"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "Aitor’s",
+        "brother",
+        "or",
+        "It",
+        "are"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "Aitor’s",
+          "brother"
+        ],
+        [
+          "I",
+          "am",
+          "brother",
+          "of",
+          "Aitor"
+        ]
+      ],
+      "formattedSolution": "I am Aitor’s brother",
+      "id": "d51494d7a702",
+      "priority": 2,
+      "group": "c263db079e0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Aitorren arreba naiz.",
+      "meaningInSourceLanguage": "I am Aitor’s sister",
+      "id": "a9f3b059d098",
+      "priority": 0,
+      "group": "268a4c4006c4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "Aitor’s",
+          "definition": "Aitor’s"
+        },
+        {
+          "word": "sister",
+          "definition": "Sěstra"
+        }
+      ],
+      "chips": [
+        "Aitorren",
+        "arreba",
+        "naiz",
+        "Nire",
+        "aita"
+      ],
+      "solutions": [
+        [
+          "Aitorren",
+          "arreba",
+          "naiz"
+        ]
+      ],
+      "formattedSolution": "Aitorren arreba naiz.",
+      "id": "6aa2c376229b",
+      "priority": 2,
+      "group": "268a4c4006c4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Aitorren",
+          "definition": "Aitorren"
+        },
+        {
+          "word": "arreba",
+          "definition": "arreba"
+        },
+        {
+          "word": "naiz.",
+          "definition": "naiz."
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "Aitor’s",
+        "sister",
+        "is",
+        "It",
+        "or"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "Aitor’s",
+          "sister"
+        ],
+        [
+          "I",
+          "am",
+          "sister",
+          "of",
+          "Aitor"
+        ]
+      ],
+      "formattedSolution": "I am Aitor’s sister",
+      "id": "99e6e84e3fee",
+      "priority": 2,
+      "group": "268a4c4006c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ta devčina je moja partnerka",
+      "meaningInSourceLanguage": "This girl is my girlfriend",
+      "id": "a90b5e5956c4",
+      "priority": 0,
+      "group": "a1b00b5ec80b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "to"
+        },
+        {
+          "word": "girl",
+          "definition": "děvčina"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "girlfriend",
+          "definition": "partnerka"
+        }
+      ],
+      "chips": [
+        "Ta",
+        "devčina",
+        "je",
+        "moja",
+        "partnerka",
+        "Ja",
+        "Ona",
+        "žena",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Ta",
+          "devčina",
+          "je",
+          "moja",
+          "partnerka"
+        ]
+      ],
+      "formattedSolution": "Ta devčina je moja partnerka",
+      "id": "6d8420aa681f",
+      "priority": 2,
+      "group": "a1b00b5ec80b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ta",
+          "definition": "Ta"
+        },
+        {
+          "word": "devčina",
+          "definition": "devčina"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "moja",
+          "definition": "moja"
+        },
+        {
+          "word": "partnerka",
+          "definition": "girlfriend"
+        }
+      ],
+      "chips": [
+        "This",
+        "girl",
+        "is",
+        "my",
+        "girlfriend",
+        "if",
+        "Hi",
+        "or",
+        "Is"
+      ],
+      "solutions": [
+        [
+          "This",
+          "girl",
+          "is",
+          "my",
+          "girlfriend"
+        ]
+      ],
+      "formattedSolution": "This girl is my girlfriend",
+      "id": "912536b48839",
+      "priority": 2,
+      "group": "a1b00b5ec80b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Partnerka od mojego brata je prijatna",
+      "meaningInSourceLanguage": "My brother’s girlfriend is nice",
+      "id": "30c504020922",
+      "priority": 0,
+      "group": "331c42189230"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "My"
+        },
+        {
+          "word": "brother’s",
+          "definition": "brother’s"
+        },
+        {
+          "word": "girlfriend",
+          "definition": "partnerka"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "nice",
+          "definition": "nice"
+        }
+      ],
+      "chips": [
+        "Partnerka",
+        "od",
+        "mojego",
+        "brata",
+        "je",
+        "prijatna",
+        "te",
+        "ne",
+        "moja",
+        "moje",
+        "to"
+      ],
+      "solutions": [
+        [
+          "Partnerka",
+          "od",
+          "mojego",
+          "brata",
+          "je",
+          "prijatna"
+        ]
+      ],
+      "formattedSolution": "Partnerka od mojego brata je prijatna",
+      "id": "3ddbfbde1652",
+      "priority": 2,
+      "group": "331c42189230"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Partnerka",
+          "definition": "girlfriend"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "mojego",
+          "definition": "mojego"
+        },
+        {
+          "word": "brata",
+          "definition": "brata"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "prijatna",
+          "definition": "prijatna"
+        }
+      ],
+      "chips": [
+        "My",
+        "brother’s",
+        "girlfriend",
+        "is",
+        "nice",
+        "be",
+        "if",
+        "are",
+        "We"
+      ],
+      "solutions": [
+        [
+          "My",
+          "brother’s",
+          "girlfriend",
+          "is",
+          "nice"
+        ],
+        [
+          "The",
+          "girlfriend",
+          "of",
+          "my",
+          "brother",
+          "is",
+          "nice"
+        ]
+      ],
+      "formattedSolution": "My brother’s girlfriend is nice",
+      "id": "b89852bd626c",
+      "priority": 2,
+      "group": "331c42189230"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Partner od mojej sěstry jest vysoky",
+      "meaningInSourceLanguage": "My sister’s boyfriend is tall",
+      "id": "7fc17cdfa2a7",
+      "priority": 0,
+      "group": "34a09ed3c80e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "My"
+        },
+        {
+          "word": "sister’s",
+          "definition": "sister’s"
+        },
+        {
+          "word": "boyfriend",
+          "definition": "partner"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "tall",
+          "definition": "tall"
+        }
+      ],
+      "chips": [
+        "Partner",
+        "od",
+        "mojej",
+        "sěstry",
+        "jest",
+        "vysoky",
+        "jeste",
+        "je",
+        "se",
+        "Jest",
+        "te"
+      ],
+      "solutions": [
+        [
+          "Partner",
+          "od",
+          "mojej",
+          "sěstry",
+          "jest",
+          "vysoky"
+        ]
+      ],
+      "formattedSolution": "Partner od mojej sěstry jest vysoky",
+      "id": "6ad147103222",
+      "priority": 2,
+      "group": "34a09ed3c80e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Partner",
+          "definition": "boyfriend"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "mojej",
+          "definition": "mojej"
+        },
+        {
+          "word": "sěstry",
+          "definition": "sěstry"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "vysoky",
+          "definition": "vysoky"
+        }
+      ],
+      "chips": [
+        "My",
+        "sister’s",
+        "boyfriend",
+        "is",
+        "tall",
+        "be",
+        "try",
+        "if",
+        "or"
+      ],
+      "solutions": [
+        [
+          "My",
+          "sister’s",
+          "boyfriend",
+          "is",
+          "tall"
+        ],
+        [
+          "The",
+          "boyfriend",
+          "of",
+          "my",
+          "sister",
+          "is",
+          "tall"
+        ]
+      ],
+      "formattedSolution": "My sister’s boyfriend is tall",
+      "id": "4134d4194ee5",
+      "priority": 2,
+      "group": "34a09ed3c80e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ta Turistka jest moja plemenica",
+      "meaningInSourceLanguage": "The tourist is my niece",
+      "id": "9ef8c8eddb5e",
+      "priority": 0,
+      "group": "4e9f4baf62fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "The"
+        },
+        {
+          "word": "tourist",
+          "definition": "tourist"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "my",
+          "definition": "my"
+        },
+        {
+          "word": "niece",
+          "definition": "plemenica"
+        }
+      ],
+      "chips": [
+        "Ta",
+        "Turistka",
+        "jest",
+        "moja",
+        "plemenica",
+        "žena",
+        "aita",
+        "Ja",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "Ta",
+          "Turistka",
+          "jest",
+          "moja",
+          "plemenica"
+        ]
+      ],
+      "formattedSolution": "Ta Turistka jest moja plemenica",
+      "id": "65fc01dd00fe",
+      "priority": 2,
+      "group": "4e9f4baf62fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ta",
+          "definition": "Ta"
+        },
+        {
+          "word": "Turistka",
+          "definition": "Turistka"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "moja",
+          "definition": "moja"
+        },
+        {
+          "word": "plemenica",
+          "definition": "niece"
+        }
+      ],
+      "chips": [
+        "The",
+        "tourist",
+        "is",
+        "my",
+        "niece",
+        "if",
+        "me",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "tourist",
+          "is",
+          "my",
+          "niece"
+        ]
+      ],
+      "formattedSolution": "The tourist is my niece",
+      "id": "ebf9b84ef81a",
+      "priority": 2,
+      "group": "4e9f4baf62fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo tvoje plemenice",
+      "meaningInSourceLanguage": "We are your nieces",
+      "id": "60471d4e0101",
+      "priority": 0,
+      "group": "6b45e457cd79"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "We"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "your",
+          "definition": "your"
+        },
+        {
+          "word": "nieces",
+          "definition": "nieces"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "tvoje",
+        "plemenice",
+        "je",
+        "ne",
+        "te"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "tvoje",
+          "plemenice"
+        ]
+      ],
+      "formattedSolution": "My jesmo tvoje plemenice",
+      "id": "42bdd4f71722",
+      "priority": 2,
+      "group": "6b45e457cd79"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "we"
+        },
+        {
+          "word": "jesmo",
+          "definition": "jesmo"
+        },
+        {
+          "word": "tvoje",
+          "definition": "tvoje"
+        },
+        {
+          "word": "plemenice",
+          "definition": "plemenice"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "your",
+        "nieces",
+        "He",
+        "be",
+        "we"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "your",
+          "nieces"
+        ]
+      ],
+      "formattedSolution": "We are your nieces",
+      "id": "24e0004f8ddb",
+      "priority": 2,
+      "group": "6b45e457cd79"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Te děti sut naše děti",
+      "meaningInSourceLanguage": "Those children are our children.",
+      "id": "15fb1017bb57",
+      "priority": 0,
+      "group": "cbc0c0590991"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Those",
+          "definition": "Those"
+        },
+        {
+          "word": "children",
+          "definition": "deti"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "our",
+          "definition": "our"
+        },
+        {
+          "word": "children.",
+          "definition": "deti"
+        }
+      ],
+      "chips": [
+        "Te",
+        "děti",
+        "sut",
+        "naše",
+        "děti",
+        "děte",
+        "deti",
+        "ti",
+        "te"
+      ],
+      "solutions": [
+        [
+          "Te",
+          "děti",
+          "sut",
+          "naše",
+          "děti"
+        ]
+      ],
+      "formattedSolution": "Te děti sut naše děti",
+      "id": "f2a32d87d5e1",
+      "priority": 2,
+      "group": "cbc0c0590991"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Te",
+          "definition": "Te"
+        },
+        {
+          "word": "děti",
+          "definition": "děti"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "naše",
+          "definition": "naše"
+        },
+        {
+          "word": "děti",
+          "definition": "děti"
+        }
+      ],
+      "chips": [
+        "Those",
+        "children",
+        "are",
+        "our",
+        "children",
+        "here",
+        "She",
+        "Where",
+        "there"
+      ],
+      "solutions": [
+        [
+          "Those",
+          "children",
+          "are",
+          "our",
+          "children"
+        ]
+      ],
+      "formattedSolution": "Those children are our children.",
+      "id": "7a822e767428",
+      "priority": 2,
+      "group": "cbc0c0590991"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tvoje děti sut studenti",
+      "meaningInSourceLanguage": "Your children are students.",
+      "id": "32d9dbcfe9ef",
+      "priority": 0,
+      "group": "83f801b2d33f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Your",
+          "definition": "Your"
+        },
+        {
+          "word": "children",
+          "definition": "deti"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "students.",
+          "definition": "Studenti"
+        }
+      ],
+      "chips": [
+        "Tvoje",
+        "děti",
+        "sut",
+        "studenti",
+        "deti",
+        "tut",
+        "děte"
+      ],
+      "solutions": [
+        [
+          "Tvoje",
+          "děti",
+          "sut",
+          "studenti"
+        ]
+      ],
+      "formattedSolution": "Tvoje děti sut studenti",
+      "id": "eb8110f5e3ed",
+      "priority": 2,
+      "group": "83f801b2d33f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tvoje",
+          "definition": "Tvoje"
+        },
+        {
+          "word": "děti",
+          "definition": "děti"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "studenti",
+          "definition": "Students"
+        }
+      ],
+      "chips": [
+        "Your",
+        "children",
+        "are",
+        "students",
+        "here",
+        "there",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "Your",
+          "children",
+          "are",
+          "students"
+        ]
+      ],
+      "formattedSolution": "Your children are students.",
+      "id": "47f9e5cfda66",
+      "priority": 2,
+      "group": "83f801b2d33f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Brat našego otca jest naš ujec",
+      "meaningInSourceLanguage": "Our father’s brother is our uncle.",
+      "id": "7069d587f113",
+      "priority": 0,
+      "group": "bb2408e5dd4f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Our",
+          "definition": "Our"
+        },
+        {
+          "word": "father’s",
+          "definition": "father’s"
+        },
+        {
+          "word": "brother",
+          "definition": "Brat"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "our",
+          "definition": "our"
+        },
+        {
+          "word": "uncle.",
+          "definition": "ujec"
+        }
+      ],
+      "chips": [
+        "Brat",
+        "našego",
+        "otca",
+        "jest",
+        "naš",
+        "ujec",
+        "naše",
+        "naša",
+        "je",
+        "ne",
+        "Naš"
+      ],
+      "solutions": [
+        [
+          "Brat",
+          "našego",
+          "otca",
+          "jest",
+          "naš",
+          "ujec"
+        ]
+      ],
+      "formattedSolution": "Brat našego otca jest naš ujec",
+      "id": "8e4fe4bbe747",
+      "priority": 2,
+      "group": "bb2408e5dd4f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Brat",
+          "definition": "Brother"
+        },
+        {
+          "word": "našego",
+          "definition": "našego"
+        },
+        {
+          "word": "otca",
+          "definition": "otca"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "naš",
+          "definition": "naš"
+        },
+        {
+          "word": "ujec",
+          "definition": "uncle"
+        }
+      ],
+      "chips": [
+        "Our",
+        "father’s",
+        "brother",
+        "is",
+        "our",
+        "uncle",
+        "the",
+        "or",
+        "car",
+        "Her",
+        "tour"
+      ],
+      "solutions": [
+        [
+          "Our",
+          "father’s",
+          "brother",
+          "is",
+          "our",
+          "uncle"
+        ],
+        [
+          "The",
+          "brother",
+          "of",
+          "our",
+          "father",
+          "is",
+          "our",
+          "uncle"
+        ]
+      ],
+      "formattedSolution": "Our father’s brother is our uncle.",
+      "id": "18f6dd931fe6",
+      "priority": 2,
+      "group": "bb2408e5dd4f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sěstra od našej mati jest naša tetka",
+      "meaningInSourceLanguage": "Our mother’s sister is our aunt.",
+      "id": "f301048b1567",
+      "priority": 0,
+      "group": "af01ae4c80d3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Our",
+          "definition": "Our"
+        },
+        {
+          "word": "mother’s",
+          "definition": "mother’s"
+        },
+        {
+          "word": "sister",
+          "definition": "Sěstra"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "our",
+          "definition": "our"
+        },
+        {
+          "word": "aunt.",
+          "definition": "tetka"
+        }
+      ],
+      "chips": [
+        "Sěstra",
+        "od",
+        "našej",
+        "mati",
+        "jest",
+        "naša",
+        "tetka",
+        "te",
+        "naš",
+        "naše",
+        "Naša",
+        "Ja",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Sěstra",
+          "od",
+          "našej",
+          "mati",
+          "jest",
+          "naša",
+          "tetka"
+        ]
+      ],
+      "formattedSolution": "Sěstra od našej mati jest naša tetka",
+      "id": "dbbc51e083e5",
+      "priority": 2,
+      "group": "af01ae4c80d3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sěstra",
+          "definition": "Sister"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "našej",
+          "definition": "našej"
+        },
+        {
+          "word": "mati",
+          "definition": "Mother"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "naša",
+          "definition": "naša"
+        },
+        {
+          "word": "tetka",
+          "definition": "aunt"
+        }
+      ],
+      "chips": [
+        "Our",
+        "mother’s",
+        "sister",
+        "is",
+        "our",
+        "aunt",
+        "or",
+        "bus",
+        "Her",
+        "Your",
+        "tour"
+      ],
+      "solutions": [
+        [
+          "Our",
+          "mother’s",
+          "sister",
+          "is",
+          "our",
+          "aunt"
+        ],
+        [
+          "The",
+          "sister",
+          "of",
+          "our",
+          "mother",
+          "is",
+          "our",
+          "aunt"
+        ]
+      ],
+      "formattedSolution": "Our mother’s sister is our aunt.",
+      "id": "344ba0bcf0c7",
+      "priority": 2,
+      "group": "af01ae4c80d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Brat od našej matere je naš ujec",
+      "meaningInSourceLanguage": "Our mother’s brother is our uncle.",
+      "id": "7f5057d177bc",
+      "priority": 0,
+      "group": "d8368cfafe2e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Our",
+          "definition": "Our"
+        },
+        {
+          "word": "mother’s",
+          "definition": "mother’s"
+        },
+        {
+          "word": "brother",
+          "definition": "Brat"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "our",
+          "definition": "our"
+        },
+        {
+          "word": "uncle.",
+          "definition": "ujec"
+        }
+      ],
+      "chips": [
+        "Brat",
+        "od",
+        "našej",
+        "matere",
+        "je",
+        "naš",
+        "ujec",
+        "ne",
+        "te",
+        "naše",
+        "Ja",
+        "se",
+        "Da"
+      ],
+      "solutions": [
+        [
+          "Brat",
+          "od",
+          "našej",
+          "matere",
+          "je",
+          "naš",
+          "ujec"
+        ]
+      ],
+      "formattedSolution": "Brat od našej matere je naš ujec",
+      "id": "92a8d3cc67c8",
+      "priority": 2,
+      "group": "d8368cfafe2e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Brat",
+          "definition": "Brother"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "našej",
+          "definition": "našej"
+        },
+        {
+          "word": "matere",
+          "definition": "matere"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "naš",
+          "definition": "naš"
+        },
+        {
+          "word": "ujec",
+          "definition": "uncle"
+        }
+      ],
+      "chips": [
+        "Our",
+        "mother’s",
+        "brother",
+        "is",
+        "our",
+        "uncle",
+        "or",
+        "the",
+        "Your",
+        "Her",
+        "tour"
+      ],
+      "solutions": [
+        [
+          "Our",
+          "mother’s",
+          "brother",
+          "is",
+          "our",
+          "uncle"
+        ],
+        [
+          "The",
+          "brother",
+          "of",
+          "our",
+          "mother",
+          "is",
+          "our",
+          "uncle"
+        ]
+      ],
+      "formattedSolution": "Our mother’s brother is our uncle.",
+      "id": "cf0dafb7b9f4",
+      "priority": 2,
+      "group": "d8368cfafe2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sěstra od našego otca je naša tetka",
+      "meaningInSourceLanguage": "Our father’s sister is our aunt.",
+      "id": "336a93ad99bd",
+      "priority": 0,
+      "group": "db281324061a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Our",
+          "definition": "Our"
+        },
+        {
+          "word": "father’s",
+          "definition": "father’s"
+        },
+        {
+          "word": "sister",
+          "definition": "Sěstra"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "our",
+          "definition": "our"
+        },
+        {
+          "word": "aunt.",
+          "definition": "tetka"
+        }
+      ],
+      "chips": [
+        "Sěstra",
+        "od",
+        "našego",
+        "otca",
+        "je",
+        "naša",
+        "tetka",
+        "te",
+        "Ja",
+        "ne",
+        "Da",
+        "Ta",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Sěstra",
+          "od",
+          "našego",
+          "otca",
+          "je",
+          "naša",
+          "tetka"
+        ]
+      ],
+      "formattedSolution": "Sěstra od našego otca je naša tetka",
+      "id": "dd38a1a76f13",
+      "priority": 2,
+      "group": "db281324061a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sěstra",
+          "definition": "Sister"
+        },
+        {
+          "word": "od",
+          "definition": "od"
+        },
+        {
+          "word": "našego",
+          "definition": "našego"
+        },
+        {
+          "word": "otca",
+          "definition": "otca"
+        },
+        {
+          "word": "je",
+          "definition": "je"
+        },
+        {
+          "word": "naša",
+          "definition": "naša"
+        },
+        {
+          "word": "tetka",
+          "definition": "aunt"
+        }
+      ],
+      "chips": [
+        "Our",
+        "father’s",
+        "sister",
+        "is",
+        "our",
+        "aunt",
+        "or",
+        "bus",
+        "Her",
+        "car",
+        "tour"
+      ],
+      "solutions": [
+        [
+          "Our",
+          "father’s",
+          "sister",
+          "is",
+          "our",
+          "aunt"
+        ],
+        [
+          "The",
+          "sister",
+          "of",
+          "our",
+          "father",
+          "is",
+          "our",
+          "aunt"
+        ]
+      ],
+      "formattedSolution": "Our father’s sister is our aunt.",
+      "id": "0ec246719e57",
+      "priority": 2,
+      "group": "db281324061a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "niece1.jpg",
+        "niece2.jpg",
+        "niece3.jpg"
+      ],
+      "formInTargetLanguage": "plemenica",
+      "meaningInSourceLanguage": "niece",
+      "id": "6ba2b0149c7c",
+      "priority": 0,
+      "group": "5d81df10bcf8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "niece1.jpg",
+        "niece2.jpg",
+        "niece3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "plemenica"
+      ],
+      "phrase": [
+        {
+          "word": "niece",
+          "definition": "plemenica"
+        }
+      ],
+      "id": "9634e4a8ccba",
+      "priority": 1,
+      "group": "5d81df10bcf8"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "boyfriend1.jpg",
+        "boyfriend2.jpg",
+        "boyfriend3.jpg"
+      ],
+      "formInTargetLanguage": "partner",
+      "meaningInSourceLanguage": "boyfriend",
+      "id": "7367c9cff81f",
+      "priority": 0,
+      "group": "8c5c2ac96293"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "boyfriend1.jpg",
+        "boyfriend2.jpg",
+        "boyfriend3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "partner"
+      ],
+      "phrase": [
+        {
+          "word": "boyfriend",
+          "definition": "partner"
+        }
+      ],
+      "id": "4c046d321866",
+      "priority": 1,
+      "group": "8c5c2ac96293"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "girlfriend1.jpg",
+        "girlfriend2.jpg",
+        "girlfriend3.jpg"
+      ],
+      "formInTargetLanguage": "partnerka",
+      "meaningInSourceLanguage": "girlfriend",
+      "id": "405c85b852b9",
+      "priority": 0,
+      "group": "926457f52090"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "girlfriend1.jpg",
+        "girlfriend2.jpg",
+        "girlfriend3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "partnerka"
+      ],
+      "phrase": [
+        {
+          "word": "girlfriend",
+          "definition": "partnerka"
+        }
+      ],
+      "id": "6f99edd68dc6",
+      "priority": 1,
+      "group": "926457f52090"
+    }
+  ]
+}

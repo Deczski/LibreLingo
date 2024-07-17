@@ -281,6 +281,111 @@
           "levels": 3
         }
       ]
+    },
+    {
+      "title": "3. Family",
+      "skills": [
+        {
+          "summary": [
+            "Mati",
+            "Otec",
+            "Babica",
+            "Brat",
+            "Sěstra",
+            "Dědok",
+            "syn",
+            "dočera",
+            "roditelji",
+            "praroditelji",
+            "Mati i otec",
+            "Dědok i babica",
+            "Syn i dočera",
+            "Naši praroditelji sut doktori",
+            "Oni sut naši roditelji",
+            "On jest naš otec",
+            "Otec od našego otca jest naš dědok",
+            "Ta devčina je moja dočera",
+            "Moja dočera je medsestra",
+            "Tvoje dočery sut studentky",
+            "Pozdrav, Ja jesm Katarina",
+            "Ja jesm děvčina",
+            "Pozdrav, Ja jesm hlapec",
+            "Ty jesi děvčina",
+            "Ty Jesi žena",
+            "Ty jesi muž",
+            "On jest Vojtěh",
+            "Jaroslav jest hlapec",
+            "Tatjana jest žena",
+            "Tatjana i Vojtěh",
+            "My jesmo studenti",
+            "Tatjana ne jest hlapec"
+          ],
+          "practiceHref": "family-1",
+          "id": "2fdd76f3de18",
+          "title": "Family-1",
+          "levels": 7
+        },
+        {
+          "summary": [
+            "vnuk",
+            "tetka",
+            "ujec",
+            "kuzen",
+            "kuzina",
+            "deti",
+            "děte",
+            "Oni sut naše vnuki",
+            "Syn od mojego syna jest moj vnuk",
+            "Dočera od mojej dočery je moja vnučka",
+            "Nire aitaren emaztea nire ama da.",
+            "Gizon hau nire senarra da.",
+            "Bere senarra tour gida da.",
+            "Nire amaren senarra nire aita da.",
+            "Ja jesm tvoj ujec",
+            "Naš ujec je medbrat",
+            "Jih tetka je doktorica",
+            "Ona jest naša tetka",
+            "Naša tetka jest učitelka",
+            "Syn od mojego ujca je moj kuzen",
+            "Moj kuzen jest tož kelner",
+            "Dočera mojej tetky je moja kuzynka",
+            "Moj kuzen jest tož moj prijatelj",
+            "One sut moje deti",
+            "Ty jesi moje děte",
+            "To děti jest moj syn"
+          ],
+          "practiceHref": "family-2",
+          "id": "fb37ae25378b",
+          "title": "Family 2",
+          "levels": 6
+        },
+        {
+          "summary": [
+            "plemenica",
+            "partner",
+            "partnerka",
+            "Ja jesm brat od Gorana",
+            "Ja jesm sestra od Gorana",
+            "Aitorren anaia naiz",
+            "Aitorren arreba naiz.",
+            "Ta devčina je moja partnerka",
+            "Partnerka od mojego brata je prijatna",
+            "Partner od mojej sěstry jest vysoky",
+            "Ta Turistka jest moja plemenica",
+            "My jesmo tvoje plemenice",
+            "Te děti sut naše děti",
+            "Tvoje děti sut studenti",
+            "Brat našego otca jest naš ujec",
+            "Sěstra od našej mati jest naša tetka",
+            "Brat od našej matere je naš ujec",
+            "Sěstra od našego otca je naša tetka"
+          ],
+          "practiceHref": "family-3",
+          "id": "3890d971bae9",
+          "title": "Family 3",
+          "levels": 4
+        }
+      ]
     }
   ]
 }
