@@ -1,0 +1,216 @@
+Skill:
+  Id: 31
+  Name: Family-1
+
+New words:
+
+  - Word: Mati
+    Translation: Mother
+    Images:
+      - mother1
+      - mother2
+      - mother3
+
+  - Word: Otec
+    Translation: Father
+    Images:
+      - father1
+      - father2
+      - father3
+
+  - Word: Babica
+    Translation: Grandmother
+    Images:
+      - grandmother1
+      - grandmother2
+      - grandmother3
+
+  - Word: Brat
+    Translation: Brother
+
+  - Word: Sěstra
+    Translation: Sister
+
+ 
+  - Word: Dědok
+    Translation: Grandfather
+    Images:
+      - grandfather1
+      - grandfather2
+      - grandfather3
+
+  - Word: syn
+    Translation: son
+    Images:
+      - son1
+      - son2
+      - son3
+
+  - Word: dočera
+    Translation: daughter
+    Images:
+      - daughter1
+      - daughter2
+      - daughter3
+
+  - Word: roditelji
+    Translation: parents
+    Images:
+      - parents1
+      - parents2
+      - parents3
+
+  - Word: praroditelji
+    Translation: grandparents
+    Images:
+      - parents1
+      - parents2
+      - parents3
+
+Phrases:
+
+  - Phrase: Mati i otec
+    Translation: Mother and father
+
+  - Phrase: Dědok i babica
+    Translation: Grandfather and grandmother
+
+  - Phrase: Syn i dočera
+    Translation: son and daughter
+
+  - Phrase: Naši praroditelji sut doktori
+    Translation: Our grandparents are doctors.
+
+  - Phrase: Oni sut naši roditelji
+    Translation: They are our parents.
+
+  - Phrase: On jest naš otec
+    Translation: He is our father.
+
+  - Phrase: Otec od našego otca jest naš dědok
+    Translation: Our father’s father is our grandfather.
+    Alternative translations:
+      - The father of our father is our grandfather.
+
+  - Phrase: Ta devčina je moja dočera
+    Translation: This girl is my daughter.
+
+  - Phrase: Moja dočera je medsestra
+    Translation: My daughter is a  nurse. 
+
+  - Phrase: Tvoje dočery sut studentky
+    Translation: Your daughters are students.
+
+  - Phrase: Pozdrav, Ja jesm Katarina
+    Translation: Hello I am Katarina
+
+  - Phrase: Ja jesm děvčina
+    Translation: I am a girl.
+
+  - Phrase: Pozdrav, Ja jesm hlapec
+    Translation: Hello, I am a boy.
+
+  - Phrase: Ty jesi děvčina
+    Translation: You are a girl.
+
+  - Phrase: Ty Jesi žena
+    Translation: You are a woman.
+
+  - Phrase: Ty jesi muž
+    Translation: You are a man.
+
+  - Phrase: On jest Vojtěh
+    Alternative versions:
+      - On je Vojtěh
+    Translation: He is Vojtěh.
+
+  - Phrase: Jaroslav jest hlapec
+    Alternative versions:
+      - Jaroslav je hlapec
+    Translation: Jaroslav is a boy.
+
+  - Phrase: Tatjana jest žena
+    Alternative versions:
+      - Tatjana je žena
+    Translation: Tatjana is a woman.
+
+  - Phrase: Tatjana i Vojtěh
+    Translation: Tatjana and Vojtěh
+
+  - Phrase: My jesmo studenti
+    Translation: We are students
+
+  - Phrase: Tatjana ne jest hlapec
+    Translation: Tatjana is not a boy
+
+
+Mini-dictionary:
+
+  Interslavic:
+    - Vojtěh: Vojtěh (male name)
+    - Jaroslav: Jaroslav (male name)
+    - Katarina: Katarina (female name)
+    - Tatjana: Tatjana (female name)
+    - ja: I
+    - jesm: am
+    - ty: you
+    - jesi: are
+    - on: he
+    - ona: she
+    - ono: it
+    - my: we
+    - vy: you(plural)
+    - oni: they(masculine)
+    - one: they(feminine)
+    - jest: is
+    - muž: man
+    - žena: woman
+    - hlapec: boy
+    - děvčina:
+        - girl
+        - a girl
+        - the girl
+    - jedin: one
+    - pozdrav: hello
+    - člověk: human
+    - i: and
+    
+    - Byti: to be
+    - Ja Jesm: I am
+    - Ty Jesi: You are(singular)
+    - On Jest: He is
+    - Ona Jest: She is
+    - Ono Jest: It is
+    - My Jesmo: We are
+    - Oni Sut: They are(masculine)
+    - One Sut: They are(feminine)
+    - ne:
+      - no
+      - not 
+
+  English:
+    - Vojtěh: Vojtěh (male name)
+    - Jaroslav: Jaroslav (male name)
+    - Katarina: Katarina (female name)
+    - Tatjana: Tatjana (female name)
+    - I: Ja
+    - am: jesm
+    - you: ty
+    - are: jesi
+    - he: on
+    - is: jest
+    - she: ona
+    - it: ono
+    - this: to
+    - one: jedin
+    - man: muž
+    - woman: woman
+    - boy: hlapec
+    - girl: děvčina
+    - a: -a
+    - one: jedin
+    - hello: pozdrav
+    - human: člověk
+    - and: i
+    - no: ne
+    - not: ne
