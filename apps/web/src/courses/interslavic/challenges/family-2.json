@@ -16,7 +16,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "They"
+          "definition": "one(feminine)\noni(masculine)"
         },
         {
           "word": "are",
@@ -215,12 +215,12 @@
         "my",
         "grandson",
         "or",
+        "an",
         "me",
-        "An",
         "man",
         "boy",
-        "Is",
-        "My"
+        "if",
+        "Is"
       ],
       "solutions": [
         [
@@ -451,10 +451,10 @@
         "ama",
         "da",
         "aita",
+        "dira",
         "avta",
         "te",
-        "naše",
-        "ale"
+        "naše"
       ],
       "solutions": [
         [
@@ -514,8 +514,8 @@
         "We",
         "He",
         "be",
-        "or",
-        "She"
+        "if",
+        "or"
       ],
       "solutions": [
         [
@@ -582,9 +582,9 @@
         "senarra",
         "da",
         "naš",
+        "dira",
         "Ja",
-        "ne",
-        "Da"
+        "ne"
       ],
       "solutions": [
         [
@@ -631,10 +631,10 @@
         "is",
         "my",
         "husband",
+        "an",
+        "had",
         "Is",
-        "am",
-        "a",
-        "and"
+        "am"
       ],
       "solutions": [
         [
@@ -693,10 +693,10 @@
         "tour",
         "gida",
         "da",
+        "dira",
         "žena",
-        "Ja",
-        "Ona",
-        "te"
+        "hura",
+        "eta"
       ],
       "solutions": [
         [
@@ -747,8 +747,8 @@
         "He",
         "and",
         "be",
-        "or",
-        "bus"
+        "had",
+        "or"
       ],
       "solutions": [
         [
@@ -817,11 +817,11 @@
         "nire",
         "aita",
         "da",
+        "dira",
         "ama",
         "naše",
         "Bere",
-        "šere",
-        "ne"
+        "šere"
       ],
       "solutions": [
         [
@@ -882,7 +882,7 @@
         "or",
         "We",
         "He",
-        "am"
+        "an"
       ],
       "solutions": [
         [
@@ -988,7 +988,7 @@
         "uncle",
         "a",
         "or",
-        "We"
+        "an"
       ],
       "solutions": [
         [
@@ -1047,8 +1047,8 @@
         "je",
         "medbrat",
         "ne",
-        "te",
-        "Ja"
+        "se",
+        "te"
       ],
       "solutions": [
         [
@@ -1149,7 +1149,7 @@
         "doktorica",
         "ti",
         "te",
-        "Ja"
+        "eta"
       ],
       "solutions": [
         [
@@ -1192,9 +1192,9 @@
         "a",
         "doctor",
         "or",
+        "an",
         "am",
-        "It",
-        "eat"
+        "It"
       ],
       "solutions": [
         [
@@ -1244,9 +1244,9 @@
         "jest",
         "naša",
         "tetka",
+        "eta",
         "žena",
-        "ne",
-        "ona"
+        "ne"
       ],
       "solutions": [
         [
@@ -1342,9 +1342,9 @@
         "tetka",
         "jest",
         "učitelka",
+        "eta",
         "žena",
-        "aita",
-        "tetky"
+        "aita"
       ],
       "solutions": [
         [
@@ -1386,10 +1386,10 @@
         "is",
         "a",
         "teacher",
+        "an",
         "am",
         "are",
-        "and",
-        "eat"
+        "and"
       ],
       "solutions": [
         [
@@ -1456,10 +1456,10 @@
         "kuzen",
         "moje",
         "ne",
+        "se",
+        "uže",
         "te",
-        "moja",
-        "Moj",
-        "toj"
+        "moja"
       ],
       "solutions": [
         [
@@ -1519,8 +1519,8 @@
         "cousin",
         "male",
         "me",
+        "an",
         "Is",
-        "An",
         "We",
         "He",
         "man"
@@ -1648,12 +1648,12 @@
         "also",
         "a",
         "waiter",
+        "an",
         "am",
         "was",
         "are",
-        "Is",
-        "me",
-        "We"
+        "if",
+        "Is"
       ],
       "solutions": [
         [
@@ -1785,12 +1785,12 @@
         "my",
         "cousin",
         "female",
+        "an",
         "me",
         "am",
         "a",
         "man",
-        "Is",
-        "bus"
+        "Is"
       ],
       "solutions": [
         [
@@ -1944,11 +1944,11 @@
         "my",
         "friend",
         "me",
+        "an",
+        "if",
         "Is",
         "am",
-        "are",
-        "We",
-        "He"
+        "are"
       ],
       "solutions": [
         [
@@ -1988,7 +1988,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "They"
+          "definition": "one(feminine)\noni(masculine)"
         },
         {
           "word": "are",
@@ -2010,7 +2010,7 @@
         "deti",
         "je",
         "ne",
-        "Oni"
+        "se"
       ],
       "solutions": [
         [
@@ -2251,10 +2251,10 @@
         "is",
         "my",
         "son",
+        "if",
         "me",
         "We",
-        "He",
-        "She"
+        "He"
       ],
       "solutions": [
         [

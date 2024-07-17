@@ -147,70 +147,10 @@ Phrases:
 Mini-dictionary:
 
   Interslavic:
-    - Vojtěh: Vojtěh (male name)
-    - Jaroslav: Jaroslav (male name)
-    - Katarina: Katarina (female name)
-    - Tatjana: Tatjana (female name)
-    - ja: I
-    - jesm: am
-    - ty: you
-    - jesi: are
-    - on: he
-    - ona: she
-    - ono: it
-    - my: we
-    - vy: you(plural)
-    - oni: they(masculine)
-    - one: they(feminine)
-    - jest: is
-    - muž: man
-    - žena: woman
-    - hlapec: boy
-    - děvčina:
-        - girl
-        - a girl
-        - the girl
-    - jedin: one
-    - pozdrav: hello
-    - člověk: human
-    - i: and
-    
-    - Byti: to be
-    - Ja Jesm: I am
-    - Ty Jesi: You are(singular)
-    - On Jest: He is
-    - Ona Jest: She is
-    - Ono Jest: It is
-    - My Jesmo: We are
-    - Oni Sut: They are(masculine)
-    - One Sut: They are(feminine)
-    - ne:
-      - no
-      - not 
+
+  - Ja budu: I will
+
 
   English:
-    - Vojtěh: Vojtěh (male name)
-    - Jaroslav: Jaroslav (male name)
-    - Katarina: Katarina (female name)
-    - Tatjana: Tatjana (female name)
-    - I: Ja
-    - am: jesm
-    - you: ty
-    - are: jesi
-    - he: on
-    - is: jest
-    - she: ona
-    - it: ono
-    - this: to
-    - one: jedin
-    - man: muž
-    - woman: woman
-    - boy: hlapec
-    - girl: děvčina
-    - a: -a
-    - one: jedin
-    - hello: pozdrav
-    - human: člověk
-    - and: i
-    - no: ne
-    - not: ne
+
+  - know: znati

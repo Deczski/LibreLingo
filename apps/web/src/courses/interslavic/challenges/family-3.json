@@ -1,5 +1,5 @@
 {
-  "id": "e2d497c4cf65",
+  "id": "3890d971bae9",
   "levels": 4,
   "challenges": [
     {
@@ -88,7 +88,7 @@
         "brother",
         "or",
         "a",
-        "are"
+        "an"
       ],
       "solutions": [
         [
@@ -145,10 +145,10 @@
         "sestra",
         "od",
         "Gorana",
+        "eta",
         "je",
         "ne",
-        "Da",
-        "Ta"
+        "se"
       ],
       "solutions": [
         [
@@ -495,10 +495,10 @@
         "is",
         "my",
         "girlfriend",
+        "if",
         "Hi",
         "or",
-        "Is",
-        "me"
+        "Is"
       ],
       "solutions": [
         [
@@ -558,7 +558,7 @@
         "ne",
         "moja",
         "moje",
-        "to"
+        "eta"
       ],
       "solutions": [
         [
@@ -611,9 +611,9 @@
         "is",
         "nice",
         "be",
+        "if",
         "are",
-        "We",
-        "He"
+        "We"
       ],
       "solutions": [
         [
@@ -668,7 +668,7 @@
         },
         {
           "word": "tall",
-          "definition": "vysoky"
+          "definition": "tall"
         }
       ],
       "chips": [
@@ -680,9 +680,9 @@
         "vysoky",
         "jeste",
         "je",
+        "se",
         "Jest",
-        "te",
-        "moje"
+        "te"
       ],
       "solutions": [
         [
@@ -725,7 +725,7 @@
         },
         {
           "word": "vysoky",
-          "definition": "tall"
+          "definition": "vysoky"
         }
       ],
       "chips": [
@@ -735,9 +735,9 @@
         "is",
         "tall",
         "be",
-        "or",
-        "are",
-        "We"
+        "try",
+        "if",
+        "or"
       ],
       "solutions": [
         [
@@ -780,7 +780,7 @@
         },
         {
           "word": "tourist",
-          "definition": "Turist"
+          "definition": "tourist"
         },
         {
           "word": "is",
@@ -801,10 +801,10 @@
         "jest",
         "moja",
         "plemenica",
+        "eta",
         "žena",
         "aita",
-        "Ja",
-        "jesi"
+        "Ja"
       ],
       "solutions": [
         [
@@ -851,10 +851,10 @@
         "is",
         "my",
         "niece",
+        "if",
         "me",
         "We",
-        "He",
-        "be"
+        "He"
       ],
       "solutions": [
         [
@@ -949,7 +949,7 @@
         "nieces",
         "He",
         "be",
-        "Are"
+        "we"
       ],
       "solutions": [
         [
@@ -1343,12 +1343,12 @@
         "jest",
         "naša",
         "tetka",
+        "eta",
         "te",
         "naš",
         "naše",
         "Naša",
-        "Ja",
-        "ne"
+        "Ja"
       ],
       "solutions": [
         [
@@ -1486,8 +1486,8 @@
         "te",
         "naše",
         "Ja",
-        "Da",
-        "Ta"
+        "se",
+        "Da"
       ],
       "solutions": [
         [
@@ -1621,12 +1621,12 @@
         "je",
         "naša",
         "tetka",
+        "eta",
         "te",
         "Ja",
         "ne",
         "Da",
-        "Ta",
-        "to"
+        "Ta"
       ],
       "solutions": [
         [
@@ -1750,24 +1750,16 @@
     },
     {
       "type": "cards",
-      "pictures": [
-        "boyfriend1.jpg",
-        "boyfriend2.jpg",
-        "boyfriend3.jpg"
-      ],
+      "pictures": null,
       "formInTargetLanguage": "partner",
       "meaningInSourceLanguage": "boyfriend",
-      "id": "7367c9cff81f",
+      "id": "31c1f6c5a254",
       "priority": 0,
-      "group": "8c5c2ac96293"
+      "group": "b483c03cd151"
     },
     {
       "type": "shortInput",
-      "pictures": [
-        "boyfriend1.jpg",
-        "boyfriend2.jpg",
-        "boyfriend3.jpg"
-      ],
+      "pictures": null,
       "formInTargetLanguage": [
         "partner"
       ],
@@ -1777,9 +1769,9 @@
           "definition": "partner"
         }
       ],
-      "id": "4c046d321866",
+      "id": "909ebe1075f4",
       "priority": 1,
-      "group": "8c5c2ac96293"
+      "group": "b483c03cd151"
     },
     {
       "type": "cards",

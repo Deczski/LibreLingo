@@ -27,7 +27,7 @@
         "Ja",
         "budu",
         "bude",
-        "Da"
+        "by"
       ],
       "solutions": [
         [
@@ -100,7 +100,7 @@
         "Ty",
         "budeš",
         "bude",
-        "My"
+        "by"
       ],
       "solutions": [
         [
@@ -392,7 +392,7 @@
         "My",
         "budemo",
         "bude",
-        "Ty"
+        "by"
       ],
       "solutions": [
         [
@@ -465,7 +465,7 @@
         "Vy",
         "budete",
         "bude",
-        "te"
+        "by"
       ],
       "solutions": [
         [
@@ -933,8 +933,8 @@
         "You",
         "will",
         "sleep",
-        "you",
-        "Yes"
+        "lot",
+        "you"
       ],
       "solutions": [
         [
@@ -1042,7 +1042,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "They"
+          "definition": "one(feminine)\noni(masculine)"
         },
         {
           "word": "will",
@@ -1218,7 +1218,7 @@
         "budeš",
         "igrati",
         "bude",
-        "ti"
+        "by"
       ],
       "solutions": [
         [
@@ -1254,7 +1254,7 @@
         "will",
         "play",
         "sing",
-        "girl"
+        "ugly"
       ],
       "solutions": [
         [
@@ -1298,7 +1298,7 @@
         "budemo",
         "pěvati",
         "bude",
-        "to"
+        "by"
       ],
       "solutions": [
         [
@@ -1334,7 +1334,7 @@
         "will",
         "sing",
         "is",
-        "Hi"
+        "if"
       ],
       "solutions": [
         [
@@ -1574,7 +1574,7 @@
         "will",
         "eat",
         "it",
-        "fat"
+        "I"
       ],
       "solutions": [
         [
@@ -1697,7 +1697,7 @@
         },
         {
           "word": "buy",
-          "definition": "buy"
+          "definition": "Kupovati"
         }
       ],
       "chips": [
@@ -1733,7 +1733,7 @@
         },
         {
           "word": "kupovati",
-          "definition": "kupovati"
+          "definition": "Buy"
         }
       ],
       "chips": [

@@ -56,8 +56,8 @@
       "chips": [
         "I",
         "would",
-        "It",
-        "a"
+        "old",
+        "It"
       ],
       "solutions": [
         [
@@ -192,8 +192,8 @@
       "chips": [
         "He",
         "would",
-        "We",
-        "You"
+        "old",
+        "We"
       ],
       "solutions": [
         [
@@ -260,8 +260,8 @@
       "chips": [
         "She",
         "would",
-        "You",
-        "the"
+        "old",
+        "You"
       ],
       "solutions": [
         [
@@ -328,8 +328,8 @@
       "chips": [
         "It",
         "would",
-        "I",
-        "You"
+        "old",
+        "I"
       ],
       "solutions": [
         [
@@ -397,7 +397,7 @@
         "We",
         "would",
         "we",
-        "He"
+        "old"
       ],
       "solutions": [
         [
@@ -1080,7 +1080,7 @@
         "would",
         "sleep",
         "they",
-        "She"
+        "old"
       ],
       "solutions": [
         [
@@ -1167,7 +1167,7 @@
         "would",
         "drive",
         "or",
-        "are"
+        "old"
       ],
       "solutions": [
         [
@@ -1406,8 +1406,8 @@
         "He",
         "would",
         "build",
-        "will",
-        "be"
+        "old",
+        "will"
       ],
       "solutions": [
         [
@@ -1950,13 +1950,13 @@
         "It",
         "",
         "me",
+        "A",
+        "an",
         "am",
         "We",
         "He",
         "be",
-        "not",
-        "my",
-        "are"
+        "not"
       ],
       "solutions": [
         [
@@ -2043,9 +2043,9 @@
         "ty",
         "My",
         "Vy",
+        "bus",
         "bylo",
-        "byh",
-        "to"
+        "byh"
       ],
       "solutions": [
         [
@@ -2119,11 +2119,11 @@
         "of",
         "or",
         "me",
+        "an",
         "am",
         "are",
         "We",
-        "He",
-        "is"
+        "He"
       ],
       "solutions": [
         [
@@ -2311,14 +2311,14 @@
         "it",
         "am",
         "be",
+        "an",
         "are",
         "He",
         "or",
         "me",
         "eat",
         "of",
-        "is",
-        "It"
+        "is"
       ],
       "solutions": [
         [
@@ -2489,6 +2489,7 @@
         "had",
         "started",
         "yesterday",
+        "red",
         "are",
         "We",
         "me",
@@ -2496,8 +2497,7 @@
         "the",
         "or",
         "am",
-        "She",
-        "a"
+        "She"
       ],
       "solutions": [
         [

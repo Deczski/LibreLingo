@@ -323,9 +323,9 @@
         "ili",
         "student",
         "te",
-        "ti",
+        "se",
         "li",
-        "jesi"
+        "ti"
       ],
       "solutions": [
         [
@@ -375,11 +375,11 @@
         "a",
         "student",
         "are",
+        "an",
         "am",
         "We",
         "He",
-        "be",
-        "eat"
+        "be"
       ],
       "solutions": [
         [
@@ -515,8 +515,8 @@
         "Kto",
         "jest",
         "ona",
-        "Ona",
-        "Ono"
+        "eta",
+        "Ona"
       ],
       "solutions": [
         [
@@ -632,7 +632,7 @@
         "is",
         "it",
         "It",
-        "am"
+        "if"
       ],
       "solutions": [
         [
@@ -967,9 +967,9 @@
         "to",
         "takože",
         "avto",
+        "ako",
         "te",
-        "tož",
-        "Kto"
+        "tož"
       ],
       "solutions": [
         [
@@ -1013,8 +1013,8 @@
         "car",
         "am",
         "is",
-        "I",
-        "It"
+        "an",
+        "I"
       ],
       "solutions": [
         [
@@ -1080,7 +1080,7 @@
         "Kto",
         "Čto",
         "tut",
-        "avta"
+        "ako"
       ],
       "solutions": [
         [
@@ -1132,9 +1132,9 @@
         "I",
         "am",
         "is",
+        "an",
         "It",
-        "",
-        "A"
+        ""
       ],
       "solutions": [
         [
@@ -1438,7 +1438,7 @@
         },
         {
           "word": "they?",
-          "definition": "they?"
+          "definition": "one(feminine)\noni(masculine)"
         }
       ],
       "chips": [
@@ -1518,7 +1518,7 @@
         },
         {
           "word": "they?",
-          "definition": "they?"
+          "definition": "one(feminine)\noni(masculine)"
         }
       ],
       "chips": [
@@ -1594,7 +1594,7 @@
         },
         {
           "word": "they",
-          "definition": "they"
+          "definition": "one(feminine)\noni(masculine)"
         },
         {
           "word": "the",
@@ -1686,7 +1686,7 @@
         },
         {
           "word": "they",
-          "definition": "they"
+          "definition": "one(feminine)\noni(masculine)"
         },
         {
           "word": "buses",
@@ -1759,8 +1759,8 @@
         "cars",
         "are",
         "be",
-        "the",
-        "We"
+        "try",
+        "the"
       ],
       "solutions": [
         [
@@ -2103,9 +2103,9 @@
         "sut",
         "te",
         "ženy",
+        "se",
         "to",
-        "je",
-        "ne"
+        "je"
       ],
       "solutions": [
         [
@@ -2279,7 +2279,7 @@
         },
         {
           "word": "they?",
-          "definition": "they?"
+          "definition": "one(feminine)\noni(masculine)"
         }
       ],
       "chips": [
@@ -2355,7 +2355,7 @@
         },
         {
           "word": "they",
-          "definition": "they"
+          "definition": "one(feminine)\noni(masculine)"
         },
         {
           "word": "women",
