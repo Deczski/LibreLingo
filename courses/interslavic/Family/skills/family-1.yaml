@@ -7,160 +7,103 @@ Skill:
   - hello1
 
 New words:
-  - Word: Ja
-    Translation: I
-    Images:
-      - iam
 
-New words:
   - Word: Mati
     Translation: Mother
     Images:
       - mother1
+      - mother2
+      - mother3
 
-New words:
   - Word: Otec
     Translation: Father
     Images:
       - father1
+      - father2
+      - father3
 
-New words:
   - Word: Babica
     Translation: Grandmother
+    Images:
+      - grandmother1
+      - grandmother2
+      - grandmother3
 
-New words:
   - Word: Brat
     Translation: Brother
 
-New words:
   - Word: Sěstra
     Translation: Sister
 
-New words:
+ 
   - Word: Dědok
     Translation: Grandfather
-
-New words:
-  - Word: Oni
-    Translation: They(masculine)
     Images:
-      - they2
+      - grandfather1
+      - grandfather2
+      - grandfather3
 
-New words:
-  - Word: One
-    Translation: They(feminine)
+  - Word: syn
+    Translation: son
     Images:
-      - they3
+      - son1
+      - son2
+      - son3
 
-New words:
-  - Word: muž
-    Translation: man
+  - Word: dočera
+    Translation: daughter
     Images:
-      - man1
-      - man2
-      - man3
+      - daughter1
+      - daughter2
+      - daughter3
 
-  - Word: žena
-    Translation: woman
+  - Word: roditelji
+    Translation: parents
     Images:
-      - woman1
-      - woman2
-      - woman3
+      - parents1
+      - parents2
+      - parents3
 
-  - Word: hlapec
-    Translation: boy
-    Also accepted:
-      - the boy
-      - a boy
+  - Word: praroditelji
+    Translation: grandparents
     Images:
-      - boy1
-      - boy2
-      - boy3
-
-  - Word: děvčina
-    Translation: girl
-    Also accepted:
-      - the girl
-      - a girl
-    Images:
-      - girl1
-      - girl2
-      - girl3
-
-  - Word: Ja jesm
-    Synonyms:
-      - Jesm
-    Translation: I am
-    Images:
-      - iam1
-      - iam2
-      - iam3
-
-  - Word: Ty jesi
-    Synonyms:
-      - jesi
-    Translation: you are
-    Also accepted:
-      - you're
-    Images:
-      - you1
-      - you2
-      - you3
-
-  - Word: on jest
-    Synonyms:
-      - on je
-    Translation: he is
-    Images:
-      - he1
-      - he3
-      - he2
-
-
-  - Word: pozdrav
-    Translation: hello
-    Also accepted:
-      - hi
-    Images:
-      - hello1
-      - hello2
-      - hello3
+      - parents1
+      - parents2
+      - parents3
 
 Phrases:
 
-  - Phrase: Ja jesm
-    Translation: I am
+  - Phrase: Mati i otec
+    Translation: Mother and father
 
-  - Phrase: Ty jesi
-    Translation: You(singular) are
+  - Phrase: Dědok i babica
+    Translation: Grandfather and grandmother
 
-  - Phrase: My jesmo
-    Translation: We are
+  - Phrase: Syn i dočera
+    Translation: son and daughter
 
-  - Phrase: Vy jeste
-    Translation: You(plural) are
+  - Phrase: Naši praroditelji sut doktori
+    Translation: Our grandparents are doctors.
 
-  - Phrase: On jest
-    Translation: He is 
-    Images:
-      -he1.jpg
+  - Phrase: Oni sut naši roditelji
+    Translation: They are our parents.
 
-  - Phrase: Ona jest
-    Translation: She is
-    Images:
-      -she1.jpg
+  - Phrase: On jest naš otec
+    Translation: He is our father.
 
-  - Phrase: Ono jest
-    Translation: It is   
+  - Phrase: Otec od našego otca jest naš dědok
+    Translation: Our father’s father is our grandfather.
+    Alternative translations:
+      - The father of our father is our grandfather.
 
-  - Phrase: Oni sut
-    Translation: They(masculine) are
+  - Phrase: Ta devčina je moja dočera
+    Translation: This girl is my daughter.
 
-  - Phrase: One sut
-    Translation: They(feminine) are    
+  - Phrase: Moja dočera je medsestra
+    Translation: My daughter is a  nurse. 
 
-  - Phrase: Ja jesm muž
-    Translation: I am a man.
+  - Phrase: Tvoje dočery sut studentky
+    Translation: Your daughters are students.
 
   - Phrase: Pozdrav, Ja jesm Katarina
     Translation: Hello I am Katarina
