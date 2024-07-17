@@ -1,5 +1,5 @@
 {
-  "id": "5a8466a3ddb7",
+  "id": "2fdd76f3de18",
   "levels": 7,
   "challenges": [
     {
@@ -111,8 +111,8 @@
         "Dědok",
         "i",
         "babica",
-        "li",
-        "ti"
+        "ti",
+        "li"
       ],
       "solutions": [
         [
@@ -228,7 +228,7 @@
         "and",
         "daughter",
         "aunt",
-        "are"
+        "an"
       ],
       "solutions": [
         [
@@ -350,7 +350,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "one(feminine)\noni(masculine)"
+          "definition": "They"
         },
         {
           "word": "are",
@@ -372,7 +372,7 @@
         "roditelji",
         "ili",
         "oni",
-        "li"
+        "ti"
       ],
       "solutions": [
         [
@@ -507,8 +507,8 @@
         "is",
         "our",
         "father",
-        "he",
         "or",
+        "he",
         "Her"
       ],
       "solutions": [
@@ -752,10 +752,10 @@
         "is",
         "my",
         "daughter",
-        "if",
         "Hi",
         "or",
-        "Is"
+        "Is",
+        "me"
       ],
       "solutions": [
         [
@@ -811,7 +811,7 @@
         "medsestra",
         "moja",
         "moje",
-        "včera"
+        "Dočera"
       ],
       "solutions": [
         [
@@ -908,7 +908,7 @@
         "studentky",
         "tut",
         "bude",
-        "se"
+        "student"
       ],
       "solutions": [
         [
@@ -1001,8 +1001,8 @@
         "jesm",
         "Katarina",
         "tam",
-        "Ona",
-        "žena"
+        "eta",
+        "Ona"
       ],
       "solutions": [
         [
@@ -1044,8 +1044,8 @@
         "am",
         "Katarina",
         "a",
-        "He",
-        "It"
+        "an",
+        "He"
       ],
       "solutions": [
         [
@@ -1131,8 +1131,8 @@
         "a",
         "girl",
         "",
-        "is",
-        "It"
+        "an",
+        "A"
       ],
       "solutions": [
         [
@@ -1232,7 +1232,7 @@
         "He",
         "be",
         "",
-        "We"
+        "an"
       ],
       "solutions": [
         [
@@ -1320,7 +1320,7 @@
         "girl",
         "or",
         "am",
-        "car"
+        "Are"
       ],
       "solutions": [
         [
@@ -1405,9 +1405,9 @@
         "are",
         "a",
         "woman",
+        "an",
         "am",
-        "man",
-        "or"
+        "man"
       ],
       "solutions": [
         [
@@ -1492,9 +1492,9 @@
         "are",
         "a",
         "man",
+        "an",
         "am",
-        "and",
-        "car"
+        "and"
       ],
       "solutions": [
         [
@@ -1671,7 +1671,7 @@
         "boy",
         "am",
         "was",
-        "of"
+        "or"
       ],
       "solutions": [
         [
@@ -1761,9 +1761,9 @@
         "is",
         "a",
         "woman",
+        "an",
         "man",
-        "am",
-        "was"
+        "am"
       ],
       "solutions": [
         [
@@ -1844,7 +1844,7 @@
         "and",
         "Vojtěh",
         "aunt",
-        "man"
+        "an"
       ],
       "solutions": [
         [
@@ -2020,10 +2020,10 @@
         "not",
         "a",
         "boy",
+        "an",
         "am",
         "It",
-        "eat",
-        "lot"
+        "eat"
       ],
       "solutions": [
         [

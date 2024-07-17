@@ -204,9 +204,9 @@
         "Vojtěh",
         "and",
         "Katarina",
+        "an",
         "am",
         "a",
-        "try",
         "Are"
       ],
       "solutions": [
@@ -264,8 +264,8 @@
         "jesi",
         "Kto",
         "to",
-        "ako",
-        "Čto"
+        "Čto",
+        "Do"
       ],
       "solutions": [
         [
@@ -315,7 +315,7 @@
         "or",
         "You",
         "son",
-        "boy"
+        "now"
       ],
       "solutions": [
         [
@@ -413,10 +413,10 @@
         "fine",
         "Thank",
         "you",
+        "an",
         "a",
         "man",
-        "and",
-        "are"
+        "and"
       ],
       "solutions": [
         [
@@ -457,7 +457,7 @@
         },
         {
           "word": "they",
-          "definition": "one(feminine)\noni(masculine)"
+          "definition": "they"
         },
         {
           "word": "Vojtěh",
@@ -554,9 +554,9 @@
         "and",
         "Katarina",
         "are",
-        "try",
         "the",
-        "And"
+        "And",
+        "an"
       ],
       "solutions": [
         [
@@ -673,11 +673,11 @@
         "Vojtěh",
         "and",
         "Katarina",
+        "an",
+        "red",
         "am",
         "He",
-        "a",
-        "be",
-        "try"
+        "a"
       ],
       "solutions": [
         [
@@ -736,7 +736,7 @@
         "jesi",
         "Vy",
         "je",
-        "by"
+        "te"
       ],
       "solutions": [
         [
@@ -785,8 +785,8 @@
         "Vojtěh",
         "not",
         "You",
-        "lot",
-        "or"
+        "or",
+        "good"
       ],
       "solutions": [
         [
@@ -842,9 +842,9 @@
         "Ty",
         "jesi",
         "je",
-        "by",
         "ženy",
-        "Do"
+        "Do",
+        "jesm"
       ],
       "solutions": [
         [
@@ -891,10 +891,10 @@
         "How",
         "are",
         "you",
+        "now",
         "You",
         "not",
-        "or",
-        "son"
+        "or"
       ],
       "solutions": [
         [
@@ -999,10 +999,10 @@
         "How",
         "are",
         "you",
-        "lot",
         "He",
         "You",
-        "not"
+        "not",
+        "or"
       ],
       "solutions": [
         [
@@ -1058,9 +1058,9 @@
         "A",
         "Ty",
         "je",
-        "by",
         "Ta",
-        "My"
+        "My",
+        "Vy"
       ],
       "solutions": [
         [
@@ -1107,10 +1107,10 @@
         "fine",
         "And",
         "you",
+        "an",
         "a",
         "and",
-        "We",
-        "He"
+        "We"
       ],
       "solutions": [
         [
@@ -1177,9 +1177,9 @@
         "dobro",
         "Hvala",
         "tam",
-        "ako",
         "Kako",
-        "je"
+        "je",
+        "to"
       ],
       "solutions": [
         [
@@ -1227,11 +1227,11 @@
         "fine",
         "Thank",
         "you",
+        "an",
         "a",
         "and",
         "are",
-        "is",
-        "man"
+        "is"
       ],
       "solutions": [
         [
@@ -1371,8 +1371,8 @@
         "jest",
         "Katarina",
         "ona",
-        "Ja",
-        "On"
+        "eta",
+        "Ja"
       ],
       "solutions": [
         [

@@ -27,7 +27,7 @@
         "Ja",
         "budu",
         "bude",
-        "by"
+        "Da"
       ],
       "solutions": [
         [
@@ -100,7 +100,7 @@
         "Ty",
         "budeš",
         "bude",
-        "by"
+        "My"
       ],
       "solutions": [
         [
@@ -392,7 +392,7 @@
         "My",
         "budemo",
         "bude",
-        "by"
+        "Ty"
       ],
       "solutions": [
         [
@@ -465,7 +465,7 @@
         "Vy",
         "budete",
         "bude",
-        "by"
+        "te"
       ],
       "solutions": [
         [
@@ -623,8 +623,8 @@
         "Ja",
         "budu",
         "znati",
-        "Ona",
-        "ti"
+        "bat",
+        "Ona"
       ],
       "solutions": [
         [
@@ -659,8 +659,8 @@
         "I",
         "will",
         "know",
-        "is",
-        "It"
+        "now",
+        "is"
       ],
       "solutions": [
         [
@@ -933,8 +933,8 @@
         "You",
         "will",
         "sleep",
-        "lot",
-        "you"
+        "you",
+        "Yes"
       ],
       "solutions": [
         [
@@ -978,7 +978,7 @@
         "budut",
         "pisati",
         "sut",
-        "Ona"
+        "bat"
       ],
       "solutions": [
         [
@@ -1013,8 +1013,8 @@
         "They(feminine",
         "will",
         "write",
-        "fine",
-        "wife"
+        "white",
+        "fine"
       ],
       "solutions": [
         [
@@ -1042,7 +1042,7 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "one(feminine)\noni(masculine)"
+          "definition": "They"
         },
         {
           "word": "will",
@@ -1138,7 +1138,7 @@
         "budu",
         "razuměti",
         "hau",
-        "sut"
+        "bat"
       ],
       "solutions": [
         [
@@ -1218,7 +1218,7 @@
         "budeš",
         "igrati",
         "bude",
-        "by"
+        "ti"
       ],
       "solutions": [
         [
@@ -1298,7 +1298,7 @@
         "budemo",
         "pěvati",
         "bude",
-        "by"
+        "to"
       ],
       "solutions": [
         [
@@ -1334,7 +1334,7 @@
         "will",
         "sing",
         "is",
-        "if"
+        "Hi"
       ],
       "solutions": [
         [
@@ -1697,7 +1697,7 @@
         },
         {
           "word": "buy",
-          "definition": "Kupovati"
+          "definition": "buy"
         }
       ],
       "chips": [
@@ -1733,7 +1733,7 @@
         },
         {
           "word": "kupovati",
-          "definition": "Buy"
+          "definition": "kupovati"
         }
       ],
       "chips": [
@@ -1794,8 +1794,8 @@
         "zautra",
         "tam",
         "tut",
-        "sut",
-        "hau"
+        "bat",
+        "sut"
       ],
       "solutions": [
         [
