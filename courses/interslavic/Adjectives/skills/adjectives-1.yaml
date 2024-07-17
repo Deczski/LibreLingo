@@ -136,5 +136,8 @@ Phrases:
     Translation: The cars are gray.
 
 Mini-dictionary:
-  Basque:
-    - autobus: bus
+  Interslavic:
+    - avtobus: bus
+
+  English:
+    - bus: avtobus  
