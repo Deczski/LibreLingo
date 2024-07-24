@@ -478,7 +478,7 @@
         },
         {
           "word": "je",
-          "definition": "je"
+          "definition": "is"
         },
         {
           "word": "moja",
@@ -597,7 +597,7 @@
         },
         {
           "word": "je",
-          "definition": "je"
+          "definition": "is"
         },
         {
           "word": "prijatna",
@@ -884,7 +884,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "are",
@@ -931,7 +931,7 @@
         },
         {
           "word": "jesmo",
-          "definition": "jesmo"
+          "definition": "were"
         },
         {
           "word": "tvoje",
@@ -990,7 +990,7 @@
         },
         {
           "word": "our",
-          "definition": "our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "children.",
@@ -1028,7 +1028,7 @@
       "phrase": [
         {
           "word": "Te",
-          "definition": "Te"
+          "definition": "those"
         },
         {
           "word": "děti",
@@ -1180,7 +1180,7 @@
       "phrase": [
         {
           "word": "Our",
-          "definition": "Our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "father’s",
@@ -1196,7 +1196,7 @@
         },
         {
           "word": "our",
-          "definition": "our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "uncle.",
@@ -1312,7 +1312,7 @@
       "phrase": [
         {
           "word": "Our",
-          "definition": "Our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "mother’s",
@@ -1328,7 +1328,7 @@
         },
         {
           "word": "our",
-          "definition": "our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "aunt.",
@@ -1451,7 +1451,7 @@
       "phrase": [
         {
           "word": "Our",
-          "definition": "Our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "mother’s",
@@ -1467,7 +1467,7 @@
         },
         {
           "word": "our",
-          "definition": "our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "uncle.",
@@ -1527,7 +1527,7 @@
         },
         {
           "word": "je",
-          "definition": "je"
+          "definition": "is"
         },
         {
           "word": "naš",
@@ -1590,7 +1590,7 @@
       "phrase": [
         {
           "word": "Our",
-          "definition": "Our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "father’s",
@@ -1606,7 +1606,7 @@
         },
         {
           "word": "our",
-          "definition": "our"
+          "definition": "naš\nnaša\nnaše\nnaši"
         },
         {
           "word": "aunt.",
@@ -1666,7 +1666,7 @@
         },
         {
           "word": "je",
-          "definition": "je"
+          "definition": "is"
         },
         {
           "word": "naša",

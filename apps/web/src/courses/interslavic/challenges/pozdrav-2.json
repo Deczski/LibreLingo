@@ -20,7 +20,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -56,7 +56,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         }
       ],
       "chips": [
@@ -94,7 +94,7 @@
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -130,7 +130,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         }
       ],
       "chips": [
@@ -168,7 +168,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -198,7 +198,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         }
       ],
       "chips": [
@@ -236,7 +236,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -266,7 +266,7 @@
         },
         {
           "word": "byla",
-          "definition": "byla"
+          "definition": "was"
         }
       ],
       "chips": [
@@ -304,7 +304,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -334,7 +334,7 @@
         },
         {
           "word": "bylo",
-          "definition": "bylo"
+          "definition": "was"
         }
       ],
       "chips": [
@@ -368,11 +368,11 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -404,11 +404,11 @@
         },
         {
           "word": "jesmo",
-          "definition": "jesmo"
+          "definition": "were"
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         }
       ],
       "chips": [
@@ -442,11 +442,11 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "You(plural)"
+          "definition": "vy"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -478,11 +478,11 @@
         },
         {
           "word": "jeste",
-          "definition": "jeste"
+          "definition": "are"
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         }
       ],
       "chips": [
@@ -516,11 +516,11 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "They(masculine)"
+          "definition": "oni"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -550,7 +550,7 @@
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         }
       ],
       "chips": [
@@ -584,11 +584,11 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "They(feminine)"
+          "definition": "one"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
@@ -618,7 +618,7 @@
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         }
       ],
       "chips": [
@@ -656,7 +656,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "a",
@@ -703,7 +703,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "učitelj",
@@ -746,11 +746,11 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "You(singular)"
+          "definition": "ty"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "a",
@@ -797,7 +797,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "matematik",
@@ -844,7 +844,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "rich",
@@ -880,7 +880,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "bogaty",
@@ -924,7 +924,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "a",
@@ -964,7 +964,7 @@
         },
         {
           "word": "byla",
-          "definition": "byla"
+          "definition": "was"
         },
         {
           "word": "kraljeva",
@@ -1011,7 +1011,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "here",
@@ -1047,7 +1047,7 @@
         },
         {
           "word": "bylo",
-          "definition": "bylo"
+          "definition": "was"
         },
         {
           "word": "tut",
@@ -1087,11 +1087,11 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "students",
@@ -1130,11 +1130,11 @@
         },
         {
           "word": "jesmo",
-          "definition": "jesmo"
+          "definition": "were"
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         },
         {
           "word": "studenti",
@@ -1174,11 +1174,11 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "You(plural)"
+          "definition": "vy"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "athletes",
@@ -1217,11 +1217,11 @@
         },
         {
           "word": "jeste",
-          "definition": "jeste"
+          "definition": "are"
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         },
         {
           "word": "sportniki",
@@ -1261,11 +1261,11 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "They(masculine)"
+          "definition": "oni"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "cooks",
@@ -1301,7 +1301,7 @@
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         },
         {
           "word": "kuhari",
@@ -1341,11 +1341,11 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "They(feminine)"
+          "definition": "one"
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "journalists",
@@ -1381,7 +1381,7 @@
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         },
         {
           "word": "žurnalistki",
@@ -1503,7 +1503,7 @@
         },
         {
           "word": "day",
-          "definition": "day"
+          "definition": "denj"
         }
       ],
       "id": "31db2dfb6c30",
@@ -1540,7 +1540,7 @@
         },
         {
           "word": "morning",
-          "definition": "morning"
+          "definition": "zautra"
         }
       ],
       "id": "7acd1d6fa682",
@@ -1573,7 +1573,7 @@
       "phrase": [
         {
           "word": "Thank",
-          "definition": "Thank"
+          "definition": "hvala"
         },
         {
           "word": "you",

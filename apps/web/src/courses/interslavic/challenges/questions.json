@@ -313,7 +313,7 @@
         },
         {
           "word": "student?",
-          "definition": "student?"
+          "definition": "student"
         }
       ],
       "chips": [
@@ -363,7 +363,7 @@
         },
         {
           "word": "student?",
-          "definition": "student?"
+          "definition": "student"
         }
       ],
       "chips": [
@@ -1183,7 +1183,7 @@
         },
         {
           "word": "we?",
-          "definition": "we?"
+          "definition": "my"
         }
       ],
       "chips": [
@@ -1219,7 +1219,7 @@
         },
         {
           "word": "jesmo?",
-          "definition": "jesmo?"
+          "definition": "were"
         }
       ],
       "chips": [
@@ -1263,7 +1263,7 @@
         },
         {
           "word": "we?",
-          "definition": "we?"
+          "definition": "my"
         }
       ],
       "chips": [
@@ -1299,7 +1299,7 @@
         },
         {
           "word": "jesmo?",
-          "definition": "jesmo?"
+          "definition": "were"
         }
       ],
       "chips": [
@@ -1343,7 +1343,7 @@
         },
         {
           "word": "you(plural)?",
-          "definition": "you(plural)?"
+          "definition": "vy"
         }
       ],
       "chips": [
@@ -1379,7 +1379,7 @@
         },
         {
           "word": "jeste?",
-          "definition": "jeste?"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -1807,7 +1807,7 @@
         },
         {
           "word": "you(plural)?",
-          "definition": "you(plural)?"
+          "definition": "vy"
         }
       ],
       "chips": [
@@ -1843,7 +1843,7 @@
         },
         {
           "word": "jeste?",
-          "definition": "jeste?"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -1898,11 +1898,11 @@
         },
         {
           "word": "you(plural)",
-          "definition": "you(plural)"
+          "definition": "vy"
         },
         {
           "word": "teachers?",
-          "definition": "teachers?"
+          "definition": "učitelji"
         }
       ],
       "chips": [
@@ -1930,7 +1930,7 @@
       "phrase": [
         {
           "word": "Jeste",
-          "definition": "Jeste"
+          "definition": "are"
         },
         {
           "word": "Vy",
@@ -1938,7 +1938,7 @@
         },
         {
           "word": "učitelji?",
-          "definition": "učitelji?"
+          "definition": "teachers"
         }
       ],
       "chips": [
@@ -2001,7 +2001,7 @@
         },
         {
           "word": "teachers?",
-          "definition": "teachers?"
+          "definition": "učitelji"
         }
       ],
       "chips": [
@@ -2040,11 +2040,11 @@
         },
         {
           "word": "ti",
-          "definition": "ti"
+          "definition": "those"
         },
         {
           "word": "učitelji?",
-          "definition": "učitelji?"
+          "definition": "teachers"
         }
       ],
       "chips": [
@@ -2134,7 +2134,7 @@
         },
         {
           "word": "te",
-          "definition": "te"
+          "definition": "those"
         },
         {
           "word": "ženy?",
@@ -2189,7 +2189,7 @@
         },
         {
           "word": "men?",
-          "definition": "men?"
+          "definition": "muži"
         }
       ],
       "chips": [
@@ -2228,7 +2228,7 @@
         },
         {
           "word": "ti",
-          "definition": "ti"
+          "definition": "those"
         },
         {
           "word": "muži?",
@@ -2367,7 +2367,7 @@
         },
         {
           "word": "men?",
-          "definition": "men?"
+          "definition": "muži"
         }
       ],
       "chips": [

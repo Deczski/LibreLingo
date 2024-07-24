@@ -20,7 +20,7 @@
         },
         {
           "word": "me.",
-          "definition": "me."
+          "definition": "mene\nmnoju\nmně"
         },
         {
           "word": "Who",
@@ -129,7 +129,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "are",
@@ -183,7 +183,7 @@
         },
         {
           "word": "Jesmo",
-          "definition": "Jesmo"
+          "definition": "were"
         },
         {
           "word": "Vojtěh",
@@ -241,11 +241,11 @@
         },
         {
           "word": "morning.",
-          "definition": "morning."
+          "definition": "zautra"
         },
         {
           "word": "How",
-          "definition": "How"
+          "definition": "kako"
         },
         {
           "word": "are",
@@ -291,11 +291,11 @@
         },
         {
           "word": "jutro.",
-          "definition": "jutro."
+          "definition": "tommorow"
         },
         {
           "word": "Kako",
-          "definition": "Kako"
+          "definition": "as\nhow"
         },
         {
           "word": "ty",
@@ -353,11 +353,11 @@
         },
         {
           "word": "fine.",
-          "definition": "fine."
+          "definition": "dobro\ngrivna"
         },
         {
           "word": "Thank",
-          "definition": "Thank"
+          "definition": "hvala"
         },
         {
           "word": "you.",
@@ -590,7 +590,7 @@
         },
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "are",
@@ -651,7 +651,7 @@
         },
         {
           "word": "Jesmo",
-          "definition": "Jesmo"
+          "definition": "were"
         },
         {
           "word": "Vojtěh",
@@ -712,7 +712,7 @@
         },
         {
           "word": "afternoon.",
-          "definition": "afternoon."
+          "definition": "popoludnje"
         },
         {
           "word": "Are",
@@ -758,11 +758,11 @@
       "phrase": [
         {
           "word": "Dobry",
-          "definition": "Dobry"
+          "definition": "good"
         },
         {
           "word": "denj.",
-          "definition": "denj."
+          "definition": "day"
         },
         {
           "word": "Jesi",
@@ -820,11 +820,11 @@
         },
         {
           "word": "Afternoon.",
-          "definition": "Afternoon."
+          "definition": "popoludnje"
         },
         {
           "word": "How",
-          "definition": "How"
+          "definition": "kako"
         },
         {
           "word": "are",
@@ -866,15 +866,15 @@
       "phrase": [
         {
           "word": "Dobry",
-          "definition": "Dobry"
+          "definition": "good"
         },
         {
           "word": "denj.",
-          "definition": "denj."
+          "definition": "day"
         },
         {
           "word": "Kako",
-          "definition": "Kako"
+          "definition": "as\nhow"
         },
         {
           "word": "Ty",
@@ -932,7 +932,7 @@
         },
         {
           "word": "How",
-          "definition": "How"
+          "definition": "kako"
         },
         {
           "word": "are",
@@ -982,7 +982,7 @@
         },
         {
           "word": "Kako",
-          "definition": "Kako"
+          "definition": "as\nhow"
         },
         {
           "word": "Ty",
@@ -1040,7 +1040,7 @@
         },
         {
           "word": "fine.",
-          "definition": "fine."
+          "definition": "dobro\ngrivna"
         },
         {
           "word": "And",
@@ -1159,11 +1159,11 @@
         },
         {
           "word": "fine.",
-          "definition": "fine."
+          "definition": "dobro\ngrivna"
         },
         {
           "word": "Thank",
-          "definition": "Thank"
+          "definition": "hvala"
         },
         {
           "word": "you.",
@@ -1465,7 +1465,7 @@
         },
         {
           "word": "day",
-          "definition": "day"
+          "definition": "denj"
         }
       ],
       "id": "31db2dfb6c30",
@@ -1535,7 +1535,7 @@
         },
         {
           "word": "morning",
-          "definition": "morning"
+          "definition": "zautra"
         }
       ],
       "id": "7acd1d6fa682",
@@ -1568,7 +1568,7 @@
       "phrase": [
         {
           "word": "Thank",
-          "definition": "Thank"
+          "definition": "hvala"
         },
         {
           "word": "you",
@@ -1708,7 +1708,7 @@
       "phrase": [
         {
           "word": "How",
-          "definition": "How"
+          "definition": "kako"
         },
         {
           "word": "are",

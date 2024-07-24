@@ -138,17 +138,90 @@ Mini-dictionary:
   - by: would
   - byhmo: would
   - byste: would
-
+  - trenoval: trained
+  - muskuly: muscles
+  - je: is
+  - kupili: bought
+  - načel: began
+  - načel: started
+  - včera: yesterday
+  - student: student
+  - iměli: had
+  - učitelji: teachers
+  - ti: those
+  - te: those
+  - jutro: tommorow
+  - kako: how
+  - kako: as
+  - dobry: good
+  - dobra: good
+  - dobro: good
+  - dobre: good
+  - dobri: good
+  - denj: day
+  - do: towards
+  - noč: night
 
   English:
 
   - know: znati
   - tommorow: zautra
+
   - would:
     - byh
     - bys
     - by
     - byhmo
     - byste
+
   - they: oni(masculine)
   - they: one(feminine)
+
+  - trained:
+    - trenoval
+    - trenovala
+    - trenovali
+    - trenovalo
+
+  - had:
+    - iměl
+    - iměla
+    - iměli
+    - imělo
+
+  - already: uže
+
+  - bought:
+    - kupil
+    - kupila
+    - kupilo
+    - kupili
+
+  - started:
+    - načel
+    - nečela
+    - načelo
+    - načeli
+
+  - student: student
+  - yesterday: včera
+  - teachers: učitelji
+  - men: muži
+  - me:
+    - mene
+    - mně
+    - mnoju
+  
+  - fine: dobro
+  - fine: grivna
+  - how: kako
+  - afternoon: popoludnje
+  - night: noč
+  - muscles: muskuly
+  - doctors: doktori
+  - our:
+    - naš
+    - naša
+    - naše
+    - naši
+    

@@ -130,6 +130,17 @@ Mini-dictionary:
   - Jedati: Eat
   - Plavati: Swim
   - tam: there
+  - budu: will
+  - budeš: will
+  - bude: will
+  - budemo: will
+  - budete: will
+  - budut: will
+  - znati: know
+  - kde: where
+  - pisati: write
+  - futbolisti: footballers
+  - pěvati: sing
 
   English:
 
@@ -145,3 +156,17 @@ Mini-dictionary:
   - it: to
   - eat:
     - jedati
+  - be: byti
+  - where: kde
+  - morning: zautra
+  - thank: hvala
+  - sleep: spati
+  - write: pisati
+  - understand: razuměti
+  - play: igrati
+  - sing: pěvati
+  - dance: tancevati
+  - dance: tanec
+  - here: tut
+  - there: tam
+  - footballers: futbolisti

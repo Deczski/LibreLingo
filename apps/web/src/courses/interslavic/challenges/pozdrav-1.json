@@ -84,7 +84,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "You(singular)"
+          "definition": "ty"
         },
         {
           "word": "are",
@@ -152,7 +152,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "are",
@@ -186,7 +186,7 @@
         },
         {
           "word": "jesmo",
-          "definition": "jesmo"
+          "definition": "were"
         }
       ],
       "chips": [
@@ -220,7 +220,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "You(plural)"
+          "definition": "vy"
         },
         {
           "word": "are",
@@ -254,7 +254,7 @@
         },
         {
           "word": "jeste",
-          "definition": "jeste"
+          "definition": "are"
         }
       ],
       "chips": [
@@ -492,7 +492,7 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "They(masculine)"
+          "definition": "oni"
         },
         {
           "word": "are",
@@ -560,7 +560,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "They(feminine)"
+          "definition": "one"
         },
         {
           "word": "are",
@@ -1607,7 +1607,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "are",
@@ -1647,7 +1647,7 @@
         },
         {
           "word": "jesmo",
-          "definition": "jesmo"
+          "definition": "were"
         },
         {
           "word": "studenti",

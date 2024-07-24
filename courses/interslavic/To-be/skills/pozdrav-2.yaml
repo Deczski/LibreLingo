@@ -128,6 +128,24 @@ Mini-dictionary:
   - Vy jeste byli: You(plural) were
   - Oni byli: They(masculine) were
   - One byli: They(feminine) were
+  - jesmo: were
+  - byli: were
+  - byl: was
+  - byla: was
+  - bylo: was
+  - jeste: are
+  - my: we
+  - kupoval: bought
+  - rabotali: worked
+  - pokazyvali: They showed
+  - spali: slept
+  - tancevala: danced
+  - jedalo: ate
+  - proboval: tried
+  - kupovali: bought
+  - iměl: had
+  - jestli: if
+  - rabotal: worked
 
   English:
 
@@ -144,3 +162,34 @@ Mini-dictionary:
     - byl
     - byla
     - bylo
+    - byli
+  - They(feminine): one
+  - They(masculine): oni
+  - You(plural): vy
+  - You(singular): ty
+  - Were:
+    - byl
+    - byla
+    - bylo
+    - byli
+  - We: my
+  - talk: govoriti
+  - show: ukazyvati
+  - send: posylati
+  - remember: pametati
+  - try: probovati
+  - drive: voziti se
+  - build: budovati
+  - basketball: basketbol
+  - players: igrači
+  - have: iměti
+  - day: denj
+  - of: od
+  - money: groši
+  - if: jestli
+  - if: ako
+  - worked: rabotati
+  - worked: rabotala
+  - worked: rabotal
+  - worked: rabotali
+  - lot: mnogo

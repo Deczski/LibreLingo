@@ -142,7 +142,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "a",
@@ -221,7 +221,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "zeleny",
@@ -653,7 +653,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "a",
@@ -732,7 +732,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "črny",
@@ -974,7 +974,7 @@
         },
         {
           "word": "were",
-          "definition": "were"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "white",
@@ -1049,7 +1049,7 @@
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         },
         {
           "word": "běle",
@@ -1273,7 +1273,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "black",
@@ -1293,7 +1293,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "white.",
@@ -1348,7 +1348,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "črny",
@@ -1364,7 +1364,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "běly",
@@ -1441,7 +1441,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "the",
@@ -1491,7 +1491,7 @@
         },
         {
           "word": "iměl",
-          "definition": "iměl"
+          "definition": "had"
         },
         {
           "word": "toj",
@@ -1570,7 +1570,7 @@
         },
         {
           "word": "was",
-          "definition": "byl\nbyla\nbylo"
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "orange.",
@@ -1613,7 +1613,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "oranževy",
@@ -1705,7 +1705,7 @@
       "phrase": [
         {
           "word": "Te",
-          "definition": "Te"
+          "definition": "those"
         },
         {
           "word": "avtomobily",

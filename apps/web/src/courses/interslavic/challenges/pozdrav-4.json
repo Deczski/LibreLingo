@@ -84,7 +84,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "You(singular)"
+          "definition": "ty"
         },
         {
           "word": "would",
@@ -356,7 +356,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "would",
@@ -424,7 +424,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "You(plural)"
+          "definition": "vy"
         },
         {
           "word": "would",
@@ -492,7 +492,7 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "They(masculine)"
+          "definition": "oni"
         },
         {
           "word": "would",
@@ -560,7 +560,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "They(feminine)"
+          "definition": "one"
         },
         {
           "word": "would",
@@ -672,7 +672,7 @@
         },
         {
           "word": "kupoval",
-          "definition": "kupoval"
+          "definition": "bought"
         }
       ],
       "chips": [
@@ -716,7 +716,7 @@
         },
         {
           "word": "talk",
-          "definition": "talk"
+          "definition": "govoriti"
         }
       ],
       "chips": [
@@ -788,7 +788,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "would",
@@ -832,7 +832,7 @@
         },
         {
           "word": "rabotali",
-          "definition": "rabotali"
+          "definition": "worked"
         }
       ],
       "chips": [
@@ -876,7 +876,7 @@
         },
         {
           "word": "show",
-          "definition": "show"
+          "definition": "ukazyvati"
         }
       ],
       "chips": [
@@ -912,7 +912,7 @@
         },
         {
           "word": "pokazyvali",
-          "definition": "pokazyvali"
+          "definition": "They showed"
         }
       ],
       "chips": [
@@ -948,7 +948,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "They(feminine)"
+          "definition": "one"
         },
         {
           "word": "would",
@@ -956,7 +956,7 @@
         },
         {
           "word": "send",
-          "definition": "send"
+          "definition": "posylati"
         }
       ],
       "chips": [
@@ -1036,7 +1036,7 @@
         },
         {
           "word": "sleep",
-          "definition": "sleep"
+          "definition": "spati"
         }
       ],
       "chips": [
@@ -1072,7 +1072,7 @@
         },
         {
           "word": "spali",
-          "definition": "spali"
+          "definition": "slept"
         }
       ],
       "chips": [
@@ -1116,7 +1116,7 @@
         },
         {
           "word": "drive",
-          "definition": "drive"
+          "definition": "voziti se"
         }
       ],
       "chips": [
@@ -1195,7 +1195,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "You(singular)"
+          "definition": "ty"
         },
         {
           "word": "would",
@@ -1203,7 +1203,7 @@
         },
         {
           "word": "try",
-          "definition": "try"
+          "definition": "probovati"
         }
       ],
       "chips": [
@@ -1239,7 +1239,7 @@
         },
         {
           "word": "proboval",
-          "definition": "proboval"
+          "definition": "tried"
         }
       ],
       "chips": [
@@ -1275,7 +1275,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "would",
@@ -1283,7 +1283,7 @@
         },
         {
           "word": "remember",
-          "definition": "remember"
+          "definition": "pametati"
         }
       ],
       "chips": [
@@ -1363,7 +1363,7 @@
         },
         {
           "word": "build",
-          "definition": "build"
+          "definition": "budovati"
         }
       ],
       "chips": [
@@ -1443,7 +1443,7 @@
         },
         {
           "word": "dance",
-          "definition": "dance"
+          "definition": "tancevati\ntanec"
         }
       ],
       "chips": [
@@ -1479,7 +1479,7 @@
         },
         {
           "word": "tancevala",
-          "definition": "tancevala"
+          "definition": "danced"
         }
       ],
       "chips": [
@@ -1559,7 +1559,7 @@
         },
         {
           "word": "jedalo",
-          "definition": "jedalo"
+          "definition": "ate"
         }
       ],
       "chips": [
@@ -1595,7 +1595,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "would",
@@ -1603,15 +1603,15 @@
         },
         {
           "word": "be",
-          "definition": "be"
+          "definition": "byti"
         },
         {
           "word": "basketball",
-          "definition": "basketball"
+          "definition": "basketbol"
         },
         {
           "word": "players",
-          "definition": "players"
+          "definition": "igrači"
         }
       ],
       "chips": [
@@ -1650,7 +1650,7 @@
         },
         {
           "word": "byli",
-          "definition": "byli"
+          "definition": "were"
         },
         {
           "word": "basketbalisti",
@@ -1696,7 +1696,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "You(plural)"
+          "definition": "vy"
         },
         {
           "word": "would",
@@ -1740,7 +1740,7 @@
         },
         {
           "word": "kupovali",
-          "definition": "kupovali"
+          "definition": "bought"
         }
       ],
       "chips": [
@@ -1784,7 +1784,7 @@
         },
         {
           "word": "have",
-          "definition": "have"
+          "definition": "iměti"
         },
         {
           "word": "a",
@@ -1792,19 +1792,19 @@
         },
         {
           "word": "lot",
-          "definition": "lot"
+          "definition": "mnogo"
         },
         {
           "word": "of",
-          "definition": "of"
+          "definition": "od"
         },
         {
           "word": "money",
-          "definition": "money"
+          "definition": "groši"
         },
         {
           "word": "if",
-          "definition": "if"
+          "definition": "ako\njestli"
         },
         {
           "word": "I",
@@ -1812,7 +1812,7 @@
         },
         {
           "word": "worked",
-          "definition": "worked"
+          "definition": "rabotal\nrabotala\nrabotali\nrabotati"
         },
         {
           "word": "a",
@@ -1820,7 +1820,7 @@
         },
         {
           "word": "lot",
-          "definition": "lot"
+          "definition": "mnogo"
         }
       ],
       "chips": [
@@ -1902,7 +1902,7 @@
         },
         {
           "word": "iměl",
-          "definition": "iměl"
+          "definition": "had"
         },
         {
           "word": "mnogo",
@@ -1914,7 +1914,7 @@
         },
         {
           "word": "jestli",
-          "definition": "jestli"
+          "definition": "if"
         },
         {
           "word": "Ja",
@@ -1930,7 +1930,7 @@
         },
         {
           "word": "rabotal",
-          "definition": "rabotal"
+          "definition": "worked"
         }
       ],
       "chips": [
@@ -2001,15 +2001,15 @@
         },
         {
           "word": "have",
-          "definition": "have"
+          "definition": "iměti"
         },
         {
           "word": "muscles",
-          "definition": "muscles"
+          "definition": "muskuly"
         },
         {
           "word": "if",
-          "definition": "if"
+          "definition": "ako\njestli"
         },
         {
           "word": "You",
@@ -2017,7 +2017,7 @@
         },
         {
           "word": "trained",
-          "definition": "trained"
+          "definition": "trenoval\ntrenovala\ntrenovali\ntrenovalo"
         },
         {
           "word": "a",
@@ -2025,7 +2025,7 @@
         },
         {
           "word": "lot",
-          "definition": "lot"
+          "definition": "mnogo"
         }
       ],
       "chips": [
@@ -2079,15 +2079,15 @@
         },
         {
           "word": "iměl",
-          "definition": "iměl"
+          "definition": "had"
         },
         {
           "word": "muskuly",
-          "definition": "muskuly"
+          "definition": "muscles"
         },
         {
           "word": "jestli",
-          "definition": "jestli"
+          "definition": "if"
         },
         {
           "word": "Ty",
@@ -2103,7 +2103,7 @@
         },
         {
           "word": "trenoval",
-          "definition": "trenoval"
+          "definition": "trained"
         }
       ],
       "chips": [
@@ -2157,7 +2157,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "We"
+          "definition": "my"
         },
         {
           "word": "would",
@@ -2165,7 +2165,7 @@
         },
         {
           "word": "have",
-          "definition": "have"
+          "definition": "iměti"
         },
         {
           "word": "a",
@@ -2177,23 +2177,23 @@
         },
         {
           "word": "if",
-          "definition": "if"
+          "definition": "ako\njestli"
         },
         {
           "word": "we",
-          "definition": "we"
+          "definition": "my"
         },
         {
           "word": "had",
-          "definition": "had"
+          "definition": "iměl\niměla\niměli\nimělo"
         },
         {
           "word": "already",
-          "definition": "already"
+          "definition": "uže"
         },
         {
           "word": "bought",
-          "definition": "bought"
+          "definition": "kupil\nkupila\nkupili\nkupilo"
         },
         {
           "word": "it",
@@ -2266,7 +2266,7 @@
         },
         {
           "word": "iměli",
-          "definition": "iměli"
+          "definition": "had"
         },
         {
           "word": "avto",
@@ -2274,7 +2274,7 @@
         },
         {
           "word": "jestli",
-          "definition": "jestli"
+          "definition": "if"
         },
         {
           "word": "my",
@@ -2286,7 +2286,7 @@
         },
         {
           "word": "je",
-          "definition": "je"
+          "definition": "is"
         },
         {
           "word": "uže",
@@ -2294,7 +2294,7 @@
         },
         {
           "word": "kupili",
-          "definition": "kupili"
+          "definition": "bought"
         }
       ],
       "chips": [
@@ -2362,7 +2362,7 @@
         },
         {
           "word": "be",
-          "definition": "be"
+          "definition": "byti"
         },
         {
           "word": "here",
@@ -2370,11 +2370,11 @@
         },
         {
           "word": "already",
-          "definition": "already"
+          "definition": "uže"
         },
         {
           "word": "if",
-          "definition": "if"
+          "definition": "ako\njestli"
         },
         {
           "word": "he",
@@ -2382,15 +2382,15 @@
         },
         {
           "word": "had",
-          "definition": "had"
+          "definition": "iměl\niměla\niměli\nimělo"
         },
         {
           "word": "started",
-          "definition": "started"
+          "definition": "načel\nnačeli\nnačelo\nnečela"
         },
         {
           "word": "yesterday",
-          "definition": "yesterday"
+          "definition": "včera"
         }
       ],
       "chips": [
@@ -2451,7 +2451,7 @@
         },
         {
           "word": "byl",
-          "definition": "byl"
+          "definition": "was"
         },
         {
           "word": "tut",
@@ -2459,7 +2459,7 @@
         },
         {
           "word": "jestli",
-          "definition": "jestli"
+          "definition": "if"
         },
         {
           "word": "On",
@@ -2471,11 +2471,11 @@
         },
         {
           "word": "načel",
-          "definition": "načel"
+          "definition": "began\nstarted"
         },
         {
           "word": "včera",
-          "definition": "včera"
+          "definition": "yesterday"
         }
       ],
       "chips": [
