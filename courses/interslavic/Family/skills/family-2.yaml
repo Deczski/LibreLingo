@@ -28,14 +28,14 @@ New words:
       - uncle3
 
   - Word: kuzen
-    Translation: cousin (male)
+    Translation: cousin(male)
     Images:
       - cousinmale1
       - cousinmale2
       - cousinmale3
 
   - Word: kuzina
-    Translation: cousin (female)
+    Translation: cousin(female)
     Images:
       - cousinfemale1
       - cousinfemale2
@@ -69,18 +69,18 @@ Phrases:
     Alternative translations:
       - My daughter’s daughter is my granddaughter.
 
-  - Phrase: Nire aitaren emaztea nire ama da.
+  - Phrase: Žena od mojego otca jest moja mati
     Translation: The wife of my father is my mother.
     Alternative translations:
       - My father’s wife is my mother.
 
-  - Phrase: Gizon hau nire senarra da.
+  - Phrase: Toj člověk jest moj muž
     Translation: This man is my husband.
 
   - Phrase: Bere senarra tour gida da.
     Translation: Her husband is a tour guide.
 
-  - Phrase: Nire amaren senarra nire aita da.
+  - Phrase: Muž od mojej mati jest moj otec
     Translation: The husband of my mother is my father.
     Alternative translations:
       - My mother’s husband is my father.
@@ -139,8 +139,22 @@ Mini-dictionary:
   Interslavic:
 
   - Ja budu: I will
-
+  - vnuk: grandson
+  - vnuka: granddaughter
+  - tetka: aunt
+  - ujec: uncle
+  - kuzen: cousin
+  - kuzina: cousin
+  - deti: children
+  - děte: child
 
   English:
 
-  - know: znati
+  - grandson: vnuk
+  - granddaughter: vnuka
+  - aunt: tetka
+  - uncle: ujec
+  - cousin: kuzen
+  - cousin: kuzina
+  - children: děti
+  - child: děte

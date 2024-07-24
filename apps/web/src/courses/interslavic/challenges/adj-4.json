@@ -16,7 +16,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "woman",
@@ -32,11 +32,11 @@
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "man",
@@ -60,11 +60,11 @@
         "jest",
         "škaradny",
         "je",
-        "eta",
         "jesm",
         "jesi",
         "žena",
-        "ne"
+        "ne",
+        "Jest"
       ],
       "solutions": [
         [
@@ -100,7 +100,7 @@
         },
         {
           "word": "ale",
-          "definition": "ale"
+          "definition": "but"
         },
         {
           "word": "muž",
@@ -177,7 +177,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "nurse",
@@ -197,11 +197,11 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "doctor",
-          "definition": "doctor"
+          "definition": "doktor"
         },
         {
           "word": "is",
@@ -209,7 +209,7 @@
         },
         {
           "word": "handsome.",
-          "definition": "handsome."
+          "definition": "krasive"
         }
       ],
       "chips": [
@@ -225,7 +225,7 @@
         "jesm",
         "jeste",
         "deti",
-        "eta"
+        "sut"
       ],
       "solutions": [
         [
@@ -265,7 +265,7 @@
         },
         {
           "word": "doktor",
-          "definition": "doktor"
+          "definition": "doctor"
         },
         {
           "word": "jest",
@@ -348,11 +348,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Studentka jest lěpa, ale šofer jest",
+      "formInTargetLanguage": "Studentka jest lěpa, ale šofer jest škaradny",
       "meaningInSourceLanguage": "The student is pretty, but the driver is ugly.",
-      "id": "1aaef99344f2",
+      "id": "1ee9637eafd8",
       "priority": 0,
-      "group": "86610160658a"
+      "group": "65833b42a510"
     },
     {
       "type": "chips",
@@ -360,7 +360,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "student",
@@ -376,15 +376,15 @@
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "driver",
-          "definition": "driver"
+          "definition": "šofer"
         },
         {
           "word": "is",
@@ -402,8 +402,10 @@
         "ale",
         "šofer",
         "jest",
+        "škaradny",
         "je",
         "Jest",
+        "šere",
         "jesm",
         "jesi",
         "jeste"
@@ -415,13 +417,14 @@
           "lěpa",
           "ale",
           "šofer",
-          "jest"
+          "jest",
+          "škaradny"
         ]
       ],
-      "formattedSolution": "Studentka jest lěpa, ale šofer jest",
-      "id": "79b45261b237",
+      "formattedSolution": "Studentka jest lěpa, ale šofer jest škaradny",
+      "id": "fd40f5c85a0d",
       "priority": 2,
-      "group": "86610160658a"
+      "group": "65833b42a510"
     },
     {
       "type": "chips",
@@ -441,15 +444,19 @@
         },
         {
           "word": "ale",
-          "definition": "ale"
+          "definition": "but"
         },
         {
           "word": "šofer",
-          "definition": "šofer"
+          "definition": "driver"
         },
         {
           "word": "jest",
           "definition": "is"
+        },
+        {
+          "word": "škaradny",
+          "definition": "ugly"
         }
       ],
       "chips": [
@@ -496,17 +503,17 @@
         ]
       ],
       "formattedSolution": "The student is pretty, but the driver is ugly.",
-      "id": "4ae0f9bf6ac3",
+      "id": "ea85ba098ef7",
       "priority": 2,
-      "group": "86610160658a"
+      "group": "65833b42a510"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Tour gida polita da, baina turista ederra da.",
+      "formInTargetLanguage": "Provodnik jest lěpy, ale turistka jest krasiva",
       "meaningInSourceLanguage": "The tour guide is pretty, but the tourist is beautiful.",
-      "id": "243cad5ef068",
+      "id": "446fb8b12490",
       "priority": 0,
-      "group": "f697a5c45805"
+      "group": "c563a209a025"
     },
     {
       "type": "chips",
@@ -514,7 +521,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "tour",
@@ -522,7 +529,7 @@
         },
         {
           "word": "guide",
-          "definition": "guide"
+          "definition": "provodnik"
         },
         {
           "word": "is",
@@ -534,11 +541,11 @@
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "tourist",
@@ -550,78 +557,71 @@
         },
         {
           "word": "beautiful.",
-          "definition": "krasivy"
+          "definition": "krasive\nkrasivy"
         }
       ],
       "chips": [
-        "Tour",
-        "gida",
-        "polita",
-        "da",
-        "baina",
-        "turista",
-        "ederra",
-        "da",
-        "dira",
-        "aita",
-        "Ta",
-        "eta",
-        "Ja",
-        "Da",
-        "hura"
+        "Provodnik",
+        "jest",
+        "lěpy",
+        "ale",
+        "turistka",
+        "jest",
+        "krasiva",
+        "jesi",
+        "Jest",
+        "jesm",
+        "jeste",
+        "brat",
+        "sut"
       ],
       "solutions": [
         [
-          "Tour",
-          "gida",
-          "polita",
-          "da",
-          "baina",
-          "turista",
-          "ederra",
-          "da"
+          "Provodnik",
+          "jest",
+          "lěpy",
+          "ale",
+          "turistka",
+          "jest",
+          "krasiva"
         ]
       ],
-      "formattedSolution": "Tour gida polita da, baina turista ederra da.",
-      "id": "45924a16171e",
+      "formattedSolution": "Provodnik jest lěpy, ale turistka jest krasiva",
+      "id": "451a61c7f434",
       "priority": 2,
-      "group": "f697a5c45805"
+      "group": "c563a209a025"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Tour",
-          "definition": "Tour"
+          "word": "Provodnik",
+          "definition": "guide"
         },
         {
-          "word": "gida",
-          "definition": "gida"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "polita",
-          "definition": "polita"
+          "word": "lěpy,",
+          "definition": "pretty"
         },
         {
-          "word": "da,",
-          "definition": "yes"
+          "word": "ale",
+          "definition": "but"
         },
         {
-          "word": "baina",
-          "definition": "baina"
+          "word": "turistka",
+          "definition": "turistka"
         },
         {
-          "word": "turista",
-          "definition": "turista"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "ederra",
-          "definition": "ederra"
-        },
-        {
-          "word": "da.",
-          "definition": "yes"
+          "word": "krasiva",
+          "definition": "beautiful"
         }
       ],
       "chips": [
@@ -696,17 +696,17 @@
         ]
       ],
       "formattedSolution": "The tour guide is pretty, but the tourist is beautiful.",
-      "id": "1637c95ef3f2",
+      "id": "8b2e50ca3254",
       "priority": 2,
-      "group": "f697a5c45805"
+      "group": "c563a209a025"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Medikua ez da itsusia, baizik ederra da.",
+      "formInTargetLanguage": "Doktor ne jest škaradny, a raděje jest krasivy",
       "meaningInSourceLanguage": "The doctor is not ugly, but rather he is handsome.",
-      "id": "55c928b5b578",
+      "id": "ed84ddbe80ec",
       "priority": 0,
-      "group": "ec20205b07f2"
+      "group": "65b649df8ea3"
     },
     {
       "type": "chips",
@@ -714,11 +714,11 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "doctor",
-          "definition": "doctor"
+          "definition": "doktor"
         },
         {
           "word": "is",
@@ -734,11 +734,11 @@
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "rather",
-          "definition": "rather"
+          "definition": "raděje"
         },
         {
           "word": "he",
@@ -750,33 +750,36 @@
         },
         {
           "word": "handsome.",
-          "definition": "handsome."
+          "definition": "krasive"
         }
       ],
       "chips": [
-        "Medikua",
-        "ez",
-        "da",
-        "itsusia",
-        "baizik",
-        "ederra",
-        "da",
-        "Ja",
+        "Doktor",
+        "ne",
+        "jest",
+        "škaradny",
+        "a",
+        "raděje",
+        "jest",
+        "krasivy",
+        "je",
+        "jesi",
+        "se",
+        "Jest",
+        "te",
         "Da",
-        "Ta",
-        "eta",
-        "dira",
-        "ti"
+        "brat"
       ],
       "solutions": [
         [
-          "Medikua",
-          "ez",
-          "da",
-          "itsusia",
-          "baizik",
-          "ederra",
-          "da"
+          "Doktor",
+          "ne",
+          "jest",
+          "škaradny",
+          "a",
+          "raděje",
+          "jest",
+          "krasivy"
         ],
         [
           "Medikua",
@@ -789,42 +792,46 @@
           "da"
         ]
       ],
-      "formattedSolution": "Medikua ez da itsusia, baizik ederra da.",
-      "id": "a0444c775123",
+      "formattedSolution": "Doktor ne jest škaradny, a raděje jest krasivy",
+      "id": "ab74b441a2cc",
       "priority": 2,
-      "group": "ec20205b07f2"
+      "group": "65b649df8ea3"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Medikua",
-          "definition": "Medikua"
+          "word": "Doktor",
+          "definition": "doctor"
         },
         {
-          "word": "ez",
-          "definition": "ez"
+          "word": "ne",
+          "definition": "no\nnot"
         },
         {
-          "word": "da",
-          "definition": "yes"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "itsusia,",
-          "definition": "itsusia,"
+          "word": "škaradny,",
+          "definition": "ugly"
         },
         {
-          "word": "baizik",
-          "definition": "baizik"
+          "word": "a",
+          "definition": "and"
         },
         {
-          "word": "ederra",
-          "definition": "ederra"
+          "word": "raděje",
+          "definition": "rather"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "krasivy",
+          "definition": "beautiful"
         }
       ],
       "chips": [
@@ -899,17 +906,17 @@
         ]
       ],
       "formattedSolution": "The doctor is not ugly, but rather he is handsome.",
-      "id": "0a055fd77be7",
+      "id": "4f131c95ea91",
       "priority": 2,
-      "group": "ec20205b07f2"
+      "group": "65b649df8ea3"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Polizia gizon gaztea eta ederra da.",
+      "formInTargetLanguage": "Policijnik jest mlady i krasivy muž",
       "meaningInSourceLanguage": "The police officer is a young and handsome man.",
-      "id": "de99449728d1",
+      "id": "09e92b9c3c18",
       "priority": 0,
-      "group": "3609b0faea96"
+      "group": "230905f214a8"
     },
     {
       "type": "chips",
@@ -917,7 +924,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "police",
@@ -937,7 +944,7 @@
         },
         {
           "word": "young",
-          "definition": "young"
+          "definition": "mlade"
         },
         {
           "word": "and",
@@ -945,7 +952,7 @@
         },
         {
           "word": "handsome",
-          "definition": "handsome"
+          "definition": "krasive"
         },
         {
           "word": "man.",
@@ -953,60 +960,60 @@
         }
       ],
       "chips": [
-        "Polizia",
-        "gizon",
-        "gaztea",
-        "eta",
-        "ederra",
-        "da",
-        "gida",
-        "aita",
-        "dira",
-        "Ja",
-        "avta"
+        "Policijnik",
+        "jest",
+        "mlady",
+        "i",
+        "krasivy",
+        "muž",
+        "li",
+        "jesi",
+        "ili",
+        "muži",
+        "Oni"
       ],
       "solutions": [
         [
-          "Polizia",
-          "gizon",
-          "gaztea",
-          "eta",
-          "ederra",
-          "da"
+          "Policijnik",
+          "jest",
+          "mlady",
+          "i",
+          "krasivy",
+          "muž"
         ]
       ],
-      "formattedSolution": "Polizia gizon gaztea eta ederra da.",
-      "id": "6e1cc3f5082b",
+      "formattedSolution": "Policijnik jest mlady i krasivy muž",
+      "id": "54dc71fcb7c0",
       "priority": 2,
-      "group": "3609b0faea96"
+      "group": "230905f214a8"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Polizia",
-          "definition": "Polizia"
+          "word": "Policijnik",
+          "definition": "police officer"
         },
         {
-          "word": "gizon",
-          "definition": "gizon"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "gaztea",
-          "definition": "gaztea"
+          "word": "mlady",
+          "definition": "young"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "ederra",
-          "definition": "ederra"
+          "word": "krasivy",
+          "definition": "beautiful"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "muž",
+          "definition": "man"
         }
       ],
       "chips": [
@@ -1053,17 +1060,17 @@
         ]
       ],
       "formattedSolution": "The police officer is a young and handsome man.",
-      "id": "92c3a6d30758",
+      "id": "f49fbd86f35d",
       "priority": 2,
-      "group": "3609b0faea96"
+      "group": "230905f214a8"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Emakume gazteak eta politak dira.",
+      "formInTargetLanguage": "One sut mlade i krasive ženy",
       "meaningInSourceLanguage": "They are young and beautiful women.",
-      "id": "d200657ae83e",
+      "id": "08d9a9bd369d",
       "priority": 0,
-      "group": "cc46463021e8"
+      "group": "78d854d4bef1"
     },
     {
       "type": "chips",
@@ -1079,7 +1086,7 @@
         },
         {
           "word": "young",
-          "definition": "young"
+          "definition": "mlade"
         },
         {
           "word": "and",
@@ -1087,61 +1094,68 @@
         },
         {
           "word": "beautiful",
-          "definition": "krasivy"
+          "definition": "krasive\nkrasivy"
         },
         {
           "word": "women.",
-          "definition": "women."
+          "definition": "ženy"
         }
       ],
       "chips": [
-        "Emakume",
-        "gazteak",
-        "eta",
-        "politak",
-        "dira",
-        "aita",
-        "avta",
-        "tam",
-        "ama"
+        "One",
+        "sut",
+        "mlade",
+        "i",
+        "krasive",
+        "ženy",
+        "se",
+        "ne",
+        "Ona",
+        "Oni",
+        "je"
       ],
       "solutions": [
         [
-          "Emakume",
-          "gazteak",
-          "eta",
-          "politak",
-          "dira"
+          "One",
+          "sut",
+          "mlade",
+          "i",
+          "krasive",
+          "ženy"
         ]
       ],
-      "formattedSolution": "Emakume gazteak eta politak dira.",
-      "id": "fa83e3ad960c",
+      "formattedSolution": "One sut mlade i krasive ženy",
+      "id": "86d39fcfadcf",
       "priority": 2,
-      "group": "cc46463021e8"
+      "group": "78d854d4bef1"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Emakume",
-          "definition": "Emakume"
+          "word": "One",
+          "definition": "they(feminine)"
         },
         {
-          "word": "gazteak",
-          "definition": "gazteak"
+          "word": "sut",
+          "definition": "are"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "mlade",
+          "definition": "young"
         },
         {
-          "word": "politak",
-          "definition": "politak"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "dira.",
-          "definition": "dira."
+          "word": "krasive",
+          "definition": "beautiful"
+        },
+        {
+          "word": "ženy",
+          "definition": "women"
         }
       ],
       "chips": [
@@ -1168,17 +1182,17 @@
         ]
       ],
       "formattedSolution": "They are young and beautiful women.",
-      "id": "cf8f5ca9f8a9",
+      "id": "f70f74f7f1e9",
       "priority": 2,
-      "group": "cc46463021e8"
+      "group": "78d854d4bef1"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Gidaria ez da ederra.",
+      "formInTargetLanguage": "Šofer ne jest krasivy",
       "meaningInSourceLanguage": "The driver is not handsome.",
-      "id": "6929eb709a5e",
+      "id": "4cf647407a95",
       "priority": 0,
-      "group": "0d305f7f84af"
+      "group": "48a860eefbd2"
     },
     {
       "type": "chips",
@@ -1186,11 +1200,11 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "driver",
-          "definition": "driver"
+          "definition": "šofer"
         },
         {
           "word": "is",
@@ -1202,50 +1216,50 @@
         },
         {
           "word": "handsome.",
-          "definition": "handsome."
+          "definition": "krasive"
         }
       ],
       "chips": [
-        "Gidaria",
-        "ez",
-        "da",
-        "ederra",
-        "dira",
-        "Ja",
-        "Da"
+        "Šofer",
+        "ne",
+        "jest",
+        "krasivy",
+        "jesi",
+        "je",
+        "se"
       ],
       "solutions": [
         [
-          "Gidaria",
-          "ez",
-          "da",
-          "ederra"
+          "Šofer",
+          "ne",
+          "jest",
+          "krasivy"
         ]
       ],
-      "formattedSolution": "Gidaria ez da ederra.",
-      "id": "ab86746f684f",
+      "formattedSolution": "Šofer ne jest krasivy",
+      "id": "8798a72c00f1",
       "priority": 2,
-      "group": "0d305f7f84af"
+      "group": "48a860eefbd2"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Gidaria",
-          "definition": "Gidaria"
+          "word": "Šofer",
+          "definition": "driver"
         },
         {
-          "word": "ez",
-          "definition": "ez"
+          "word": "ne",
+          "definition": "no\nnot"
         },
         {
-          "word": "da",
-          "definition": "yes"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "ederra.",
-          "definition": "ederra."
+          "word": "krasivy",
+          "definition": "beautiful"
         }
       ],
       "chips": [
@@ -1290,17 +1304,17 @@
         ]
       ],
       "formattedSolution": "The driver is not handsome.",
-      "id": "3ce59a28a061",
+      "id": "62919134438a",
       "priority": 2,
-      "group": "0d305f7f84af"
+      "group": "48a860eefbd2"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxe berria urdina eta kotxe zaharra berdea da.",
+      "formInTargetLanguage": "Toj novy avtomobil jest nebesky i stary avtomobil jest zeleny",
       "meaningInSourceLanguage": "The new car is blue and the old car is green.",
-      "id": "0bdffa842956",
+      "id": "e186e6142087",
       "priority": 0,
-      "group": "541a9e3590ea"
+      "group": "755d53fefbce"
     },
     {
       "type": "chips",
@@ -1308,7 +1322,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "new",
@@ -1332,11 +1346,11 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "old",
-          "definition": "old"
+          "definition": "stara\nstary"
         },
         {
           "word": "car",
@@ -1352,74 +1366,88 @@
         }
       ],
       "chips": [
-        "Kotxe",
-        "berria",
-        "urdina",
-        "eta",
-        "kotxe",
-        "zaharra",
-        "berdea",
-        "da",
-        "dira",
-        "otca",
-        "aita",
-        "brata",
-        "hura",
-        "Kotxea",
-        "žena"
+        "Toj",
+        "novy",
+        "avtomobil",
+        "jest",
+        "nebesky",
+        "i",
+        "stary",
+        "avtomobil",
+        "jest",
+        "zeleny",
+        "jesi",
+        "jesm",
+        "by",
+        "to",
+        "te",
+        "toj",
+        "je",
+        "ne",
+        "Jest"
       ],
       "solutions": [
         [
-          "Kotxe",
-          "berria",
-          "urdina",
-          "eta",
-          "kotxe",
-          "zaharra",
-          "berdea",
-          "da"
+          "Toj",
+          "novy",
+          "avtomobil",
+          "jest",
+          "nebesky",
+          "i",
+          "stary",
+          "avtomobil",
+          "jest",
+          "zeleny"
         ]
       ],
-      "formattedSolution": "Kotxe berria urdina eta kotxe zaharra berdea da.",
-      "id": "21377d719dcc",
+      "formattedSolution": "Toj novy avtomobil jest nebesky i stary avtomobil jest zeleny",
+      "id": "6d6326213775",
       "priority": 2,
-      "group": "541a9e3590ea"
+      "group": "755d53fefbce"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxe",
-          "definition": "Kotxe"
+          "word": "Toj",
+          "definition": "the"
         },
         {
-          "word": "berria",
-          "definition": "berria"
+          "word": "novy",
+          "definition": "new"
         },
         {
-          "word": "urdina",
-          "definition": "urdina"
+          "word": "avtomobil",
+          "definition": "car"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "kotxe",
-          "definition": "kotxe"
+          "word": "nebesky",
+          "definition": "blue"
         },
         {
-          "word": "zaharra",
-          "definition": "zaharra"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "berdea",
-          "definition": "berdea"
+          "word": "stary",
+          "definition": "old"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "zeleny",
+          "definition": "green"
         }
       ],
       "chips": [
@@ -1474,17 +1502,17 @@
         ]
       ],
       "formattedSolution": "The new car is blue and the old car is green.",
-      "id": "b765ade65b19",
+      "id": "2ac74bfed8ce",
       "priority": 2,
-      "group": "541a9e3590ea"
+      "group": "755d53fefbce"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxe urdina zaharra eta kotxe berdea polita da.",
+      "formInTargetLanguage": "Toj nebesky avtomobil jest škaradny i zeleny avtomobil jest krasivy",
       "meaningInSourceLanguage": "The blue car is ugly and the green car is pretty.",
-      "id": "e740f0ac4446",
+      "id": "cf300bf77170",
       "priority": 0,
-      "group": "1c2bef2ef998"
+      "group": "16596559f4ae"
     },
     {
       "type": "chips",
@@ -1492,7 +1520,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "blue",
@@ -1516,7 +1544,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "green",
@@ -1536,74 +1564,88 @@
         }
       ],
       "chips": [
-        "Kotxe",
-        "urdina",
-        "zaharra",
-        "eta",
-        "kotxe",
-        "berdea",
-        "polita",
-        "da",
-        "aita",
-        "otca",
-        "dira",
-        "Kotxea",
-        "avta",
-        "te",
-        "gida"
+        "Toj",
+        "nebesky",
+        "avtomobil",
+        "jest",
+        "škaradny",
+        "i",
+        "zeleny",
+        "avtomobil",
+        "jest",
+        "krasivy",
+        "jesi",
+        "jesm",
+        "jesmo",
+        "by",
+        "avto",
+        "Jest",
+        "ženy",
+        "deti",
+        "je"
       ],
       "solutions": [
         [
-          "Kotxe",
-          "urdina",
-          "zaharra",
-          "eta",
-          "kotxe",
-          "berdea",
-          "polita",
-          "da"
+          "Toj",
+          "nebesky",
+          "avtomobil",
+          "jest",
+          "škaradny",
+          "i",
+          "zeleny",
+          "avtomobil",
+          "jest",
+          "krasivy"
         ]
       ],
-      "formattedSolution": "Kotxe urdina zaharra eta kotxe berdea polita da.",
-      "id": "688084901271",
+      "formattedSolution": "Toj nebesky avtomobil jest škaradny i zeleny avtomobil jest krasivy",
+      "id": "58cdcd2ac1d2",
       "priority": 2,
-      "group": "1c2bef2ef998"
+      "group": "16596559f4ae"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxe",
-          "definition": "Kotxe"
+          "word": "Toj",
+          "definition": "the"
         },
         {
-          "word": "urdina",
-          "definition": "urdina"
+          "word": "nebesky",
+          "definition": "blue"
         },
         {
-          "word": "zaharra",
-          "definition": "zaharra"
+          "word": "avtomobil",
+          "definition": "car"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "kotxe",
-          "definition": "kotxe"
+          "word": "škaradny",
+          "definition": "ugly"
         },
         {
-          "word": "berdea",
-          "definition": "berdea"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "polita",
-          "definition": "polita"
+          "word": "zeleny",
+          "definition": "green"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "krasivy",
+          "definition": "beautiful"
         }
       ],
       "chips": [
@@ -1658,17 +1700,17 @@
         ]
       ],
       "formattedSolution": "The blue car is ugly and the green car is pretty.",
-      "id": "15c143f949d5",
+      "id": "7b28a0d8a781",
       "priority": 2,
-      "group": "1c2bef2ef998"
+      "group": "16596559f4ae"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxea ez da zaharra, baizik berria da.",
+      "formInTargetLanguage": "Toj avtomobil ne jest stary a raděje jest novy",
       "meaningInSourceLanguage": "The car is not old, but rather it is new.",
-      "id": "b517163d9de5",
+      "id": "bd2535abec32",
       "priority": 0,
-      "group": "ea05881cf520"
+      "group": "aa49942d7064"
     },
     {
       "type": "chips",
@@ -1676,7 +1718,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "car",
@@ -1692,15 +1734,15 @@
         },
         {
           "word": "old,",
-          "definition": "old,"
+          "definition": "stara\nstary"
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "rather",
-          "definition": "rather"
+          "definition": "raděje"
         },
         {
           "word": "it",
@@ -1716,67 +1758,81 @@
         }
       ],
       "chips": [
-        "Kotxea",
-        "ez",
-        "da",
-        "zaharra",
-        "baizik",
-        "berria",
-        "da",
-        "Ja",
-        "Da",
-        "Ta",
-        "eta",
-        "ama",
-        "dira"
+        "Toj",
+        "avtomobil",
+        "ne",
+        "jest",
+        "stary",
+        "a",
+        "raděje",
+        "jest",
+        "novy",
+        "je",
+        "te",
+        "se",
+        "to",
+        "toj",
+        "tam",
+        "od",
+        "Ta"
       ],
       "solutions": [
         [
-          "Kotxea",
-          "ez",
-          "da",
-          "zaharra",
-          "baizik",
-          "berria",
-          "da"
+          "Toj",
+          "avtomobil",
+          "ne",
+          "jest",
+          "stary",
+          "a",
+          "raděje",
+          "jest",
+          "novy"
         ]
       ],
-      "formattedSolution": "Kotxea ez da zaharra, baizik berria da.",
-      "id": "8b209dcc7765",
+      "formattedSolution": "Toj avtomobil ne jest stary a raděje jest novy",
+      "id": "c27947481995",
       "priority": 2,
-      "group": "ea05881cf520"
+      "group": "aa49942d7064"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxea",
-          "definition": "Kotxea"
+          "word": "Toj",
+          "definition": "the"
         },
         {
-          "word": "ez",
-          "definition": "ez"
+          "word": "avtomobil",
+          "definition": "car"
         },
         {
-          "word": "da",
-          "definition": "yes"
+          "word": "ne",
+          "definition": "no\nnot"
         },
         {
-          "word": "zaharra,",
-          "definition": "zaharra,"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "baizik",
-          "definition": "baizik"
+          "word": "stary",
+          "definition": "old"
         },
         {
-          "word": "berria",
-          "definition": "berria"
+          "word": "a",
+          "definition": "and"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "raděje",
+          "definition": "rather"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "novy",
+          "definition": "new"
         }
       ],
       "chips": [
@@ -1815,17 +1871,17 @@
         ]
       ],
       "formattedSolution": "The car is not old, but rather it is new.",
-      "id": "2ea4e03df8b3",
+      "id": "dd58dce9d915",
       "priority": 2,
-      "group": "ea05881cf520"
+      "group": "aa49942d7064"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxe berria azkarra eta kotxe zaharra motela da.",
+      "formInTargetLanguage": "Toj novy avtomobil jest brzy i stary avtomobil jest medly",
       "meaningInSourceLanguage": "The new car is fast and the old car is slow.",
-      "id": "2df9b9566d32",
+      "id": "5a859dbc6306",
       "priority": 0,
-      "group": "45c5d58815e0"
+      "group": "85b574da84a0"
     },
     {
       "type": "chips",
@@ -1833,7 +1889,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "new",
@@ -1857,11 +1913,11 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "old",
-          "definition": "old"
+          "definition": "stara\nstary"
         },
         {
           "word": "car",
@@ -1877,74 +1933,88 @@
         }
       ],
       "chips": [
-        "Kotxe",
-        "berria",
-        "azkarra",
-        "eta",
-        "kotxe",
-        "zaharra",
-        "motela",
-        "da",
-        "otca",
-        "avta",
-        "aita",
-        "Kotxea",
+        "Toj",
+        "novy",
+        "avtomobil",
+        "jest",
+        "brzy",
+        "i",
+        "stary",
+        "avtomobil",
+        "jest",
+        "medly",
+        "jesi",
+        "by",
+        "to",
+        "moj",
+        "toj",
+        "jesm",
+        "ti",
         "te",
-        "Dobra",
-        "moja"
+        "tož"
       ],
       "solutions": [
         [
-          "Kotxe",
-          "berria",
-          "azkarra",
-          "eta",
-          "kotxe",
-          "zaharra",
-          "motela",
-          "da"
+          "Toj",
+          "novy",
+          "avtomobil",
+          "jest",
+          "brzy",
+          "i",
+          "stary",
+          "avtomobil",
+          "jest",
+          "medly"
         ]
       ],
-      "formattedSolution": "Kotxe berria azkarra eta kotxe zaharra motela da.",
-      "id": "ab82288c598a",
+      "formattedSolution": "Toj novy avtomobil jest brzy i stary avtomobil jest medly",
+      "id": "5a96e9d276c4",
       "priority": 2,
-      "group": "45c5d58815e0"
+      "group": "85b574da84a0"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxe",
-          "definition": "Kotxe"
+          "word": "Toj",
+          "definition": "the"
         },
         {
-          "word": "berria",
-          "definition": "berria"
+          "word": "novy",
+          "definition": "new"
         },
         {
-          "word": "azkarra",
-          "definition": "azkarra"
+          "word": "avtomobil",
+          "definition": "car"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "kotxe",
-          "definition": "kotxe"
+          "word": "brzy",
+          "definition": "fast"
         },
         {
-          "word": "zaharra",
-          "definition": "zaharra"
+          "word": "i",
+          "definition": "and"
         },
         {
-          "word": "motela",
-          "definition": "motela"
+          "word": "stary",
+          "definition": "old"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "medly",
+          "definition": "slow"
         }
       ],
       "chips": [
@@ -1999,17 +2069,17 @@
         ]
       ],
       "formattedSolution": "The new car is fast and the old car is slow.",
-      "id": "0d8d81fd8842",
+      "id": "269fad9e412f",
       "priority": 2,
-      "group": "45c5d58815e0"
+      "group": "85b574da84a0"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Kotxe urdina motela eta kotxe azkarra da.",
+      "formInTargetLanguage": "Toj stary avtomobil jest medly a zeleny avtomobil jest brzy",
       "meaningInSourceLanguage": "The blue car is slow and the green car is fast.",
-      "id": "77333727c71a",
+      "id": "3956da5f27fb",
       "priority": 0,
-      "group": "11a0c53417df"
+      "group": "3cb43fffed20"
     },
     {
       "type": "chips",
@@ -2017,7 +2087,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "blue",
@@ -2041,7 +2111,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "green",
@@ -2061,67 +2131,88 @@
         }
       ],
       "chips": [
-        "Kotxe",
-        "urdina",
-        "motela",
-        "eta",
-        "kotxe",
-        "azkarra",
-        "da",
-        "otca",
-        "aita",
-        "Kotxea",
-        "avta",
+        "Toj",
+        "stary",
+        "avtomobil",
+        "jest",
+        "medly",
+        "a",
+        "zeleny",
+        "avtomobil",
+        "jest",
+        "brzy",
+        "jesm",
+        "jesi",
+        "by",
         "te",
-        "moja"
+        "je",
+        "byl",
+        "tam",
+        "avto",
+        "to"
       ],
       "solutions": [
         [
-          "Kotxe",
-          "urdina",
-          "motela",
-          "eta",
-          "kotxe",
-          "azkarra",
-          "da"
+          "Toj",
+          "stary",
+          "avtomobil",
+          "jest",
+          "medly",
+          "a",
+          "zeleny",
+          "avtomobil",
+          "jest",
+          "brzy"
         ]
       ],
-      "formattedSolution": "Kotxe urdina motela eta kotxe azkarra da.",
-      "id": "74182faf7f75",
+      "formattedSolution": "Toj stary avtomobil jest medly a zeleny avtomobil jest brzy",
+      "id": "e4e7999f7a31",
       "priority": 2,
-      "group": "11a0c53417df"
+      "group": "3cb43fffed20"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Kotxe",
-          "definition": "Kotxe"
+          "word": "Toj",
+          "definition": "the"
         },
         {
-          "word": "urdina",
-          "definition": "urdina"
+          "word": "stary",
+          "definition": "old"
         },
         {
-          "word": "motela",
-          "definition": "motela"
+          "word": "avtomobil",
+          "definition": "car"
         },
         {
-          "word": "eta",
-          "definition": "eta"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "kotxe",
-          "definition": "kotxe"
+          "word": "medly",
+          "definition": "slow"
         },
         {
-          "word": "azkarra",
-          "definition": "azkarra"
+          "word": "a",
+          "definition": "and"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "zeleny",
+          "definition": "green"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "brzy",
+          "definition": "fast"
         }
       ],
       "chips": [
@@ -2176,9 +2267,9 @@
         ]
       ],
       "formattedSolution": "The blue car is slow and the green car is fast.",
-      "id": "472306270932",
+      "id": "e75917c469a0",
       "priority": 2,
-      "group": "11a0c53417df"
+      "group": "3cb43fffed20"
     },
     {
       "type": "cards",
@@ -2206,7 +2297,7 @@
       "phrase": [
         {
           "word": "beautiful",
-          "definition": "krasivy"
+          "definition": "krasive\nkrasivy"
         }
       ],
       "id": "9c44025aa42e",

@@ -272,7 +272,7 @@
         },
         {
           "word": "nothing.",
-          "definition": "nothing."
+          "definition": "ničto"
         }
       ],
       "chips": [
@@ -300,7 +300,7 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "jest",
@@ -308,7 +308,7 @@
         },
         {
           "word": "ničto.",
-          "definition": "ničto."
+          "definition": "nothing"
         }
       ],
       "chips": [
@@ -364,9 +364,9 @@
         "To",
         "jest",
         "pozdno",
+        "Toj",
         "to",
-        "Do",
-        "od"
+        "Do"
       ],
       "solutions": [
         [
@@ -391,7 +391,7 @@
         },
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "jest",
@@ -484,7 +484,7 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "jest",
@@ -567,7 +567,7 @@
         },
         {
           "word": "nothing.",
-          "definition": "nothing."
+          "definition": "ničto"
         }
       ],
       "chips": [
@@ -614,7 +614,7 @@
         },
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "ne",
@@ -630,7 +630,7 @@
         },
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "jest",
@@ -638,7 +638,7 @@
         },
         {
           "word": "ničto.",
-          "definition": "ničto."
+          "definition": "nothing"
         }
       ],
       "chips": [
@@ -784,7 +784,7 @@
         },
         {
           "word": "nothing.",
-          "definition": "nothing."
+          "definition": "ničto"
         }
       ],
       "id": "427dc8428f78",

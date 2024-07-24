@@ -204,7 +204,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "teacher?",
@@ -515,8 +515,8 @@
         "Kto",
         "jest",
         "ona",
-        "eta",
-        "Ona"
+        "Ona",
+        "Ono"
       ],
       "solutions": [
         [
@@ -858,7 +858,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "bus?",
@@ -894,7 +894,7 @@
         },
         {
           "word": "to",
-          "definition": "to"
+          "definition": "the"
         },
         {
           "word": "avtobus?",
@@ -994,7 +994,7 @@
         },
         {
           "word": "to",
-          "definition": "to"
+          "definition": "the"
         },
         {
           "word": "takože",
@@ -1106,7 +1106,7 @@
         },
         {
           "word": "to",
-          "definition": "to"
+          "definition": "the"
         },
         {
           "word": "avtobus",
@@ -1598,7 +1598,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "buses?",
@@ -1997,7 +1997,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "teachers?",
@@ -2091,11 +2091,11 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "women?",
-          "definition": "women?"
+          "definition": "ženy"
         }
       ],
       "chips": [
@@ -2185,7 +2185,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "men?",
@@ -2359,7 +2359,7 @@
         },
         {
           "word": "women",
-          "definition": "women"
+          "definition": "ženy"
         },
         {
           "word": "or",

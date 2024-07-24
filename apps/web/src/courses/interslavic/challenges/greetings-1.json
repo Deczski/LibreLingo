@@ -404,7 +404,7 @@
         },
         {
           "word": "Hvala.",
-          "definition": "Thank you"
+          "definition": "Thank you\nThanks"
         }
       ],
       "chips": [
@@ -733,10 +733,10 @@
         "Jesi",
         "Ty",
         "Vojtěh",
+        "Toj",
         "jesi",
         "Vy",
-        "je",
-        "by"
+        "je"
       ],
       "solutions": [
         [
@@ -1094,7 +1094,7 @@
         },
         {
           "word": "A",
-          "definition": "A"
+          "definition": "and"
         },
         {
           "word": "Ty?",
@@ -1217,7 +1217,7 @@
         },
         {
           "word": "Hvala.",
-          "definition": "Thank you"
+          "definition": "Thank you\nThanks"
         }
       ],
       "chips": [
@@ -1371,8 +1371,8 @@
         "jest",
         "Katarina",
         "ona",
-        "eta",
-        "Ja"
+        "Ja",
+        "On"
       ],
       "solutions": [
         [

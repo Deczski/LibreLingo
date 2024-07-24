@@ -145,10 +145,10 @@
         "sestra",
         "od",
         "Gorana",
-        "eta",
         "je",
         "ne",
-        "se"
+        "se",
+        "Da"
       ],
       "solutions": [
         [
@@ -252,7 +252,7 @@
         "anaia",
         "naiz",
         "naše",
-        "aita"
+        "naša"
       ],
       "solutions": [
         [
@@ -345,8 +345,8 @@
         "Aitorren",
         "arreba",
         "naiz",
-        "Nire",
-        "aita"
+        "naše",
+        "Bere"
       ],
       "solutions": [
         [
@@ -470,7 +470,7 @@
       "phrase": [
         {
           "word": "Ta",
-          "definition": "Ta"
+          "definition": "the"
         },
         {
           "word": "devčina",
@@ -558,7 +558,7 @@
         "ne",
         "moja",
         "moje",
-        "eta"
+        "to"
       ],
       "solutions": [
         [
@@ -776,7 +776,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "tourist",
@@ -801,10 +801,10 @@
         "jest",
         "moja",
         "plemenica",
-        "eta",
         "žena",
-        "aita",
-        "Ja"
+        "Ja",
+        "jesi",
+        "Ona"
       ],
       "solutions": [
         [
@@ -826,7 +826,7 @@
       "phrase": [
         {
           "word": "Ta",
-          "definition": "Ta"
+          "definition": "the"
         },
         {
           "word": "Turistka",
@@ -982,7 +982,7 @@
         },
         {
           "word": "children",
-          "definition": "deti"
+          "definition": "deti\nděti"
         },
         {
           "word": "are",
@@ -994,7 +994,7 @@
         },
         {
           "word": "children.",
-          "definition": "deti"
+          "definition": "deti\nděti"
         }
       ],
       "chips": [
@@ -1090,7 +1090,7 @@
         },
         {
           "word": "children",
-          "definition": "deti"
+          "definition": "deti\nděti"
         },
         {
           "word": "are",
@@ -1343,12 +1343,12 @@
         "jest",
         "naša",
         "tetka",
-        "eta",
         "te",
         "naš",
         "naše",
         "Naša",
-        "Ja"
+        "Ja",
+        "ne"
       ],
       "solutions": [
         [
@@ -1621,12 +1621,12 @@
         "je",
         "naša",
         "tetka",
-        "eta",
         "te",
         "Ja",
         "ne",
         "Da",
-        "Ta"
+        "Ta",
+        "se"
       ],
       "solutions": [
         [

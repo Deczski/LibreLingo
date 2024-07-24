@@ -89,7 +89,6 @@ Phrases:
       - Oni sut Vojtěh i Katarina ?
       - Sut li oni Vojtěh i Katarina?
       - Či oni sut Vojtěh i Katarina ?
-      
     Translation: Are they Vojtěh and Katarina?
 
   - Phrase: Da. My Jesmo Vojtěh i Katarina.
@@ -126,6 +125,8 @@ Mini-dictionary:
   Interslavic:
     - da: yes
     - i: and
+    - dobro: good
+    - Hvala: Thanks
 
   English:
     - and: i

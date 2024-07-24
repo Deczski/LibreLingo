@@ -77,7 +77,7 @@
         },
         {
           "word": "toj",
-          "definition": "toj"
+          "definition": "the"
         },
         {
           "word": "bus",
@@ -158,7 +158,7 @@
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "now",
@@ -217,7 +217,7 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "byl",
@@ -233,7 +233,7 @@
         },
         {
           "word": "ale",
-          "definition": "ale"
+          "definition": "but"
         },
         {
           "word": "tutčas",
@@ -326,7 +326,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "bus?",
@@ -341,8 +341,8 @@
         "bus",
         "moj",
         "ako",
-        "moje",
-        "ale"
+        "Toj",
+        "moje"
       ],
       "solutions": [
         [
@@ -376,7 +376,7 @@
         },
         {
           "word": "toj",
-          "definition": "toj"
+          "definition": "the"
         },
         {
           "word": "bus",
@@ -429,7 +429,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "bus",
@@ -457,7 +457,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "car",
@@ -535,7 +535,7 @@
       "phrase": [
         {
           "word": "Toj",
-          "definition": "Toj"
+          "definition": "the"
         },
         {
           "word": "bus",
@@ -563,11 +563,11 @@
         },
         {
           "word": "toj",
-          "definition": "toj"
+          "definition": "the"
         },
         {
           "word": "avtomobil",
-          "definition": "avtomobil"
+          "definition": "car"
         },
         {
           "word": "jest",
@@ -669,7 +669,7 @@
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "now",
@@ -728,7 +728,7 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "byl",
@@ -740,11 +740,11 @@
         },
         {
           "word": "avtomobil,",
-          "definition": "avtomobil,"
+          "definition": "car"
         },
         {
           "word": "ale",
-          "definition": "ale"
+          "definition": "but"
         },
         {
           "word": "tutčas",
@@ -892,7 +892,7 @@
         },
         {
           "word": "avtomobil",
-          "definition": "avtomobil"
+          "definition": "car"
         },
         {
           "word": "jest",
@@ -904,7 +904,7 @@
         },
         {
           "word": "a",
-          "definition": "a"
+          "definition": "and"
         },
         {
           "word": "jedin",
@@ -986,7 +986,7 @@
         },
         {
           "word": "but",
-          "definition": "but"
+          "definition": "ale"
         },
         {
           "word": "now",
@@ -1061,7 +1061,7 @@
         },
         {
           "word": "ale",
-          "definition": "ale"
+          "definition": "but"
         },
         {
           "word": "tutčas",
@@ -1127,7 +1127,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "bus",
@@ -1139,7 +1139,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "car",
@@ -1188,7 +1188,7 @@
       "phrase": [
         {
           "word": "Toj",
-          "definition": "Toj"
+          "definition": "the"
         },
         {
           "word": "bus",
@@ -1200,7 +1200,7 @@
         },
         {
           "word": "avtomobil",
-          "definition": "avtomobil"
+          "definition": "car"
         },
         {
           "word": "sut",
@@ -1265,7 +1265,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "bus",
@@ -1285,7 +1285,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "car",
@@ -1340,7 +1340,7 @@
       "phrase": [
         {
           "word": "Toj",
-          "definition": "Toj"
+          "definition": "the"
         },
         {
           "word": "avtobus",
@@ -1356,11 +1356,11 @@
         },
         {
           "word": "a",
-          "definition": "a"
+          "definition": "and"
         },
         {
           "word": "avtomobil",
-          "definition": "avtomobil"
+          "definition": "car"
         },
         {
           "word": "byl",
@@ -1445,7 +1445,7 @@
         },
         {
           "word": "the",
-          "definition": "the"
+          "definition": "toj"
         },
         {
           "word": "car?",
@@ -1495,11 +1495,11 @@
         },
         {
           "word": "toj",
-          "definition": "toj"
+          "definition": "the"
         },
         {
           "word": "avtomobil",
-          "definition": "avtomobil"
+          "definition": "car"
         }
       ],
       "chips": [
@@ -1562,7 +1562,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "car",
@@ -1605,11 +1605,11 @@
       "phrase": [
         {
           "word": "Toj",
-          "definition": "Toj"
+          "definition": "the"
         },
         {
           "word": "avtomobil",
-          "definition": "avtomobil"
+          "definition": "car"
         },
         {
           "word": "byl",
@@ -1662,7 +1662,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "cars",

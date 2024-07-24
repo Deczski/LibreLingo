@@ -110,7 +110,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "son",
@@ -152,9 +152,9 @@
         "je",
         "ne",
         "moja",
+        "Toj",
         "Moj",
-        "moje",
-        "syn"
+        "moje"
       ],
       "solutions": [
         [
@@ -261,7 +261,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "daughter",
@@ -289,7 +289,7 @@
         },
         {
           "word": "granddaughter.",
-          "definition": "granddaughter."
+          "definition": "vnuka"
         }
       ],
       "chips": [
@@ -400,11 +400,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Nire aitaren emaztea nire ama da.",
+      "formInTargetLanguage": "Žena od mojego otca jest moja mati",
       "meaningInSourceLanguage": "The wife of my father is my mother.",
-      "id": "a57dbe2012bd",
+      "id": "c732d780dfd0",
       "priority": 0,
-      "group": "316fd1fdbe19"
+      "group": "22557f0ed7d8"
     },
     {
       "type": "chips",
@@ -412,7 +412,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "wife",
@@ -444,60 +444,67 @@
         }
       ],
       "chips": [
-        "Nire",
-        "aitaren",
-        "emaztea",
-        "nire",
-        "ama",
-        "da",
-        "aita",
-        "dira",
-        "avta",
-        "te",
-        "naše"
+        "Žena",
+        "od",
+        "mojego",
+        "otca",
+        "jest",
+        "moja",
+        "mati",
+        "moj",
+        "moje",
+        "je",
+        "Moja",
+        "jesi",
+        "žena"
       ],
       "solutions": [
         [
-          "Nire",
-          "aitaren",
-          "emaztea",
-          "nire",
-          "ama",
-          "da"
+          "Žena",
+          "od",
+          "mojego",
+          "otca",
+          "jest",
+          "moja",
+          "mati"
         ]
       ],
-      "formattedSolution": "Nire aitaren emaztea nire ama da.",
-      "id": "78b9d5e8c6a4",
+      "formattedSolution": "Žena od mojego otca jest moja mati",
+      "id": "b300de701432",
       "priority": 2,
-      "group": "316fd1fdbe19"
+      "group": "22557f0ed7d8"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Nire",
-          "definition": "Nire"
+          "word": "Žena",
+          "definition": "woman"
         },
         {
-          "word": "aitaren",
-          "definition": "aitaren"
+          "word": "od",
+          "definition": "od"
         },
         {
-          "word": "emaztea",
-          "definition": "emaztea"
+          "word": "mojego",
+          "definition": "mojego"
         },
         {
-          "word": "nire",
-          "definition": "nire"
+          "word": "otca",
+          "definition": "otca"
         },
         {
-          "word": "ama",
-          "definition": "ama"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "moja",
+          "definition": "moja"
+        },
+        {
+          "word": "mati",
+          "definition": "Mother"
         }
       ],
       "chips": [
@@ -538,17 +545,17 @@
         ]
       ],
       "formattedSolution": "The wife of my father is my mother.",
-      "id": "4243dcf692c6",
+      "id": "c8b495ed972c",
       "priority": 2,
-      "group": "316fd1fdbe19"
+      "group": "22557f0ed7d8"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Gizon hau nire senarra da.",
+      "formInTargetLanguage": "Toj člověk jest moj muž",
       "meaningInSourceLanguage": "This man is my husband.",
-      "id": "3ed05646ec9c",
+      "id": "516984867966",
       "priority": 0,
-      "group": "a49750bb443f"
+      "group": "798699a61612"
     },
     {
       "type": "chips",
@@ -576,53 +583,53 @@
         }
       ],
       "chips": [
-        "Gizon",
-        "hau",
-        "nire",
-        "senarra",
-        "da",
-        "naš",
-        "dira",
-        "Ja",
-        "ne"
+        "Toj",
+        "člověk",
+        "jest",
+        "moj",
+        "muž",
+        "Moj",
+        "toj",
+        "moja",
+        "tož"
       ],
       "solutions": [
         [
-          "Gizon",
-          "hau",
-          "nire",
-          "senarra",
-          "da"
+          "Toj",
+          "člověk",
+          "jest",
+          "moj",
+          "muž"
         ]
       ],
-      "formattedSolution": "Gizon hau nire senarra da.",
-      "id": "8dc36844d8bc",
+      "formattedSolution": "Toj člověk jest moj muž",
+      "id": "cbc94c3a64d3",
       "priority": 2,
-      "group": "a49750bb443f"
+      "group": "798699a61612"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Gizon",
-          "definition": "Gizon"
+          "word": "Toj",
+          "definition": "the"
         },
         {
-          "word": "hau",
-          "definition": "hau"
+          "word": "člověk",
+          "definition": "human"
         },
         {
-          "word": "nire",
-          "definition": "nire"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "senarra",
-          "definition": "senarra"
+          "word": "moj",
+          "definition": "moj"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "muž",
+          "definition": "man"
         }
       ],
       "chips": [
@@ -646,9 +653,9 @@
         ]
       ],
       "formattedSolution": "This man is my husband.",
-      "id": "e69077274c30",
+      "id": "197c5a84a05c",
       "priority": 2,
-      "group": "a49750bb443f"
+      "group": "798699a61612"
     },
     {
       "type": "options",
@@ -684,7 +691,7 @@
         },
         {
           "word": "guide.",
-          "definition": "guide."
+          "definition": "provodnik"
         }
       ],
       "chips": [
@@ -693,10 +700,10 @@
         "tour",
         "gida",
         "da",
-        "dira",
         "žena",
         "hura",
-        "eta"
+        "Ja",
+        "Ona"
       ],
       "solutions": [
         [
@@ -767,11 +774,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Nire amaren senarra nire aita da.",
+      "formInTargetLanguage": "Muž od mojej mati jest moj otec",
       "meaningInSourceLanguage": "The husband of my mother is my father.",
-      "id": "3086c57e44b0",
+      "id": "0454ff109f36",
       "priority": 0,
-      "group": "d9a11cfba348"
+      "group": "3e780729c8f3"
     },
     {
       "type": "chips",
@@ -779,7 +786,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "husband",
@@ -811,60 +818,67 @@
         }
       ],
       "chips": [
-        "Nire",
-        "amaren",
-        "senarra",
-        "nire",
-        "aita",
-        "da",
-        "dira",
-        "ama",
-        "naše",
-        "Bere",
-        "šere"
+        "Muž",
+        "od",
+        "mojej",
+        "mati",
+        "jest",
+        "moj",
+        "otec",
+        "moje",
+        "je",
+        "te",
+        "Moj",
+        "muž",
+        "to"
       ],
       "solutions": [
         [
-          "Nire",
-          "amaren",
-          "senarra",
-          "nire",
-          "aita",
-          "da"
+          "Muž",
+          "od",
+          "mojej",
+          "mati",
+          "jest",
+          "moj",
+          "otec"
         ]
       ],
-      "formattedSolution": "Nire amaren senarra nire aita da.",
-      "id": "a7497ef249de",
+      "formattedSolution": "Muž od mojej mati jest moj otec",
+      "id": "599b907ae457",
       "priority": 2,
-      "group": "d9a11cfba348"
+      "group": "3e780729c8f3"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Nire",
-          "definition": "Nire"
+          "word": "Muž",
+          "definition": "man"
         },
         {
-          "word": "amaren",
-          "definition": "amaren"
+          "word": "od",
+          "definition": "od"
         },
         {
-          "word": "senarra",
-          "definition": "senarra"
+          "word": "mojej",
+          "definition": "mojej"
         },
         {
-          "word": "nire",
-          "definition": "nire"
+          "word": "mati",
+          "definition": "Mother"
         },
         {
-          "word": "aita",
-          "definition": "aita"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "da.",
-          "definition": "yes"
+          "word": "moj",
+          "definition": "moj"
+        },
+        {
+          "word": "otec",
+          "definition": "Father"
         }
       ],
       "chips": [
@@ -905,9 +919,9 @@
         ]
       ],
       "formattedSolution": "The husband of my mother is my father.",
-      "id": "2bf875e6cc79",
+      "id": "813791b98663",
       "priority": 2,
-      "group": "d9a11cfba348"
+      "group": "3e780729c8f3"
     },
     {
       "type": "options",
@@ -1139,7 +1153,7 @@
         },
         {
           "word": "doctor.",
-          "definition": "doctor."
+          "definition": "doktor"
         }
       ],
       "chips": [
@@ -1149,7 +1163,7 @@
         "doktorica",
         "ti",
         "te",
-        "eta"
+        "Ja"
       ],
       "solutions": [
         [
@@ -1244,9 +1258,9 @@
         "jest",
         "naša",
         "tetka",
-        "eta",
         "žena",
-        "ne"
+        "ne",
+        "ona"
       ],
       "solutions": [
         [
@@ -1342,9 +1356,9 @@
         "tetka",
         "jest",
         "učitelka",
-        "eta",
         "žena",
-        "aita"
+        "tetky",
+        "jesm"
       ],
       "solutions": [
         [
@@ -1439,7 +1453,7 @@
         },
         {
           "word": "cousin",
-          "definition": "cousin"
+          "definition": "kuzen\nkuzina"
         },
         {
           "word": "(male).",
@@ -1507,7 +1521,7 @@
         },
         {
           "word": "kuzen",
-          "definition": "cousin (male)"
+          "definition": "cousin\ncousin(male)"
         }
       ],
       "chips": [
@@ -1567,7 +1581,7 @@
         },
         {
           "word": "cousin",
-          "definition": "cousin"
+          "definition": "kuzen\nkuzina"
         },
         {
           "word": "(male)",
@@ -1599,7 +1613,7 @@
         "je",
         "ne",
         "te",
-        "toj"
+        "One"
       ],
       "solutions": [
         [
@@ -1625,7 +1639,7 @@
         },
         {
           "word": "kuzen",
-          "definition": "cousin (male)"
+          "definition": "cousin\ncousin(male)"
         },
         {
           "word": "jest",
@@ -1713,7 +1727,7 @@
         },
         {
           "word": "cousin",
-          "definition": "cousin"
+          "definition": "kuzen\nkuzina"
         },
         {
           "word": "(female).",
@@ -1855,7 +1869,7 @@
         },
         {
           "word": "cousin",
-          "definition": "cousin"
+          "definition": "kuzen\nkuzina"
         },
         {
           "word": "(female)",
@@ -1885,7 +1899,7 @@
         "tož",
         "moj",
         "prijatelj",
-        "toj",
+        "Toj",
         "moje",
         "je",
         "to",
@@ -1916,7 +1930,7 @@
         },
         {
           "word": "kuzen",
-          "definition": "cousin (male)"
+          "definition": "cousin\ncousin(male)"
         },
         {
           "word": "jest",
@@ -2000,7 +2014,7 @@
         },
         {
           "word": "children.",
-          "definition": "deti"
+          "definition": "deti\nděti"
         }
       ],
       "chips": [
@@ -2176,7 +2190,7 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "The"
+          "definition": "toj"
         },
         {
           "word": "child",
@@ -2202,9 +2216,9 @@
         "moj",
         "syn",
         "to",
+        "Toj",
         "Ty",
-        "sut",
-        "je"
+        "sut"
       ],
       "solutions": [
         [
@@ -2226,7 +2240,7 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "To"
+          "definition": "the"
         },
         {
           "word": "děti",
@@ -2377,10 +2391,10 @@
         "cousinmale3.jpg"
       ],
       "formInTargetLanguage": "kuzen",
-      "meaningInSourceLanguage": "cousin (male)",
-      "id": "fdbecf7f4957",
+      "meaningInSourceLanguage": "cousin(male)",
+      "id": "aab3fb2cebef",
       "priority": 0,
-      "group": "831224bdd351"
+      "group": "ee632a9dbcea"
     },
     {
       "type": "shortInput",
@@ -2394,17 +2408,13 @@
       ],
       "phrase": [
         {
-          "word": "cousin",
-          "definition": "cousin"
-        },
-        {
-          "word": "(male)",
-          "definition": "(male)"
+          "word": "cousin(male)",
+          "definition": "kuzen"
         }
       ],
-      "id": "dfdbb5ee06d5",
+      "id": "ddce2cc01287",
       "priority": 1,
-      "group": "831224bdd351"
+      "group": "ee632a9dbcea"
     },
     {
       "type": "cards",
@@ -2414,10 +2424,10 @@
         "cousinfemale3.jpg"
       ],
       "formInTargetLanguage": "kuzina",
-      "meaningInSourceLanguage": "cousin (female)",
-      "id": "9105f1238f51",
+      "meaningInSourceLanguage": "cousin(female)",
+      "id": "5d8b7b754dc5",
       "priority": 0,
-      "group": "9f999166353a"
+      "group": "63b25fa865d7"
     },
     {
       "type": "shortInput",
@@ -2431,17 +2441,13 @@
       ],
       "phrase": [
         {
-          "word": "cousin",
-          "definition": "cousin"
-        },
-        {
-          "word": "(female)",
-          "definition": "(female)"
+          "word": "cousin(female)",
+          "definition": "kuzina"
         }
       ],
-      "id": "610fbd107222",
+      "id": "f6e1784cce71",
       "priority": 1,
-      "group": "9f999166353a"
+      "group": "63b25fa865d7"
     },
     {
       "type": "cards",
@@ -2469,7 +2475,7 @@
       "phrase": [
         {
           "word": "children",
-          "definition": "deti"
+          "definition": "deti\nděti"
         }
       ],
       "id": "5956ee6b716a",

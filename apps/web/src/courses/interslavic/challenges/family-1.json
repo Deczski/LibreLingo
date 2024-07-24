@@ -727,7 +727,7 @@
       "phrase": [
         {
           "word": "Ta",
-          "definition": "Ta"
+          "definition": "the"
         },
         {
           "word": "devčina",
@@ -1001,8 +1001,8 @@
         "jesm",
         "Katarina",
         "tam",
-        "eta",
-        "Ona"
+        "Ona",
+        "žena"
       ],
       "solutions": [
         [
@@ -1808,7 +1808,7 @@
         "i",
         "Vojtěh",
         "ti",
-        "je"
+        "Toj"
       ],
       "solutions": [
         [
@@ -2322,24 +2322,16 @@
     },
     {
       "type": "cards",
-      "pictures": [
-        "parents1.jpg",
-        "parents2.jpg",
-        "parents3.jpg"
-      ],
+      "pictures": null,
       "formInTargetLanguage": "praroditelji",
       "meaningInSourceLanguage": "grandparents",
-      "id": "dae1158ab999",
+      "id": "54426d1dd0da",
       "priority": 0,
-      "group": "e2a496575e7e"
+      "group": "2b37644ffea8"
     },
     {
       "type": "shortInput",
-      "pictures": [
-        "parents1.jpg",
-        "parents2.jpg",
-        "parents3.jpg"
-      ],
+      "pictures": null,
       "formInTargetLanguage": [
         "praroditelji"
       ],
@@ -2349,9 +2341,9 @@
           "definition": "praroditelji"
         }
       ],
-      "id": "7c46986d3a69",
+      "id": "a33d0ccfd1b1",
       "priority": 1,
-      "group": "e2a496575e7e"
+      "group": "2b37644ffea8"
     }
   ]
 }

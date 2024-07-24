@@ -85,6 +85,15 @@ Phrases:
 Mini-dictionary:
   Interslavic:
     - jest: is
+    - pozdno: late
+    - pomiluj: sorry
+    - ničto: nothing
+    - pozdněje: later
+    - zajutra: tommorow
 
   English:
-    - bus: avtobus
+    - sorry: pomiluj
+    - is: jest
+    - nothing: ničto
+    - late: pozdno
+    - later: pozdněje

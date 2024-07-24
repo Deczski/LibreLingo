@@ -53,19 +53,19 @@ Phrases:
       - A nurse is pretty and a doctor is handsome.
       - A nurse is pretty and a doctor is beautiful.
 
-  - Phrase: Studentka jest lěpa, ale šofer jest 
+  - Phrase: Studentka jest lěpa, ale šofer jest škaradny
     Translation: The student is pretty, but the driver is ugly.
     Alternative translations:
       - A student is pretty, but a driver is ugly.
 
-  - Phrase: Tour gida polita da, baina turista ederra da.
+  - Phrase: Provodnik jest lěpy, ale turistka jest krasiva
     Translation: The tour guide is pretty, but the tourist is beautiful.
     Alternative translations:
       - The tour guide is pretty, but the tourist is handsome.
       - A tour guide is pretty, but a tourist is beautiful.
       - A tour guide is pretty, but a tourist is handsome.
 
-  - Phrase: Medikua ez da itsusia, baizik ederra da.
+  - Phrase: Doktor ne jest škaradny, a raděje jest krasivy
     Alternative versions:
       - Medikua ez da itsusia, baizik hura ederra da.
     Translation: The doctor is not ugly, but rather he is handsome.
@@ -74,40 +74,40 @@ Phrases:
       - A doctor is not ugly, but rather he is handsome.
       - A doctor is not ugly, but rather she is beautiful.
 
-  - Phrase: Polizia gizon gaztea eta ederra da.
+  - Phrase: Policijnik jest mlady i krasivy muž
     Translation: The police officer is a young and handsome man.
     Alternative translations:
       - A police officer is the young and handsome man.
 
-  - Phrase: Emakume gazteak eta politak dira.
+  - Phrase: One sut mlade i krasive ženy
     Translation: They are young and beautiful women.
 
-  - Phrase: Gidaria ez da ederra.
+  - Phrase: Šofer ne jest krasivy
     Translation: The driver is not handsome.
     Alternative translations:
       - A driver is not handsome.
       - The driver is not beautiful.
       - A driver is not beautiful.
 
-  - Phrase: Kotxe berria urdina eta kotxe zaharra berdea da.
+  - Phrase: Toj novy avtomobil jest nebesky i stary avtomobil jest zeleny
     Translation: The new car is blue and the old car is green.
     Alternative translations:
       - A new car is blue and an old car is green.
 
-  - Phrase: Kotxe urdina zaharra eta kotxe berdea polita da.
+  - Phrase: Toj nebesky avtomobil jest škaradny i zeleny avtomobil jest krasivy
     Translation: The blue car is ugly and the green car is pretty.
     Alternative translations:
       - A blue car is ugly and a green car is pretty.
 
-  - Phrase: Kotxea ez da zaharra, baizik berria da.
+  - Phrase: Toj avtomobil ne jest stary a raděje jest novy
     Translation: The car is not old, but rather it is new.
 
-  - Phrase: Kotxe berria azkarra eta kotxe zaharra motela da.
+  - Phrase: Toj novy avtomobil jest brzy i stary avtomobil jest medly
     Translation: The new car is fast and the old car is slow.
     Alternative translations:
       - A new car is fast and an old car is slow.
 
-  - Phrase: Kotxe urdina motela eta kotxe azkarra da.
+  - Phrase: Toj stary avtomobil jest medly a zeleny avtomobil jest brzy
     Translation: The blue car is slow and the green car is fast.
     Alternative translations:
       - A blue car is slow and a green car is fast.
@@ -117,8 +117,40 @@ Mini-dictionary:
   Interslavic:
 
   - Ja budu: I will
-
+  - avtomobil: car
+  - stary: old
+  - toj: the
+  - ta: the
+  - to: the
+  - a: and
+  - raděje: rather
+  - šofer: driver
+  - ale: but
+  - no: but
+  - krasivy: beautiful
+  - krasiva: beautiful
+  - krasive: beautiful
+  - krasivo: beautiful
+  - krasivi: beautiful
+  - mlade: young
+  - mlady: young
+  - policijnik: police officer
+  - ženy: women
+  - doktor: doctor
+  - provodnik: guide
 
   English:
 
-  - know: znati
+  - old: stary
+  - old: stara
+  - the: toj
+  - driver: šofer
+  - rather: raděje
+  - but: ale
+  - handsome: krasive
+  - beautiful: krasive
+  - young: mlade
+  - police officer: policijnik
+  - women: ženy
+  - doctor: doktor
+  - guide: provodnik
