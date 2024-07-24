@@ -58,9 +58,13 @@ Phrases:
 
 - Phrase: On byl
   Translation: He was
+  Images:
+  - man2
 
 - Phrase: Ona byla
   Translation: She was        
+  Images:
+  - woman2
 
 - Phrase: Ono bylo
   Translation: It was
@@ -73,12 +77,19 @@ Phrases:
 
 - Phrase: Oni byli
   Translation: They(masculine) were
+  Images:
+  - men1
 
 - Phrase: One byli
   Translation: They(feminine) were
+  Images:
+  - women1  
 
 - Phrase: Ja jesm byl učitelj
   Translation: I was a teacher
+  Images:
+  - teacher1
+
 
 - Phrase: Ty jesi byl matematik
   Translation: You(singular) were a mathematician 
