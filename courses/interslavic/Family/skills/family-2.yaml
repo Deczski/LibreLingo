@@ -77,7 +77,7 @@ Phrases:
   - Phrase: Toj člověk jest moj muž
     Translation: This man is my husband.
 
-  - Phrase: Bere senarra tour gida da.
+  - Phrase: Jej muž jest provodnik
     Translation: Her husband is a tour guide.
 
   - Phrase: Muž od mojej mati jest moj otec
@@ -99,7 +99,7 @@ Phrases:
   - Phrase: Ona jest naša tetka
     Translation: She is our aunt.
 
-  - Phrase: Naša tetka jest učitelka
+  - Phrase: Naša tetka jest učiteljka
     Translation: Our aunt is a teacher.
 
   - Phrase: Syn od mojego ujca je moj kuzen
@@ -112,7 +112,7 @@ Phrases:
     Alternative translations:
       - My cousin is also a waiter.
 
-  - Phrase: Dočera mojej tetky je moja kuzynka
+  - Phrase: Dočera mojej tetky je moja kuzinka
     Translation: My aunt’s daughter is my cousin (female).
     Alternative translations:
       - My aunt’s daughter is my cousin.
@@ -140,7 +140,7 @@ Mini-dictionary:
 
   - Ja budu: I will
   - vnuk: grandson
-  - vnuka: granddaughter
+  - vnučka: granddaughter
   - tetka: aunt
   - ujec: uncle
   - kuzen: cousin
@@ -151,10 +151,46 @@ Mini-dictionary:
   English:
 
   - grandson: vnuk
-  - granddaughter: vnuka
+  - granddaughter: vnučka
+  - grandchildren: vnuki
   - aunt: tetka
   - uncle: ujec
   - cousin: kuzen
   - cousin: kuzina
   - children: děti
   - child: děte
+  - uncle: ujec
+  - uncle's: ujca
+  - waiter: kelner
+  - friend: prijatelj
+  - Goran: Goran(male name)
+  - Goran's: Gorana
+  - Your:
+    - tvoj
+    - tvoja
+    - tvoje
+    - tvoji
+    - tvojego
+    - tvojem
+    - tvojemu
+    - tvojim
+    - tvoju
+    - tvojej
+    - tvojeju
+    - tvojih
+    - tvojim
+    - tvojimi
+    - vaš
+    - vaša
+    - vaše
+    - vaši
+    - vašego
+    - vašem
+    - vašemu
+    - vašim
+    - vaših
+    - vašim
+    - vašimi
+    - vašu
+    - vašej
+    - vašeju

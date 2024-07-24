@@ -216,7 +216,7 @@
         "Ty",
         "učitelj",
         "te",
-        "jesi"
+        "Jej"
       ],
       "solutions": [
         [
@@ -998,7 +998,7 @@
         },
         {
           "word": "takože",
-          "definition": "also"
+          "definition": "also\ntoo"
         },
         {
           "word": "avto?",

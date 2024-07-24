@@ -88,7 +88,7 @@ Phrases:
     Alternative translations:
       - The father of our father is our grandfather.
 
-  - Phrase: Ta devčina je moja dočera
+  - Phrase: Ta děvčina je moja dočera
     Translation: This girl is my daughter.
 
   - Phrase: Moja dočera je medsestra
@@ -144,9 +144,20 @@ Mini-dictionary:
 
   Interslavic:
 
-  - Ja budu: I will
+  - medsestra: nurse
+  - mojego: my
+  - syna: son's
+  - moj: mine
+  - mojej: my
 
 
   English:
 
   - know: znati
+  - nurse: medsestra
+  - wife: žena
+  - husband: muž
+  - her:
+    - jej
+    - ju
+    - jeju

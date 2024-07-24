@@ -74,7 +74,7 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "Gorana",
@@ -132,7 +132,7 @@
         },
         {
           "word": "Goran's",
-          "definition": "Goran's"
+          "definition": "Gorana"
         },
         {
           "word": "sister",
@@ -182,7 +182,7 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "Gorana",
@@ -346,7 +346,7 @@
         "arreba",
         "naiz",
         "naše",
-        "Bere"
+        "anaia"
       ],
       "solutions": [
         [
@@ -408,11 +408,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ta devčina je moja partnerka",
+      "formInTargetLanguage": "Ta děvčina je moja partnerka",
       "meaningInSourceLanguage": "This girl is my girlfriend",
-      "id": "a90b5e5956c4",
+      "id": "0ec4926facaa",
       "priority": 0,
-      "group": "a1b00b5ec80b"
+      "group": "5291d71ab11a"
     },
     {
       "type": "chips",
@@ -432,7 +432,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "girlfriend",
@@ -441,28 +441,28 @@
       ],
       "chips": [
         "Ta",
-        "devčina",
+        "děvčina",
         "je",
         "moja",
         "partnerka",
         "Ja",
         "Ona",
-        "žena",
-        "ne"
+        "ne",
+        "Da"
       ],
       "solutions": [
         [
           "Ta",
-          "devčina",
+          "děvčina",
           "je",
           "moja",
           "partnerka"
         ]
       ],
-      "formattedSolution": "Ta devčina je moja partnerka",
-      "id": "6d8420aa681f",
+      "formattedSolution": "Ta děvčina je moja partnerka",
+      "id": "461d0df01ea1",
       "priority": 2,
-      "group": "a1b00b5ec80b"
+      "group": "5291d71ab11a"
     },
     {
       "type": "chips",
@@ -473,8 +473,8 @@
           "definition": "the"
         },
         {
-          "word": "devčina",
-          "definition": "devčina"
+          "word": "děvčina",
+          "definition": "a girl\ngirl\nthe girl"
         },
         {
           "word": "je",
@@ -482,7 +482,7 @@
         },
         {
           "word": "moja",
-          "definition": "moja"
+          "definition": "mine\nmy"
         },
         {
           "word": "partnerka",
@@ -510,9 +510,9 @@
         ]
       ],
       "formattedSolution": "This girl is my girlfriend",
-      "id": "912536b48839",
+      "id": "97146f3d2fd4",
       "priority": 2,
-      "group": "a1b00b5ec80b"
+      "group": "5291d71ab11a"
     },
     {
       "type": "options",
@@ -528,7 +528,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "brother’s",
@@ -585,11 +585,11 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "mojego",
-          "definition": "mojego"
+          "definition": "my"
         },
         {
           "word": "brata",
@@ -652,7 +652,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "sister’s",
@@ -709,11 +709,11 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "mojej",
-          "definition": "mojej"
+          "definition": "my"
         },
         {
           "word": "sěstry",
@@ -788,7 +788,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "niece",
@@ -838,7 +838,7 @@
         },
         {
           "word": "moja",
-          "definition": "moja"
+          "definition": "mine\nmy"
         },
         {
           "word": "plemenica",
@@ -892,7 +892,7 @@
         },
         {
           "word": "your",
-          "definition": "your"
+          "definition": "tvoj\ntvoja\ntvoje\ntvojego\ntvojej\ntvojeju\ntvojem\ntvojemu\ntvoji\ntvojih\ntvojim\ntvojimi\ntvoju\nvaš\nvaša\nvaše\nvašego\nvašej\nvašeju\nvašem\nvašemu\nvaši\nvaših\nvašim\nvašimi\nvašu"
         },
         {
           "word": "nieces",
@@ -935,7 +935,7 @@
         },
         {
           "word": "tvoje",
-          "definition": "tvoje"
+          "definition": "your's"
         },
         {
           "word": "plemenice",
@@ -1040,7 +1040,7 @@
         },
         {
           "word": "naše",
-          "definition": "naše"
+          "definition": "our"
         },
         {
           "word": "děti",
@@ -1086,7 +1086,7 @@
       "phrase": [
         {
           "word": "Your",
-          "definition": "Your"
+          "definition": "tvoj\ntvoja\ntvoje\ntvojego\ntvojej\ntvojeju\ntvojem\ntvojemu\ntvoji\ntvojih\ntvojim\ntvojimi\ntvoju\nvaš\nvaša\nvaše\nvašego\nvašej\nvašeju\nvašem\nvašemu\nvaši\nvaših\nvašim\nvašimi\nvašu"
         },
         {
           "word": "children",
@@ -1129,7 +1129,7 @@
       "phrase": [
         {
           "word": "Tvoje",
-          "definition": "Tvoje"
+          "definition": "your's"
         },
         {
           "word": "děti",
@@ -1241,11 +1241,11 @@
         },
         {
           "word": "našego",
-          "definition": "našego"
+          "definition": "our"
         },
         {
           "word": "otca",
-          "definition": "otca"
+          "definition": "father"
         },
         {
           "word": "jest",
@@ -1253,7 +1253,7 @@
         },
         {
           "word": "naš",
-          "definition": "naš"
+          "definition": "our"
         },
         {
           "word": "ujec",
@@ -1376,7 +1376,7 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "našej",
@@ -1392,7 +1392,7 @@
         },
         {
           "word": "naša",
-          "definition": "naša"
+          "definition": "our"
         },
         {
           "word": "tetka",
@@ -1515,7 +1515,7 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "našej",
@@ -1531,7 +1531,7 @@
         },
         {
           "word": "naš",
-          "definition": "naš"
+          "definition": "our"
         },
         {
           "word": "ujec",
@@ -1654,15 +1654,15 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "našego",
-          "definition": "našego"
+          "definition": "our"
         },
         {
           "word": "otca",
-          "definition": "otca"
+          "definition": "father"
         },
         {
           "word": "je",
@@ -1670,7 +1670,7 @@
         },
         {
           "word": "naša",
-          "definition": "naša"
+          "definition": "our"
         },
         {
           "word": "tetka",

@@ -734,9 +734,9 @@
         "Ty",
         "Vojtěh",
         "Toj",
+        "Jej",
         "jesi",
-        "Vy",
-        "je"
+        "Vy"
       ],
       "solutions": [
         [
@@ -1209,7 +1209,7 @@
         },
         {
           "word": "takože",
-          "definition": "also"
+          "definition": "also\ntoo"
         },
         {
           "word": "dobro.",

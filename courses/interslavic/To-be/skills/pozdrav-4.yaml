@@ -123,7 +123,7 @@ Mini-dictionary:
   - Vy byste: You(plural) would
   - Oni by: They(masculine) would
   - One by: They(feminine) would
-  - basketbalisti: basketball players
+  - basketbalisti: basketballers
   - budoval: build
   - pametali: remeber
   - se: reflexive pronoun
@@ -161,6 +161,37 @@ Mini-dictionary:
   - denj: day
   - do: towards
   - noč: night
+  - viděnja: seeing
+  - naši: ours
+  - doktori: doctors
+  - naš: our
+  - naša: our
+  - naše: our
+  - od: from
+  - našego: our
+  - otca: father
+  - děvčina: girl
+  - moja: mine
+  - moja: my
+  - tvoje: your's
+  - dočery: daughters
+  - studentky: students(female)
+  - naše: our
+  - vnuk: grandson
+  - vnuka: granddaughter
+  - vnuki: grandchildren
+  - jej: her
+  - tvoj: your
+  - medbrat: nurse
+  - medsestra: nurse
+  - Jih: their
+  - doktorica: doctor
+  - učiteljka: teacher
+  - tož: too
+  - takože: too
+  - ujca: unlce
+  - kelner: waiter
+  - tetky: aunt
 
   English:
 
@@ -224,4 +255,33 @@ Mini-dictionary:
     - naša
     - naše
     - naši
-    
+
+  - father's: otcev
+
+  - my:
+    - moj
+    - moja
+    - moje
+    - moji
+
+  - daughters: dočery
+
+  - her:
+    - ju
+    - jej
+    - jeju
+
+  - his:
+    - jego
+    - jem
+    - jemu
+    - jim
+  
+  - their:
+    - jih
+    - je
+    - jim
+    - jimi
+
+  - female: žensky
+  - male: mužsky

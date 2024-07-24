@@ -181,7 +181,7 @@
         },
         {
           "word": "nurse",
-          "definition": "nurse"
+          "definition": "medsestra"
         },
         {
           "word": "is",
@@ -249,7 +249,7 @@
       "phrase": [
         {
           "word": "Medsestra",
-          "definition": "Medsestra"
+          "definition": "nurse"
         },
         {
           "word": "jest",
@@ -597,7 +597,7 @@
       "phrase": [
         {
           "word": "Provodnik",
-          "definition": "guide"
+          "definition": "guide\ntour guide"
         },
         {
           "word": "jest",

@@ -299,7 +299,7 @@
       "phrase": [
         {
           "word": "Naši",
-          "definition": "Naši"
+          "definition": "ours"
         },
         {
           "word": "praroditelji",
@@ -311,7 +311,7 @@
         },
         {
           "word": "doktori",
-          "definition": "doktori"
+          "definition": "doctors"
         }
       ],
       "chips": [
@@ -401,7 +401,7 @@
         },
         {
           "word": "naši",
-          "definition": "naši"
+          "definition": "ours"
         },
         {
           "word": "roditelji",
@@ -495,7 +495,7 @@
         },
         {
           "word": "naš",
-          "definition": "naš"
+          "definition": "our"
         },
         {
           "word": "otec",
@@ -602,15 +602,15 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "našego",
-          "definition": "našego"
+          "definition": "our"
         },
         {
           "word": "otca",
-          "definition": "otca"
+          "definition": "father"
         },
         {
           "word": "jest",
@@ -618,7 +618,7 @@
         },
         {
           "word": "naš",
-          "definition": "naš"
+          "definition": "our"
         },
         {
           "word": "dědok",
@@ -665,11 +665,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ta devčina je moja dočera",
+      "formInTargetLanguage": "Ta děvčina je moja dočera",
       "meaningInSourceLanguage": "This girl is my daughter.",
-      "id": "e88a1961902a",
+      "id": "68424a0fb0af",
       "priority": 0,
-      "group": "d9d34fa63182"
+      "group": "d3483f71c720"
     },
     {
       "type": "chips",
@@ -689,7 +689,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "daughter.",
@@ -698,28 +698,28 @@
       ],
       "chips": [
         "Ta",
-        "devčina",
+        "děvčina",
         "je",
         "moja",
         "dočera",
         "Ja",
-        "žena",
         "Da",
-        "Moja"
+        "Moja",
+        "Ona"
       ],
       "solutions": [
         [
           "Ta",
-          "devčina",
+          "děvčina",
           "je",
           "moja",
           "dočera"
         ]
       ],
-      "formattedSolution": "Ta devčina je moja dočera",
-      "id": "c09534fac68c",
+      "formattedSolution": "Ta děvčina je moja dočera",
+      "id": "4df75355cb01",
       "priority": 2,
-      "group": "d9d34fa63182"
+      "group": "d3483f71c720"
     },
     {
       "type": "chips",
@@ -730,8 +730,8 @@
           "definition": "the"
         },
         {
-          "word": "devčina",
-          "definition": "devčina"
+          "word": "děvčina",
+          "definition": "a girl\ngirl\nthe girl"
         },
         {
           "word": "je",
@@ -739,7 +739,7 @@
         },
         {
           "word": "moja",
-          "definition": "moja"
+          "definition": "mine\nmy"
         },
         {
           "word": "dočera",
@@ -767,9 +767,9 @@
         ]
       ],
       "formattedSolution": "This girl is my daughter.",
-      "id": "ed95d8027c44",
+      "id": "2cd7d231c6d4",
       "priority": 2,
-      "group": "d9d34fa63182"
+      "group": "d3483f71c720"
     },
     {
       "type": "options",
@@ -785,7 +785,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "daughter",
@@ -801,7 +801,7 @@
         },
         {
           "word": "nurse.",
-          "definition": "nurse."
+          "definition": "medsestra"
         }
       ],
       "chips": [
@@ -832,7 +832,7 @@
       "phrase": [
         {
           "word": "Moja",
-          "definition": "Moja"
+          "definition": "mine\nmy"
         },
         {
           "word": "dočera",
@@ -844,7 +844,7 @@
         },
         {
           "word": "medsestra",
-          "definition": "medsestra"
+          "definition": "nurse"
         }
       ],
       "chips": [
@@ -886,11 +886,11 @@
       "phrase": [
         {
           "word": "Your",
-          "definition": "Your"
+          "definition": "tvoj\ntvoja\ntvoje\ntvojego\ntvojej\ntvojeju\ntvojem\ntvojemu\ntvoji\ntvojih\ntvojim\ntvojimi\ntvoju\nvaš\nvaša\nvaše\nvašego\nvašej\nvašeju\nvašem\nvašemu\nvaši\nvaših\nvašim\nvašimi\nvašu"
         },
         {
           "word": "daughters",
-          "definition": "daughters"
+          "definition": "dočery"
         },
         {
           "word": "are",
@@ -929,11 +929,11 @@
       "phrase": [
         {
           "word": "Tvoje",
-          "definition": "Tvoje"
+          "definition": "your's"
         },
         {
           "word": "dočery",
-          "definition": "dočery"
+          "definition": "daughters"
         },
         {
           "word": "sut",
@@ -941,7 +941,7 @@
         },
         {
           "word": "studentky",
-          "definition": "studentky"
+          "definition": "students(female)"
         }
       ],
       "chips": [

@@ -28,7 +28,7 @@
         },
         {
           "word": "grandchildren.",
-          "definition": "grandchildren."
+          "definition": "vnuki"
         }
       ],
       "chips": [
@@ -67,11 +67,11 @@
         },
         {
           "word": "naše",
-          "definition": "naše"
+          "definition": "our"
         },
         {
           "word": "vnuki",
-          "definition": "vnuki"
+          "definition": "grandchildren"
         }
       ],
       "chips": [
@@ -122,7 +122,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "son",
@@ -134,7 +134,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "grandson.",
@@ -182,15 +182,15 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "mojego",
-          "definition": "mojego"
+          "definition": "my"
         },
         {
           "word": "syna",
-          "definition": "syna"
+          "definition": "son's"
         },
         {
           "word": "jest",
@@ -198,7 +198,7 @@
         },
         {
           "word": "moj",
-          "definition": "moj"
+          "definition": "mine"
         },
         {
           "word": "vnuk",
@@ -273,7 +273,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "daughter",
@@ -285,11 +285,11 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "granddaughter.",
-          "definition": "vnuka"
+          "definition": "vnučka"
         }
       ],
       "chips": [
@@ -333,15 +333,15 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "mojej",
-          "definition": "mojej"
+          "definition": "my"
         },
         {
           "word": "dočery",
-          "definition": "dočery"
+          "definition": "daughters"
         },
         {
           "word": "je",
@@ -349,11 +349,11 @@
         },
         {
           "word": "moja",
-          "definition": "moja"
+          "definition": "mine\nmy"
         },
         {
           "word": "vnučka",
-          "definition": "vnučka"
+          "definition": "granddaughter"
         }
       ],
       "chips": [
@@ -416,7 +416,7 @@
         },
         {
           "word": "wife",
-          "definition": "wife"
+          "definition": "žena"
         },
         {
           "word": "of",
@@ -424,7 +424,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "father",
@@ -436,7 +436,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "mother.",
@@ -484,15 +484,15 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "mojego",
-          "definition": "mojego"
+          "definition": "my"
         },
         {
           "word": "otca",
-          "definition": "otca"
+          "definition": "father"
         },
         {
           "word": "jest",
@@ -500,7 +500,7 @@
         },
         {
           "word": "moja",
-          "definition": "moja"
+          "definition": "mine\nmy"
         },
         {
           "word": "mati",
@@ -575,11 +575,11 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "husband.",
-          "definition": "husband."
+          "definition": "muž"
         }
       ],
       "chips": [
@@ -625,7 +625,7 @@
         },
         {
           "word": "moj",
-          "definition": "moj"
+          "definition": "mine"
         },
         {
           "word": "muž",
@@ -659,11 +659,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Bere senarra tour gida da.",
+      "formInTargetLanguage": "Jej muž jest provodnik",
       "meaningInSourceLanguage": "Her husband is a tour guide.",
-      "id": "f8f15e115769",
+      "id": "97f95c58cc74",
       "priority": 0,
-      "group": "caebfc74dd53"
+      "group": "b64eba15b173"
     },
     {
       "type": "chips",
@@ -671,11 +671,11 @@
       "phrase": [
         {
           "word": "Her",
-          "definition": "Her"
+          "definition": "jej\njeju\nju"
         },
         {
           "word": "husband",
-          "definition": "husband"
+          "definition": "muž"
         },
         {
           "word": "is",
@@ -695,53 +695,46 @@
         }
       ],
       "chips": [
-        "Bere",
-        "senarra",
-        "tour",
-        "gida",
-        "da",
-        "žena",
-        "hura",
-        "Ja",
-        "Ona"
+        "Jej",
+        "muž",
+        "jest",
+        "provodnik",
+        "jesi",
+        "je",
+        "ne"
       ],
       "solutions": [
         [
-          "Bere",
-          "senarra",
-          "tour",
-          "gida",
-          "da"
+          "Jej",
+          "muž",
+          "jest",
+          "provodnik"
         ]
       ],
-      "formattedSolution": "Bere senarra tour gida da.",
-      "id": "1d96ab995a7d",
+      "formattedSolution": "Jej muž jest provodnik",
+      "id": "dc8e867379b3",
       "priority": 2,
-      "group": "caebfc74dd53"
+      "group": "b64eba15b173"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Bere",
-          "definition": "Bere"
+          "word": "Jej",
+          "definition": "her"
         },
         {
-          "word": "senarra",
-          "definition": "senarra"
+          "word": "muž",
+          "definition": "man"
         },
         {
-          "word": "tour",
-          "definition": "tour"
+          "word": "jest",
+          "definition": "is"
         },
         {
-          "word": "gida",
-          "definition": "gida"
-        },
-        {
-          "word": "da.",
-          "definition": "yes"
+          "word": "provodnik",
+          "definition": "guide\ntour guide"
         }
       ],
       "chips": [
@@ -768,9 +761,9 @@
         ]
       ],
       "formattedSolution": "Her husband is a tour guide.",
-      "id": "8721f792f35d",
+      "id": "c9490b15f4b1",
       "priority": 2,
-      "group": "caebfc74dd53"
+      "group": "b64eba15b173"
     },
     {
       "type": "options",
@@ -790,7 +783,7 @@
         },
         {
           "word": "husband",
-          "definition": "husband"
+          "definition": "muž"
         },
         {
           "word": "of",
@@ -798,7 +791,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "mother",
@@ -810,7 +803,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "father.",
@@ -858,11 +851,11 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "mojej",
-          "definition": "mojej"
+          "definition": "my"
         },
         {
           "word": "mati",
@@ -874,7 +867,7 @@
         },
         {
           "word": "moj",
-          "definition": "moj"
+          "definition": "mine"
         },
         {
           "word": "otec",
@@ -945,7 +938,7 @@
         },
         {
           "word": "your",
-          "definition": "your"
+          "definition": "tvoj\ntvoja\ntvoje\ntvojego\ntvojej\ntvojeju\ntvojem\ntvojemu\ntvoji\ntvojih\ntvojim\ntvojimi\ntvoju\nvaš\nvaša\nvaše\nvašego\nvašej\nvašeju\nvašem\nvašemu\nvaši\nvaših\nvašim\nvašimi\nvašu"
         },
         {
           "word": "uncle.",
@@ -959,7 +952,7 @@
         "ujec",
         "je",
         "te",
-        "jesi"
+        "Jej"
       ],
       "solutions": [
         [
@@ -988,7 +981,7 @@
         },
         {
           "word": "tvoj",
-          "definition": "tvoj"
+          "definition": "your"
         },
         {
           "word": "ujec",
@@ -1052,7 +1045,7 @@
         },
         {
           "word": "nurse.",
-          "definition": "nurse."
+          "definition": "medsestra"
         }
       ],
       "chips": [
@@ -1083,7 +1076,7 @@
       "phrase": [
         {
           "word": "Naš",
-          "definition": "Naš"
+          "definition": "our"
         },
         {
           "word": "ujec",
@@ -1095,7 +1088,7 @@
         },
         {
           "word": "medbrat",
-          "definition": "medbrat"
+          "definition": "nurse"
         }
       ],
       "chips": [
@@ -1137,7 +1130,7 @@
       "phrase": [
         {
           "word": "Their",
-          "definition": "Their"
+          "definition": "je\njih\njim\njimi"
         },
         {
           "word": "aunt",
@@ -1184,7 +1177,7 @@
       "phrase": [
         {
           "word": "Jih",
-          "definition": "Jih"
+          "definition": "their"
         },
         {
           "word": "tetka",
@@ -1196,7 +1189,7 @@
         },
         {
           "word": "doktorica",
-          "definition": "doktorica"
+          "definition": "doctor"
         }
       ],
       "chips": [
@@ -1289,7 +1282,7 @@
         },
         {
           "word": "naša",
-          "definition": "naša"
+          "definition": "our"
         },
         {
           "word": "tetka",
@@ -1320,11 +1313,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Naša tetka jest učitelka",
+      "formInTargetLanguage": "Naša tetka jest učiteljka",
       "meaningInSourceLanguage": "Our aunt is a teacher.",
-      "id": "a86c6e7cc929",
+      "id": "d31d7fb6505f",
       "priority": 0,
-      "group": "04561c357cce"
+      "group": "0b92f168ecad"
     },
     {
       "type": "chips",
@@ -1355,7 +1348,7 @@
         "Naša",
         "tetka",
         "jest",
-        "učitelka",
+        "učiteljka",
         "žena",
         "tetky",
         "jesm"
@@ -1365,13 +1358,13 @@
           "Naša",
           "tetka",
           "jest",
-          "učitelka"
+          "učiteljka"
         ]
       ],
-      "formattedSolution": "Naša tetka jest učitelka",
-      "id": "54aeeef5b624",
+      "formattedSolution": "Naša tetka jest učiteljka",
+      "id": "a7ecd4e35548",
       "priority": 2,
-      "group": "04561c357cce"
+      "group": "0b92f168ecad"
     },
     {
       "type": "chips",
@@ -1379,7 +1372,7 @@
       "phrase": [
         {
           "word": "Naša",
-          "definition": "Naša"
+          "definition": "our"
         },
         {
           "word": "tetka",
@@ -1390,8 +1383,8 @@
           "definition": "is"
         },
         {
-          "word": "učitelka",
-          "definition": "učitelka"
+          "word": "učiteljka",
+          "definition": "teacher"
         }
       ],
       "chips": [
@@ -1415,9 +1408,9 @@
         ]
       ],
       "formattedSolution": "Our aunt is a teacher.",
-      "id": "d6d1e70820e7",
+      "id": "ced7769ae2fc",
       "priority": 2,
-      "group": "04561c357cce"
+      "group": "0b92f168ecad"
     },
     {
       "type": "options",
@@ -1433,7 +1426,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "uncle’s",
@@ -1449,7 +1442,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "cousin",
@@ -1457,7 +1450,7 @@
         },
         {
           "word": "(male).",
-          "definition": "(male)."
+          "definition": "mužsky"
         }
       ],
       "chips": [
@@ -1501,15 +1494,15 @@
         },
         {
           "word": "od",
-          "definition": "od"
+          "definition": "from"
         },
         {
           "word": "mojego",
-          "definition": "mojego"
+          "definition": "my"
         },
         {
           "word": "ujca",
-          "definition": "ujca"
+          "definition": "unlce"
         },
         {
           "word": "je",
@@ -1517,7 +1510,7 @@
         },
         {
           "word": "moj",
-          "definition": "moj"
+          "definition": "mine"
         },
         {
           "word": "kuzen",
@@ -1577,7 +1570,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "cousin",
@@ -1585,7 +1578,7 @@
         },
         {
           "word": "(male)",
-          "definition": "(male)"
+          "definition": "mužsky"
         },
         {
           "word": "is",
@@ -1601,7 +1594,7 @@
         },
         {
           "word": "waiter.",
-          "definition": "waiter."
+          "definition": "kelner"
         }
       ],
       "chips": [
@@ -1613,7 +1606,7 @@
         "je",
         "ne",
         "te",
-        "One"
+        "Jej"
       ],
       "solutions": [
         [
@@ -1635,7 +1628,7 @@
       "phrase": [
         {
           "word": "Moj",
-          "definition": "Moj"
+          "definition": "mine"
         },
         {
           "word": "kuzen",
@@ -1647,11 +1640,11 @@
         },
         {
           "word": "tož",
-          "definition": "tož"
+          "definition": "too"
         },
         {
           "word": "kelner",
-          "definition": "kelner"
+          "definition": "waiter"
         }
       ],
       "chips": [
@@ -1695,11 +1688,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Dočera mojej tetky je moja kuzynka",
+      "formInTargetLanguage": "Dočera mojej tetky je moja kuzinka",
       "meaningInSourceLanguage": "My aunt’s daughter is my cousin (female).",
-      "id": "0924c9ffee76",
+      "id": "b8bc6886fcf1",
       "priority": 0,
-      "group": "fff97f17daff"
+      "group": "1eda65245225"
     },
     {
       "type": "chips",
@@ -1707,7 +1700,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "aunt’s",
@@ -1723,7 +1716,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "cousin",
@@ -1731,7 +1724,7 @@
         },
         {
           "word": "(female).",
-          "definition": "(female)."
+          "definition": "žensky"
         }
       ],
       "chips": [
@@ -1740,7 +1733,7 @@
         "tetky",
         "je",
         "moja",
-        "kuzynka",
+        "kuzinka",
         "moje",
         "Moja",
         "moj",
@@ -1754,13 +1747,13 @@
           "tetky",
           "je",
           "moja",
-          "kuzynka"
+          "kuzinka"
         ]
       ],
-      "formattedSolution": "Dočera mojej tetky je moja kuzynka",
-      "id": "bd90d94cdf6d",
+      "formattedSolution": "Dočera mojej tetky je moja kuzinka",
+      "id": "5080a0132f4e",
       "priority": 2,
-      "group": "fff97f17daff"
+      "group": "1eda65245225"
     },
     {
       "type": "chips",
@@ -1772,11 +1765,11 @@
         },
         {
           "word": "mojej",
-          "definition": "mojej"
+          "definition": "my"
         },
         {
           "word": "tetky",
-          "definition": "tetky"
+          "definition": "aunt"
         },
         {
           "word": "je",
@@ -1784,11 +1777,11 @@
         },
         {
           "word": "moja",
-          "definition": "moja"
+          "definition": "mine\nmy"
         },
         {
-          "word": "kuzynka",
-          "definition": "kuzynka"
+          "word": "kuzinka",
+          "definition": "kuzinka"
         }
       ],
       "chips": [
@@ -1847,9 +1840,9 @@
         ]
       ],
       "formattedSolution": "My aunt’s daughter is my cousin (female).",
-      "id": "099afe33822b",
+      "id": "f1ee6d579ba5",
       "priority": 2,
-      "group": "fff97f17daff"
+      "group": "1eda65245225"
     },
     {
       "type": "options",
@@ -1865,7 +1858,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "My"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "cousin",
@@ -1873,7 +1866,7 @@
         },
         {
           "word": "(female)",
-          "definition": "(female)"
+          "definition": "žensky"
         },
         {
           "word": "is",
@@ -1885,11 +1878,11 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "friend.",
-          "definition": "friend."
+          "definition": "prijatelj"
         }
       ],
       "chips": [
@@ -1900,10 +1893,10 @@
         "moj",
         "prijatelj",
         "Toj",
+        "Jej",
         "moje",
         "je",
-        "to",
-        "te"
+        "to"
       ],
       "solutions": [
         [
@@ -1926,7 +1919,7 @@
       "phrase": [
         {
           "word": "Moj",
-          "definition": "Moj"
+          "definition": "mine"
         },
         {
           "word": "kuzen",
@@ -1938,11 +1931,11 @@
         },
         {
           "word": "tož",
-          "definition": "tož"
+          "definition": "too"
         },
         {
           "word": "moj",
-          "definition": "moj"
+          "definition": "mine"
         },
         {
           "word": "prijatelj",
@@ -2010,7 +2003,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "children.",
@@ -2104,7 +2097,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "child.",
@@ -2202,7 +2195,7 @@
         },
         {
           "word": "my",
-          "definition": "my"
+          "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
           "word": "son.",
@@ -2252,7 +2245,7 @@
         },
         {
           "word": "moj",
-          "definition": "moj"
+          "definition": "mine"
         },
         {
           "word": "syn",
