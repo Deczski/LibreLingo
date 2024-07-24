@@ -143,10 +143,23 @@ Mini-dictionary:
   - vnučka: granddaughter
   - tetka: aunt
   - ujec: uncle
-  - kuzen: cousin
-  - kuzina: cousin
-  - deti: children
+  - kuzen: cousin(male)
+  - kuzinka: cousin(female)
+  - děti: children
   - děte: child
+  - prijatelj: friend
+  - moje: my
+  - moja: my
+  - moje: my
+  - moji: my
+  - turistka: tourist(female)
+  - studentka: student(female)
+  - lěpa: beautiful
+  - plemenice: nieces
+  - vysoky: tall
+  - vysoky: high
+  - šestry: sisters
+  - prijatna: pleasant
 
   English:
 
@@ -156,7 +169,7 @@ Mini-dictionary:
   - aunt: tetka
   - uncle: ujec
   - cousin: kuzen
-  - cousin: kuzina
+  - cousin: kuzinka
   - children: děti
   - child: děte
   - uncle: ujec

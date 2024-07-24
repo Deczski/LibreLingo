@@ -121,9 +121,24 @@ Mini-dictionary:
 
   Interslavic:
 
-  - Ja budu: I will
-
+  - šere: grey
+  - avtomobily: cars
+  - kaky: how
+  - nebesky: blue
+  - žolte: yellow
+  - tutčas: now
+  - běle: white
+  - avtobus: bus
+  - bus: bus
+  - imaje: has
 
   English:
 
-  - know: znati
+  - grey: šery
+  - cars: avtomobily
+  - how: kaky
+  - blue: nebesky
+  - yellow: žolty
+  - now: tutčas
+  - white: běly
+  - bus: bus

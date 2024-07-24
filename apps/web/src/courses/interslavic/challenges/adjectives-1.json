@@ -24,7 +24,7 @@
         },
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         },
         {
           "word": "yellow",
@@ -154,7 +154,7 @@
         },
         {
           "word": "bus,",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         },
         {
           "word": "but",
@@ -162,7 +162,7 @@
         },
         {
           "word": "now",
-          "definition": "now"
+          "definition": "tutčas"
         },
         {
           "word": "it",
@@ -229,7 +229,7 @@
         },
         {
           "word": "bus,",
-          "definition": "bus,"
+          "definition": "bus"
         },
         {
           "word": "ale",
@@ -237,7 +237,7 @@
         },
         {
           "word": "tutčas",
-          "definition": "tutčas"
+          "definition": "now"
         },
         {
           "word": "jest",
@@ -330,7 +330,7 @@
         },
         {
           "word": "bus?",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         }
       ],
       "chips": [
@@ -364,7 +364,7 @@
       "phrase": [
         {
           "word": "Kaky",
-          "definition": "Kaky"
+          "definition": "how"
         },
         {
           "word": "kolor",
@@ -372,7 +372,7 @@
         },
         {
           "word": "imaje",
-          "definition": "imaje"
+          "definition": "has"
         },
         {
           "word": "toj",
@@ -433,7 +433,7 @@
         },
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         },
         {
           "word": "is",
@@ -673,7 +673,7 @@
         },
         {
           "word": "now",
-          "definition": "now"
+          "definition": "tutčas"
         },
         {
           "word": "it",
@@ -748,7 +748,7 @@
         },
         {
           "word": "tutčas",
-          "definition": "tutčas"
+          "definition": "now"
         },
         {
           "word": "jest",
@@ -982,7 +982,7 @@
         },
         {
           "word": "cars,",
-          "definition": "avta"
+          "definition": "avta\navtomobily"
         },
         {
           "word": "but",
@@ -990,7 +990,7 @@
         },
         {
           "word": "now",
-          "definition": "now"
+          "definition": "tutčas"
         },
         {
           "word": "they",
@@ -1053,11 +1053,11 @@
         },
         {
           "word": "běle",
-          "definition": "běle"
+          "definition": "white"
         },
         {
           "word": "avtomobily,",
-          "definition": "avtomobily,"
+          "definition": "cars"
         },
         {
           "word": "ale",
@@ -1065,7 +1065,7 @@
         },
         {
           "word": "tutčas",
-          "definition": "tutčas"
+          "definition": "now"
         },
         {
           "word": "sut",
@@ -1073,7 +1073,7 @@
         },
         {
           "word": "žolte",
-          "definition": "žolte"
+          "definition": "yellow"
         }
       ],
       "chips": [
@@ -1131,7 +1131,7 @@
         },
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         },
         {
           "word": "and",
@@ -1269,7 +1269,7 @@
         },
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         },
         {
           "word": "was",
@@ -1483,7 +1483,7 @@
       "phrase": [
         {
           "word": "Kaky",
-          "definition": "Kaky"
+          "definition": "how"
         },
         {
           "word": "kolor",
@@ -1666,7 +1666,7 @@
         },
         {
           "word": "cars",
-          "definition": "avta"
+          "definition": "avta\navtomobily"
         },
         {
           "word": "are",
@@ -1709,7 +1709,7 @@
         },
         {
           "word": "avtomobily",
-          "definition": "avtomobily"
+          "definition": "cars"
         },
         {
           "word": "sut",
@@ -1717,7 +1717,7 @@
         },
         {
           "word": "šere",
-          "definition": "šere"
+          "definition": "grey"
         }
       ],
       "chips": [

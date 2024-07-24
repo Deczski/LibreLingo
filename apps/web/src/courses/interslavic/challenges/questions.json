@@ -862,7 +862,7 @@
         },
         {
           "word": "bus?",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         }
       ],
       "chips": [
@@ -1056,7 +1056,7 @@
         },
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         },
         {
           "word": "or",
@@ -1698,7 +1698,7 @@
         },
         {
           "word": "cars?",
-          "definition": "avta"
+          "definition": "avta\navtomobily"
         }
       ],
       "chips": [
@@ -2537,7 +2537,7 @@
       "phrase": [
         {
           "word": "bus",
-          "definition": "avtobus"
+          "definition": "avtobus\nbus"
         }
       ],
       "id": "3265cd8456f9",
@@ -2636,7 +2636,7 @@
       "phrase": [
         {
           "word": "cars",
-          "definition": "avta"
+          "definition": "avta\navtomobily"
         }
       ],
       "id": "f27dc77aae36",

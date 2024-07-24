@@ -1446,7 +1446,7 @@
         },
         {
           "word": "cousin",
-          "definition": "kuzen\nkuzina"
+          "definition": "kuzen\nkuzinka"
         },
         {
           "word": "(male).",
@@ -1514,7 +1514,7 @@
         },
         {
           "word": "kuzen",
-          "definition": "cousin\ncousin(male)"
+          "definition": "cousin(male)"
         }
       ],
       "chips": [
@@ -1574,7 +1574,7 @@
         },
         {
           "word": "cousin",
-          "definition": "kuzen\nkuzina"
+          "definition": "kuzen\nkuzinka"
         },
         {
           "word": "(male)",
@@ -1632,7 +1632,7 @@
         },
         {
           "word": "kuzen",
-          "definition": "cousin\ncousin(male)"
+          "definition": "cousin(male)"
         },
         {
           "word": "jest",
@@ -1720,7 +1720,7 @@
         },
         {
           "word": "cousin",
-          "definition": "kuzen\nkuzina"
+          "definition": "kuzen\nkuzinka"
         },
         {
           "word": "(female).",
@@ -1781,7 +1781,7 @@
         },
         {
           "word": "kuzinka",
-          "definition": "kuzinka"
+          "definition": "cousin(female)"
         }
       ],
       "chips": [
@@ -1862,7 +1862,7 @@
         },
         {
           "word": "cousin",
-          "definition": "kuzen\nkuzina"
+          "definition": "kuzen\nkuzinka"
         },
         {
           "word": "(female)",
@@ -1923,7 +1923,7 @@
         },
         {
           "word": "kuzen",
-          "definition": "cousin\ncousin(male)"
+          "definition": "cousin(male)"
         },
         {
           "word": "jest",
@@ -1939,7 +1939,7 @@
         },
         {
           "word": "prijatelj",
-          "definition": "prijatelj"
+          "definition": "friend"
         }
       ],
       "chips": [
@@ -2046,7 +2046,7 @@
         },
         {
           "word": "moje",
-          "definition": "moje"
+          "definition": "my"
         },
         {
           "word": "deti",
@@ -2140,7 +2140,7 @@
         },
         {
           "word": "moje",
-          "definition": "moje"
+          "definition": "my"
         },
         {
           "word": "děte",
@@ -2237,7 +2237,7 @@
         },
         {
           "word": "děti",
-          "definition": "děti"
+          "definition": "children"
         },
         {
           "word": "jest",
