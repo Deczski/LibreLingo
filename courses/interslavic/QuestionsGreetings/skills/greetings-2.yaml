@@ -58,9 +58,21 @@ New words:
       - hello2
       - hello3
 
+  - Word: dobrodošli
+    Translation: welcome
+    Images:
+      - hello1
+      - hello2
+      - hello3
+
+
 Phrases:
+
+  - Phrase: Dobrodošli 
+    Translation: Welcome
+
   - Phrase: Vitanje. Kako ty jesi
-    Translation: Welcome. How are you
+    Translation: Hi. How are you
 
   - Phrase: Do viděnja Vojtěh.
     Translation: Goodbye Vojtěh.

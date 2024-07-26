@@ -4,19 +4,27 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Vitanje. Kako ty jesi",
-      "meaningInSourceLanguage": "Welcome. How are you",
-      "id": "41145b8b6135",
+      "formInTargetLanguage": "Dobrodošli",
+      "meaningInSourceLanguage": "Welcome",
+      "id": "fa8c5718eeae",
       "priority": 0,
-      "group": "33e1a90b1585"
+      "group": "a710b57cf174"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vitanje. Kako ty jesi",
+      "meaningInSourceLanguage": "H. How are you",
+      "id": "111520de6611",
+      "priority": 0,
+      "group": "1f7fb2e5f5d7"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Welcome.",
-          "definition": "vitanje"
+          "word": "H.",
+          "definition": "H."
         },
         {
           "word": "How",
@@ -49,9 +57,9 @@
         ]
       ],
       "formattedSolution": "Vitanje. Kako ty jesi",
-      "id": "9304f382311e",
+      "id": "a7001b677a22",
       "priority": 2,
-      "group": "33e1a90b1585"
+      "group": "1f7fb2e5f5d7"
     },
     {
       "type": "chips",
@@ -75,26 +83,26 @@
         }
       ],
       "chips": [
-        "Welcome",
+        "H",
         "How",
         "are",
         "you",
-        "You",
-        "lot",
-        "or"
+        "He",
+        "or",
+        "a"
       ],
       "solutions": [
         [
-          "Welcome",
+          "H",
           "How",
           "are",
           "you"
         ]
       ],
-      "formattedSolution": "Welcome. How are you",
-      "id": "632cc46999fe",
+      "formattedSolution": "H. How are you",
+      "id": "03006ce5f769",
       "priority": 2,
-      "group": "33e1a90b1585"
+      "group": "1f7fb2e5f5d7"
     },
     {
       "type": "options",
@@ -1021,12 +1029,45 @@
       "phrase": [
         {
           "word": "welcome",
-          "definition": "vitanje"
+          "definition": "dobrodošli\nvitanje"
         }
       ],
       "id": "a8c7e5a34cf8",
       "priority": 1,
       "group": "984612d03299"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": "dobrodošli",
+      "meaningInSourceLanguage": "welcome",
+      "id": "b4e5624d0c43",
+      "priority": 0,
+      "group": "a03f782f23ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "dobrodošli"
+      ],
+      "phrase": [
+        {
+          "word": "welcome",
+          "definition": "dobrodošli\nvitanje"
+        }
+      ],
+      "id": "00a5d2a8374e",
+      "priority": 1,
+      "group": "a03f782f23ee"
     }
   ]
 }
