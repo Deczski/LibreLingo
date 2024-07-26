@@ -194,10 +194,9 @@
             "kto",
             "avtobus",
             "avto",
-            "avtobusy",
-            "avta",
             "ili",
             "kde",
+            "ime",
             "Pozdrav. Kto Ty jesi?",
             "Čto Ty jesi?",
             "Jesi Ty učitelj?",
@@ -224,7 +223,9 @@
             "Kto sut ti muži?",
             "Kto sut oni?",
             "Sut Oni ženy ili muži?",
-            "Ktory človek to sdělal?"
+            "Ktory človek to sdělal?",
+            "Kako jest Tvoje ime?",
+            "Koliko imaš lět?"
           ],
           "practiceHref": "questions",
           "id": "3e8e332663cb",
@@ -241,6 +242,7 @@
             "dobro",
             "Ja jesm",
             "da",
+            "ne",
             "Kako ty Jesi?",
             "Pomiluj. Kto Ty jesi?",
             "My Jesmo Vojtěh i Katarina.",
@@ -253,8 +255,7 @@
             "Pozdrav Vojtěh. Kako Ty jesi?",
             "Ja jesm dobro. A Ty?",
             "Ja jesm takože dobro. Hvala.",
-            "Jest on Vojtěh?",
-            "Da. Ona jest Katarina."
+            "Jest on Vojtěh?"
           ],
           "practiceHref": "greetings-1",
           "id": "47082a238710",
@@ -270,18 +271,19 @@
             "pozdněje",
             "pozdno",
             "vitanje",
-            "Vitanje. Kako ty jesi?",
+            "Vitanje. Kako ty jesi",
             "Do viděnja Vojtěh.",
             "Dobra noč Vojtěh.",
             "To jest ničto.",
             "Pomiluj. To jest pozdno.",
             "To jest pozdno. Do viděnja.",
-            "Pozdno? To ne jest pozdno. To jest ničto."
+            "Pozdno? To ne jest pozdno. To jest ničto.",
+            "Pozdrav děvčino, krasivo izgledaješ"
           ],
           "practiceHref": "greetings-2",
           "id": "e3b95a96a7dc",
           "title": "Greetings 2",
-          "levels": 3
+          "levels": 4
         }
       ]
     },

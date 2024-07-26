@@ -59,8 +59,8 @@ New words:
       - hello3
 
 Phrases:
-  - Phrase: Vitanje. Kako ty jesi?
-    Translation: Welcome. How are you?
+  - Phrase: Vitanje. Kako ty jesi
+    Translation: Welcome. How are you
 
   - Phrase: Do viděnja Vojtěh.
     Translation: Goodbye Vojtěh.
@@ -82,6 +82,10 @@ Phrases:
     Alternative translations:
       - Late? it isn't late. It is nothing.
 
+  - Phrase: Pozdrav děvčino, krasivo izgledaješ
+    Translation: Hello girl, You look beautiful
+
+
 Mini-dictionary:
   Interslavic:
     - jest: is
@@ -90,6 +94,9 @@ Mini-dictionary:
     - ničto: nothing
     - pozdněje: later
     - zajutra: tommorow
+    - izgledaješ: look
+    - děvčino: girl
+
 
   English:
     - sorry: pomiluj
@@ -97,3 +104,11 @@ Mini-dictionary:
     - nothing: ničto
     - late: pozdno
     - later: pozdněje
+    - look:
+      - izgledati
+      - izgledam
+      - izgledaješ
+      - izgleda
+      - izglědamo
+      - izgledate
+      - izgledajut

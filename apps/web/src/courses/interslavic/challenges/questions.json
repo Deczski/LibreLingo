@@ -1602,7 +1602,7 @@
         },
         {
           "word": "buses?",
-          "definition": "avtobusy"
+          "definition": "buses?"
         }
       ],
       "chips": [
@@ -1638,7 +1638,7 @@
         },
         {
           "word": "avtobusy?",
-          "definition": "buses"
+          "definition": "avtobusy?"
         }
       ],
       "chips": [
@@ -1690,7 +1690,7 @@
         },
         {
           "word": "buses",
-          "definition": "avtobusy"
+          "definition": "buses"
         },
         {
           "word": "or",
@@ -1698,7 +1698,7 @@
         },
         {
           "word": "cars?",
-          "definition": "avta\navtomobily"
+          "definition": "avtomobily"
         }
       ],
       "chips": [
@@ -1740,7 +1740,7 @@
         },
         {
           "word": "avtobusy",
-          "definition": "buses"
+          "definition": "avtobusy"
         },
         {
           "word": "ili",
@@ -1748,7 +1748,7 @@
         },
         {
           "word": "avta?",
-          "definition": "cars"
+          "definition": "avta?"
         }
       ],
       "chips": [
@@ -2514,7 +2514,7 @@
         },
         {
           "word": "sdělal?",
-          "definition": "sdělal?"
+          "definition": "did"
         }
       ],
       "chips": [
@@ -2538,6 +2538,187 @@
       "id": "67f3984afc2d",
       "priority": 2,
       "group": "f560b813138b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kako jest Tvoje ime?",
+      "meaningInSourceLanguage": "What is Your name?",
+      "id": "4dc5cadb89ee",
+      "priority": 0,
+      "group": "4db6afbcc9b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "čto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "Your",
+          "definition": "tvoj\ntvoja\ntvoje\ntvojego\ntvojej\ntvojeju\ntvojem\ntvojemu\ntvoji\ntvojih\ntvojim\ntvojimi\ntvoju\nvaš\nvaša\nvaše\nvašego\nvašej\nvašeju\nvašem\nvašemu\nvaši\nvaših\nvašim\nvašimi\nvašu"
+        },
+        {
+          "word": "name?",
+          "definition": "ime"
+        }
+      ],
+      "chips": [
+        "Kako",
+        "jest",
+        "Tvoje",
+        "ime",
+        "je",
+        "ako",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Kako",
+          "jest",
+          "Tvoje",
+          "ime"
+        ]
+      ],
+      "formattedSolution": "Kako jest Tvoje ime?",
+      "id": "ebff316b7923",
+      "priority": 2,
+      "group": "4db6afbcc9b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kako",
+          "definition": "as\nhow"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "Tvoje",
+          "definition": "your's"
+        },
+        {
+          "word": "ime?",
+          "definition": "name"
+        }
+      ],
+      "chips": [
+        "What",
+        "is",
+        "Your",
+        "name",
+        "am",
+        "We",
+        "a"
+      ],
+      "solutions": [
+        [
+          "What",
+          "is",
+          "Your",
+          "name"
+        ]
+      ],
+      "formattedSolution": "What is Your name?",
+      "id": "4c692762a388",
+      "priority": 2,
+      "group": "4db6afbcc9b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Koliko imaš lět?",
+      "meaningInSourceLanguage": "How old are You?",
+      "id": "b6b1887153f4",
+      "priority": 0,
+      "group": "6b3692f95c0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "kako\nkaky"
+        },
+        {
+          "word": "old",
+          "definition": "stara\nstary"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "You?",
+          "definition": "ty"
+        }
+      ],
+      "chips": [
+        "Koliko",
+        "imaš",
+        "lět",
+        "li",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Koliko",
+          "imaš",
+          "lět"
+        ]
+      ],
+      "formattedSolution": "Koliko imaš lět?",
+      "id": "031e0cc74134",
+      "priority": 2,
+      "group": "6b3692f95c0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Koliko",
+          "definition": "how many\nhow much"
+        },
+        {
+          "word": "imaš",
+          "definition": "have"
+        },
+        {
+          "word": "lět?",
+          "definition": "years"
+        }
+      ],
+      "chips": [
+        "How",
+        "old",
+        "are",
+        "You",
+        "or",
+        "of",
+        "you"
+      ],
+      "solutions": [
+        [
+          "How",
+          "old",
+          "are",
+          "You"
+        ]
+      ],
+      "formattedSolution": "How old are You?",
+      "id": "1883223f6d10",
+      "priority": 2,
+      "group": "6b3692f95c0b"
     },
     {
       "type": "cards",
@@ -2674,72 +2855,6 @@
     {
       "type": "cards",
       "pictures": [
-        "buses1.jpg",
-        "buses2.jpg",
-        "buses3.jpg"
-      ],
-      "formInTargetLanguage": "avtobusy",
-      "meaningInSourceLanguage": "buses",
-      "id": "00951c63f40f",
-      "priority": 0,
-      "group": "1033ade83983"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "buses1.jpg",
-        "buses2.jpg",
-        "buses3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "avtobusy"
-      ],
-      "phrase": [
-        {
-          "word": "buses",
-          "definition": "avtobusy"
-        }
-      ],
-      "id": "fd0da8d2d2cc",
-      "priority": 1,
-      "group": "1033ade83983"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "cars1.jpg",
-        "cars2.jpg",
-        "cars3.jpg"
-      ],
-      "formInTargetLanguage": "avta",
-      "meaningInSourceLanguage": "cars",
-      "id": "4f1b0238a9d9",
-      "priority": 0,
-      "group": "bf17707a5d4b"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "cars1.jpg",
-        "cars2.jpg",
-        "cars3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "avta"
-      ],
-      "phrase": [
-        {
-          "word": "cars",
-          "definition": "avta\navtomobily"
-        }
-      ],
-      "id": "f27dc77aae36",
-      "priority": 1,
-      "group": "bf17707a5d4b"
-    },
-    {
-      "type": "cards",
-      "pictures": [
         "choice1.jpg",
         "choice2.jpg",
         "choice3.jpg"
@@ -2802,6 +2917,39 @@
       "id": "b6781e7728ce",
       "priority": 1,
       "group": "e3cedf229e62"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "name1.jpg",
+        "name2.jpg",
+        "name3.jpg"
+      ],
+      "formInTargetLanguage": "ime",
+      "meaningInSourceLanguage": "name",
+      "id": "9e5eb5a04abc",
+      "priority": 0,
+      "group": "23dd02b46a2d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "name1.jpg",
+        "name2.jpg",
+        "name3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "ime"
+      ],
+      "phrase": [
+        {
+          "word": "name",
+          "definition": "ime"
+        }
+      ],
+      "id": "5d098493fe0a",
+      "priority": 1,
+      "group": "23dd02b46a2d"
     }
   ]
 }

@@ -1337,105 +1337,6 @@
       "group": "52ddd66316d5"
     },
     {
-      "type": "options",
-      "formInTargetLanguage": "Da. Ona jest Katarina.",
-      "meaningInSourceLanguage": "Yes. She is Katarina.",
-      "id": "c9e359afddb0",
-      "priority": 0,
-      "group": "55a6b064bda8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Yes.",
-          "definition": "da"
-        },
-        {
-          "word": "She",
-          "definition": "ona"
-        },
-        {
-          "word": "is",
-          "definition": "jest"
-        },
-        {
-          "word": "Katarina.",
-          "definition": "Katarina (female name)"
-        }
-      ],
-      "chips": [
-        "Da",
-        "Ona",
-        "jest",
-        "Katarina",
-        "ona",
-        "Ja",
-        "On"
-      ],
-      "solutions": [
-        [
-          "Da",
-          "Ona",
-          "jest",
-          "Katarina"
-        ],
-        [
-          "Da",
-          "Jest",
-          "Katarina"
-        ]
-      ],
-      "formattedSolution": "Da. Ona jest Katarina.",
-      "id": "9c7501f13d36",
-      "priority": 2,
-      "group": "55a6b064bda8"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Da.",
-          "definition": "yes"
-        },
-        {
-          "word": "Ona",
-          "definition": "she"
-        },
-        {
-          "word": "jest",
-          "definition": "is"
-        },
-        {
-          "word": "Katarina.",
-          "definition": "Katarina (female name)"
-        }
-      ],
-      "chips": [
-        "Yes",
-        "She",
-        "is",
-        "Katarina",
-        "are",
-        "We",
-        "He"
-      ],
-      "solutions": [
-        [
-          "Yes",
-          "She",
-          "is",
-          "Katarina"
-        ]
-      ],
-      "formattedSolution": "Yes. She is Katarina.",
-      "id": "cadd17ae7089",
-      "priority": 2,
-      "group": "55a6b064bda8"
-    },
-    {
       "type": "cards",
       "pictures": [
         "afternoon1.jpg",
@@ -1714,6 +1615,39 @@
       "id": "21a9e8ed3210",
       "priority": 1,
       "group": "1bf5ebe3f409"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "no3.jpg",
+        "no2.jpg",
+        "no1.jpg"
+      ],
+      "formInTargetLanguage": "ne",
+      "meaningInSourceLanguage": "ne",
+      "id": "63d43e3e48a1",
+      "priority": 0,
+      "group": "340b668e07a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "no3.jpg",
+        "no2.jpg",
+        "no1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "ne"
+      ],
+      "phrase": [
+        {
+          "word": "ne",
+          "definition": "ne"
+        }
+      ],
+      "id": "25e5c900f02a",
+      "priority": 1,
+      "group": "340b668e07a0"
     },
     {
       "type": "cards",

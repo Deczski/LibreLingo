@@ -1,14 +1,14 @@
 {
   "id": "e3b95a96a7dc",
-  "levels": 3,
+  "levels": 4,
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Vitanje. Kako ty jesi?",
-      "meaningInSourceLanguage": "Welcome. How are you?",
-      "id": "7ff4331ec2ac",
+      "formInTargetLanguage": "Vitanje. Kako ty jesi",
+      "meaningInSourceLanguage": "Welcome. How are you",
+      "id": "41145b8b6135",
       "priority": 0,
-      "group": "e2dadc1e5d8e"
+      "group": "33e1a90b1585"
     },
     {
       "type": "chips",
@@ -27,7 +27,7 @@
           "definition": "jesi"
         },
         {
-          "word": "you?",
+          "word": "you",
           "definition": "ty"
         }
       ],
@@ -48,10 +48,10 @@
           "jesi"
         ]
       ],
-      "formattedSolution": "Vitanje. Kako ty jesi?",
-      "id": "e7a0dc156585",
+      "formattedSolution": "Vitanje. Kako ty jesi",
+      "id": "9304f382311e",
       "priority": 2,
-      "group": "e2dadc1e5d8e"
+      "group": "33e1a90b1585"
     },
     {
       "type": "chips",
@@ -70,7 +70,7 @@
           "definition": "you"
         },
         {
-          "word": "jesi?",
+          "word": "jesi",
           "definition": "are"
         }
       ],
@@ -91,10 +91,10 @@
           "you"
         ]
       ],
-      "formattedSolution": "Welcome. How are you?",
-      "id": "e675e0a492db",
+      "formattedSolution": "Welcome. How are you",
+      "id": "632cc46999fe",
       "priority": 2,
-      "group": "e2dadc1e5d8e"
+      "group": "33e1a90b1585"
     },
     {
       "type": "options",
@@ -618,7 +618,7 @@
         },
         {
           "word": "ne",
-          "definition": "no\nnot"
+          "definition": "ne\nno\nnot"
         },
         {
           "word": "jest",
@@ -683,6 +683,107 @@
       "id": "62e8c9ccf08d",
       "priority": 2,
       "group": "6c03622e9374"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pozdrav děvčino, krasivo izgledaješ",
+      "meaningInSourceLanguage": "Hello girl, You look beautiful",
+      "id": "77d8785d42da",
+      "priority": 0,
+      "group": "613a156a62ef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Hello",
+          "definition": "pozdrav"
+        },
+        {
+          "word": "girl,",
+          "definition": "děvčina"
+        },
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "look",
+          "definition": "izgleda\nizgledaješ\nizgledajut\nizgledam\nizgledate\nizgledati\nizglědamo"
+        },
+        {
+          "word": "beautiful",
+          "definition": "krasive\nkrasivy"
+        }
+      ],
+      "chips": [
+        "Pozdrav",
+        "děvčino",
+        "krasivo",
+        "izgledaješ",
+        "děvčina",
+        "krasiva",
+        "krasive"
+      ],
+      "solutions": [
+        [
+          "Pozdrav",
+          "děvčino",
+          "krasivo",
+          "izgledaješ"
+        ]
+      ],
+      "formattedSolution": "Pozdrav děvčino, krasivo izgledaješ",
+      "id": "a1db2109cf55",
+      "priority": 2,
+      "group": "613a156a62ef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pozdrav",
+          "definition": "hello"
+        },
+        {
+          "word": "děvčino,",
+          "definition": "girl"
+        },
+        {
+          "word": "krasivo",
+          "definition": "beautiful"
+        },
+        {
+          "word": "izgledaješ",
+          "definition": "look"
+        }
+      ],
+      "chips": [
+        "Hello",
+        "girl",
+        "You",
+        "look",
+        "beautiful",
+        "will",
+        "lot",
+        "eat",
+        "you"
+      ],
+      "solutions": [
+        [
+          "Hello",
+          "girl",
+          "You",
+          "look",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "Hello girl, You look beautiful",
+      "id": "c2a5ad3eb79e",
+      "priority": 2,
+      "group": "613a156a62ef"
     },
     {
       "type": "cards",

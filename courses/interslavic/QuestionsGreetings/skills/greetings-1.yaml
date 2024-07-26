@@ -18,7 +18,6 @@ New words:
       - and2
       - and3
     
-
   - Word: pomiluj
     Translation: sorry
     Also accepted:
@@ -65,6 +64,14 @@ New words:
       - imfine3
       - imfine1
       - imfine2
+
+  - Word: ne
+    Translation: ne
+    Images:
+      - no3
+      - no2
+      - no1
+     
 
   - Word: Kako ty Jesi?
     Translation: How are you?
@@ -123,11 +130,6 @@ Phrases:
 
   - Phrase: Jest on Vojtěh?
     Translation: Is he Vojtěh?
-
-  - Phrase: Da. Ona jest Katarina.
-    Alternative versions:
-     - Da. Jest Katarina.
-    Translation: Yes. She is Katarina.
 
 Mini-dictionary:
   Interslavic:
