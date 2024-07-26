@@ -1167,7 +1167,7 @@
         "would",
         "drive",
         "or",
-        "old"
+        "did"
       ],
       "solutions": [
         [
@@ -1982,18 +1982,18 @@
     {
       "type": "options",
       "formInTargetLanguage": "Ty bys iměl muskuly jestli Ty bys mnogo trenoval",
-      "meaningInSourceLanguage": "I would have muscles if You trained a lot",
-      "id": "ccd05c5ada2d",
+      "meaningInSourceLanguage": "You would have muscles if You trained a lot",
+      "id": "5d1947d9557f",
       "priority": 0,
-      "group": "921897549a0b"
+      "group": "cab19fb76c01"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "I",
-          "definition": "Ja"
+          "word": "You",
+          "definition": "ty"
         },
         {
           "word": "would",
@@ -2061,9 +2061,9 @@
         ]
       ],
       "formattedSolution": "Ty bys iměl muskuly jestli Ty bys mnogo trenoval",
-      "id": "35c01de5d7bb",
+      "id": "56c6b1882025",
       "priority": 2,
-      "group": "921897549a0b"
+      "group": "cab19fb76c01"
     },
     {
       "type": "chips",
@@ -2107,7 +2107,7 @@
         }
       ],
       "chips": [
-        "I",
+        "You",
         "would",
         "have",
         "muscles",
@@ -2117,17 +2117,17 @@
         "a",
         "lot",
         "of",
+        "you",
         "or",
-        "me",
-        "an",
-        "am",
         "are",
-        "We",
-        "He"
+        "and",
+        "not",
+        "had",
+        "me"
       ],
       "solutions": [
         [
-          "I",
+          "You",
           "would",
           "have",
           "muscles",
@@ -2138,10 +2138,10 @@
           "lot"
         ]
       ],
-      "formattedSolution": "I would have muscles if You trained a lot",
-      "id": "550d33492d4c",
+      "formattedSolution": "You would have muscles if You trained a lot",
+      "id": "724a2d3662d3",
       "priority": 2,
-      "group": "921897549a0b"
+      "group": "cab19fb76c01"
     },
     {
       "type": "options",

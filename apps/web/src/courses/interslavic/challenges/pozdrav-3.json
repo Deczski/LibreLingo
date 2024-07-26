@@ -871,18 +871,18 @@
     {
       "type": "options",
       "formInTargetLanguage": "Vy budete spati",
-      "meaningInSourceLanguage": "You will sleep",
-      "id": "d4cbac2ecd46",
+      "meaningInSourceLanguage": "You(plural) will sleep",
+      "id": "43e67e8a2da5",
       "priority": 0,
-      "group": "569d958250bb"
+      "group": "e64045364711"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "You",
-          "definition": "ty"
+          "word": "You(plural)",
+          "definition": "vy"
         },
         {
           "word": "will",
@@ -908,9 +908,9 @@
         ]
       ],
       "formattedSolution": "Vy budete spati",
-      "id": "980537300e51",
+      "id": "4b10bd5ba7a5",
       "priority": 2,
-      "group": "569d958250bb"
+      "group": "e64045364711"
     },
     {
       "type": "chips",
@@ -930,23 +930,23 @@
         }
       ],
       "chips": [
-        "You",
+        "You(plural",
         "will",
         "sleep",
-        "lot",
-        "you"
+        "girl",
+        "play"
       ],
       "solutions": [
         [
-          "You",
+          "You(plural",
           "will",
           "sleep"
         ]
       ],
-      "formattedSolution": "You will sleep",
-      "id": "6e85e3f40505",
+      "formattedSolution": "You(plural) will sleep",
+      "id": "51efd77fc316",
       "priority": 2,
-      "group": "569d958250bb"
+      "group": "e64045364711"
     },
     {
       "type": "options",

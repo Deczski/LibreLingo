@@ -59,6 +59,13 @@ New words:
       - choice2
       - choice3
 
+  - Word: kde
+    Translation: where
+    Images:
+      - where1
+      - where2
+      - where3
+
 Phrases:
   - Phrase: Pozdrav. Kto Ty jesi?
     Translation: Hello. Who are you?
@@ -170,6 +177,10 @@ Phrases:
   - Phrase: Sut Oni ženy ili muži?
     Translation: Are they women or men?
 
+  - Phrase: Ktory človek to sdělal?
+    Translation: Which man did it?
+  
+
 Mini-dictionary:
   Interslavic:
     - jedin: one
@@ -181,7 +192,17 @@ Mini-dictionary:
     - muži: men
     - my: we
     - oni: they
+    - člověk: human
+    - človek: man
+    - ktory: which
 
   English:
     - also: takože
-    
+    - which: ktory
+    - which: koj
+    - human: človek
+    - did:
+      - sdělal
+      - sdělala
+      - sdělalo
+      - sdělali

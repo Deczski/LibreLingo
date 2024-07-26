@@ -1475,6 +1475,39 @@
     {
       "type": "cards",
       "pictures": [
+        "and1.jpg",
+        "and2.jpg",
+        "and3.jpg"
+      ],
+      "formInTargetLanguage": "I",
+      "meaningInSourceLanguage": "And",
+      "id": "0d91957bafd3",
+      "priority": 0,
+      "group": "665aab9b1ad3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "and1.jpg",
+        "and2.jpg",
+        "and3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "I"
+      ],
+      "phrase": [
+        {
+          "word": "And",
+          "definition": "i"
+        }
+      ],
+      "id": "bd2d3dceec3e",
+      "priority": 1,
+      "group": "665aab9b1ad3"
+    },
+    {
+      "type": "cards",
+      "pictures": [
         "sorry1.jpg",
         "sorry2.jpg",
         "sorry3.jpg"

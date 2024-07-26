@@ -197,6 +197,7 @@
             "avtobusy",
             "avta",
             "ili",
+            "kde",
             "Pozdrav. Kto Ty jesi?",
             "Čto Ty jesi?",
             "Jesi Ty učitelj?",
@@ -222,16 +223,18 @@
             "Kto sut te ženy?",
             "Kto sut ti muži?",
             "Kto sut oni?",
-            "Sut Oni ženy ili muži?"
+            "Sut Oni ženy ili muži?",
+            "Ktory človek to sdělal?"
           ],
           "practiceHref": "questions",
           "id": "3e8e332663cb",
           "title": "Questions",
-          "levels": 7
+          "levels": 8
         },
         {
           "summary": [
             "Dobry denj",
+            "I",
             "pomiluj",
             "Dobro jutro",
             "Hvala",

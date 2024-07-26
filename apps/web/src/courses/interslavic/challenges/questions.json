@@ -1,6 +1,6 @@
 {
   "id": "3e8e332663cb",
-  "levels": 7,
+  "levels": 8,
   "challenges": [
     {
       "type": "options",
@@ -2446,6 +2446,100 @@
       "group": "65dda28c2f27"
     },
     {
+      "type": "options",
+      "formInTargetLanguage": "Ktory človek to sdělal?",
+      "meaningInSourceLanguage": "Which man did it?",
+      "id": "2032d3eef68c",
+      "priority": 0,
+      "group": "f560b813138b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Which",
+          "definition": "koj\nktory"
+        },
+        {
+          "word": "man",
+          "definition": "muž"
+        },
+        {
+          "word": "did",
+          "definition": "sdělal\nsdělala\nsdělali\nsdělalo"
+        },
+        {
+          "word": "it?",
+          "definition": "ono\nto"
+        }
+      ],
+      "chips": [
+        "Ktory",
+        "človek",
+        "to",
+        "sdělal",
+        "Kto",
+        "Čto",
+        "tož"
+      ],
+      "solutions": [
+        [
+          "Ktory",
+          "človek",
+          "to",
+          "sdělal"
+        ]
+      ],
+      "formattedSolution": "Ktory človek to sdělal?",
+      "id": "caa5eeba02b7",
+      "priority": 2,
+      "group": "f560b813138b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ktory",
+          "definition": "which"
+        },
+        {
+          "word": "človek",
+          "definition": "man"
+        },
+        {
+          "word": "to",
+          "definition": "the"
+        },
+        {
+          "word": "sdělal?",
+          "definition": "sdělal?"
+        }
+      ],
+      "chips": [
+        "Which",
+        "man",
+        "did",
+        "it",
+        "is",
+        "if",
+        "had"
+      ],
+      "solutions": [
+        [
+          "Which",
+          "man",
+          "did",
+          "it"
+        ]
+      ],
+      "formattedSolution": "Which man did it?",
+      "id": "67f3984afc2d",
+      "priority": 2,
+      "group": "f560b813138b"
+    },
+    {
       "type": "cards",
       "pictures": [
         "what1.jpg",
@@ -2675,6 +2769,39 @@
       "id": "48e63e33497f",
       "priority": 1,
       "group": "936b45ad0f09"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "where1.jpg",
+        "where2.jpg",
+        "where3.jpg"
+      ],
+      "formInTargetLanguage": "kde",
+      "meaningInSourceLanguage": "where",
+      "id": "e9c58aca9d0d",
+      "priority": 0,
+      "group": "e3cedf229e62"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "where1.jpg",
+        "where2.jpg",
+        "where3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kde"
+      ],
+      "phrase": [
+        {
+          "word": "where",
+          "definition": "kde"
+        }
+      ],
+      "id": "b6781e7728ce",
+      "priority": 1,
+      "group": "e3cedf229e62"
     }
   ]
 }
