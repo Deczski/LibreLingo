@@ -1131,8 +1131,8 @@
         "a",
         "girl",
         "",
-        "H",
-        "A"
+        "A",
+        "an"
       ],
       "solutions": [
         [
@@ -1229,10 +1229,10 @@
         "am",
         "a",
         "boy",
-        "H",
         "He",
         "be",
-        ""
+        "",
+        "A"
       ],
       "solutions": [
         [
@@ -2003,7 +2003,7 @@
         },
         {
           "word": "ne",
-          "definition": "ne\nno\nnot"
+          "definition": "no\nnot"
         },
         {
           "word": "jest",
@@ -2140,16 +2140,24 @@
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "brotherofsister1.jpg",
+        "brotherofsister2.jpg",
+        "brotherofsister3.jpg"
+      ],
       "formInTargetLanguage": "Brat",
       "meaningInSourceLanguage": "Brother",
-      "id": "175822da0ee3",
+      "id": "4d10f6ef8e66",
       "priority": 0,
-      "group": "876237d26779"
+      "group": "322d8c12bdc8"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "brotherofsister1.jpg",
+        "brotherofsister2.jpg",
+        "brotherofsister3.jpg"
+      ],
       "formInTargetLanguage": [
         "Brat"
       ],
@@ -2159,22 +2167,30 @@
           "definition": "Brat"
         }
       ],
-      "id": "c37be7fc1df1",
+      "id": "e68899d5157a",
       "priority": 1,
-      "group": "876237d26779"
+      "group": "322d8c12bdc8"
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "sisterofsister1.jpg",
+        "sisterofsister2.jpg",
+        "sisterofsister3.jpg"
+      ],
       "formInTargetLanguage": "Sěstra",
       "meaningInSourceLanguage": "Sister",
-      "id": "3244f3176ba1",
+      "id": "0f489e1087a1",
       "priority": 0,
-      "group": "a80b4b22d643"
+      "group": "ba6a33aa52c3"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "sisterofsister1.jpg",
+        "sisterofsister2.jpg",
+        "sisterofsister3.jpg"
+      ],
       "formInTargetLanguage": [
         "Sěstra"
       ],
@@ -2184,9 +2200,9 @@
           "definition": "Sěstra"
         }
       ],
-      "id": "82f7c8350a54",
+      "id": "44c88eaeeec8",
       "priority": 1,
-      "group": "a80b4b22d643"
+      "group": "ba6a33aa52c3"
     },
     {
       "type": "cards",
@@ -2322,16 +2338,24 @@
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "grandparents1.jpg",
+        "grandparents2.jpg",
+        "grandparents3.jpg"
+      ],
       "formInTargetLanguage": "praroditelji",
       "meaningInSourceLanguage": "grandparents",
-      "id": "54426d1dd0da",
+      "id": "ef1bb9eca368",
       "priority": 0,
-      "group": "2b37644ffea8"
+      "group": "92cd17d00af8"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "grandparents1.jpg",
+        "grandparents2.jpg",
+        "grandparents3.jpg"
+      ],
       "formInTargetLanguage": [
         "praroditelji"
       ],
@@ -2341,9 +2365,9 @@
           "definition": "praroditelji"
         }
       ],
-      "id": "a33d0ccfd1b1",
+      "id": "f2fdba820c8c",
       "priority": 1,
-      "group": "2b37644ffea8"
+      "group": "92cd17d00af8"
     }
   ]
 }

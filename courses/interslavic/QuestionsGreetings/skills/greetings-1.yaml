@@ -51,13 +51,6 @@ New words:
       - imfine3
       - imfine1
 
-  - Word: Ja jesm
-    Translation: I am
-    Images:
-      - iam1
-      - iam2
-      - iam3
-
   - Word: da
     Translation: yes
     Images:
@@ -66,7 +59,7 @@ New words:
       - imfine2
 
   - Word: ne
-    Translation: ne
+    Translation: no
     Images:
       - no3
       - no2
@@ -137,7 +130,11 @@ Mini-dictionary:
     - i: and
     - dobro: good
     - Hvala: Thanks
+    - ne: no
+    - ne: not
 
   English:
     - and: i
     - yes: da
+    - no: ne
+    - not: ne

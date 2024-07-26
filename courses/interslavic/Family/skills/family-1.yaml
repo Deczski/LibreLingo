@@ -27,10 +27,17 @@ New words:
 
   - Word: Brat
     Translation: Brother
+    Images:
+      - brotherofsister1
+      - brotherofsister2
+      - brotherofsister3
 
   - Word: Sěstra
     Translation: Sister
-
+    Images:
+      - sisterofsister1
+      - sisterofsister2
+      - sisterofsister3
  
   - Word: Dědok
     Translation: Grandfather
@@ -62,6 +69,11 @@ New words:
 
   - Word: praroditelji
     Translation: grandparents
+    Images:
+      - grandparents1
+      - grandparents2
+      - grandparents3
+
 
 Phrases:
 

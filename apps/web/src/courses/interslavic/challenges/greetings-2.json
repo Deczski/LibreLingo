@@ -13,18 +13,18 @@
     {
       "type": "options",
       "formInTargetLanguage": "Vitanje. Kako ty jesi",
-      "meaningInSourceLanguage": "H. How are you",
-      "id": "111520de6611",
+      "meaningInSourceLanguage": "Hi. How are you",
+      "id": "b5c69c289993",
       "priority": 0,
-      "group": "1f7fb2e5f5d7"
+      "group": "72da0589da84"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "H.",
-          "definition": "H."
+          "word": "Hi.",
+          "definition": "Hi."
         },
         {
           "word": "How",
@@ -57,9 +57,9 @@
         ]
       ],
       "formattedSolution": "Vitanje. Kako ty jesi",
-      "id": "a7001b677a22",
+      "id": "a5589b7c79a4",
       "priority": 2,
-      "group": "1f7fb2e5f5d7"
+      "group": "72da0589da84"
     },
     {
       "type": "chips",
@@ -83,26 +83,26 @@
         }
       ],
       "chips": [
-        "H",
+        "Hi",
         "How",
         "are",
         "you",
         "He",
         "or",
-        "a"
+        "You"
       ],
       "solutions": [
         [
-          "H",
+          "Hi",
           "How",
           "are",
           "you"
         ]
       ],
-      "formattedSolution": "H. How are you",
-      "id": "03006ce5f769",
+      "formattedSolution": "Hi. How are you",
+      "id": "ea6223b5a14a",
       "priority": 2,
-      "group": "1f7fb2e5f5d7"
+      "group": "72da0589da84"
     },
     {
       "type": "options",
@@ -626,7 +626,7 @@
         },
         {
           "word": "ne",
-          "definition": "ne\nno\nnot"
+          "definition": "no\nnot"
         },
         {
           "word": "jest",

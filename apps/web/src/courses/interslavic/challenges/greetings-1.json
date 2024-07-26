@@ -1549,43 +1549,6 @@
     {
       "type": "cards",
       "pictures": [
-        "iam1.jpg",
-        "iam2.jpg",
-        "iam3.jpg"
-      ],
-      "formInTargetLanguage": "Ja jesm",
-      "meaningInSourceLanguage": "I am",
-      "id": "de763d71a339",
-      "priority": 0,
-      "group": "d91c8ea72c16"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "iam1.jpg",
-        "iam2.jpg",
-        "iam3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Ja jesm"
-      ],
-      "phrase": [
-        {
-          "word": "I",
-          "definition": "Ja"
-        },
-        {
-          "word": "am",
-          "definition": "jesm"
-        }
-      ],
-      "id": "2102bcb3a80c",
-      "priority": 1,
-      "group": "d91c8ea72c16"
-    },
-    {
-      "type": "cards",
-      "pictures": [
         "imfine3.jpg",
         "imfine1.jpg",
         "imfine2.jpg"
@@ -1624,10 +1587,10 @@
         "no1.jpg"
       ],
       "formInTargetLanguage": "ne",
-      "meaningInSourceLanguage": "ne",
-      "id": "63d43e3e48a1",
+      "meaningInSourceLanguage": "no",
+      "id": "852ec0afde37",
       "priority": 0,
-      "group": "340b668e07a0"
+      "group": "fd8d9fe19cfa"
     },
     {
       "type": "shortInput",
@@ -1641,13 +1604,13 @@
       ],
       "phrase": [
         {
-          "word": "ne",
+          "word": "no",
           "definition": "ne"
         }
       ],
-      "id": "25e5c900f02a",
+      "id": "4397b81f67ec",
       "priority": 1,
-      "group": "340b668e07a0"
+      "group": "fd8d9fe19cfa"
     },
     {
       "type": "cards",
