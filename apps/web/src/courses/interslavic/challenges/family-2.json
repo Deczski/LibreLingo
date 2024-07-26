@@ -1847,10 +1847,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Moj kuzen jest tož moj prijatelj",
-      "meaningInSourceLanguage": "My cousin (female) is also my friend.",
-      "id": "f1f69190f20c",
+      "meaningInSourceLanguage": "My cousin(male) is also my friend.",
+      "id": "29cf0727565e",
       "priority": 0,
-      "group": "a9abab7c5a4c"
+      "group": "424890894133"
     },
     {
       "type": "chips",
@@ -1861,12 +1861,8 @@
           "definition": "moj\nmoja\nmoje\nmoji"
         },
         {
-          "word": "cousin",
-          "definition": "kuzen\nkuzinka"
-        },
-        {
-          "word": "(female)",
-          "definition": "žensky"
+          "word": "cousin(male)",
+          "definition": "kuzen"
         },
         {
           "word": "is",
@@ -1909,9 +1905,9 @@
         ]
       ],
       "formattedSolution": "Moj kuzen jest tož moj prijatelj",
-      "id": "0bec1941c624",
+      "id": "a3e5d462d537",
       "priority": 2,
-      "group": "a9abab7c5a4c"
+      "group": "424890894133"
     },
     {
       "type": "chips",
@@ -1944,24 +1940,21 @@
       ],
       "chips": [
         "My",
-        "cousin",
-        "female",
+        "cousin(male",
         "is",
         "also",
         "my",
         "friend",
         "me",
-        "an",
         "if",
         "Is",
-        "am",
-        "are"
+        "an",
+        "am"
       ],
       "solutions": [
         [
           "My",
-          "cousin",
-          "female",
+          "cousin(male",
           "is",
           "also",
           "my",
@@ -1976,10 +1969,10 @@
           "friend"
         ]
       ],
-      "formattedSolution": "My cousin (female) is also my friend.",
-      "id": "ab40c116bd86",
+      "formattedSolution": "My cousin(male) is also my friend.",
+      "id": "47b6b0f55dfa",
       "priority": 2,
-      "group": "a9abab7c5a4c"
+      "group": "424890894133"
     },
     {
       "type": "options",
