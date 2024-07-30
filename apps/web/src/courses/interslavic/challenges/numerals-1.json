@@ -282,11 +282,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Dva psy",
+      "formInTargetLanguage": "Dva psi",
       "meaningInSourceLanguage": "Two dogs",
-      "id": "e140c39f0f6f",
+      "id": "4d449a6de565",
       "priority": 0,
-      "group": "3134b0186ceb"
+      "group": "7868eaf7b4a8"
     },
     {
       "type": "chips",
@@ -303,20 +303,20 @@
       ],
       "chips": [
         "Dva",
-        "psy",
+        "psi",
         "Da",
         "dva"
       ],
       "solutions": [
         [
           "Dva",
-          "psy"
+          "psi"
         ]
       ],
-      "formattedSolution": "Dva psy",
-      "id": "257caafc7502",
+      "formattedSolution": "Dva psi",
+      "id": "82e63dcf43fa",
       "priority": 2,
-      "group": "3134b0186ceb"
+      "group": "7868eaf7b4a8"
     },
     {
       "type": "chips",
@@ -327,8 +327,8 @@
           "definition": "Two\ntwo"
         },
         {
-          "word": "psy",
-          "definition": "psy"
+          "word": "psi",
+          "definition": "psi"
         }
       ],
       "chips": [
@@ -344,9 +344,9 @@
         ]
       ],
       "formattedSolution": "Two dogs",
-      "id": "09d7b75b645f",
+      "id": "bcd0d32989d6",
       "priority": 2,
-      "group": "3134b0186ceb"
+      "group": "7868eaf7b4a8"
     },
     {
       "type": "options",
@@ -440,7 +440,7 @@
       "chips": [
         "Osm",
         "psov",
-        "psy",
+        "psi",
         "Ono"
       ],
       "solutions": [
