@@ -1,10 +1,10 @@
 Skill:
   Id: 62
   Name: Pozdrav-2
-   Thumbnails:
+  Thumbnails:
   - eleven1
   - twenty1
-  - hundret1
+  - hundred1
 
 New words:
   - Word: Jedinadset
@@ -73,75 +73,67 @@ New words:
   - Word: Dvadeset
     Translation: Twenty
 
+  - Word: Dvadeset tri
+    Translation: Twenty-three
+
+  - Word: Devetdeset jedin
+    Translation: Ninety-one
+
+  - Word: Sto
+    Translation: hundred
+
+  - Word: Sto osm
+    Translation: hundred eight
+
+  - Word: Sto dvadeset pet
+    Translation: hundred
+
+  - Word: Dvasto
+    Translation: two hundred
+
+  - Word: Tristo
+    Translation: two hundred
+
+  - Word: Petsto
+    Translation: Five hundred
+
+  - Word: Osmsto
+    Translation: two hundred
 
 Phrases:
 
-  - Phrase: Jedin plus jedin ravna se dva
-    Translation: One plus one equals two
+  - Phrase: Sto-Jedinnadset žen
+    Translation: Hundred eleven women
 
-  - Phrase: Dva minus jedin ravna se jedin
-    Translation: You(singular) are
+  - Phrase: Osm-sto trideset-pet psov
+    Translation: Eight hundred thirty five dogs
 
-  - Phrase: Jedin pes
-    Translation: One dog
+  - Phrase: Koncertne bilety koštujut 30 evro
+    Translation: The concert tickets cost 30 euros
 
-  - Phrase: Dva psy
-    Translation: Two dogs
+  - Phrase: Ona čitaje 45 knig vsakogodno
+    Translation: She reads 45 books every year
 
-  - Phrase: Pet psov
-    Translation: Five dogs 
+  - Phrase: My jesmo tri brati
+    Translation: We are three brothers 
 
-  - Phrase: Osm psov
-    Translation: She is
+  - Phrase: Maraton iměl 150 učestnikov 
+    Translation: The marathon had 150 participants
 
-  - Phrase: Jedna děvčina
-    Translation: One woman
+  - Phrase: Samolět može něsti 300 pasažerov
+    Translation: The airplane can carry 300 passengers
 
-  - Phrase: Dvě děvčiny
-    Translation: Two woman
+  - Phrase: On zakončil gonku v 78 minut
+    Translation: He finished the race in 78 minutes.
 
-  - Phrase: Tri děvčiny
-    Translation: Two woman    
+  - Phrase: Bylo dvasto sedmdeset-pet aplikantov na tu rabotu
+    Translation: There were 275 applicants for this job  
 
-  - Phrase: Četyri děvčiny
-    Translation: Four woman
+  - Phrase: On vizitoval šestdeset devet držav podčas svojih putovanj
+    Translation: He visited sixty nine countries during his travels.
 
-  - Phrase: Pet děvčin
-    Translation: Five girls
-
-  - Phrase: Šest děvcin
-    Translation: Six girls
-
-  - Phrase: Sedm děvčin
-    Translation: Seven girls
-
-  - Phrase: Osm děvčin
-    Translation: Eight girls
-
-  - Phrase: Devet děvčin
-    Translation: Nine girls
-
-  - Phrase: Deset děvčin
-    Translation: Ten girls
-
-  - Phrase: Jedno slovo
-    Translation: One word
-
-  - Phrase: Dva slova
-    Translation: Two words
-
-  - Phrase: Tri slova
-    Translation: Three words
-
-  - Phrase: Četyri slova
-    Translation: Four words
-
-  - Phrase: Pet slov
-    Translation: Five words
-
-  - Phrase: Deset slov
-    Translation: Ten words
-  
+  - Phrase: Šestdeset devet je zabavno čislo
+    Translation: Sixty nine is a funny number
 
 
 Mini-dictionary:

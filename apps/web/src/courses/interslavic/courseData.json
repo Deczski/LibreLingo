@@ -595,6 +595,101 @@
           "levels": 6
         }
       ]
+    },
+    {
+      "title": "6. Numerals",
+      "skills": [
+        {
+          "imageSet": [
+            "zero1",
+            "one1",
+            "three1"
+          ],
+          "summary": [
+            "Jedin",
+            "Dva",
+            "Tri",
+            "Četyri",
+            "Pet",
+            "Šest",
+            "Sedm",
+            "Osm",
+            "Devet",
+            "Deset",
+            "plus",
+            "minus",
+            "Jedin plus jedin ravna se dva",
+            "Dva minus jedin ravna se jedin",
+            "Jedin pes",
+            "Dva psy",
+            "Pet psov",
+            "Osm psov",
+            "Jedna děvčina",
+            "Dvě děvčiny",
+            "Tri děvčiny",
+            "Četyri děvčiny",
+            "Pet děvčin",
+            "Šest děvcin",
+            "Sedm děvčin",
+            "Osm děvčin",
+            "Devet děvčin",
+            "Deset děvčin",
+            "Jedno slovo",
+            "Dva slova",
+            "Tri slova",
+            "Četyri slova",
+            "Pet slov",
+            "Deset slov"
+          ],
+          "practiceHref": "pozdrav-1",
+          "id": "a768a811eb74",
+          "title": "Pozdrav-1",
+          "levels": 7
+        },
+        {
+          "imageSet": [
+            "eleven1",
+            "twenty1",
+            "hundred1"
+          ],
+          "summary": [
+            "Jedinadset",
+            "Dvanadset",
+            "Trinadset",
+            "Četyrinadset",
+            "Petnadset",
+            "Šestnadset",
+            "Sedmnadset",
+            "Osmnadset",
+            "Devetnadset",
+            "Dvadeset",
+            "Dvadeset tri",
+            "Devetdeset jedin",
+            "Sto",
+            "Sto osm",
+            "Sto dvadeset pet",
+            "Dvasto",
+            "Tristo",
+            "Petsto",
+            "Osmsto",
+            "Sto-Jedinnadset žen",
+            "Osm-sto trideset-pet psov",
+            "Koncertne bilety koštujut 30 evro",
+            "Ona čitaje 45 knig vsakogodno",
+            "My jesmo tri brati",
+            "Maraton iměl 150 učestnikov",
+            "Samolět može něsti 300 pasažerov",
+            "On zakončil gonku v 78 minut",
+            "Bylo dvasto sedmdeset-pet aplikantov na tu rabotu",
+            "On vizitoval šestdeset devet držav podčas svojih putovanj",
+            "Šestdeset devet je zabavno čislo"
+          ],
+          "practiceHref": "pozdrav-2",
+          "id": "0275fa9b067a",
+          "title": "Pozdrav-2",
+          "levels": 6
+        }
+      ]
     }
   ]
 }
