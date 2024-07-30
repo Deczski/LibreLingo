@@ -1,0 +1,180 @@
+Skill:
+  Id: 71
+  Name: Animals-1
+  Thumbnails:
+  - dog1
+  - cat1
+  - elephant1
+
+New words:
+
+  - Word: Pes
+    Translation: Dog
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: Kot
+    Translation: Cat
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: Ptica
+    Translation: Bird
+    Images:
+      - bird1
+      - bird2
+      - bird3
+
+  - Word: Konj
+    Translation: Horse
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+
+  - Word: Lev
+    Translation: Lion
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: Malpa
+    Translation: Monkey
+    Images:
+      - monkey1
+      - monkey2
+      - monkey3
+
+  - Word: Volk
+    Translation: Wolf
+    Images:
+      - wolf1
+      - wolf2
+      - wolf3
+
+  - Word: Sova
+    Translation: Owl
+    Images:
+      - owl1
+      - owl2
+      - owl3
+
+  - Word: Kralik
+    Translation: Rabbit
+    Images:
+      - rabbit1
+      - rabbit2
+      - rabbit3
+
+  - Word: Životina
+    Translation: animal
+
+
+Phrases:
+
+  - Phrase: Lev jest kralj životin
+    Translation: Lion is the king of animals
+
+  - Phrase: Kraliki sut strahlive
+    Translation: Rabbits are fearful
+
+  - Phrase: Volki vyjut k luně
+    Translation: Wolfs howl to the Moon
+
+  - Phrase: Psi sut najdobri prijatelji člověka
+    Translation: Dogs are best friends of man
+
+  - Phrase: Typično samci ptic sut kolorove
+    Translation: Typically, male birds are colorful
+
+  - Phrase: Konj je približno deset kratno vyše silny něž člověk
+    Translation: Horse i approximately ten times stronger than a human
+
+  - Phrase: Koti dobro videt v nocy
+    Translation: Cats see well at night
+
+  - Phrase: Sovy sut symbol mudrosti
+    Translation: Owls are symbol of wisdom
+
+  - Phrase: Malpy pripominajut člověka
+    Translation: Monkeys remind a human 
+
+
+
+
+Mini-dictionary:
+
+  Interslavic:
+    - Vojtěh: Vojtěh (male name)
+    - Jaroslav: Jaroslav (male name)
+    - Katarina: Katarina (female name)
+    - Tatjana: Tatjana (female name)
+    - ja: I
+    - jesm: am
+    - ty: you
+    - jesi: are
+    - on: he
+    - ona: she
+    - ono: it
+    - my: we
+    - vy: you(plural)
+    - oni: they(masculine)
+    - one: they(feminine)
+    - jest: is
+    - muž: man
+    - žena: woman
+    - hlapec: boy
+    - děvčina:
+        - girl
+        - a girl
+        - the girl
+    - jedin: one
+    - pozdrav: hello
+    - člověk: human
+    - i: and
+    
+    - Byti: to be
+    - Ja Jesm: I am
+    - Ty Jesi: You are(singular)
+    - On Jest: He is
+    - Ona Jest: She is
+    - Ono Jest: It is
+    - My Jesmo: We are
+    - Oni Sut: They are(masculine)
+    - One Sut: They are(feminine)
+    - ne:
+      - no
+      - not 
+
+  English:
+    - Vojtěh: Vojtěh (male name)
+    - Jaroslav: Jaroslav (male name)
+    - Katarina: Katarina (female name)
+    - Tatjana: Tatjana (female name)
+    - I: Ja
+    - am: jesm
+    - you: ty
+    - are: jesi
+    - he: on
+    - is: jest
+    - she: ona
+    - it: ono
+    - this: to
+    - one: jedin
+    - man: muž
+    - woman: woman
+    - boy: hlapec
+    - girl: děvčina
+    - a: -a
+    - one: jedin
+    - hello: pozdrav
+    - human: člověk
+    - and: i
+    - no: ne
+    - not: ne
