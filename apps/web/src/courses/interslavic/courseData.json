@@ -690,6 +690,43 @@
           "levels": 6
         }
       ]
+    },
+    {
+      "title": "7. Animals",
+      "skills": [
+        {
+          "imageSet": [
+            "dog1",
+            "cat1",
+            "elephant1"
+          ],
+          "summary": [
+            "Pes",
+            "Kot",
+            "Ptica",
+            "Konj",
+            "Lev",
+            "Malpa",
+            "Volk",
+            "Sova",
+            "Kralik",
+            "Životina",
+            "Lev jest kralj životin",
+            "Kraliki sut strahlive",
+            "Volki vyjut k luně",
+            "Psi sut najdobri prijatelji člověka",
+            "Typično samci ptic sut kolorove",
+            "Konj je približno deset kratno vyše silny něž člověk",
+            "Koti dobro videt v nocy",
+            "Sovy sut symbol mudrosti",
+            "Malpy pripominajut člověka"
+          ],
+          "practiceHref": "animals-1",
+          "id": "e6adfd1e833d",
+          "title": "Animals-1",
+          "levels": 4
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,1300 @@
+{
+  "id": "e6adfd1e833d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Lev jest kralj životin",
+      "meaningInSourceLanguage": "Lion is the king of animals",
+      "id": "f57f5d27860f",
+      "priority": 0,
+      "group": "88578cb9e985"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Lion",
+          "definition": "Lev"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "king",
+          "definition": "king"
+        },
+        {
+          "word": "of",
+          "definition": "od"
+        },
+        {
+          "word": "animals",
+          "definition": "animals"
+        }
+      ],
+      "chips": [
+        "Lev",
+        "jest",
+        "kralj",
+        "životin",
+        "jesi",
+        "Jest",
+        "krv"
+      ],
+      "solutions": [
+        [
+          "Lev",
+          "jest",
+          "kralj",
+          "životin"
+        ]
+      ],
+      "formattedSolution": "Lev jest kralj životin",
+      "id": "ad8c229a123a",
+      "priority": 2,
+      "group": "88578cb9e985"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Lev",
+          "definition": "Lion"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "kralj",
+          "definition": "kralj"
+        },
+        {
+          "word": "životin",
+          "definition": "životin"
+        }
+      ],
+      "chips": [
+        "Lion",
+        "is",
+        "the",
+        "king",
+        "of",
+        "animals",
+        "in",
+        "if",
+        "an",
+        "his",
+        "Hi"
+      ],
+      "solutions": [
+        [
+          "Lion",
+          "is",
+          "the",
+          "king",
+          "of",
+          "animals"
+        ]
+      ],
+      "formattedSolution": "Lion is the king of animals",
+      "id": "35efe1322b00",
+      "priority": 2,
+      "group": "88578cb9e985"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kraliki sut strahlive",
+      "meaningInSourceLanguage": "Rabbits are fearful",
+      "id": "f1087027607c",
+      "priority": 0,
+      "group": "05ad854232a3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Rabbits",
+          "definition": "Rabbits"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "fearful",
+          "definition": "fearful"
+        }
+      ],
+      "chips": [
+        "Kraliki",
+        "sut",
+        "strahlive",
+        "spali",
+        "spati"
+      ],
+      "solutions": [
+        [
+          "Kraliki",
+          "sut",
+          "strahlive"
+        ]
+      ],
+      "formattedSolution": "Kraliki sut strahlive",
+      "id": "9d226d33fc61",
+      "priority": 2,
+      "group": "05ad854232a3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kraliki",
+          "definition": "Kraliki"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "strahlive",
+          "definition": "strahlive"
+        }
+      ],
+      "chips": [
+        "Rabbits",
+        "are",
+        "fearful",
+        "ears",
+        "cars"
+      ],
+      "solutions": [
+        [
+          "Rabbits",
+          "are",
+          "fearful"
+        ]
+      ],
+      "formattedSolution": "Rabbits are fearful",
+      "id": "4d86eb081c67",
+      "priority": 2,
+      "group": "05ad854232a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Volki vyjut k luně",
+      "meaningInSourceLanguage": "Wolfs howl to the Moon",
+      "id": "beb0ce962887",
+      "priority": 0,
+      "group": "116288a7bef0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Wolfs",
+          "definition": "Wolfs"
+        },
+        {
+          "word": "howl",
+          "definition": "howl"
+        },
+        {
+          "word": "to",
+          "definition": "to"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "Moon",
+          "definition": "Moon"
+        }
+      ],
+      "chips": [
+        "Volki",
+        "vyjut",
+        "k",
+        "luně",
+        "li",
+        "Vy",
+        "sut"
+      ],
+      "solutions": [
+        [
+          "Volki",
+          "vyjut",
+          "k",
+          "luně"
+        ]
+      ],
+      "formattedSolution": "Volki vyjut k luně",
+      "id": "8d0659970920",
+      "priority": 2,
+      "group": "116288a7bef0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Volki",
+          "definition": "Volki"
+        },
+        {
+          "word": "vyjut",
+          "definition": "vyjut"
+        },
+        {
+          "word": "k",
+          "definition": "towards"
+        },
+        {
+          "word": "luně",
+          "definition": "luně"
+        }
+      ],
+      "chips": [
+        "Wolfs",
+        "howl",
+        "to",
+        "the",
+        "Moon",
+        "of",
+        "Who",
+        "How",
+        "son"
+      ],
+      "solutions": [
+        [
+          "Wolfs",
+          "howl",
+          "to",
+          "the",
+          "Moon"
+        ]
+      ],
+      "formattedSolution": "Wolfs howl to the Moon",
+      "id": "b9b0be8fbe07",
+      "priority": 2,
+      "group": "116288a7bef0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Psi sut najdobri prijatelji člověka",
+      "meaningInSourceLanguage": "Dogs are best friends of man",
+      "id": "b26bbacd3131",
+      "priority": 0,
+      "group": "5c724d0f8918"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Dogs",
+          "definition": "Dogs"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "best",
+          "definition": "best"
+        },
+        {
+          "word": "friends",
+          "definition": "friends"
+        },
+        {
+          "word": "of",
+          "definition": "od"
+        },
+        {
+          "word": "man",
+          "definition": "muž"
+        }
+      ],
+      "chips": [
+        "Psi",
+        "sut",
+        "najdobri",
+        "prijatelji",
+        "člověka",
+        "ili",
+        "jesi",
+        "li",
+        "Mati"
+      ],
+      "solutions": [
+        [
+          "Psi",
+          "sut",
+          "najdobri",
+          "prijatelji",
+          "člověka"
+        ]
+      ],
+      "formattedSolution": "Psi sut najdobri prijatelji člověka",
+      "id": "484b849cbab6",
+      "priority": 2,
+      "group": "5c724d0f8918"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Psi",
+          "definition": "Psi"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "najdobri",
+          "definition": "najdobri"
+        },
+        {
+          "word": "prijatelji",
+          "definition": "prijatelji"
+        },
+        {
+          "word": "člověka",
+          "definition": "člověka"
+        }
+      ],
+      "chips": [
+        "Dogs",
+        "are",
+        "best",
+        "friends",
+        "of",
+        "man",
+        "as",
+        "is",
+        "be",
+        "or",
+        "men"
+      ],
+      "solutions": [
+        [
+          "Dogs",
+          "are",
+          "best",
+          "friends",
+          "of",
+          "man"
+        ]
+      ],
+      "formattedSolution": "Dogs are best friends of man",
+      "id": "611117776d5a",
+      "priority": 2,
+      "group": "5c724d0f8918"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Typično samci ptic sut kolorove",
+      "meaningInSourceLanguage": "Typically, male birds are colorful",
+      "id": "3e418d134cf5",
+      "priority": 0,
+      "group": "b1992fba1f9b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Typically,",
+          "definition": "Typically,"
+        },
+        {
+          "word": "male",
+          "definition": "mužsky"
+        },
+        {
+          "word": "birds",
+          "definition": "birds"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "colorful",
+          "definition": "colorful"
+        }
+      ],
+      "chips": [
+        "Typično",
+        "samci",
+        "ptic",
+        "sut",
+        "kolorove",
+        "Tri",
+        "spati",
+        "li",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Typično",
+          "samci",
+          "ptic",
+          "sut",
+          "kolorove"
+        ]
+      ],
+      "formattedSolution": "Typično samci ptic sut kolorove",
+      "id": "c3e3ed585af0",
+      "priority": 2,
+      "group": "b1992fba1f9b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Typično",
+          "definition": "Typično"
+        },
+        {
+          "word": "samci",
+          "definition": "samci"
+        },
+        {
+          "word": "ptic",
+          "definition": "ptic"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "kolorove",
+          "definition": "kolorove"
+        }
+      ],
+      "chips": [
+        "Typically",
+        "male",
+        "birds",
+        "are",
+        "colorful",
+        "cars",
+        "car",
+        "tall",
+        "girl"
+      ],
+      "solutions": [
+        [
+          "Typically",
+          "male",
+          "birds",
+          "are",
+          "colorful"
+        ]
+      ],
+      "formattedSolution": "Typically, male birds are colorful",
+      "id": "19478ae7512c",
+      "priority": 2,
+      "group": "b1992fba1f9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Konj je približno deset kratno vyše silny něž člověk",
+      "meaningInSourceLanguage": "Horse i approximately ten times stronger than a human",
+      "id": "abf703e44688",
+      "priority": 0,
+      "group": "803a85da64f5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Horse",
+          "definition": "Konj"
+        },
+        {
+          "word": "i",
+          "definition": "Ja"
+        },
+        {
+          "word": "approximately",
+          "definition": "approximately"
+        },
+        {
+          "word": "ten",
+          "definition": "deset"
+        },
+        {
+          "word": "times",
+          "definition": "times"
+        },
+        {
+          "word": "stronger",
+          "definition": "stronger"
+        },
+        {
+          "word": "than",
+          "definition": "than"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "human",
+          "definition": "človek\nčlověk"
+        }
+      ],
+      "chips": [
+        "Konj",
+        "je",
+        "približno",
+        "deset",
+        "kratno",
+        "vyše",
+        "silny",
+        "něž",
+        "člověk",
+        "ne",
+        "črne",
+        "Ono",
+        "One",
+        "lět",
+        "ale",
+        "se",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Konj",
+          "je",
+          "približno",
+          "deset",
+          "kratno",
+          "vyše",
+          "silny",
+          "něž",
+          "člověk"
+        ]
+      ],
+      "formattedSolution": "Konj je približno deset kratno vyše silny něž člověk",
+      "id": "197750fac28f",
+      "priority": 2,
+      "group": "803a85da64f5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Konj",
+          "definition": "Horse"
+        },
+        {
+          "word": "je",
+          "definition": "is"
+        },
+        {
+          "word": "približno",
+          "definition": "približno"
+        },
+        {
+          "word": "deset",
+          "definition": "Five\nten"
+        },
+        {
+          "word": "kratno",
+          "definition": "kratno"
+        },
+        {
+          "word": "vyše",
+          "definition": "vyše"
+        },
+        {
+          "word": "silny",
+          "definition": "silny"
+        },
+        {
+          "word": "něž",
+          "definition": "něž"
+        },
+        {
+          "word": "člověk",
+          "definition": "human"
+        }
+      ],
+      "chips": [
+        "Horse",
+        "i",
+        "approximately",
+        "ten",
+        "times",
+        "stronger",
+        "than",
+        "a",
+        "human",
+        "man",
+        "men",
+        "me",
+        "an",
+        "are",
+        "the",
+        "in",
+        "to"
+      ],
+      "solutions": [
+        [
+          "Horse",
+          "i",
+          "approximately",
+          "ten",
+          "times",
+          "stronger",
+          "than",
+          "a",
+          "human"
+        ]
+      ],
+      "formattedSolution": "Horse i approximately ten times stronger than a human",
+      "id": "a257376890ec",
+      "priority": 2,
+      "group": "803a85da64f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Koti dobro videt v nocy",
+      "meaningInSourceLanguage": "Cats see well at night",
+      "id": "25c002a3b2fb",
+      "priority": 0,
+      "group": "d0f35f924395"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Cats",
+          "definition": "Cats"
+        },
+        {
+          "word": "see",
+          "definition": "see"
+        },
+        {
+          "word": "well",
+          "definition": "well"
+        },
+        {
+          "word": "at",
+          "definition": "at"
+        },
+        {
+          "word": "night",
+          "definition": "noč"
+        }
+      ],
+      "chips": [
+        "Koti",
+        "dobro",
+        "videt",
+        "v",
+        "nocy",
+        "od",
+        "novy",
+        "i",
+        "to"
+      ],
+      "solutions": [
+        [
+          "Koti",
+          "dobro",
+          "videt",
+          "v",
+          "nocy"
+        ]
+      ],
+      "formattedSolution": "Koti dobro videt v nocy",
+      "id": "edb023722ce3",
+      "priority": 2,
+      "group": "d0f35f924395"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Koti",
+          "definition": "Koti"
+        },
+        {
+          "word": "dobro",
+          "definition": "good"
+        },
+        {
+          "word": "videt",
+          "definition": "videt"
+        },
+        {
+          "word": "v",
+          "definition": "in"
+        },
+        {
+          "word": "nocy",
+          "definition": "nocy"
+        }
+      ],
+      "chips": [
+        "Cats",
+        "see",
+        "well",
+        "at",
+        "night",
+        "eat",
+        "It",
+        "not",
+        "was"
+      ],
+      "solutions": [
+        [
+          "Cats",
+          "see",
+          "well",
+          "at",
+          "night"
+        ]
+      ],
+      "formattedSolution": "Cats see well at night",
+      "id": "efb8c437bed3",
+      "priority": 2,
+      "group": "d0f35f924395"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sovy sut symbol mudrosti",
+      "meaningInSourceLanguage": "Owls are symbol of wisdom",
+      "id": "05e1c37c3241",
+      "priority": 0,
+      "group": "d34b5c9317a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Owls",
+          "definition": "Owls"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "symbol",
+          "definition": "symbol"
+        },
+        {
+          "word": "of",
+          "definition": "od"
+        },
+        {
+          "word": "wisdom",
+          "definition": "wisdom"
+        }
+      ],
+      "chips": [
+        "Sovy",
+        "sut",
+        "symbol",
+        "mudrosti",
+        "Sut",
+        "moj",
+        "muž"
+      ],
+      "solutions": [
+        [
+          "Sovy",
+          "sut",
+          "symbol",
+          "mudrosti"
+        ]
+      ],
+      "formattedSolution": "Sovy sut symbol mudrosti",
+      "id": "83a2c9adbe00",
+      "priority": 2,
+      "group": "d34b5c9317a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sovy",
+          "definition": "Sovy"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "symbol",
+          "definition": "symbol"
+        },
+        {
+          "word": "mudrosti",
+          "definition": "mudrosti"
+        }
+      ],
+      "chips": [
+        "Owls",
+        "are",
+        "symbol",
+        "of",
+        "wisdom",
+        "or",
+        "son",
+        "am",
+        "is"
+      ],
+      "solutions": [
+        [
+          "Owls",
+          "are",
+          "symbol",
+          "of",
+          "wisdom"
+        ]
+      ],
+      "formattedSolution": "Owls are symbol of wisdom",
+      "id": "5f7b76a86a50",
+      "priority": 2,
+      "group": "d34b5c9317a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Malpy pripominajut člověka",
+      "meaningInSourceLanguage": "Monkeys remind a human",
+      "id": "00f67ed651e1",
+      "priority": 0,
+      "group": "4d92f8285852"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Monkeys",
+          "definition": "Monkeys"
+        },
+        {
+          "word": "remind",
+          "definition": "remind"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "human",
+          "definition": "človek\nčlověk"
+        }
+      ],
+      "chips": [
+        "Malpy",
+        "pripominajut",
+        "člověka",
+        "člověk",
+        "lěpa"
+      ],
+      "solutions": [
+        [
+          "Malpy",
+          "pripominajut",
+          "člověka"
+        ]
+      ],
+      "formattedSolution": "Malpy pripominajut člověka",
+      "id": "81150b57924a",
+      "priority": 2,
+      "group": "4d92f8285852"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Malpy",
+          "definition": "Malpy"
+        },
+        {
+          "word": "pripominajut",
+          "definition": "pripominajut"
+        },
+        {
+          "word": "člověka",
+          "definition": "člověka"
+        }
+      ],
+      "chips": [
+        "Monkeys",
+        "remind",
+        "a",
+        "human",
+        "man",
+        "an",
+        "many"
+      ],
+      "solutions": [
+        [
+          "Monkeys",
+          "remind",
+          "a",
+          "human"
+        ]
+      ],
+      "formattedSolution": "Monkeys remind a human",
+      "id": "569e37e1fe3e",
+      "priority": 2,
+      "group": "4d92f8285852"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": "Pes",
+      "meaningInSourceLanguage": "Dog",
+      "id": "daf3bf6adee3",
+      "priority": 0,
+      "group": "3e2dab9d9cfb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Pes"
+      ],
+      "phrase": [
+        {
+          "word": "Dog",
+          "definition": "Pes"
+        }
+      ],
+      "id": "f5bd1a2e2145",
+      "priority": 1,
+      "group": "3e2dab9d9cfb"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": "Kot",
+      "meaningInSourceLanguage": "Cat",
+      "id": "5331f3ba0e75",
+      "priority": 0,
+      "group": "6c71734a89c5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Kot"
+      ],
+      "phrase": [
+        {
+          "word": "Cat",
+          "definition": "Kot"
+        }
+      ],
+      "id": "1903904f6e16",
+      "priority": 1,
+      "group": "6c71734a89c5"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "bird1.jpg",
+        "bird2.jpg",
+        "bird3.jpg"
+      ],
+      "formInTargetLanguage": "Ptica",
+      "meaningInSourceLanguage": "Bird",
+      "id": "d08a77a36625",
+      "priority": 0,
+      "group": "e36904d9e9eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "bird1.jpg",
+        "bird2.jpg",
+        "bird3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Ptica"
+      ],
+      "phrase": [
+        {
+          "word": "Bird",
+          "definition": "Ptica"
+        }
+      ],
+      "id": "fa7794d7e86d",
+      "priority": 1,
+      "group": "e36904d9e9eb"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": "Konj",
+      "meaningInSourceLanguage": "Horse",
+      "id": "37832ad518a4",
+      "priority": 0,
+      "group": "1e6ff2c68093"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Konj"
+      ],
+      "phrase": [
+        {
+          "word": "Horse",
+          "definition": "Konj"
+        }
+      ],
+      "id": "5da49b2f0575",
+      "priority": 1,
+      "group": "1e6ff2c68093"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": "Lev",
+      "meaningInSourceLanguage": "Lion",
+      "id": "57a51bcb581b",
+      "priority": 0,
+      "group": "dff5cca3a9bd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Lev"
+      ],
+      "phrase": [
+        {
+          "word": "Lion",
+          "definition": "Lev"
+        }
+      ],
+      "id": "20ae2a807fd6",
+      "priority": 1,
+      "group": "dff5cca3a9bd"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "monkey1.jpg",
+        "monkey2.jpg",
+        "monkey3.jpg"
+      ],
+      "formInTargetLanguage": "Malpa",
+      "meaningInSourceLanguage": "Monkey",
+      "id": "f73d6da4d769",
+      "priority": 0,
+      "group": "33640f805c33"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "monkey1.jpg",
+        "monkey2.jpg",
+        "monkey3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Malpa"
+      ],
+      "phrase": [
+        {
+          "word": "Monkey",
+          "definition": "Malpa"
+        }
+      ],
+      "id": "2f53124ad136",
+      "priority": 1,
+      "group": "33640f805c33"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "wolf1.jpg",
+        "wolf2.jpg",
+        "wolf3.jpg"
+      ],
+      "formInTargetLanguage": "Volk",
+      "meaningInSourceLanguage": "Wolf",
+      "id": "cfc0a49c22c2",
+      "priority": 0,
+      "group": "e3374604114e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "wolf1.jpg",
+        "wolf2.jpg",
+        "wolf3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Volk"
+      ],
+      "phrase": [
+        {
+          "word": "Wolf",
+          "definition": "Volk"
+        }
+      ],
+      "id": "17a48a94d906",
+      "priority": 1,
+      "group": "e3374604114e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "owl1.jpg",
+        "owl2.jpg",
+        "owl3.jpg"
+      ],
+      "formInTargetLanguage": "Sova",
+      "meaningInSourceLanguage": "Owl",
+      "id": "d3f286ad2594",
+      "priority": 0,
+      "group": "7e8740b56fd1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "owl1.jpg",
+        "owl2.jpg",
+        "owl3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Sova"
+      ],
+      "phrase": [
+        {
+          "word": "Owl",
+          "definition": "Sova"
+        }
+      ],
+      "id": "23b5340f4c81",
+      "priority": 1,
+      "group": "7e8740b56fd1"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "rabbit1.jpg",
+        "rabbit2.jpg",
+        "rabbit3.jpg"
+      ],
+      "formInTargetLanguage": "Kralik",
+      "meaningInSourceLanguage": "Rabbit",
+      "id": "f07787d1914e",
+      "priority": 0,
+      "group": "af12f366700d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "rabbit1.jpg",
+        "rabbit2.jpg",
+        "rabbit3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Kralik"
+      ],
+      "phrase": [
+        {
+          "word": "Rabbit",
+          "definition": "Kralik"
+        }
+      ],
+      "id": "d27f1d78cb00",
+      "priority": 1,
+      "group": "af12f366700d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Životina",
+      "meaningInSourceLanguage": "animal",
+      "id": "9d2853850213",
+      "priority": 0,
+      "group": "89becb02eb75"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Životina"
+      ],
+      "phrase": [
+        {
+          "word": "animal",
+          "definition": "Životina"
+        }
+      ],
+      "id": "701e97e0084d",
+      "priority": 1,
+      "group": "89becb02eb75"
+    }
+  ]
+}
