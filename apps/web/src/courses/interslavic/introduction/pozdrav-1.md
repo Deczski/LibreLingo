@@ -1,7 +1,7 @@
 # Medžuslovjanske medija
 
 *   [Interslavic-dictionary](https://interslavic-dictionary.com/) -&gt; Oficjalny slovnik
-*   [Interslavic.fun](https://interslavic.fun/) -&gt; Oficjalny slovnik 
+*   [Interslavic.fun](https://interslavic.fun/) -&gt; Oficjalna vebstranica 
 
 # Lekcija 1
 
