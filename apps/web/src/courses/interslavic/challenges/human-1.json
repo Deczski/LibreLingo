@@ -74,7 +74,7 @@
         },
         {
           "word": "imajut",
-          "definition": "imajut"
+          "definition": "have"
         },
         {
           "word": "tvoje",
@@ -136,11 +136,11 @@
         },
         {
           "word": "big",
-          "definition": "big"
+          "definition": "velika\nvelike\nveliki\nveliko\nveliky"
         },
         {
           "word": "head",
-          "definition": "head"
+          "definition": "glava"
         }
       ],
       "chips": [
@@ -179,11 +179,11 @@
         },
         {
           "word": "veliku",
-          "definition": "veliku"
+          "definition": "big"
         },
         {
           "word": "glavu",
-          "definition": "glavu"
+          "definition": "head"
         }
       ],
       "chips": [
@@ -237,7 +237,7 @@
         },
         {
           "word": "big",
-          "definition": "big"
+          "definition": "velika\nvelike\nveliki\nveliko\nveliky"
         },
         {
           "word": "ears",
@@ -283,15 +283,15 @@
         },
         {
           "word": "ima",
-          "definition": "ima"
+          "definition": "has"
         },
         {
           "word": "velike",
-          "definition": "velike"
+          "definition": "big"
         },
         {
           "word": "uši",
-          "definition": "uši"
+          "definition": "ears"
         }
       ],
       "chips": [
@@ -353,7 +353,7 @@
         },
         {
           "word": "head?",
-          "definition": "head?"
+          "definition": "glava"
         }
       ],
       "chips": [
@@ -396,19 +396,19 @@
       "phrase": [
         {
           "word": "Či",
-          "definition": "Či"
+          "definition": "question particle"
         },
         {
           "word": "s",
-          "definition": "s"
+          "definition": "with"
         },
         {
           "word": "tvojeju",
-          "definition": "tvojeju"
+          "definition": "your"
         },
         {
           "word": "glavoju",
-          "definition": "glavoju"
+          "definition": "head"
         },
         {
           "word": "je",
@@ -416,15 +416,15 @@
         },
         {
           "word": "vsečto",
-          "definition": "vsečto"
+          "definition": "everything"
         },
         {
           "word": "v",
-          "definition": "v"
+          "definition": "in"
         },
         {
           "word": "porědku?",
-          "definition": "porědku?"
+          "definition": "order"
         }
       ],
       "chips": [
@@ -457,11 +457,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Bolji mně glava iz glědanja na kompjuter",
+      "formInTargetLanguage": "Boli mně glava iz glědanja na kompjuter",
       "meaningInSourceLanguage": "My head hurts from staring at the computer",
-      "id": "ae1e8dbeca5e",
+      "id": "1d7b3ad45682",
       "priority": 0,
-      "group": "ff1917126b0d"
+      "group": "0a4ae027e84c"
     },
     {
       "type": "chips",
@@ -473,7 +473,7 @@
         },
         {
           "word": "head",
-          "definition": "head"
+          "definition": "glava"
         },
         {
           "word": "hurts",
@@ -501,7 +501,7 @@
         }
       ],
       "chips": [
-        "Bolji",
+        "Boli",
         "mně",
         "glava",
         "iz",
@@ -509,15 +509,15 @@
         "na",
         "kompjuter",
         "Ona",
-        "je",
         "ne",
         "li",
-        "moja",
-        "moj"
+        "Ja",
+        "je",
+        "ili"
       ],
       "solutions": [
         [
-          "Bolji",
+          "Boli",
           "mně",
           "glava",
           "iz",
@@ -526,22 +526,22 @@
           "kompjuter"
         ]
       ],
-      "formattedSolution": "Bolji mně glava iz glědanja na kompjuter",
-      "id": "ac2598a38cd3",
+      "formattedSolution": "Boli mně glava iz glědanja na kompjuter",
+      "id": "0b61b233f610",
       "priority": 2,
-      "group": "ff1917126b0d"
+      "group": "0a4ae027e84c"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Bolji",
-          "definition": "Bolji"
+          "word": "Boli",
+          "definition": "hurts"
         },
         {
           "word": "mně",
-          "definition": "mně"
+          "definition": "me"
         },
         {
           "word": "glava",
@@ -549,15 +549,15 @@
         },
         {
           "word": "iz",
-          "definition": "iz"
+          "definition": "from\nof"
         },
         {
           "word": "glědanja",
-          "definition": "glědanja"
+          "definition": "looking\nstarring"
         },
         {
           "word": "na",
-          "definition": "na"
+          "definition": "on"
         },
         {
           "word": "kompjuter",
@@ -594,9 +594,9 @@
         ]
       ],
       "formattedSolution": "My head hurts from staring at the computer",
-      "id": "781f1589c2ae",
+      "id": "117a66c4cea0",
       "priority": 2,
-      "group": "ff1917126b0d"
+      "group": "0a4ae027e84c"
     },
     {
       "type": "options",
@@ -640,7 +640,7 @@
         },
         {
           "word": "head?",
-          "definition": "head?"
+          "definition": "glava"
         }
       ],
       "chips": [
@@ -678,7 +678,7 @@
         },
         {
           "word": "kosti",
-          "definition": "kosti"
+          "definition": "bone\nbones"
         },
         {
           "word": "jest",
@@ -686,11 +686,11 @@
         },
         {
           "word": "v",
-          "definition": "v"
+          "definition": "in"
         },
         {
           "word": "glavě?",
-          "definition": "glavě?"
+          "definition": "head"
         }
       ],
       "chips": [
@@ -803,11 +803,11 @@
         },
         {
           "word": "umyti",
-          "definition": "umyti"
+          "definition": "clean\nwash"
         },
         {
           "word": "svoje",
-          "definition": "svoje"
+          "definition": "reflexive possesive pronoun"
         },
         {
           "word": "vlasy",
@@ -864,7 +864,7 @@
         },
         {
           "word": "big",
-          "definition": "big"
+          "definition": "velika\nvelike\nveliki\nveliko\nveliky"
         },
         {
           "word": "eyes",
@@ -903,15 +903,15 @@
         },
         {
           "word": "imajut",
-          "definition": "imajut"
+          "definition": "have"
         },
         {
           "word": "velike",
-          "definition": "velike"
+          "definition": "big"
         },
         {
           "word": "oči",
-          "definition": "oči"
+          "definition": "eyes"
         }
       ],
       "chips": [
@@ -938,11 +938,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Čerep hrani mozg od poškodženj",
+      "formInTargetLanguage": "Čerep ohranjaje mozg od poškodženj",
       "meaningInSourceLanguage": "Skull protects the brain from injuries",
-      "id": "8b2f1648313f",
+      "id": "8492db3526e5",
       "priority": 0,
-      "group": "6de8b9cee13b"
+      "group": "e6f2f297ff85"
     },
     {
       "type": "chips",
@@ -975,28 +975,28 @@
       ],
       "chips": [
         "Čerep",
-        "hrani",
+        "ohranjaje",
         "mozg",
         "od",
         "poškodženj",
+        "moje",
         "denj",
         "moj",
-        "moje",
-        "žena"
+        "mojej"
       ],
       "solutions": [
         [
           "Čerep",
-          "hrani",
+          "ohranjaje",
           "mozg",
           "od",
           "poškodženj"
         ]
       ],
-      "formattedSolution": "Čerep hrani mozg od poškodženj",
-      "id": "6c57d37d4744",
+      "formattedSolution": "Čerep ohranjaje mozg od poškodženj",
+      "id": "f4b881ae6659",
       "priority": 2,
-      "group": "6de8b9cee13b"
+      "group": "e6f2f297ff85"
     },
     {
       "type": "chips",
@@ -1007,8 +1007,8 @@
           "definition": "Skull"
         },
         {
-          "word": "hrani",
-          "definition": "hrani"
+          "word": "ohranjaje",
+          "definition": "protects"
         },
         {
           "word": "mozg",
@@ -1047,9 +1047,9 @@
         ]
       ],
       "formattedSolution": "Skull protects the brain from injuries",
-      "id": "66e9ab109d86",
+      "id": "00a2fc6483e2",
       "priority": 2,
-      "group": "6de8b9cee13b"
+      "group": "e6f2f297ff85"
     },
     {
       "type": "options",
@@ -1144,19 +1144,19 @@
         },
         {
           "word": "odgovorny",
-          "definition": "odgovorny"
+          "definition": "responsible"
         },
         {
           "word": "za",
-          "definition": "za"
+          "definition": "for"
         },
         {
           "word": "dumanje,",
-          "definition": "dumanje,"
+          "definition": "thinking"
         },
         {
           "word": "emocije",
-          "definition": "emocije"
+          "definition": "emotions"
         },
         {
           "word": "i",
@@ -1164,7 +1164,7 @@
         },
         {
           "word": "pamet",
-          "definition": "pamet"
+          "definition": "memory"
         }
       ],
       "chips": [
@@ -1276,15 +1276,15 @@
         },
         {
           "word": "umožnjaje",
-          "definition": "umožnjaje"
+          "definition": "enables"
         },
         {
           "word": "vkušanje,",
-          "definition": "vkušanje,"
+          "definition": "tasting"
         },
         {
           "word": "žuvanje",
-          "definition": "žuvanje"
+          "definition": "chewing"
         },
         {
           "word": "i",
@@ -1353,7 +1353,7 @@
         },
         {
           "word": "head",
-          "definition": "head"
+          "definition": "glava"
         },
         {
           "word": "grows",
@@ -1412,7 +1412,7 @@
       "phrase": [
         {
           "word": "Člověčska",
-          "definition": "Člověčska"
+          "definition": "humane"
         },
         {
           "word": "glava",
@@ -1420,27 +1420,27 @@
         },
         {
           "word": "raste",
-          "definition": "raste"
+          "definition": "grows"
         },
         {
           "word": "velmi",
-          "definition": "velmi"
+          "definition": "strongly"
         },
         {
           "word": "brzo",
-          "definition": "brzo"
+          "definition": "fastly"
         },
         {
           "word": "v",
-          "definition": "v"
+          "definition": "in"
         },
         {
           "word": "času",
-          "definition": "času"
+          "definition": "time"
         },
         {
           "word": "detinstva",
-          "definition": "detinstva"
+          "definition": "childhood"
         }
       ],
       "chips": [
@@ -1496,7 +1496,7 @@
         },
         {
           "word": "head",
-          "definition": "head"
+          "definition": "glava"
         },
         {
           "word": "grows",
@@ -1555,7 +1555,7 @@
       "phrase": [
         {
           "word": "Člověčska",
-          "definition": "Člověčska"
+          "definition": "humane"
         },
         {
           "word": "glava",
@@ -1563,27 +1563,27 @@
         },
         {
           "word": "raste",
-          "definition": "raste"
+          "definition": "grows"
         },
         {
           "word": "velmi",
-          "definition": "velmi"
+          "definition": "strongly"
         },
         {
           "word": "brzo",
-          "definition": "brzo"
+          "definition": "fastly"
         },
         {
           "word": "v",
-          "definition": "v"
+          "definition": "in"
         },
         {
           "word": "času",
-          "definition": "času"
+          "definition": "time"
         },
         {
           "word": "detinstva",
-          "definition": "detinstva"
+          "definition": "childhood"
         }
       ],
       "chips": [
@@ -1699,7 +1699,7 @@
         },
         {
           "word": "imajut",
-          "definition": "imajut"
+          "definition": "have"
         },
         {
           "word": "krasive",
@@ -1715,7 +1715,7 @@
         },
         {
           "word": "kudrave",
-          "definition": "kudrave"
+          "definition": "curly"
         },
         {
           "word": "vlasy",

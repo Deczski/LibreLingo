@@ -1,6 +1,10 @@
 Skill:
   Id: 41
   Name: Adjectives-1
+  Thumbnails:
+  - black1
+  - orange2
+  - blue3
 
 New words:
   - Word: črny

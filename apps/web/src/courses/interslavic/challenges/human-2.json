@@ -32,7 +32,7 @@
         },
         {
           "word": "head",
-          "definition": "head"
+          "definition": "glava"
         },
         {
           "word": "and",
@@ -78,15 +78,15 @@
       "phrase": [
         {
           "word": "Šija",
-          "definition": "Šija"
+          "definition": "neck"
         },
         {
           "word": "sjedninjaje",
-          "definition": "sjedninjaje"
+          "definition": "connects"
         },
         {
           "word": "glavu",
-          "definition": "glavu"
+          "definition": "head"
         },
         {
           "word": "i",
@@ -189,11 +189,11 @@
         "i",
         "pljuče",
         "brat",
-        "hrani",
         "je",
         "ne",
         "ale",
-        "na"
+        "na",
+        "črne"
       ],
       "solutions": [
         [
@@ -217,15 +217,15 @@
       "phrase": [
         {
           "word": "Rebra",
-          "definition": "Rebra"
+          "definition": "ribs"
         },
         {
           "word": "ohranjajut",
-          "definition": "ohranjajut"
+          "definition": "protect"
         },
         {
           "word": "organy",
-          "definition": "organy"
+          "definition": "organs"
         },
         {
           "word": "kako",
@@ -241,7 +241,7 @@
         },
         {
           "word": "pljuče",
-          "definition": "pljuče"
+          "definition": "lungs"
         }
       ],
       "chips": [
@@ -357,7 +357,7 @@
         },
         {
           "word": "plasko",
-          "definition": "plasko"
+          "definition": "flat"
         },
         {
           "word": "brjuho",
@@ -460,11 +460,11 @@
       "phrase": [
         {
           "word": "Dologe",
-          "definition": "Dologe"
+          "definition": "long"
         },
         {
           "word": "ruky",
-          "definition": "ruky"
+          "definition": "hands"
         },
         {
           "word": "sut",
@@ -476,7 +476,7 @@
         },
         {
           "word": "v",
-          "definition": "v"
+          "definition": "in"
         },
         {
           "word": "basketballu",
@@ -575,7 +575,7 @@
       "phrase": [
         {
           "word": "Uši",
-          "definition": "Uši"
+          "definition": "ears"
         },
         {
           "word": "sut",
@@ -583,15 +583,15 @@
         },
         {
           "word": "odgovorne",
-          "definition": "odgovorne"
+          "definition": "responsible"
         },
         {
           "word": "za",
-          "definition": "za"
+          "definition": "for"
         },
         {
           "word": "slušanje",
-          "definition": "slušanje"
+          "definition": "hearing"
         }
       ],
       "chips": [
@@ -694,11 +694,11 @@
       "phrase": [
         {
           "word": "V",
-          "definition": "V"
+          "definition": "in"
         },
         {
           "word": "každoj",
-          "definition": "každoj"
+          "definition": "every"
         },
         {
           "word": "rukě",
@@ -714,7 +714,7 @@
         },
         {
           "word": "kostij",
-          "definition": "kostij"
+          "definition": "bones"
         }
       ],
       "chips": [
@@ -838,7 +838,7 @@
       "phrase": [
         {
           "word": "Trěba",
-          "definition": "Trěba"
+          "definition": "neccessary"
         },
         {
           "word": "dobro",
@@ -850,15 +850,15 @@
         },
         {
           "word": "daby",
-          "definition": "daby"
+          "definition": "in order to"
         },
         {
           "word": "iměti",
-          "definition": "iměti"
+          "definition": "have"
         },
         {
           "word": "zdravo",
-          "definition": "zdravo"
+          "definition": "healthy"
         },
         {
           "word": "srdce",
@@ -999,11 +999,11 @@
         },
         {
           "word": "v",
-          "definition": "v"
+          "definition": "in"
         },
         {
           "word": "každoj",
-          "definition": "každoj"
+          "definition": "every"
         },
         {
           "word": "rukě",
@@ -1071,7 +1071,7 @@
         },
         {
           "word": "big",
-          "definition": "big"
+          "definition": "velika\nvelike\nveliki\nveliko\nveliky"
         },
         {
           "word": "muslces",
@@ -1120,15 +1120,15 @@
       "phrase": [
         {
           "word": "Dumaješ",
-          "definition": "Dumaješ"
+          "definition": "think"
         },
         {
           "word": "že",
-          "definition": "že"
+          "definition": "that"
         },
         {
           "word": "velike",
-          "definition": "velike"
+          "definition": "big"
         },
         {
           "word": "muskuly",
@@ -1136,7 +1136,7 @@
         },
         {
           "word": "izgledajut",
-          "definition": "izgledajut"
+          "definition": "look"
         },
         {
           "word": "dobro?",
@@ -1267,7 +1267,7 @@
         },
         {
           "word": "najvelike",
-          "definition": "najvelike"
+          "definition": "the biggest"
         },
         {
           "word": "muskuly",
@@ -1275,15 +1275,15 @@
         },
         {
           "word": "iz",
-          "definition": "iz"
+          "definition": "from\nof"
         },
         {
           "word": "cělogo",
-          "definition": "cělogo"
+          "definition": "whole"
         },
         {
           "word": "těla",
-          "definition": "těla"
+          "definition": "body"
         }
       ],
       "chips": [
@@ -1392,19 +1392,19 @@
         },
         {
           "word": "pompuje",
-          "definition": "pompuje"
+          "definition": "pumps"
         },
         {
           "word": "krv",
-          "definition": "krv"
+          "definition": "blood"
         },
         {
           "word": "k",
-          "definition": "k"
+          "definition": "towards"
         },
         {
           "word": "tělu",
-          "definition": "tělu"
+          "definition": "body"
         }
       ],
       "chips": [
@@ -1504,7 +1504,7 @@
         },
         {
           "word": "kostij",
-          "definition": "kostij"
+          "definition": "bones"
         }
       ],
       "chips": [
@@ -1551,7 +1551,7 @@
         },
         {
           "word": "head",
-          "definition": "head"
+          "definition": "glava"
         },
         {
           "word": "grows",
@@ -1610,7 +1610,7 @@
       "phrase": [
         {
           "word": "Člověčska",
-          "definition": "Člověčska"
+          "definition": "humane"
         },
         {
           "word": "glava",
@@ -1618,27 +1618,27 @@
         },
         {
           "word": "raste",
-          "definition": "raste"
+          "definition": "grows"
         },
         {
           "word": "velmi",
-          "definition": "velmi"
+          "definition": "strongly"
         },
         {
           "word": "brzo",
-          "definition": "brzo"
+          "definition": "fastly"
         },
         {
           "word": "v",
-          "definition": "v"
+          "definition": "in"
         },
         {
           "word": "času",
-          "definition": "času"
+          "definition": "time"
         },
         {
           "word": "detinstva",
-          "definition": "detinstva"
+          "definition": "childhood"
         }
       ],
       "chips": [

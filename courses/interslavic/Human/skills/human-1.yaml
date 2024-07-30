@@ -91,7 +91,7 @@ Phrases:
   - Phrase: Či s tvojeju glavoju je vsečto v porědku?
     Translation: Is everything ok with Your head?
 
-  - Phrase: Bolji mně glava iz glědanja na kompjuter
+  - Phrase: Boli mně glava iz glědanja na kompjuter
     Translation: My head hurts from staring at the computer
 
   - Phrase: Koliko kosti jest v glavě?
@@ -103,7 +103,7 @@ Phrases:
   - Phrase: Děti imajut velike oči
     Translation: Kids have big eyes
 
-  - Phrase: Čerep hrani mozg od poškodženj
+  - Phrase: Čerep ohranjaje mozg od poškodženj
     Translation: Skull protects the brain from injuries
 
   - Phrase: Mozg je odgovorny za dumanje, emocije i pamet
@@ -132,9 +132,87 @@ Mini-dictionary:
     - Hvala: Thanks
     - ne: no
     - ne: not
+    - imajut: have
+    - veliku: big
+    - glavu: head
+    - ima: has
+    - velike: big
+    - uši: ears
+    - či: question particle
+    - s: with
+    - so: with
+    - tvojeju: your
+    - glavoju: head
+    - vsečto: everything
+    - v: in
+    - porědku: order
+    - boli: hurts
+    - mně: me
+    - iz: from
+    - iz: of
+    - glědanja: looking
+    - glědanja: starring
+    - na: on
+    - kosti: bone
+    - kosti: bones
+    - glavě: head
+    - umyti: clean
+    - umyti: wash
+    - svoje: reflexive possesive pronoun
+    - oči: eyes
+    - ohranjaje: protects
+    - odgovorny: responsible
+    - za: for
+    - dumanje: thinking
+    - emocije: emotions
+    - pamet: memory
+    - umožnjaje: enables
+    - vkušanje: tasting
+    - žuvanje: chewing
+    - člověčska: humane
+    - raste: grows
+    - velmi: strongly
+    - brzo: fastly
+    - času: time
+    - detinstva: childhood
+    - kudrave: curly
+    - šija: neck
+    - sjedninjaje: connects
+    - rebra: ribs
+    - ohranjajut: protect
+    - organy: organs
+    - pljuče: lungs
+    - plasko: flat
+    - dologe: long
+    - ruky: hands
+    - odgovorne: responsible
+    - každoj: every
+    - slušanje: hearing
+    - kostij: bones
+    - trěba: neccessary
+    - daby: in order to
+    - iměti: have
+    - zdravo: healthy
+    - dumaješ: think
+    - že: that
+    - izgledajut: look
+    - najvelike: the biggest
+    - cělogo: whole
+    - těla: body
+    - pompuje: pumps
+    - krv: blood
+    - k: towards
+    - tělu: body
 
   English:
     - and: i
     - yes: da
     - no: ne
     - not: ne
+    - big:
+      - veliky
+      - velika
+      - veliko
+      - veliki
+      - velike
+    - head: glava

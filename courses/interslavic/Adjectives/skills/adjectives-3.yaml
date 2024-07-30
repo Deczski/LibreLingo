@@ -1,7 +1,10 @@
 Skill:
   Id: 44
   Name: Adj 4
-  
+  Thumbnails:
+  - pretty1
+  - fast2
+  - snail1
 
 New words:
   - Word: krasivy

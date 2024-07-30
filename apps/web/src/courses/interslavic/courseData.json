@@ -399,6 +399,11 @@
       "title": "4. Adjectives",
       "skills": [
         {
+          "imageSet": [
+            "black1",
+            "orange2",
+            "blue3"
+          ],
           "summary": [
             "črny",
             "běly",
@@ -428,6 +433,11 @@
           "levels": 5
         },
         {
+          "imageSet": [
+            "pretty1",
+            "fast2",
+            "snail1"
+          ],
           "summary": [
             "krasivy",
             "škaradny",
@@ -483,11 +493,11 @@
             "Ty imaš veliku glavu",
             "Toj člověk ima velike uši",
             "Či s tvojeju glavoju je vsečto v porědku?",
-            "Bolji mně glava iz glědanja na kompjuter",
+            "Boli mně glava iz glědanja na kompjuter",
             "Koliko kosti jest v glavě?",
             "Ona idě umyti svoje vlasy",
             "Děti imajut velike oči",
-            "Čerep hrani mozg od poškodženj",
+            "Čerep ohranjaje mozg od poškodženj",
             "Mozg je odgovorny za dumanje, emocije i pamet",
             "Jezyk umožnjaje vkušanje, žuvanje i govorenje",
             "Člověčska glava raste velmi brzo v času detinstva",
