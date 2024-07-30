@@ -81,7 +81,7 @@
         "you",
         "We",
         "He",
-        "She"
+        "to"
       ],
       "solutions": [
         [
@@ -167,8 +167,8 @@
         "What",
         "are",
         "you",
-        "am",
-        "We"
+        "at",
+        "am"
       ],
       "solutions": [
         [
@@ -376,10 +376,10 @@
         "student",
         "are",
         "an",
+        "at",
         "am",
         "We",
-        "He",
-        "be"
+        "He"
       ],
       "solutions": [
         [
@@ -631,8 +631,8 @@
         "What",
         "is",
         "it",
-        "It",
-        "if"
+        "at",
+        "It"
       ],
       "solutions": [
         [
@@ -722,7 +722,7 @@
         "girl",
         "I",
         "is",
-        "am"
+        "as"
       ],
       "solutions": [
         [
@@ -815,7 +815,7 @@
         "boy",
         "I",
         "be",
-        "am"
+        "as"
       ],
       "solutions": [
         [
@@ -1011,10 +1011,10 @@
         "also",
         "a",
         "car",
+        "as",
+        "at",
         "am",
-        "is",
-        "an",
-        "I"
+        "is"
       ],
       "solutions": [
         [
@@ -1129,12 +1129,12 @@
         "or",
         "a",
         "car",
+        "as",
+        "at",
         "I",
         "am",
         "is",
-        "an",
-        "It",
-        ""
+        "an"
       ],
       "solutions": [
         [
@@ -1307,7 +1307,7 @@
         "are",
         "we",
         "We",
-        "am"
+        "at"
       ],
       "solutions": [
         [
@@ -1602,7 +1602,7 @@
         },
         {
           "word": "buses?",
-          "definition": "buses?"
+          "definition": "avtobusy"
         }
       ],
       "chips": [
@@ -1638,7 +1638,7 @@
         },
         {
           "word": "avtobusy?",
-          "definition": "avtobusy?"
+          "definition": "buses"
         }
       ],
       "chips": [
@@ -1690,7 +1690,7 @@
         },
         {
           "word": "buses",
-          "definition": "buses"
+          "definition": "avtobusy"
         },
         {
           "word": "or",
@@ -1698,7 +1698,7 @@
         },
         {
           "word": "cars?",
-          "definition": "avtomobily"
+          "definition": "avta\navtomobily"
         }
       ],
       "chips": [
@@ -1740,7 +1740,7 @@
         },
         {
           "word": "avtobusy",
-          "definition": "avtobusy"
+          "definition": "buses"
         },
         {
           "word": "ili",
@@ -1748,7 +1748,7 @@
         },
         {
           "word": "avta?",
-          "definition": "avta?"
+          "definition": "cars"
         }
       ],
       "chips": [
@@ -1850,8 +1850,8 @@
         "What",
         "are",
         "you(plural",
-        "am",
-        "a"
+        "at",
+        "am"
       ],
       "solutions": [
         [
@@ -2105,7 +2105,7 @@
         "ženy",
         "se",
         "to",
-        "je"
+        "že"
       ],
       "solutions": [
         [
@@ -2379,7 +2379,7 @@
         "oni",
         "muž",
         "li",
-        "On"
+        "uši"
       ],
       "solutions": [
         [
@@ -2522,9 +2522,9 @@
         "man",
         "did",
         "it",
+        "in",
         "is",
-        "if",
-        "had"
+        "if"
       ],
       "solutions": [
         [
@@ -2617,8 +2617,8 @@
         "Your",
         "name",
         "am",
-        "We",
-        "a"
+        "has",
+        "at"
       ],
       "solutions": [
         [
@@ -2666,8 +2666,8 @@
         "Koliko",
         "imaš",
         "lět",
-        "li",
-        "ili"
+        "ima",
+        "li"
       ],
       "solutions": [
         [
@@ -2851,6 +2851,72 @@
       "id": "cda5012631d7",
       "priority": 1,
       "group": "fa965c067355"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "buses1.jpg",
+        "buses2.jpg",
+        "buses3.jpg"
+      ],
+      "formInTargetLanguage": "avtobusy",
+      "meaningInSourceLanguage": "buses",
+      "id": "00951c63f40f",
+      "priority": 0,
+      "group": "1033ade83983"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "buses1.jpg",
+        "buses2.jpg",
+        "buses3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "avtobusy"
+      ],
+      "phrase": [
+        {
+          "word": "buses",
+          "definition": "avtobusy"
+        }
+      ],
+      "id": "fd0da8d2d2cc",
+      "priority": 1,
+      "group": "1033ade83983"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cars1.jpg",
+        "cars2.jpg",
+        "cars3.jpg"
+      ],
+      "formInTargetLanguage": "avta",
+      "meaningInSourceLanguage": "cars",
+      "id": "4f1b0238a9d9",
+      "priority": 0,
+      "group": "bf17707a5d4b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cars1.jpg",
+        "cars2.jpg",
+        "cars3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "avta"
+      ],
+      "phrase": [
+        {
+          "word": "cars",
+          "definition": "avta\navtomobily"
+        }
+      ],
+      "id": "f27dc77aae36",
+      "priority": 1,
+      "group": "bf17707a5d4b"
     },
     {
       "type": "cards",

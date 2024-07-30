@@ -1,0 +1,2150 @@
+{
+  "id": "64a9147c90d5",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kaky kolor imajut tvoje vlasy?",
+      "meaningInSourceLanguage": "Which colour is your hair",
+      "id": "80daa12bcede",
+      "priority": 0,
+      "group": "51bc7f1b4778"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Which",
+          "definition": "koj\nktory"
+        },
+        {
+          "word": "colour",
+          "definition": "colour"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "your",
+          "definition": "tvoj\ntvoja\ntvoje\ntvojego\ntvojej\ntvojeju\ntvojem\ntvojemu\ntvoji\ntvojih\ntvojim\ntvojimi\ntvoju\nvaš\nvaša\nvaše\nvašego\nvašej\nvašeju\nvašem\nvašemu\nvaši\nvaših\nvašim\nvašimi\nvašu"
+        },
+        {
+          "word": "hair",
+          "definition": "vlasy"
+        }
+      ],
+      "chips": [
+        "Kaky",
+        "kolor",
+        "imajut",
+        "tvoje",
+        "vlasy",
+        "imaje",
+        "ako",
+        "Kako",
+        "tvoj"
+      ],
+      "solutions": [
+        [
+          "Kaky",
+          "kolor",
+          "imajut",
+          "tvoje",
+          "vlasy"
+        ]
+      ],
+      "formattedSolution": "Kaky kolor imajut tvoje vlasy?",
+      "id": "d1272fecb081",
+      "priority": 2,
+      "group": "51bc7f1b4778"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kaky",
+          "definition": "how"
+        },
+        {
+          "word": "kolor",
+          "definition": "color"
+        },
+        {
+          "word": "imajut",
+          "definition": "imajut"
+        },
+        {
+          "word": "tvoje",
+          "definition": "your's"
+        },
+        {
+          "word": "vlasy?",
+          "definition": "hair"
+        }
+      ],
+      "chips": [
+        "Which",
+        "colour",
+        "is",
+        "your",
+        "hair",
+        "or",
+        "Your",
+        "tour",
+        "car"
+      ],
+      "solutions": [
+        [
+          "Which",
+          "colour",
+          "is",
+          "your",
+          "hair"
+        ]
+      ],
+      "formattedSolution": "Which colour is your hair",
+      "id": "dd33bde3c083",
+      "priority": 2,
+      "group": "51bc7f1b4778"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty imaš veliku glavu",
+      "meaningInSourceLanguage": "You have a big head",
+      "id": "c09c4b8c05d5",
+      "priority": 0,
+      "group": "600e2328ad90"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "have",
+          "definition": "iměti"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "big",
+          "definition": "big"
+        },
+        {
+          "word": "head",
+          "definition": "head"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "imaš",
+        "veliku",
+        "glavu",
+        "ima",
+        "li",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "imaš",
+          "veliku",
+          "glavu"
+        ]
+      ],
+      "formattedSolution": "Ty imaš veliku glavu",
+      "id": "e9e38de48bb2",
+      "priority": 2,
+      "group": "600e2328ad90"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "you"
+        },
+        {
+          "word": "imaš",
+          "definition": "have"
+        },
+        {
+          "word": "veliku",
+          "definition": "veliku"
+        },
+        {
+          "word": "glavu",
+          "definition": "glavu"
+        }
+      ],
+      "chips": [
+        "You",
+        "have",
+        "a",
+        "big",
+        "head",
+        "had",
+        "has",
+        "am",
+        "be"
+      ],
+      "solutions": [
+        [
+          "You",
+          "have",
+          "a",
+          "big",
+          "head"
+        ]
+      ],
+      "formattedSolution": "You have a big head",
+      "id": "d335dcbf75d0",
+      "priority": 2,
+      "group": "600e2328ad90"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Toj člověk ima velike uši",
+      "meaningInSourceLanguage": "This man has big ears",
+      "id": "2a5953b3a8a5",
+      "priority": 0,
+      "group": "dde3c49bd5e1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "to"
+        },
+        {
+          "word": "man",
+          "definition": "muž"
+        },
+        {
+          "word": "has",
+          "definition": "has"
+        },
+        {
+          "word": "big",
+          "definition": "big"
+        },
+        {
+          "word": "ears",
+          "definition": "ears"
+        }
+      ],
+      "chips": [
+        "Toj",
+        "člověk",
+        "ima",
+        "velike",
+        "uši",
+        "ili",
+        "li",
+        "ime",
+        "i"
+      ],
+      "solutions": [
+        [
+          "Toj",
+          "člověk",
+          "ima",
+          "velike",
+          "uši"
+        ]
+      ],
+      "formattedSolution": "Toj člověk ima velike uši",
+      "id": "3cefdbc16290",
+      "priority": 2,
+      "group": "dde3c49bd5e1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Toj",
+          "definition": "the"
+        },
+        {
+          "word": "člověk",
+          "definition": "human"
+        },
+        {
+          "word": "ima",
+          "definition": "ima"
+        },
+        {
+          "word": "velike",
+          "definition": "velike"
+        },
+        {
+          "word": "uši",
+          "definition": "uši"
+        }
+      ],
+      "chips": [
+        "This",
+        "man",
+        "has",
+        "big",
+        "ears",
+        "was",
+        "as",
+        "is",
+        "had"
+      ],
+      "solutions": [
+        [
+          "This",
+          "man",
+          "has",
+          "big",
+          "ears"
+        ]
+      ],
+      "formattedSolution": "This man has big ears",
+      "id": "ff066341fdff",
+      "priority": 2,
+      "group": "dde3c49bd5e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Či s tvojeju glavoju je vsečto v porědku?",
+      "meaningInSourceLanguage": "Is everything ok with Your head?",
+      "id": "5087a0c22184",
+      "priority": 0,
+      "group": "fd1b6471b48c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "jest"
+        },
+        {
+          "word": "everything",
+          "definition": "everything"
+        },
+        {
+          "word": "ok",
+          "definition": "ok"
+        },
+        {
+          "word": "with",
+          "definition": "with"
+        },
+        {
+          "word": "Your",
+          "definition": "tvoj\ntvoja\ntvoje\ntvojego\ntvojej\ntvojeju\ntvojem\ntvojemu\ntvoji\ntvojih\ntvojim\ntvojimi\ntvoju\nvaš\nvaša\nvaše\nvašego\nvašej\nvašeju\nvašem\nvašemu\nvaši\nvaših\nvašim\nvašimi\nvašu"
+        },
+        {
+          "word": "head?",
+          "definition": "head?"
+        }
+      ],
+      "chips": [
+        "Či",
+        "s",
+        "tvojeju",
+        "glavoju",
+        "je",
+        "vsečto",
+        "v",
+        "porědku",
+        "to",
+        "se",
+        "te",
+        "Do",
+        "od",
+        "i",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Či",
+          "s",
+          "tvojeju",
+          "glavoju",
+          "je",
+          "vsečto",
+          "v",
+          "porědku"
+        ]
+      ],
+      "formattedSolution": "Či s tvojeju glavoju je vsečto v porědku?",
+      "id": "780eacaafd7a",
+      "priority": 2,
+      "group": "fd1b6471b48c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Či",
+          "definition": "Či"
+        },
+        {
+          "word": "s",
+          "definition": "s"
+        },
+        {
+          "word": "tvojeju",
+          "definition": "tvojeju"
+        },
+        {
+          "word": "glavoju",
+          "definition": "glavoju"
+        },
+        {
+          "word": "je",
+          "definition": "is"
+        },
+        {
+          "word": "vsečto",
+          "definition": "vsečto"
+        },
+        {
+          "word": "v",
+          "definition": "v"
+        },
+        {
+          "word": "porědku?",
+          "definition": "porědku?"
+        }
+      ],
+      "chips": [
+        "Is",
+        "everything",
+        "ok",
+        "with",
+        "Your",
+        "head",
+        "or",
+        "is",
+        "It",
+        "eat",
+        "at"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "everything",
+          "ok",
+          "with",
+          "Your",
+          "head"
+        ]
+      ],
+      "formattedSolution": "Is everything ok with Your head?",
+      "id": "60d5755a9542",
+      "priority": 2,
+      "group": "fd1b6471b48c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bolji mně glava iz glědanja na kompjuter",
+      "meaningInSourceLanguage": "My head hurts from staring at the computer",
+      "id": "ae1e8dbeca5e",
+      "priority": 0,
+      "group": "ff1917126b0d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "moj\nmoja\nmoje\nmoji"
+        },
+        {
+          "word": "head",
+          "definition": "head"
+        },
+        {
+          "word": "hurts",
+          "definition": "hurts"
+        },
+        {
+          "word": "from",
+          "definition": "from"
+        },
+        {
+          "word": "staring",
+          "definition": "staring"
+        },
+        {
+          "word": "at",
+          "definition": "at"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "computer",
+          "definition": "computer"
+        }
+      ],
+      "chips": [
+        "Bolji",
+        "mně",
+        "glava",
+        "iz",
+        "glědanja",
+        "na",
+        "kompjuter",
+        "Ona",
+        "je",
+        "ne",
+        "li",
+        "moja",
+        "moj"
+      ],
+      "solutions": [
+        [
+          "Bolji",
+          "mně",
+          "glava",
+          "iz",
+          "glědanja",
+          "na",
+          "kompjuter"
+        ]
+      ],
+      "formattedSolution": "Bolji mně glava iz glědanja na kompjuter",
+      "id": "ac2598a38cd3",
+      "priority": 2,
+      "group": "ff1917126b0d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Bolji",
+          "definition": "Bolji"
+        },
+        {
+          "word": "mně",
+          "definition": "mně"
+        },
+        {
+          "word": "glava",
+          "definition": "Good day"
+        },
+        {
+          "word": "iz",
+          "definition": "iz"
+        },
+        {
+          "word": "glědanja",
+          "definition": "glědanja"
+        },
+        {
+          "word": "na",
+          "definition": "na"
+        },
+        {
+          "word": "kompjuter",
+          "definition": "kompjuter"
+        }
+      ],
+      "chips": [
+        "My",
+        "head",
+        "hurts",
+        "from",
+        "staring",
+        "at",
+        "the",
+        "computer",
+        "am",
+        "are",
+        "eat",
+        "try",
+        "car",
+        "or",
+        "to"
+      ],
+      "solutions": [
+        [
+          "My",
+          "head",
+          "hurts",
+          "from",
+          "staring",
+          "at",
+          "the",
+          "computer"
+        ]
+      ],
+      "formattedSolution": "My head hurts from staring at the computer",
+      "id": "781f1589c2ae",
+      "priority": 2,
+      "group": "ff1917126b0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Koliko kosti jest v glavě?",
+      "meaningInSourceLanguage": "How many bones are there in human head?",
+      "id": "85b6d47ef3fc",
+      "priority": 0,
+      "group": "922513381ee9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "kako\nkaky"
+        },
+        {
+          "word": "many",
+          "definition": "many"
+        },
+        {
+          "word": "bones",
+          "definition": "bones"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "there",
+          "definition": "tam"
+        },
+        {
+          "word": "in",
+          "definition": "in"
+        },
+        {
+          "word": "human",
+          "definition": "človek\nčlověk"
+        },
+        {
+          "word": "head?",
+          "definition": "head?"
+        }
+      ],
+      "chips": [
+        "Koliko",
+        "kosti",
+        "jest",
+        "v",
+        "glavě",
+        "jesi",
+        "li",
+        "i",
+        "ako"
+      ],
+      "solutions": [
+        [
+          "Koliko",
+          "kosti",
+          "jest",
+          "v",
+          "glavě"
+        ]
+      ],
+      "formattedSolution": "Koliko kosti jest v glavě?",
+      "id": "4381c864d1cb",
+      "priority": 2,
+      "group": "922513381ee9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Koliko",
+          "definition": "how many\nhow much"
+        },
+        {
+          "word": "kosti",
+          "definition": "kosti"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "v",
+          "definition": "v"
+        },
+        {
+          "word": "glavě?",
+          "definition": "glavě?"
+        }
+      ],
+      "chips": [
+        "How",
+        "many",
+        "bones",
+        "are",
+        "there",
+        "in",
+        "human",
+        "head",
+        "man",
+        "an",
+        "men",
+        "and",
+        "here",
+        "had",
+        "me"
+      ],
+      "solutions": [
+        [
+          "How",
+          "many",
+          "bones",
+          "are",
+          "there",
+          "in",
+          "human",
+          "head"
+        ]
+      ],
+      "formattedSolution": "How many bones are there in human head?",
+      "id": "d0074d60f7eb",
+      "priority": 2,
+      "group": "922513381ee9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona idě umyti svoje vlasy",
+      "meaningInSourceLanguage": "She goes to wash her hair",
+      "id": "b1adb1eca605",
+      "priority": 0,
+      "group": "9b1966fbf02c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "ona"
+        },
+        {
+          "word": "goes",
+          "definition": "goes"
+        },
+        {
+          "word": "to",
+          "definition": "to"
+        },
+        {
+          "word": "wash",
+          "definition": "wash"
+        },
+        {
+          "word": "her",
+          "definition": "jej\njeju\nju"
+        },
+        {
+          "word": "hair",
+          "definition": "vlasy"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "idě",
+        "umyti",
+        "svoje",
+        "vlasy",
+        "ona",
+        "ima",
+        "Ono",
+        "Oni"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "idě",
+          "umyti",
+          "svoje",
+          "vlasy"
+        ]
+      ],
+      "formattedSolution": "Ona idě umyti svoje vlasy",
+      "id": "246104770b19",
+      "priority": 2,
+      "group": "9b1966fbf02c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "she"
+        },
+        {
+          "word": "idě",
+          "definition": "idě"
+        },
+        {
+          "word": "umyti",
+          "definition": "umyti"
+        },
+        {
+          "word": "svoje",
+          "definition": "svoje"
+        },
+        {
+          "word": "vlasy",
+          "definition": "hair"
+        }
+      ],
+      "chips": [
+        "She",
+        "goes",
+        "to",
+        "wash",
+        "her",
+        "hair",
+        "has",
+        "was",
+        "the",
+        "she",
+        "as"
+      ],
+      "solutions": [
+        [
+          "She",
+          "goes",
+          "to",
+          "wash",
+          "her",
+          "hair"
+        ]
+      ],
+      "formattedSolution": "She goes to wash her hair",
+      "id": "b1784ee118c7",
+      "priority": 2,
+      "group": "9b1966fbf02c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Děti imajut velike oči",
+      "meaningInSourceLanguage": "Kids have big eyes",
+      "id": "11732723f0ef",
+      "priority": 0,
+      "group": "bb9d329a862e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Kids",
+          "definition": "Kids"
+        },
+        {
+          "word": "have",
+          "definition": "iměti"
+        },
+        {
+          "word": "big",
+          "definition": "big"
+        },
+        {
+          "word": "eyes",
+          "definition": "eyes"
+        }
+      ],
+      "chips": [
+        "Děti",
+        "imajut",
+        "velike",
+        "oči",
+        "ili",
+        "i",
+        "li"
+      ],
+      "solutions": [
+        [
+          "Děti",
+          "imajut",
+          "velike",
+          "oči"
+        ]
+      ],
+      "formattedSolution": "Děti imajut velike oči",
+      "id": "fa2b15444d30",
+      "priority": 2,
+      "group": "bb9d329a862e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Děti",
+          "definition": "children"
+        },
+        {
+          "word": "imajut",
+          "definition": "imajut"
+        },
+        {
+          "word": "velike",
+          "definition": "velike"
+        },
+        {
+          "word": "oči",
+          "definition": "oči"
+        }
+      ],
+      "chips": [
+        "Kids",
+        "have",
+        "big",
+        "eyes",
+        "is",
+        "has",
+        "are"
+      ],
+      "solutions": [
+        [
+          "Kids",
+          "have",
+          "big",
+          "eyes"
+        ]
+      ],
+      "formattedSolution": "Kids have big eyes",
+      "id": "77305e65391a",
+      "priority": 2,
+      "group": "bb9d329a862e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Čerep hrani mozg od poškodženj",
+      "meaningInSourceLanguage": "Skull protects the brain from injuries",
+      "id": "8b2f1648313f",
+      "priority": 0,
+      "group": "6de8b9cee13b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Skull",
+          "definition": "Čerep"
+        },
+        {
+          "word": "protects",
+          "definition": "protects"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "brain",
+          "definition": "Mozg"
+        },
+        {
+          "word": "from",
+          "definition": "from"
+        },
+        {
+          "word": "injuries",
+          "definition": "injuries"
+        }
+      ],
+      "chips": [
+        "Čerep",
+        "hrani",
+        "mozg",
+        "od",
+        "poškodženj",
+        "denj",
+        "moj",
+        "moje",
+        "žena"
+      ],
+      "solutions": [
+        [
+          "Čerep",
+          "hrani",
+          "mozg",
+          "od",
+          "poškodženj"
+        ]
+      ],
+      "formattedSolution": "Čerep hrani mozg od poškodženj",
+      "id": "6c57d37d4744",
+      "priority": 2,
+      "group": "6de8b9cee13b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Čerep",
+          "definition": "Skull"
+        },
+        {
+          "word": "hrani",
+          "definition": "hrani"
+        },
+        {
+          "word": "mozg",
+          "definition": "Brain"
+        },
+        {
+          "word": "od",
+          "definition": "from"
+        },
+        {
+          "word": "poškodženj",
+          "definition": "poškodženj"
+        }
+      ],
+      "chips": [
+        "Skull",
+        "protects",
+        "the",
+        "brain",
+        "from",
+        "injuries",
+        "are",
+        "red",
+        "She",
+        "write",
+        "try"
+      ],
+      "solutions": [
+        [
+          "Skull",
+          "protects",
+          "the",
+          "brain",
+          "from",
+          "injuries"
+        ]
+      ],
+      "formattedSolution": "Skull protects the brain from injuries",
+      "id": "66e9ab109d86",
+      "priority": 2,
+      "group": "6de8b9cee13b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mozg je odgovorny za dumanje, emocije i pamet",
+      "meaningInSourceLanguage": "Brain is responsible for thinking, emotions and memory",
+      "id": "54351c60eac1",
+      "priority": 0,
+      "group": "a6a41f2f2218"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Brain",
+          "definition": "Mozg"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "responsible",
+          "definition": "responsible"
+        },
+        {
+          "word": "for",
+          "definition": "for"
+        },
+        {
+          "word": "thinking,",
+          "definition": "thinking,"
+        },
+        {
+          "word": "emotions",
+          "definition": "emotions"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "memory",
+          "definition": "memory"
+        }
+      ],
+      "chips": [
+        "Mozg",
+        "je",
+        "odgovorny",
+        "za",
+        "dumanje",
+        "emocije",
+        "i",
+        "pamet",
+        "ne",
+        "moje",
+        "ime",
+        "moj",
+        "se",
+        "te",
+        "od"
+      ],
+      "solutions": [
+        [
+          "Mozg",
+          "je",
+          "odgovorny",
+          "za",
+          "dumanje",
+          "emocije",
+          "i",
+          "pamet"
+        ]
+      ],
+      "formattedSolution": "Mozg je odgovorny za dumanje, emocije i pamet",
+      "id": "539c3dfe2ead",
+      "priority": 2,
+      "group": "a6a41f2f2218"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mozg",
+          "definition": "Brain"
+        },
+        {
+          "word": "je",
+          "definition": "is"
+        },
+        {
+          "word": "odgovorny",
+          "definition": "odgovorny"
+        },
+        {
+          "word": "za",
+          "definition": "za"
+        },
+        {
+          "word": "dumanje,",
+          "definition": "dumanje,"
+        },
+        {
+          "word": "emocije",
+          "definition": "emocije"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "pamet",
+          "definition": "pamet"
+        }
+      ],
+      "chips": [
+        "Brain",
+        "is",
+        "responsible",
+        "for",
+        "thinking",
+        "emotions",
+        "and",
+        "memory",
+        "in",
+        "son",
+        "man",
+        "or",
+        "men",
+        "an",
+        "sing"
+      ],
+      "solutions": [
+        [
+          "Brain",
+          "is",
+          "responsible",
+          "for",
+          "thinking",
+          "emotions",
+          "and",
+          "memory"
+        ]
+      ],
+      "formattedSolution": "Brain is responsible for thinking, emotions and memory",
+      "id": "1f7c531e6c60",
+      "priority": 2,
+      "group": "a6a41f2f2218"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jezyk umožnjaje vkušanje, žuvanje i govorenje",
+      "meaningInSourceLanguage": "Tongue enables tasting, chewing and speaking",
+      "id": "fd839df7f126",
+      "priority": 0,
+      "group": "1318113d9af3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Tongue",
+          "definition": "Jezyk"
+        },
+        {
+          "word": "enables",
+          "definition": "enables"
+        },
+        {
+          "word": "tasting,",
+          "definition": "tasting,"
+        },
+        {
+          "word": "chewing",
+          "definition": "chewing"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "speaking",
+          "definition": "speaking"
+        }
+      ],
+      "chips": [
+        "Jezyk",
+        "umožnjaje",
+        "vkušanje",
+        "žuvanje",
+        "i",
+        "govorenje",
+        "imaje",
+        "dumanje",
+        "je",
+        "ne",
+        "Tvoje"
+      ],
+      "solutions": [
+        [
+          "Jezyk",
+          "umožnjaje",
+          "vkušanje",
+          "žuvanje",
+          "i",
+          "govorenje"
+        ]
+      ],
+      "formattedSolution": "Jezyk umožnjaje vkušanje, žuvanje i govorenje",
+      "id": "c4702e0f5bfa",
+      "priority": 2,
+      "group": "1318113d9af3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jezyk",
+          "definition": "Tongue"
+        },
+        {
+          "word": "umožnjaje",
+          "definition": "umožnjaje"
+        },
+        {
+          "word": "vkušanje,",
+          "definition": "vkušanje,"
+        },
+        {
+          "word": "žuvanje",
+          "definition": "žuvanje"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "govorenje",
+          "definition": "govorenje"
+        }
+      ],
+      "chips": [
+        "Tongue",
+        "enables",
+        "tasting",
+        "chewing",
+        "and",
+        "speaking",
+        "sing",
+        "send",
+        "staring",
+        "hearing",
+        "hand"
+      ],
+      "solutions": [
+        [
+          "Tongue",
+          "enables",
+          "tasting",
+          "chewing",
+          "and",
+          "speaking"
+        ],
+        [
+          "I",
+          "am",
+          "also",
+          "good",
+          "Thank",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Tongue enables tasting, chewing and speaking",
+      "id": "648f96cff58b",
+      "priority": 2,
+      "group": "1318113d9af3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Člověčska glava raste velmi brzo v času detinstva",
+      "meaningInSourceLanguage": "The human head grows rapidly during childhood.",
+      "id": "3b2aa617803f",
+      "priority": 0,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "human",
+          "definition": "človek\nčlověk"
+        },
+        {
+          "word": "head",
+          "definition": "head"
+        },
+        {
+          "word": "grows",
+          "definition": "grows"
+        },
+        {
+          "word": "rapidly",
+          "definition": "rapidly"
+        },
+        {
+          "word": "during",
+          "definition": "during"
+        },
+        {
+          "word": "childhood.",
+          "definition": "childhood."
+        }
+      ],
+      "chips": [
+        "Člověčska",
+        "glava",
+        "raste",
+        "velmi",
+        "brzo",
+        "v",
+        "času",
+        "detinstva",
+        "avta",
+        "jest",
+        "se",
+        "na",
+        "za",
+        "Ja",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "Člověčska",
+          "glava",
+          "raste",
+          "velmi",
+          "brzo",
+          "v",
+          "času",
+          "detinstva"
+        ]
+      ],
+      "formattedSolution": "Člověčska glava raste velmi brzo v času detinstva",
+      "id": "9eadc196a132",
+      "priority": 2,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Člověčska",
+          "definition": "Člověčska"
+        },
+        {
+          "word": "glava",
+          "definition": "Good day"
+        },
+        {
+          "word": "raste",
+          "definition": "raste"
+        },
+        {
+          "word": "velmi",
+          "definition": "velmi"
+        },
+        {
+          "word": "brzo",
+          "definition": "brzo"
+        },
+        {
+          "word": "v",
+          "definition": "v"
+        },
+        {
+          "word": "času",
+          "definition": "času"
+        },
+        {
+          "word": "detinstva",
+          "definition": "detinstva"
+        }
+      ],
+      "chips": [
+        "The",
+        "human",
+        "head",
+        "grows",
+        "rapidly",
+        "during",
+        "childhood",
+        "had",
+        "child",
+        "hand",
+        "did",
+        "guide",
+        "red"
+      ],
+      "solutions": [
+        [
+          "The",
+          "human",
+          "head",
+          "grows",
+          "rapidly",
+          "during",
+          "childhood"
+        ]
+      ],
+      "formattedSolution": "The human head grows rapidly during childhood.",
+      "id": "eb08761567a4",
+      "priority": 2,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Člověčska glava raste velmi brzo v času detinstva",
+      "meaningInSourceLanguage": "The human head grows rapidly during childhood.",
+      "id": "3b2aa617803f",
+      "priority": 0,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "human",
+          "definition": "človek\nčlověk"
+        },
+        {
+          "word": "head",
+          "definition": "head"
+        },
+        {
+          "word": "grows",
+          "definition": "grows"
+        },
+        {
+          "word": "rapidly",
+          "definition": "rapidly"
+        },
+        {
+          "word": "during",
+          "definition": "during"
+        },
+        {
+          "word": "childhood.",
+          "definition": "childhood."
+        }
+      ],
+      "chips": [
+        "Člověčska",
+        "glava",
+        "raste",
+        "velmi",
+        "brzo",
+        "v",
+        "času",
+        "detinstva",
+        "avta",
+        "jest",
+        "se",
+        "na",
+        "za",
+        "Ja",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "Člověčska",
+          "glava",
+          "raste",
+          "velmi",
+          "brzo",
+          "v",
+          "času",
+          "detinstva"
+        ]
+      ],
+      "formattedSolution": "Člověčska glava raste velmi brzo v času detinstva",
+      "id": "9eadc196a132",
+      "priority": 2,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Člověčska",
+          "definition": "Člověčska"
+        },
+        {
+          "word": "glava",
+          "definition": "Good day"
+        },
+        {
+          "word": "raste",
+          "definition": "raste"
+        },
+        {
+          "word": "velmi",
+          "definition": "velmi"
+        },
+        {
+          "word": "brzo",
+          "definition": "brzo"
+        },
+        {
+          "word": "v",
+          "definition": "v"
+        },
+        {
+          "word": "času",
+          "definition": "času"
+        },
+        {
+          "word": "detinstva",
+          "definition": "detinstva"
+        }
+      ],
+      "chips": [
+        "The",
+        "human",
+        "head",
+        "grows",
+        "rapidly",
+        "during",
+        "childhood",
+        "had",
+        "child",
+        "hand",
+        "did",
+        "guide",
+        "red"
+      ],
+      "solutions": [
+        [
+          "The",
+          "human",
+          "head",
+          "grows",
+          "rapidly",
+          "during",
+          "childhood"
+        ]
+      ],
+      "formattedSolution": "The human head grows rapidly during childhood.",
+      "id": "eb08761567a4",
+      "priority": 2,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One imajut krasive črne i kudrave vlasy",
+      "meaningInSourceLanguage": "They(feminine) have beautiful black and curly hair",
+      "id": "dcf09e9a2fe1",
+      "priority": 0,
+      "group": "77fb87ed9bef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "one"
+        },
+        {
+          "word": "have",
+          "definition": "iměti"
+        },
+        {
+          "word": "beautiful",
+          "definition": "krasive\nkrasivy"
+        },
+        {
+          "word": "black",
+          "definition": "črny"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "curly",
+          "definition": "curly"
+        },
+        {
+          "word": "hair",
+          "definition": "vlasy"
+        }
+      ],
+      "chips": [
+        "One",
+        "imajut",
+        "krasive",
+        "črne",
+        "i",
+        "kudrave",
+        "vlasy",
+        "ime",
+        "ale",
+        "Ona",
+        "ne",
+        "se",
+        "imaje"
+      ],
+      "solutions": [
+        [
+          "One",
+          "imajut",
+          "krasive",
+          "črne",
+          "i",
+          "kudrave",
+          "vlasy"
+        ]
+      ],
+      "formattedSolution": "One imajut krasive črne i kudrave vlasy",
+      "id": "6705d37b8bfd",
+      "priority": 2,
+      "group": "77fb87ed9bef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "they(feminine)"
+        },
+        {
+          "word": "imajut",
+          "definition": "imajut"
+        },
+        {
+          "word": "krasive",
+          "definition": "beautiful"
+        },
+        {
+          "word": "črne",
+          "definition": "črne"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "kudrave",
+          "definition": "kudrave"
+        },
+        {
+          "word": "vlasy",
+          "definition": "hair"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "have",
+        "beautiful",
+        "black",
+        "and",
+        "curly",
+        "hair",
+        "hand",
+        "are",
+        "had",
+        "Thank",
+        "late",
+        "male"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "have",
+          "beautiful",
+          "black",
+          "and",
+          "curly",
+          "hair"
+        ]
+      ],
+      "formattedSolution": "They(feminine) have beautiful black and curly hair",
+      "id": "06070ec8aad5",
+      "priority": 2,
+      "group": "77fb87ed9bef"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "head1.jpg",
+        "head2.jpg",
+        "head3.jpg"
+      ],
+      "formInTargetLanguage": "Glava",
+      "meaningInSourceLanguage": "Good day",
+      "id": "1d2c60e86345",
+      "priority": 0,
+      "group": "87e140b52aa4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "head1.jpg",
+        "head2.jpg",
+        "head3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Glava"
+      ],
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobro"
+        },
+        {
+          "word": "day",
+          "definition": "denj"
+        }
+      ],
+      "id": "be1b07aa324a",
+      "priority": 1,
+      "group": "87e140b52aa4"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "eye1.jpg",
+        "eye2.jpg",
+        "eye3.jpg"
+      ],
+      "formInTargetLanguage": "Oko",
+      "meaningInSourceLanguage": "Eye",
+      "id": "51ec630a011c",
+      "priority": 0,
+      "group": "109f31653e03"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "eye1.jpg",
+        "eye2.jpg",
+        "eye3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Oko"
+      ],
+      "phrase": [
+        {
+          "word": "Eye",
+          "definition": "Oko"
+        }
+      ],
+      "id": "4c51dfd10d58",
+      "priority": 1,
+      "group": "109f31653e03"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "nose1.jpg",
+        "nose2.jpg",
+        "nose3.jpg"
+      ],
+      "formInTargetLanguage": "Nos",
+      "meaningInSourceLanguage": "Nose",
+      "id": "13f5c9921aba",
+      "priority": 0,
+      "group": "de18ff943a6f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "nose1.jpg",
+        "nose2.jpg",
+        "nose3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Nos"
+      ],
+      "phrase": [
+        {
+          "word": "Nose",
+          "definition": "Nos"
+        }
+      ],
+      "id": "a9d817a91cd3",
+      "priority": 1,
+      "group": "de18ff943a6f"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "ear1.jpg",
+        "ear2.jpg",
+        "ear3.jpg"
+      ],
+      "formInTargetLanguage": "Uho",
+      "meaningInSourceLanguage": "Ear",
+      "id": "8773071bc7fb",
+      "priority": 0,
+      "group": "c9d6bc93f5ed"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "ear1.jpg",
+        "ear2.jpg",
+        "ear3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Uho"
+      ],
+      "phrase": [
+        {
+          "word": "Ear",
+          "definition": "Uho"
+        }
+      ],
+      "id": "0d699dcc208e",
+      "priority": 1,
+      "group": "c9d6bc93f5ed"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Usta",
+      "meaningInSourceLanguage": "Lips",
+      "id": "6a181c11107b",
+      "priority": 0,
+      "group": "c36ed5e71bd7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Usta"
+      ],
+      "phrase": [
+        {
+          "word": "Lips",
+          "definition": "Usta"
+        }
+      ],
+      "id": "f6faa2da57d3",
+      "priority": 1,
+      "group": "c36ed5e71bd7"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "eye1.jpg",
+        "eye2.jpg",
+        "eye3.jpg"
+      ],
+      "formInTargetLanguage": "Brvi",
+      "meaningInSourceLanguage": "Eyebrows",
+      "id": "466781a0f20f",
+      "priority": 0,
+      "group": "c3f2a4b0e35b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "eye1.jpg",
+        "eye2.jpg",
+        "eye3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Brvi"
+      ],
+      "phrase": [
+        {
+          "word": "Eyebrows",
+          "definition": "Brvi"
+        }
+      ],
+      "id": "d8ec210d8bb8",
+      "priority": 1,
+      "group": "c3f2a4b0e35b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "čelo",
+      "meaningInSourceLanguage": "forehead",
+      "id": "d8467086de52",
+      "priority": 0,
+      "group": "2e209dc14aa6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "čelo"
+      ],
+      "phrase": [
+        {
+          "word": "forehead",
+          "definition": "čelo"
+        }
+      ],
+      "id": "45c25da83a11",
+      "priority": 1,
+      "group": "2e209dc14aa6"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hair1.jpg",
+        "hair2.jpg",
+        "hair3.jpg"
+      ],
+      "formInTargetLanguage": "vlasy",
+      "meaningInSourceLanguage": "hair",
+      "id": "47c2b3069a63",
+      "priority": 0,
+      "group": "2b13095a470b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hair1.jpg",
+        "hair2.jpg",
+        "hair3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "vlasy"
+      ],
+      "phrase": [
+        {
+          "word": "hair",
+          "definition": "vlasy"
+        }
+      ],
+      "id": "0f403885dbce",
+      "priority": 1,
+      "group": "2b13095a470b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Jezyk",
+      "meaningInSourceLanguage": "Tongue",
+      "id": "15a4775bcd42",
+      "priority": 0,
+      "group": "8dc6e65edea0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Jezyk"
+      ],
+      "phrase": [
+        {
+          "word": "Tongue",
+          "definition": "Jezyk"
+        }
+      ],
+      "id": "8cda0c43b22b",
+      "priority": 1,
+      "group": "8dc6e65edea0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Čerep",
+      "meaningInSourceLanguage": "Skull",
+      "id": "b74e493b42ae",
+      "priority": 0,
+      "group": "9f70c4f63f62"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Čerep"
+      ],
+      "phrase": [
+        {
+          "word": "Skull",
+          "definition": "Čerep"
+        }
+      ],
+      "id": "259482b4c980",
+      "priority": 1,
+      "group": "9f70c4f63f62"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "brain1.jpg",
+        "brain2.jpg",
+        "brain3.jpg"
+      ],
+      "formInTargetLanguage": "Mozg",
+      "meaningInSourceLanguage": "Brain",
+      "id": "af91bbe94def",
+      "priority": 0,
+      "group": "41c850aa1643"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "brain1.jpg",
+        "brain2.jpg",
+        "brain3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Mozg"
+      ],
+      "phrase": [
+        {
+          "word": "Brain",
+          "definition": "Mozg"
+        }
+      ],
+      "id": "5d8eed0198d5",
+      "priority": 1,
+      "group": "41c850aa1643"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Zub",
+      "meaningInSourceLanguage": "Tooth",
+      "id": "3c3b3b071160",
+      "priority": 0,
+      "group": "40d1a5db68ab"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Zub"
+      ],
+      "phrase": [
+        {
+          "word": "Tooth",
+          "definition": "Zub"
+        }
+      ],
+      "id": "2f40bda707d5",
+      "priority": 1,
+      "group": "40d1a5db68ab"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "face1.jpg",
+        "face2.jpg",
+        "face3.jpg"
+      ],
+      "formInTargetLanguage": "Lice",
+      "meaningInSourceLanguage": "Face",
+      "id": "a2e8864397f7",
+      "priority": 0,
+      "group": "1dea82df95cc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "face1.jpg",
+        "face2.jpg",
+        "face3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Lice"
+      ],
+      "phrase": [
+        {
+          "word": "Face",
+          "definition": "Lice"
+        }
+      ],
+      "id": "32db606095a3",
+      "priority": 1,
+      "group": "1dea82df95cc"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+Skill:
+  Id: 52
+  Name: Human 2
+  Thumbnails:
+  - hand1
+  - finger3
+  - foot1
+
+New words:
+
+  - Word: Ruka
+    Translation: Hand
+    Images:
+      - hand1
+      - hand2
+      - hand3
+
+  - Word: Noga
+    Translation: Leg
+    Images:
+      - leg1
+      - leg2
+      - leg3
+    
+  - Word: Neck
+    Translation: Šija
+    Images:
+      - neck1
+      - neck2
+      - neck3
+
+  - Word: Prs
+    Translation: breast
+
+  - Word: Brjuho
+    Translation: Belly
+    Images:
+      - stomach1
+      - stomach2
+      - stomach3
+
+  - Word: Muskul
+    Translation: Muscle
+
+  - Word: lakot
+    Translation: elbow
+     
+  - Word: Prst
+    Translation: Finger
+    Images:
+      - finger1
+      - finger2
+      - finger3
+
+  - Word: Dlanj
+    Translation: Palm
+
+  - Word: Hrebet
+    Translation: Back
+
+  - Word: Rebro
+    Translation: Rib
+
+  - Word: Pljuča
+    Translation: Lung
+
+  - Word: Tors
+    Translation: Torso
+
+  - Word: Srdce
+    Translation: Heart
+    Images:
+      - heart1
+      - heart2
+      - heart3
+
+  - Word: Stopa
+    Translation: Foot
+    Images:
+      - foot1
+      - foot2
+      - foot3
+
+Phrases:
+  - Phrase: Šija sjedninjaje glavu i tors
+    Translation: The neck connects the head and the torso
+
+  - Phrase: Rebra ohranjajut organy kako srdce i pljuče
+    Translation: Ribs protect organs such as the heart and lungs.
+
+  - Phrase: Ta žena imaje plasko brjuho
+    Translation: This woman has flat belly
+
+  - Phrase: Dologe ruky sut koristne v basketballu
+    Translation: Long hands are advantageous in basketball
+
+  - Phrase: Uši sut odgovorne za slušanje
+    Translation: Ears are responsible for hearing
+
+  - Phrase: V každoj rukě jest 27 kostij
+    Translation: There are 27 bones in every hand
+
+  - Phrase: Trěba dobro jedati daby iměti zdravo srdce
+    Translation: One has to eat well to have a healthy heart
+
+  - Phrase: Člověk imaje 5 prstov v každoj rukě
+    Translation: Human has 5 fingers in every hand
+
+  - Phrase: Dumaješ že velike muskuly izgledajut dobro?
+    Translation: Do You think that big muslces look good?
+
+  - Phrase: Noga imaje najvelike muskuly iz cělogo těla
+    Translation: Leg has the biggest muscles from whole body
+
+  - Phrase: Srdce pompuje krv k tělu
+    Translation: Heart pumps blood to the body
+
+  - Phrase: Stopa imaje 26 kostij
+    Translation: Foot has 26 bones
+
+  - Phrase: Člověčska glava raste velmi brzo v času detinstva
+    Translation: The human head grows rapidly during childhood.
+
+  - Phrase: Noga imaje 3 česti
+    Translation: Leg has 3 parts
+
+
+Mini-dictionary:
+  Interslavic:
+    - jest: is
+    - pozdno: late
+    - pomiluj: sorry
+    - ničto: nothing
+    - pozdněje: later
+    - zajutra: tommorow
+    - izgledaješ: look
+    - děvčino: girl
+
+
+  English:
+    - sorry: pomiluj
+    - is: jest
+    - nothing: ničto
+    - late: pozdno
+    - later: pozdněje
+    - look:
+      - izgledati
+      - izgledam
+      - izgledaješ
+      - izgleda
+      - izglědamo
+      - izgledate
+      - izgledajut

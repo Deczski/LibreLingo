@@ -104,10 +104,10 @@
         "or",
         "orange",
         "is",
+        "as",
         "be",
         "of",
-        "We",
-        "He"
+        "has"
       ],
       "solutions": [
         [
@@ -259,15 +259,15 @@
         "it",
         "is",
         "yellow",
+        "at",
+        "as",
         "be",
         "Is",
         "eat",
         "or",
         "an",
-        "I",
-        "am",
-        "We",
-        "He"
+        "in",
+        "I"
       ],
       "solutions": [
         [
@@ -498,14 +498,14 @@
         "je",
         "by",
         "te",
+        "s",
         "jesi",
         "ti",
+        "v",
+        "že",
         "Ty",
         "se",
-        "to",
-        "ez",
-        "My",
-        "Vy"
+        "to"
       ],
       "solutions": [
         [
@@ -602,16 +602,16 @@
         "orange",
         "an",
         "are",
+        "as",
         "be",
         "am",
         "a",
         "And",
         "One",
+        "at",
+        "in",
         "We",
-        "He",
-        "man",
-        "had",
-        "old"
+        "He"
       ],
       "solutions": [
         [
@@ -770,15 +770,15 @@
         "it",
         "is",
         "red",
+        "at",
+        "as",
         "am",
         "an",
         "be",
         "eat",
         "Is",
         "I",
-        "if",
-        "or",
-        "We"
+        "if"
       ],
       "solutions": [
         [
@@ -930,13 +930,13 @@
         "is",
         "blue",
         "an",
+        "in",
         "are",
         "be",
+        "as",
         "We",
         "He",
-        "me",
-        "am",
-        "She"
+        "me"
       ],
       "solutions": [
         [
@@ -982,7 +982,7 @@
         },
         {
           "word": "cars,",
-          "definition": "avtomobily"
+          "definition": "avta\navtomobily"
         },
         {
           "word": "but",
@@ -1162,10 +1162,10 @@
         "sut",
         "nebeske",
         "bys",
+        "s",
         "byl",
         "tut",
-        "by",
-        "se"
+        "by"
       ],
       "solutions": [
         [
@@ -1381,14 +1381,14 @@
         "car",
         "was",
         "white",
+        "has",
+        "as",
         "are",
         "She",
         "had",
         "an",
-        "am",
-        "a",
-        "man",
-        "be"
+        "at",
+        "am"
       ],
       "solutions": [
         [
@@ -1509,9 +1509,9 @@
         "the",
         "car",
         "Who",
+        "has",
         "She",
-        "had",
-        "or"
+        "had"
       ],
       "solutions": [
         [
@@ -1666,7 +1666,7 @@
         },
         {
           "word": "cars",
-          "definition": "avtomobily"
+          "definition": "avta\navtomobily"
         },
         {
           "word": "are",

@@ -685,8 +685,8 @@
         "a",
         "man",
         "an",
-        "",
-        "A"
+        "at",
+        "as"
       ],
       "solutions": [
         [
@@ -736,8 +736,8 @@
         "jesm",
         "Katarina",
         "tam",
-        "Ona",
-        "žena"
+        "na",
+        "za"
       ],
       "solutions": [
         [
@@ -780,7 +780,7 @@
         "Katarina",
         "a",
         "an",
-        "He"
+        "at"
       ],
       "solutions": [
         [
@@ -828,8 +828,8 @@
         "Ja",
         "jesm",
         "děvčina",
-        "jesi",
-        "Ona"
+        "na",
+        "jesi"
       ],
       "solutions": [
         [
@@ -920,9 +920,9 @@
         "Ja",
         "jesm",
         "hlapec",
+        "za",
         "je",
-        "tam",
-        "Da"
+        "tam"
       ],
       "solutions": [
         [
@@ -1104,7 +1104,7 @@
         "Jesi",
         "žena",
         "ženy",
-        "Ja"
+        "že"
       ],
       "solutions": [
         [
@@ -1229,7 +1229,7 @@
         "man",
         "an",
         "am",
-        "and"
+        "at"
       ],
       "solutions": [
         [
@@ -1404,9 +1404,9 @@
         "is",
         "a",
         "boy",
+        "as",
         "am",
-        "was",
-        "of"
+        "was"
       ],
       "solutions": [
         [
@@ -1498,7 +1498,7 @@
         "woman",
         "an",
         "man",
-        "am"
+        "at"
       ],
       "solutions": [
         [
@@ -1713,7 +1713,7 @@
         "hlapec",
         "je",
         "te",
-        "jesm"
+        "na"
       ],
       "solutions": [
         [
@@ -1755,10 +1755,10 @@
         "not",
         "a",
         "boy",
+        "at",
         "an",
-        "am",
-        "It",
-        "eat"
+        "to",
+        "as"
       ],
       "solutions": [
         [

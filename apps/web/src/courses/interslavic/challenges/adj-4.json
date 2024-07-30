@@ -129,10 +129,10 @@
         "be",
         "my",
         "an",
-        "We",
-        "He",
-        "She",
-        "was"
+        "at",
+        "in",
+        "as",
+        "We"
       ],
       "solutions": [
         [
@@ -225,7 +225,7 @@
         "jesm",
         "jeste",
         "deti",
-        "sut"
+        "česti"
       ],
       "solutions": [
         [
@@ -288,12 +288,12 @@
         "handsome",
         "are",
         "me",
+        "as",
         "We",
         "He",
         "She",
         "be",
-        "or",
-        "One"
+        "or"
       ],
       "solutions": [
         [
@@ -476,7 +476,7 @@
         "She",
         "me",
         "try",
-        "It"
+        "in"
       ],
       "solutions": [
         [
@@ -570,10 +570,10 @@
         "krasiva",
         "jesi",
         "Jest",
+        "raste",
         "jesm",
         "jeste",
-        "brat",
-        "sut"
+        "brat"
       ],
       "solutions": [
         [
@@ -637,13 +637,13 @@
         "beautiful",
         "bus",
         "be",
+        "to",
         "buy",
         "if",
         "are",
         "We",
         "He",
-        "eat",
-        "try"
+        "eat"
       ],
       "solutions": [
         [
@@ -763,12 +763,12 @@
         "jest",
         "krasivy",
         "je",
+        "raste",
         "jesi",
         "se",
         "Jest",
         "te",
-        "Da",
-        "brat"
+        "Da"
       ],
       "solutions": [
         [
@@ -846,14 +846,14 @@
         "is",
         "handsome",
         "the",
+        "at",
         "be",
         "or",
         "me",
+        "to",
+        "as",
         "We",
-        "He",
-        "She",
-        "It",
-        "lot"
+        "He"
       ],
       "solutions": [
         [
@@ -1027,13 +1027,13 @@
         "handsome",
         "man",
         "an",
+        "in",
         "me",
+        "as",
         "am",
         "are",
         "of",
-        "or",
-        "fine",
-        "One"
+        "or"
       ],
       "solutions": [
         [
@@ -1110,9 +1110,9 @@
         "ženy",
         "se",
         "ne",
+        "že",
         "Ona",
-        "Oni",
-        "je"
+        "Oni"
       ],
       "solutions": [
         [
@@ -1468,10 +1468,10 @@
         "He",
         "me",
         "an",
+        "as",
         "She",
         "or",
-        "One",
-        "am"
+        "One"
       ],
       "solutions": [
         [
@@ -1582,7 +1582,7 @@
         "Jest",
         "ženy",
         "deti",
-        "je"
+        "kosti"
       ],
       "solutions": [
         [
@@ -1667,9 +1667,9 @@
         "She",
         "me",
         "an",
+        "as",
         "or",
-        "One",
-        "am"
+        "One"
       ],
       "solutions": [
         [
@@ -1772,9 +1772,9 @@
         "se",
         "to",
         "toj",
+        "na",
         "tam",
-        "od",
-        "Ta"
+        "od"
       ],
       "solutions": [
         [
@@ -1846,15 +1846,15 @@
         "it",
         "is",
         "new",
+        "at",
         "It",
         "be",
         "or",
+        "as",
         "We",
         "He",
         "eat",
-        "if",
-        "me",
-        "am"
+        "if"
       ],
       "solutions": [
         [
@@ -2029,16 +2029,16 @@
         "car",
         "is",
         "slow",
+        "as",
         "an",
+        "at",
         "am",
         "are",
         "a",
         "was",
         "or",
-        "We",
-        "He",
-        "be",
-        "had"
+        "has",
+        "We"
       ],
       "solutions": [
         [
@@ -2228,15 +2228,15 @@
         "is",
         "fast",
         "are",
+        "as",
         "an",
         "be",
+        "at",
         "am",
         "We",
         "He",
         "She",
-        "a",
-        "was",
-        "or"
+        "a"
       ],
       "solutions": [
         [

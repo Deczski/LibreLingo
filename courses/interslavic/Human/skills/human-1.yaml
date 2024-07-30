@@ -1,0 +1,140 @@
+Skill:
+  Id: 51
+  Name: Human 1
+  Thumbnails:
+  - head3
+  - eye1
+  - hair2
+
+New words:
+  - Word: Glava
+    Translation: Good day
+    Images:
+      - head1
+      - head2
+      - head3
+
+  - Word: Oko
+    Translation: Eye
+    Images:
+      - eye1
+      - eye2
+      - eye3
+    
+  - Word: Nos
+    Translation: Nose
+    Images:
+      - nose1
+      - nose2
+      - nose3
+
+  - Word: Uho
+    Translation: Ear
+    Images:
+      - ear1
+      - ear2
+      - ear3
+
+  - Word: Usta
+    Translation: Lips
+
+  - Word: Brvi
+    Translation: Eyebrows
+    Images:
+      - eye1
+      - eye2
+      - eye3
+
+  - Word: čelo
+    Translation: forehead
+
+  - Word: vlasy
+    Translation: hair
+    Images:
+      - hair1
+      - hair2
+      - hair3
+     
+  - Word: Jezyk
+    Translation: Tongue
+
+  - Word: Čerep
+    Translation: Skull
+
+  - Word: Mozg
+    Translation: Brain
+    Images:
+      - brain1
+      - brain2
+      - brain3
+
+  - Word: Zub
+    Translation: Tooth
+
+  - Word: Lice
+    Translation: Face
+    Images:
+      - face1
+      - face2
+      - face3
+
+Phrases:
+  - Phrase: Kaky kolor imajut tvoje vlasy?
+    Translation: Which colour is your hair
+
+  - Phrase: Ty imaš veliku glavu
+    Translation: You have a big head
+
+  - Phrase: Toj člověk ima velike uši
+    Translation: This man has big ears
+
+  - Phrase: Či s tvojeju glavoju je vsečto v porědku?
+    Translation: Is everything ok with Your head?
+
+  - Phrase: Bolji mně glava iz glědanja na kompjuter
+    Translation: My head hurts from staring at the computer
+
+  - Phrase: Koliko kosti jest v glavě?
+    Translation: How many bones are there in human head?
+
+  - Phrase: Ona idě umyti svoje vlasy
+    Translation: She goes to wash her hair
+
+  - Phrase: Děti imajut velike oči
+    Translation: Kids have big eyes
+
+  - Phrase: Čerep hrani mozg od poškodženj
+    Translation: Skull protects the brain from injuries
+
+  - Phrase: Mozg je odgovorny za dumanje, emocije i pamet
+    Translation: Brain is responsible for thinking, emotions and memory
+
+  - Phrase: Jezyk umožnjaje vkušanje, žuvanje i govorenje
+    Translation: Tongue enables tasting, chewing and speaking
+    Alternative translations:
+      - I am also good. Thank you.
+
+  - Phrase: Člověčska glava raste velmi brzo v času detinstva
+    Translation: The human head grows rapidly during childhood.
+
+  - Phrase: Člověčska glava raste velmi brzo v času detinstva
+    Translation: The human head grows rapidly during childhood.
+
+  - Phrase: One imajut krasive črne i kudrave vlasy
+    Translation: They(feminine) have beautiful black and curly hair
+
+
+Mini-dictionary:
+  Interslavic:
+    - da: yes
+    - i: and
+    - dobro: good
+    - Hvala: Thanks
+    - ne: no
+    - ne: not
+
+  English:
+    - and: i
+    - yes: da
+    - no: ne
+    - not: ne

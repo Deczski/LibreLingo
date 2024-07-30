@@ -1,0 +1,2201 @@
+{
+  "id": "abd64079f86a",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Šija sjedninjaje glavu i tors",
+      "meaningInSourceLanguage": "The neck connects the head and the torso",
+      "id": "94931cbf8566",
+      "priority": 0,
+      "group": "925fae574377"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "neck",
+          "definition": "neck"
+        },
+        {
+          "word": "connects",
+          "definition": "connects"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "head",
+          "definition": "head"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "torso",
+          "definition": "Tors"
+        }
+      ],
+      "chips": [
+        "Šija",
+        "sjedninjaje",
+        "glavu",
+        "i",
+        "tors",
+        "ima",
+        "li",
+        "ti",
+        "na"
+      ],
+      "solutions": [
+        [
+          "Šija",
+          "sjedninjaje",
+          "glavu",
+          "i",
+          "tors"
+        ]
+      ],
+      "formattedSolution": "Šija sjedninjaje glavu i tors",
+      "id": "211804a19d8c",
+      "priority": 2,
+      "group": "925fae574377"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Šija",
+          "definition": "Šija"
+        },
+        {
+          "word": "sjedninjaje",
+          "definition": "sjedninjaje"
+        },
+        {
+          "word": "glavu",
+          "definition": "glavu"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "tors",
+          "definition": "Torso"
+        }
+      ],
+      "chips": [
+        "The",
+        "neck",
+        "connects",
+        "the",
+        "head",
+        "and",
+        "the",
+        "torso",
+        "She",
+        "One",
+        "are",
+        "We",
+        "He",
+        "be",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "neck",
+          "connects",
+          "the",
+          "head",
+          "and",
+          "the",
+          "torso"
+        ]
+      ],
+      "formattedSolution": "The neck connects the head and the torso",
+      "id": "79a2258c15b8",
+      "priority": 2,
+      "group": "925fae574377"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Rebra ohranjajut organy kako srdce i pljuče",
+      "meaningInSourceLanguage": "Ribs protect organs such as the heart and lungs.",
+      "id": "adcf6e6ac9ac",
+      "priority": 0,
+      "group": "bde440affdaa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Ribs",
+          "definition": "Ribs"
+        },
+        {
+          "word": "protect",
+          "definition": "protect"
+        },
+        {
+          "word": "organs",
+          "definition": "organs"
+        },
+        {
+          "word": "such",
+          "definition": "such"
+        },
+        {
+          "word": "as",
+          "definition": "as"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "heart",
+          "definition": "Srdce"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "lungs.",
+          "definition": "lungs."
+        }
+      ],
+      "chips": [
+        "Rebra",
+        "ohranjajut",
+        "organy",
+        "kako",
+        "srdce",
+        "i",
+        "pljuče",
+        "brat",
+        "hrani",
+        "je",
+        "ne",
+        "ale",
+        "na"
+      ],
+      "solutions": [
+        [
+          "Rebra",
+          "ohranjajut",
+          "organy",
+          "kako",
+          "srdce",
+          "i",
+          "pljuče"
+        ]
+      ],
+      "formattedSolution": "Rebra ohranjajut organy kako srdce i pljuče",
+      "id": "06785d187ec4",
+      "priority": 2,
+      "group": "bde440affdaa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Rebra",
+          "definition": "Rebra"
+        },
+        {
+          "word": "ohranjajut",
+          "definition": "ohranjajut"
+        },
+        {
+          "word": "organy",
+          "definition": "organy"
+        },
+        {
+          "word": "kako",
+          "definition": "as\nhow"
+        },
+        {
+          "word": "srdce",
+          "definition": "Heart"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "pljuče",
+          "definition": "pljuče"
+        }
+      ],
+      "chips": [
+        "Ribs",
+        "protect",
+        "organs",
+        "such",
+        "as",
+        "the",
+        "heart",
+        "and",
+        "lungs",
+        "are",
+        "an",
+        "has",
+        "was",
+        "eat",
+        "ears",
+        "at",
+        "is"
+      ],
+      "solutions": [
+        [
+          "Ribs",
+          "protect",
+          "organs",
+          "such",
+          "as",
+          "the",
+          "heart",
+          "and",
+          "lungs"
+        ]
+      ],
+      "formattedSolution": "Ribs protect organs such as the heart and lungs.",
+      "id": "f27fe8f93c9d",
+      "priority": 2,
+      "group": "bde440affdaa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ta žena imaje plasko brjuho",
+      "meaningInSourceLanguage": "This woman has flat belly",
+      "id": "eb734ce20e01",
+      "priority": 0,
+      "group": "80abb82bde32"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "to"
+        },
+        {
+          "word": "woman",
+          "definition": "woman\nžena"
+        },
+        {
+          "word": "has",
+          "definition": "has"
+        },
+        {
+          "word": "flat",
+          "definition": "flat"
+        },
+        {
+          "word": "belly",
+          "definition": "Brjuho"
+        }
+      ],
+      "chips": [
+        "Ta",
+        "žena",
+        "imaje",
+        "plasko",
+        "brjuho",
+        "ima",
+        "na",
+        "Ja",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "Ta",
+          "žena",
+          "imaje",
+          "plasko",
+          "brjuho"
+        ]
+      ],
+      "formattedSolution": "Ta žena imaje plasko brjuho",
+      "id": "495460240f89",
+      "priority": 2,
+      "group": "80abb82bde32"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ta",
+          "definition": "the"
+        },
+        {
+          "word": "žena",
+          "definition": "woman"
+        },
+        {
+          "word": "imaje",
+          "definition": "has"
+        },
+        {
+          "word": "plasko",
+          "definition": "plasko"
+        },
+        {
+          "word": "brjuho",
+          "definition": "Belly"
+        }
+      ],
+      "chips": [
+        "This",
+        "woman",
+        "has",
+        "flat",
+        "belly",
+        "was",
+        "man",
+        "eat",
+        "play"
+      ],
+      "solutions": [
+        [
+          "This",
+          "woman",
+          "has",
+          "flat",
+          "belly"
+        ]
+      ],
+      "formattedSolution": "This woman has flat belly",
+      "id": "7583c5aae2ad",
+      "priority": 2,
+      "group": "80abb82bde32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dologe ruky sut koristne v basketballu",
+      "meaningInSourceLanguage": "Long hands are advantageous in basketball",
+      "id": "9ecb6379ac80",
+      "priority": 0,
+      "group": "f5c0c363389f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Long",
+          "definition": "Long"
+        },
+        {
+          "word": "hands",
+          "definition": "hands"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "advantageous",
+          "definition": "advantageous"
+        },
+        {
+          "word": "in",
+          "definition": "in"
+        },
+        {
+          "word": "basketball",
+          "definition": "basketbol"
+        }
+      ],
+      "chips": [
+        "Dologe",
+        "ruky",
+        "sut",
+        "koristne",
+        "v",
+        "basketballu",
+        "se",
+        "ne",
+        "tut",
+        "ako",
+        "Sut"
+      ],
+      "solutions": [
+        [
+          "Dologe",
+          "ruky",
+          "sut",
+          "koristne",
+          "v",
+          "basketballu"
+        ]
+      ],
+      "formattedSolution": "Dologe ruky sut koristne v basketballu",
+      "id": "2058ea8e960c",
+      "priority": 2,
+      "group": "f5c0c363389f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dologe",
+          "definition": "Dologe"
+        },
+        {
+          "word": "ruky",
+          "definition": "ruky"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "koristne",
+          "definition": "koristne"
+        },
+        {
+          "word": "v",
+          "definition": "v"
+        },
+        {
+          "word": "basketballu",
+          "definition": "basketballu"
+        }
+      ],
+      "chips": [
+        "Long",
+        "hands",
+        "are",
+        "advantageous",
+        "in",
+        "basketball",
+        "and",
+        "an",
+        "as",
+        "hand",
+        "man"
+      ],
+      "solutions": [
+        [
+          "Long",
+          "hands",
+          "are",
+          "advantageous",
+          "in",
+          "basketball"
+        ]
+      ],
+      "formattedSolution": "Long hands are advantageous in basketball",
+      "id": "69adf865dba4",
+      "priority": 2,
+      "group": "f5c0c363389f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Uši sut odgovorne za slušanje",
+      "meaningInSourceLanguage": "Ears are responsible for hearing",
+      "id": "4e4b9ad109cb",
+      "priority": 0,
+      "group": "f885bfb7ab78"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Ears",
+          "definition": "Ears"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "responsible",
+          "definition": "responsible"
+        },
+        {
+          "word": "for",
+          "definition": "for"
+        },
+        {
+          "word": "hearing",
+          "definition": "hearing"
+        }
+      ],
+      "chips": [
+        "Uši",
+        "sut",
+        "odgovorne",
+        "za",
+        "slušanje",
+        "ne",
+        "se",
+        "One",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Uši",
+          "sut",
+          "odgovorne",
+          "za",
+          "slušanje"
+        ]
+      ],
+      "formattedSolution": "Uši sut odgovorne za slušanje",
+      "id": "0a0c39d9fa47",
+      "priority": 2,
+      "group": "f885bfb7ab78"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Uši",
+          "definition": "Uši"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "odgovorne",
+          "definition": "odgovorne"
+        },
+        {
+          "word": "za",
+          "definition": "za"
+        },
+        {
+          "word": "slušanje",
+          "definition": "slušanje"
+        }
+      ],
+      "chips": [
+        "Ears",
+        "are",
+        "responsible",
+        "for",
+        "hearing",
+        "ears",
+        "here",
+        "cars",
+        "were"
+      ],
+      "solutions": [
+        [
+          "Ears",
+          "are",
+          "responsible",
+          "for",
+          "hearing"
+        ]
+      ],
+      "formattedSolution": "Ears are responsible for hearing",
+      "id": "015d36ae9daa",
+      "priority": 2,
+      "group": "f885bfb7ab78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "V každoj rukě jest 27 kostij",
+      "meaningInSourceLanguage": "There are 27 bones in every hand",
+      "id": "e455ef7ec2b6",
+      "priority": 0,
+      "group": "395b2d9fe6ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "There",
+          "definition": "tam"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "27",
+          "definition": "27"
+        },
+        {
+          "word": "bones",
+          "definition": "bones"
+        },
+        {
+          "word": "in",
+          "definition": "in"
+        },
+        {
+          "word": "every",
+          "definition": "every"
+        },
+        {
+          "word": "hand",
+          "definition": "Ruka"
+        }
+      ],
+      "chips": [
+        "V",
+        "každoj",
+        "rukě",
+        "jest",
+        "27",
+        "kostij",
+        "k",
+        "s",
+        "je",
+        "i",
+        "se"
+      ],
+      "solutions": [
+        [
+          "V",
+          "každoj",
+          "rukě",
+          "jest",
+          "27",
+          "kostij"
+        ]
+      ],
+      "formattedSolution": "V každoj rukě jest 27 kostij",
+      "id": "2138dd12f00f",
+      "priority": 2,
+      "group": "395b2d9fe6ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "V",
+          "definition": "V"
+        },
+        {
+          "word": "každoj",
+          "definition": "každoj"
+        },
+        {
+          "word": "rukě",
+          "definition": "rukě"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "27",
+          "definition": "27"
+        },
+        {
+          "word": "kostij",
+          "definition": "kostij"
+        }
+      ],
+      "chips": [
+        "There",
+        "are",
+        "27",
+        "bones",
+        "in",
+        "every",
+        "hand",
+        "here",
+        "be",
+        "One",
+        "an",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "There",
+          "are",
+          "27",
+          "bones",
+          "in",
+          "every",
+          "hand"
+        ]
+      ],
+      "formattedSolution": "There are 27 bones in every hand",
+      "id": "5c307f3444e7",
+      "priority": 2,
+      "group": "395b2d9fe6ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Trěba dobro jedati daby iměti zdravo srdce",
+      "meaningInSourceLanguage": "One has to eat well to have a healthy heart",
+      "id": "d656811a96e2",
+      "priority": 0,
+      "group": "9fe92c080634"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "jedin"
+        },
+        {
+          "word": "has",
+          "definition": "has"
+        },
+        {
+          "word": "to",
+          "definition": "to"
+        },
+        {
+          "word": "eat",
+          "definition": "jedati"
+        },
+        {
+          "word": "well",
+          "definition": "well"
+        },
+        {
+          "word": "to",
+          "definition": "to"
+        },
+        {
+          "word": "have",
+          "definition": "iměti"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "healthy",
+          "definition": "healthy"
+        },
+        {
+          "word": "heart",
+          "definition": "Srdce"
+        }
+      ],
+      "chips": [
+        "Trěba",
+        "dobro",
+        "jedati",
+        "daby",
+        "iměti",
+        "zdravo",
+        "srdce",
+        "děti",
+        "děte",
+        "deti",
+        "brat",
+        "brata",
+        "znati"
+      ],
+      "solutions": [
+        [
+          "Trěba",
+          "dobro",
+          "jedati",
+          "daby",
+          "iměti",
+          "zdravo",
+          "srdce"
+        ]
+      ],
+      "formattedSolution": "Trěba dobro jedati daby iměti zdravo srdce",
+      "id": "ac5031b338f3",
+      "priority": 2,
+      "group": "9fe92c080634"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Trěba",
+          "definition": "Trěba"
+        },
+        {
+          "word": "dobro",
+          "definition": "good"
+        },
+        {
+          "word": "jedati",
+          "definition": "Eat"
+        },
+        {
+          "word": "daby",
+          "definition": "daby"
+        },
+        {
+          "word": "iměti",
+          "definition": "iměti"
+        },
+        {
+          "word": "zdravo",
+          "definition": "zdravo"
+        },
+        {
+          "word": "srdce",
+          "definition": "Heart"
+        }
+      ],
+      "chips": [
+        "One",
+        "has",
+        "to",
+        "eat",
+        "well",
+        "to",
+        "have",
+        "a",
+        "healthy",
+        "heart",
+        "at",
+        "had",
+        "an",
+        "as",
+        "am",
+        "We",
+        "He",
+        "was",
+        "be"
+      ],
+      "solutions": [
+        [
+          "One",
+          "has",
+          "to",
+          "eat",
+          "well",
+          "to",
+          "have",
+          "a",
+          "healthy",
+          "heart"
+        ]
+      ],
+      "formattedSolution": "One has to eat well to have a healthy heart",
+      "id": "fe1aff4d5a42",
+      "priority": 2,
+      "group": "9fe92c080634"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Člověk imaje 5 prstov v každoj rukě",
+      "meaningInSourceLanguage": "Human has 5 fingers in every hand",
+      "id": "c1f65f87f997",
+      "priority": 0,
+      "group": "9d0b4e2ed0c0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Human",
+          "definition": "človek\nčlověk"
+        },
+        {
+          "word": "has",
+          "definition": "has"
+        },
+        {
+          "word": "5",
+          "definition": "5"
+        },
+        {
+          "word": "fingers",
+          "definition": "fingers"
+        },
+        {
+          "word": "in",
+          "definition": "in"
+        },
+        {
+          "word": "every",
+          "definition": "every"
+        },
+        {
+          "word": "hand",
+          "definition": "Ruka"
+        }
+      ],
+      "chips": [
+        "Člověk",
+        "imaje",
+        "5",
+        "prstov",
+        "v",
+        "každoj",
+        "rukě",
+        "k",
+        "ako",
+        "to",
+        "moj",
+        "i",
+        "Čto"
+      ],
+      "solutions": [
+        [
+          "Člověk",
+          "imaje",
+          "5",
+          "prstov",
+          "v",
+          "každoj",
+          "rukě"
+        ]
+      ],
+      "formattedSolution": "Člověk imaje 5 prstov v každoj rukě",
+      "id": "89ae967ee62c",
+      "priority": 2,
+      "group": "9d0b4e2ed0c0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Člověk",
+          "definition": "human"
+        },
+        {
+          "word": "imaje",
+          "definition": "has"
+        },
+        {
+          "word": "5",
+          "definition": "5"
+        },
+        {
+          "word": "prstov",
+          "definition": "prstov"
+        },
+        {
+          "word": "v",
+          "definition": "v"
+        },
+        {
+          "word": "každoj",
+          "definition": "každoj"
+        },
+        {
+          "word": "rukě",
+          "definition": "rukě"
+        }
+      ],
+      "chips": [
+        "Human",
+        "has",
+        "5",
+        "fingers",
+        "in",
+        "every",
+        "hand",
+        "an",
+        "man",
+        "as",
+        "is",
+        "a",
+        "and"
+      ],
+      "solutions": [
+        [
+          "Human",
+          "has",
+          "5",
+          "fingers",
+          "in",
+          "every",
+          "hand"
+        ]
+      ],
+      "formattedSolution": "Human has 5 fingers in every hand",
+      "id": "12a1e3f6fd2e",
+      "priority": 2,
+      "group": "9d0b4e2ed0c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dumaješ že velike muskuly izgledajut dobro?",
+      "meaningInSourceLanguage": "Do You think that big muslces look good?",
+      "id": "81adbcdf1eb0",
+      "priority": 0,
+      "group": "3bfdafae6908"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Do",
+          "definition": "Do"
+        },
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "think",
+          "definition": "think"
+        },
+        {
+          "word": "that",
+          "definition": "that"
+        },
+        {
+          "word": "big",
+          "definition": "big"
+        },
+        {
+          "word": "muslces",
+          "definition": "muslces"
+        },
+        {
+          "word": "look",
+          "definition": "izgleda\nizgledaješ\nizgledajut\nizgledam\nizgledate\nizgledati\nizglědamo"
+        },
+        {
+          "word": "good?",
+          "definition": "dobro"
+        }
+      ],
+      "chips": [
+        "Dumaješ",
+        "že",
+        "velike",
+        "muskuly",
+        "izgledajut",
+        "dobro",
+        "ale",
+        "uže",
+        "ime",
+        "moje",
+        "imaje"
+      ],
+      "solutions": [
+        [
+          "Dumaješ",
+          "že",
+          "velike",
+          "muskuly",
+          "izgledajut",
+          "dobro"
+        ]
+      ],
+      "formattedSolution": "Dumaješ že velike muskuly izgledajut dobro?",
+      "id": "ed6869256943",
+      "priority": 2,
+      "group": "3bfdafae6908"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dumaješ",
+          "definition": "Dumaješ"
+        },
+        {
+          "word": "že",
+          "definition": "že"
+        },
+        {
+          "word": "velike",
+          "definition": "velike"
+        },
+        {
+          "word": "muskuly",
+          "definition": "muscles"
+        },
+        {
+          "word": "izgledajut",
+          "definition": "izgledajut"
+        },
+        {
+          "word": "dobro?",
+          "definition": "good"
+        }
+      ],
+      "chips": [
+        "Do",
+        "You",
+        "think",
+        "that",
+        "big",
+        "muslces",
+        "look",
+        "good",
+        "lot",
+        "to",
+        "son",
+        "ok",
+        "boy",
+        "not",
+        "Who"
+      ],
+      "solutions": [
+        [
+          "Do",
+          "You",
+          "think",
+          "that",
+          "big",
+          "muslces",
+          "look",
+          "good"
+        ]
+      ],
+      "formattedSolution": "Do You think that big muslces look good?",
+      "id": "74b81a7a86b1",
+      "priority": 2,
+      "group": "3bfdafae6908"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Noga imaje najvelike muskuly iz cělogo těla",
+      "meaningInSourceLanguage": "Leg has the biggest muscles from whole body",
+      "id": "726003ea7782",
+      "priority": 0,
+      "group": "73f8ea94ae08"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Leg",
+          "definition": "Noga"
+        },
+        {
+          "word": "has",
+          "definition": "has"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "biggest",
+          "definition": "biggest"
+        },
+        {
+          "word": "muscles",
+          "definition": "muskuly"
+        },
+        {
+          "word": "from",
+          "definition": "from"
+        },
+        {
+          "word": "whole",
+          "definition": "whole"
+        },
+        {
+          "word": "body",
+          "definition": "body"
+        }
+      ],
+      "chips": [
+        "Noga",
+        "imaje",
+        "najvelike",
+        "muskuly",
+        "iz",
+        "cělogo",
+        "těla",
+        "ale",
+        "ili",
+        "moja",
+        "moje",
+        "běle",
+        "ima"
+      ],
+      "solutions": [
+        [
+          "Noga",
+          "imaje",
+          "najvelike",
+          "muskuly",
+          "iz",
+          "cělogo",
+          "těla"
+        ]
+      ],
+      "formattedSolution": "Noga imaje najvelike muskuly iz cělogo těla",
+      "id": "9cce4a23f1f3",
+      "priority": 2,
+      "group": "73f8ea94ae08"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Noga",
+          "definition": "Leg"
+        },
+        {
+          "word": "imaje",
+          "definition": "has"
+        },
+        {
+          "word": "najvelike",
+          "definition": "najvelike"
+        },
+        {
+          "word": "muskuly",
+          "definition": "muscles"
+        },
+        {
+          "word": "iz",
+          "definition": "iz"
+        },
+        {
+          "word": "cělogo",
+          "definition": "cělogo"
+        },
+        {
+          "word": "těla",
+          "definition": "těla"
+        }
+      ],
+      "chips": [
+        "Leg",
+        "has",
+        "the",
+        "biggest",
+        "muscles",
+        "from",
+        "whole",
+        "body",
+        "be",
+        "goes",
+        "She",
+        "boy",
+        "bus",
+        "me",
+        "Yes"
+      ],
+      "solutions": [
+        [
+          "Leg",
+          "has",
+          "the",
+          "biggest",
+          "muscles",
+          "from",
+          "whole",
+          "body"
+        ]
+      ],
+      "formattedSolution": "Leg has the biggest muscles from whole body",
+      "id": "6d8b8af2e81a",
+      "priority": 2,
+      "group": "73f8ea94ae08"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Srdce pompuje krv k tělu",
+      "meaningInSourceLanguage": "Heart pumps blood to the body",
+      "id": "fe2e88de4f82",
+      "priority": 0,
+      "group": "7feb8c0cf616"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Heart",
+          "definition": "Srdce"
+        },
+        {
+          "word": "pumps",
+          "definition": "pumps"
+        },
+        {
+          "word": "blood",
+          "definition": "blood"
+        },
+        {
+          "word": "to",
+          "definition": "to"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "body",
+          "definition": "body"
+        }
+      ],
+      "chips": [
+        "Srdce",
+        "pompuje",
+        "krv",
+        "k",
+        "tělu",
+        "je",
+        "te",
+        "ne",
+        "Kde"
+      ],
+      "solutions": [
+        [
+          "Srdce",
+          "pompuje",
+          "krv",
+          "k",
+          "tělu"
+        ]
+      ],
+      "formattedSolution": "Srdce pompuje krv k tělu",
+      "id": "5b548a7a0ac9",
+      "priority": 2,
+      "group": "7feb8c0cf616"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Srdce",
+          "definition": "Heart"
+        },
+        {
+          "word": "pompuje",
+          "definition": "pompuje"
+        },
+        {
+          "word": "krv",
+          "definition": "krv"
+        },
+        {
+          "word": "k",
+          "definition": "k"
+        },
+        {
+          "word": "tělu",
+          "definition": "tělu"
+        }
+      ],
+      "chips": [
+        "Heart",
+        "pumps",
+        "blood",
+        "to",
+        "the",
+        "body",
+        "boy",
+        "be",
+        "lot",
+        "He",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Heart",
+          "pumps",
+          "blood",
+          "to",
+          "the",
+          "body"
+        ]
+      ],
+      "formattedSolution": "Heart pumps blood to the body",
+      "id": "d34d545d1844",
+      "priority": 2,
+      "group": "7feb8c0cf616"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Stopa imaje 26 kostij",
+      "meaningInSourceLanguage": "Foot has 26 bones",
+      "id": "3062745a2dac",
+      "priority": 0,
+      "group": "b2106bca0767"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Foot",
+          "definition": "Stopa"
+        },
+        {
+          "word": "has",
+          "definition": "has"
+        },
+        {
+          "word": "26",
+          "definition": "26"
+        },
+        {
+          "word": "bones",
+          "definition": "bones"
+        }
+      ],
+      "chips": [
+        "Stopa",
+        "imaje",
+        "26",
+        "kostij",
+        "moj",
+        "to",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Stopa",
+          "imaje",
+          "26",
+          "kostij"
+        ]
+      ],
+      "formattedSolution": "Stopa imaje 26 kostij",
+      "id": "4cfbc99832e5",
+      "priority": 2,
+      "group": "b2106bca0767"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Stopa",
+          "definition": "Foot"
+        },
+        {
+          "word": "imaje",
+          "definition": "has"
+        },
+        {
+          "word": "26",
+          "definition": "26"
+        },
+        {
+          "word": "kostij",
+          "definition": "kostij"
+        }
+      ],
+      "chips": [
+        "Foot",
+        "has",
+        "26",
+        "bones",
+        "as",
+        "is",
+        "boy"
+      ],
+      "solutions": [
+        [
+          "Foot",
+          "has",
+          "26",
+          "bones"
+        ]
+      ],
+      "formattedSolution": "Foot has 26 bones",
+      "id": "c99e07aed7ad",
+      "priority": 2,
+      "group": "b2106bca0767"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Člověčska glava raste velmi brzo v času detinstva",
+      "meaningInSourceLanguage": "The human head grows rapidly during childhood.",
+      "id": "3b2aa617803f",
+      "priority": 0,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "human",
+          "definition": "človek\nčlověk"
+        },
+        {
+          "word": "head",
+          "definition": "head"
+        },
+        {
+          "word": "grows",
+          "definition": "grows"
+        },
+        {
+          "word": "rapidly",
+          "definition": "rapidly"
+        },
+        {
+          "word": "during",
+          "definition": "during"
+        },
+        {
+          "word": "childhood.",
+          "definition": "childhood."
+        }
+      ],
+      "chips": [
+        "Člověčska",
+        "glava",
+        "raste",
+        "velmi",
+        "brzo",
+        "v",
+        "času",
+        "detinstva",
+        "avta",
+        "jest",
+        "se",
+        "na",
+        "za",
+        "Ja",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "Člověčska",
+          "glava",
+          "raste",
+          "velmi",
+          "brzo",
+          "v",
+          "času",
+          "detinstva"
+        ]
+      ],
+      "formattedSolution": "Člověčska glava raste velmi brzo v času detinstva",
+      "id": "9eadc196a132",
+      "priority": 2,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Člověčska",
+          "definition": "Člověčska"
+        },
+        {
+          "word": "glava",
+          "definition": "Good day"
+        },
+        {
+          "word": "raste",
+          "definition": "raste"
+        },
+        {
+          "word": "velmi",
+          "definition": "velmi"
+        },
+        {
+          "word": "brzo",
+          "definition": "brzo"
+        },
+        {
+          "word": "v",
+          "definition": "v"
+        },
+        {
+          "word": "času",
+          "definition": "času"
+        },
+        {
+          "word": "detinstva",
+          "definition": "detinstva"
+        }
+      ],
+      "chips": [
+        "The",
+        "human",
+        "head",
+        "grows",
+        "rapidly",
+        "during",
+        "childhood",
+        "had",
+        "child",
+        "hand",
+        "did",
+        "guide",
+        "red"
+      ],
+      "solutions": [
+        [
+          "The",
+          "human",
+          "head",
+          "grows",
+          "rapidly",
+          "during",
+          "childhood"
+        ]
+      ],
+      "formattedSolution": "The human head grows rapidly during childhood.",
+      "id": "eb08761567a4",
+      "priority": 2,
+      "group": "8afcf1964879"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Noga imaje 3 česti",
+      "meaningInSourceLanguage": "Leg has 3 parts",
+      "id": "25df65926376",
+      "priority": 0,
+      "group": "e75082b97873"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Leg",
+          "definition": "Noga"
+        },
+        {
+          "word": "has",
+          "definition": "has"
+        },
+        {
+          "word": "3",
+          "definition": "3"
+        },
+        {
+          "word": "parts",
+          "definition": "parts"
+        }
+      ],
+      "chips": [
+        "Noga",
+        "imaje",
+        "3",
+        "česti",
+        "je",
+        "i",
+        "ima"
+      ],
+      "solutions": [
+        [
+          "Noga",
+          "imaje",
+          "3",
+          "česti"
+        ]
+      ],
+      "formattedSolution": "Noga imaje 3 česti",
+      "id": "097ad8d0daa1",
+      "priority": 2,
+      "group": "e75082b97873"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Noga",
+          "definition": "Leg"
+        },
+        {
+          "word": "imaje",
+          "definition": "has"
+        },
+        {
+          "word": "3",
+          "definition": "3"
+        },
+        {
+          "word": "česti",
+          "definition": "česti"
+        }
+      ],
+      "chips": [
+        "Leg",
+        "has",
+        "3",
+        "parts",
+        "as",
+        "a",
+        "was"
+      ],
+      "solutions": [
+        [
+          "Leg",
+          "has",
+          "3",
+          "parts"
+        ]
+      ],
+      "formattedSolution": "Leg has 3 parts",
+      "id": "db3f63afa115",
+      "priority": 2,
+      "group": "e75082b97873"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hand1.jpg",
+        "hand2.jpg",
+        "hand3.jpg"
+      ],
+      "formInTargetLanguage": "Ruka",
+      "meaningInSourceLanguage": "Hand",
+      "id": "f2d4b9673b93",
+      "priority": 0,
+      "group": "a1d82ebfa7b1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hand1.jpg",
+        "hand2.jpg",
+        "hand3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Ruka"
+      ],
+      "phrase": [
+        {
+          "word": "Hand",
+          "definition": "Ruka"
+        }
+      ],
+      "id": "f56b86a3b7ba",
+      "priority": 1,
+      "group": "a1d82ebfa7b1"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "leg1.jpg",
+        "leg2.jpg",
+        "leg3.jpg"
+      ],
+      "formInTargetLanguage": "Noga",
+      "meaningInSourceLanguage": "Leg",
+      "id": "17860054fe95",
+      "priority": 0,
+      "group": "299a556bf1bf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "leg1.jpg",
+        "leg2.jpg",
+        "leg3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Noga"
+      ],
+      "phrase": [
+        {
+          "word": "Leg",
+          "definition": "Noga"
+        }
+      ],
+      "id": "41e03c5af13a",
+      "priority": 1,
+      "group": "299a556bf1bf"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "neck1.jpg",
+        "neck2.jpg",
+        "neck3.jpg"
+      ],
+      "formInTargetLanguage": "Neck",
+      "meaningInSourceLanguage": "Šija",
+      "id": "97e3d4070fcf",
+      "priority": 0,
+      "group": "5b7ad8472e4f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "neck1.jpg",
+        "neck2.jpg",
+        "neck3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Neck"
+      ],
+      "phrase": [
+        {
+          "word": "Šija",
+          "definition": "Neck"
+        }
+      ],
+      "id": "f938567834d0",
+      "priority": 1,
+      "group": "5b7ad8472e4f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Prs",
+      "meaningInSourceLanguage": "breast",
+      "id": "73da5ed6056d",
+      "priority": 0,
+      "group": "6db7494d1b0a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Prs"
+      ],
+      "phrase": [
+        {
+          "word": "breast",
+          "definition": "Prs"
+        }
+      ],
+      "id": "f02844bb85d7",
+      "priority": 1,
+      "group": "6db7494d1b0a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "stomach1.jpg",
+        "stomach2.jpg",
+        "stomach3.jpg"
+      ],
+      "formInTargetLanguage": "Brjuho",
+      "meaningInSourceLanguage": "Belly",
+      "id": "96ef3f2ecb43",
+      "priority": 0,
+      "group": "cdb9f6085bb8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "stomach1.jpg",
+        "stomach2.jpg",
+        "stomach3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Brjuho"
+      ],
+      "phrase": [
+        {
+          "word": "Belly",
+          "definition": "Brjuho"
+        }
+      ],
+      "id": "253f0ffef60c",
+      "priority": 1,
+      "group": "cdb9f6085bb8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Muskul",
+      "meaningInSourceLanguage": "Muscle",
+      "id": "25afdf38e7a3",
+      "priority": 0,
+      "group": "fd15d4db1aa7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Muskul"
+      ],
+      "phrase": [
+        {
+          "word": "Muscle",
+          "definition": "Muskul"
+        }
+      ],
+      "id": "6a22c5a86029",
+      "priority": 1,
+      "group": "fd15d4db1aa7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "lakot",
+      "meaningInSourceLanguage": "elbow",
+      "id": "1987b3ae8c65",
+      "priority": 0,
+      "group": "5169a82baadd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "lakot"
+      ],
+      "phrase": [
+        {
+          "word": "elbow",
+          "definition": "lakot"
+        }
+      ],
+      "id": "f11baeded5bd",
+      "priority": 1,
+      "group": "5169a82baadd"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "finger1.jpg",
+        "finger2.jpg",
+        "finger3.jpg"
+      ],
+      "formInTargetLanguage": "Prst",
+      "meaningInSourceLanguage": "Finger",
+      "id": "b505e356194d",
+      "priority": 0,
+      "group": "5564980d88dd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "finger1.jpg",
+        "finger2.jpg",
+        "finger3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Prst"
+      ],
+      "phrase": [
+        {
+          "word": "Finger",
+          "definition": "Prst"
+        }
+      ],
+      "id": "f9e077e66261",
+      "priority": 1,
+      "group": "5564980d88dd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Dlanj",
+      "meaningInSourceLanguage": "Palm",
+      "id": "04ab5c6818e5",
+      "priority": 0,
+      "group": "471587c8b88d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Dlanj"
+      ],
+      "phrase": [
+        {
+          "word": "Palm",
+          "definition": "Dlanj"
+        }
+      ],
+      "id": "644d5259bf3b",
+      "priority": 1,
+      "group": "471587c8b88d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Hrebet",
+      "meaningInSourceLanguage": "Back",
+      "id": "8e2f83b965b0",
+      "priority": 0,
+      "group": "549ea0d7eb97"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Hrebet"
+      ],
+      "phrase": [
+        {
+          "word": "Back",
+          "definition": "Hrebet"
+        }
+      ],
+      "id": "a9ba99693a6b",
+      "priority": 1,
+      "group": "549ea0d7eb97"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Rebro",
+      "meaningInSourceLanguage": "Rib",
+      "id": "ea81ecce3e16",
+      "priority": 0,
+      "group": "8aafa61bd155"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Rebro"
+      ],
+      "phrase": [
+        {
+          "word": "Rib",
+          "definition": "Rebro"
+        }
+      ],
+      "id": "c6a9d9adbaa3",
+      "priority": 1,
+      "group": "8aafa61bd155"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Pljuča",
+      "meaningInSourceLanguage": "Lung",
+      "id": "aaf7d7a2cef8",
+      "priority": 0,
+      "group": "796da0aa1044"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Pljuča"
+      ],
+      "phrase": [
+        {
+          "word": "Lung",
+          "definition": "Pljuča"
+        }
+      ],
+      "id": "8c004dda6f9d",
+      "priority": 1,
+      "group": "796da0aa1044"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Tors",
+      "meaningInSourceLanguage": "Torso",
+      "id": "2cccd57b7d8c",
+      "priority": 0,
+      "group": "1ae310bbcf73"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Tors"
+      ],
+      "phrase": [
+        {
+          "word": "Torso",
+          "definition": "Tors"
+        }
+      ],
+      "id": "9fb26b16be74",
+      "priority": 1,
+      "group": "1ae310bbcf73"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "heart1.jpg",
+        "heart2.jpg",
+        "heart3.jpg"
+      ],
+      "formInTargetLanguage": "Srdce",
+      "meaningInSourceLanguage": "Heart",
+      "id": "209e5e7f7ff7",
+      "priority": 0,
+      "group": "df826f36b62c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "heart1.jpg",
+        "heart2.jpg",
+        "heart3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Srdce"
+      ],
+      "phrase": [
+        {
+          "word": "Heart",
+          "definition": "Srdce"
+        }
+      ],
+      "id": "66db14fd2c5b",
+      "priority": 1,
+      "group": "df826f36b62c"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "foot1.jpg",
+        "foot2.jpg",
+        "foot3.jpg"
+      ],
+      "formInTargetLanguage": "Stopa",
+      "meaningInSourceLanguage": "Foot",
+      "id": "06101d69733f",
+      "priority": 0,
+      "group": "ab74573c5570"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "foot1.jpg",
+        "foot2.jpg",
+        "foot3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Stopa"
+      ],
+      "phrase": [
+        {
+          "word": "Foot",
+          "definition": "Stopa"
+        }
+      ],
+      "id": "cf2f6b4c621e",
+      "priority": 1,
+      "group": "ab74573c5570"
+    }
+  ]
+}

@@ -194,6 +194,8 @@
             "kto",
             "avtobus",
             "avto",
+            "avtobusy",
+            "avta",
             "ili",
             "kde",
             "ime",
@@ -451,6 +453,93 @@
           "id": "e876e5c6ae07",
           "title": "Adj 4",
           "levels": 4
+        }
+      ]
+    },
+    {
+      "title": "5. Human",
+      "skills": [
+        {
+          "imageSet": [
+            "head3",
+            "eye1",
+            "hair2"
+          ],
+          "summary": [
+            "Glava",
+            "Oko",
+            "Nos",
+            "Uho",
+            "Usta",
+            "Brvi",
+            "čelo",
+            "vlasy",
+            "Jezyk",
+            "Čerep",
+            "Mozg",
+            "Zub",
+            "Lice",
+            "Kaky kolor imajut tvoje vlasy?",
+            "Ty imaš veliku glavu",
+            "Toj člověk ima velike uši",
+            "Či s tvojeju glavoju je vsečto v porědku?",
+            "Bolji mně glava iz glědanja na kompjuter",
+            "Koliko kosti jest v glavě?",
+            "Ona idě umyti svoje vlasy",
+            "Děti imajut velike oči",
+            "Čerep hrani mozg od poškodženj",
+            "Mozg je odgovorny za dumanje, emocije i pamet",
+            "Jezyk umožnjaje vkušanje, žuvanje i govorenje",
+            "Člověčska glava raste velmi brzo v času detinstva",
+            "Člověčska glava raste velmi brzo v času detinstva",
+            "One imajut krasive črne i kudrave vlasy"
+          ],
+          "practiceHref": "human-1",
+          "id": "64a9147c90d5",
+          "title": "Human 1",
+          "levels": 6
+        },
+        {
+          "imageSet": [
+            "hand1",
+            "finger3",
+            "foot1"
+          ],
+          "summary": [
+            "Ruka",
+            "Noga",
+            "Neck",
+            "Prs",
+            "Brjuho",
+            "Muskul",
+            "lakot",
+            "Prst",
+            "Dlanj",
+            "Hrebet",
+            "Rebro",
+            "Pljuča",
+            "Tors",
+            "Srdce",
+            "Stopa",
+            "Šija sjedninjaje glavu i tors",
+            "Rebra ohranjajut organy kako srdce i pljuče",
+            "Ta žena imaje plasko brjuho",
+            "Dologe ruky sut koristne v basketballu",
+            "Uši sut odgovorne za slušanje",
+            "V každoj rukě jest 27 kostij",
+            "Trěba dobro jedati daby iměti zdravo srdce",
+            "Člověk imaje 5 prstov v každoj rukě",
+            "Dumaješ že velike muskuly izgledajut dobro?",
+            "Noga imaje najvelike muskuly iz cělogo těla",
+            "Srdce pompuje krv k tělu",
+            "Stopa imaje 26 kostij",
+            "Člověčska glava raste velmi brzo v času detinstva",
+            "Noga imaje 3 česti"
+          ],
+          "practiceHref": "human-2",
+          "id": "abd64079f86a",
+          "title": "Human 2",
+          "levels": 6
         }
       ]
     }

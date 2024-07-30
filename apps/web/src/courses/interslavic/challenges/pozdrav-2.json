@@ -63,7 +63,7 @@
         "I",
         "was",
         "a",
-        "am"
+        "as"
       ],
       "solutions": [
         [
@@ -204,8 +204,8 @@
       "chips": [
         "He",
         "was",
-        "am",
-        "We"
+        "as",
+        "am"
       ],
       "solutions": [
         [
@@ -340,8 +340,8 @@
       "chips": [
         "It",
         "was",
-        "I",
-        "am"
+        "at",
+        "as"
       ],
       "solutions": [
         [
@@ -715,9 +715,9 @@
         "was",
         "a",
         "teacher",
+        "as",
         "am",
-        "an",
-        ""
+        "an"
       ],
       "solutions": [
         [
@@ -977,8 +977,8 @@
         "a",
         "queen",
         "an",
-        "am",
-        "are"
+        "as",
+        "am"
       ],
       "solutions": [
         [
@@ -1059,7 +1059,7 @@
         "was",
         "here",
         "eat",
-        "I"
+        "has"
       ],
       "solutions": [
         [

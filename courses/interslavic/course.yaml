@@ -29,6 +29,7 @@ Modules:
   - QuestionsGreetings
   - Family
   - Adjectives
+  - Human
 
 Settings:
   Audio:
