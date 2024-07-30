@@ -706,7 +706,7 @@
             "Ptica",
             "Konj",
             "Lev",
-            "Malpa",
+            "Ryba",
             "Volk",
             "Sova",
             "Žmija",
@@ -720,12 +720,13 @@
             "Koti dobro videt v nocy",
             "Sovy sut symbol mudrosti",
             "Malpy pripominajut člověka",
-            "Žmije jedajut myši"
+            "Žmije jedajut myši",
+            "Ryby dyšajut pod vodoju"
           ],
           "practiceHref": "animals-1",
           "id": "e6adfd1e833d",
           "title": "Animals-1",
-          "levels": 4
+          "levels": 5
         }
       ]
     }

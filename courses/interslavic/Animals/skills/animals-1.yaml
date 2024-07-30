@@ -44,12 +44,12 @@ New words:
       - lion2
       - lion3
 
-  - Word: Malpa
-    Translation: Monkey
+  - Word: Ryba
+    Translation: Fish
     Images:
-      - monkey1
-      - monkey2
-      - monkey3
+      - fish1
+      - fish2
+      - fish3
 
   - Word: Volk
     Translation: Wolf
@@ -113,7 +113,8 @@ Phrases:
   - Phrase: Žmije jedajut myši
     Translation: Snakes eat mice
 
-
+  - Phrase: Ryby dyšajut pod vodoju
+    Translation: Fish breathe under water
 
 
 Mini-dictionary:

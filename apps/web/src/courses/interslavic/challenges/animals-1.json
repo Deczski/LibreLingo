@@ -1,6 +1,6 @@
 {
   "id": "e6adfd1e833d",
-  "levels": 4,
+  "levels": 5,
   "challenges": [
     {
       "type": "options",
@@ -1055,6 +1055,100 @@
       "group": "0221e7ceb6f9"
     },
     {
+      "type": "options",
+      "formInTargetLanguage": "Ryby dyšajut pod vodoju",
+      "meaningInSourceLanguage": "Fish breathe under water",
+      "id": "4d13d3d4ac54",
+      "priority": 0,
+      "group": "44de387062ba"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Fish",
+          "definition": "Ryba"
+        },
+        {
+          "word": "breathe",
+          "definition": "breathe"
+        },
+        {
+          "word": "under",
+          "definition": "under"
+        },
+        {
+          "word": "water",
+          "definition": "water"
+        }
+      ],
+      "chips": [
+        "Ryby",
+        "dyšajut",
+        "pod",
+        "vodoju",
+        "od",
+        "moj",
+        "Toj"
+      ],
+      "solutions": [
+        [
+          "Ryby",
+          "dyšajut",
+          "pod",
+          "vodoju"
+        ]
+      ],
+      "formattedSolution": "Ryby dyšajut pod vodoju",
+      "id": "acd6da036fdf",
+      "priority": 2,
+      "group": "44de387062ba"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ryby",
+          "definition": "Ryby"
+        },
+        {
+          "word": "dyšajut",
+          "definition": "dyšajut"
+        },
+        {
+          "word": "pod",
+          "definition": "pod"
+        },
+        {
+          "word": "vodoju",
+          "definition": "vodoju"
+        }
+      ],
+      "chips": [
+        "Fish",
+        "breathe",
+        "under",
+        "water",
+        "late",
+        "rather",
+        "father"
+      ],
+      "solutions": [
+        [
+          "Fish",
+          "breathe",
+          "under",
+          "water"
+        ]
+      ],
+      "formattedSolution": "Fish breathe under water",
+      "id": "1b691a3a3ae7",
+      "priority": 2,
+      "group": "44de387062ba"
+    },
+    {
       "type": "cards",
       "pictures": [
         "dog1.jpg",
@@ -1222,35 +1316,35 @@
     {
       "type": "cards",
       "pictures": [
-        "monkey1.jpg",
-        "monkey2.jpg",
-        "monkey3.jpg"
+        "fish1.jpg",
+        "fish2.jpg",
+        "fish3.jpg"
       ],
-      "formInTargetLanguage": "Malpa",
-      "meaningInSourceLanguage": "Monkey",
-      "id": "f73d6da4d769",
+      "formInTargetLanguage": "Ryba",
+      "meaningInSourceLanguage": "Fish",
+      "id": "457a3340795a",
       "priority": 0,
-      "group": "33640f805c33"
+      "group": "e8ef2cf69699"
     },
     {
       "type": "shortInput",
       "pictures": [
-        "monkey1.jpg",
-        "monkey2.jpg",
-        "monkey3.jpg"
+        "fish1.jpg",
+        "fish2.jpg",
+        "fish3.jpg"
       ],
       "formInTargetLanguage": [
-        "Malpa"
+        "Ryba"
       ],
       "phrase": [
         {
-          "word": "Monkey",
-          "definition": "Malpa"
+          "word": "Fish",
+          "definition": "Ryba"
         }
       ],
-      "id": "2f53124ad136",
+      "id": "a9cd05fae43e",
       "priority": 1,
-      "group": "33640f805c33"
+      "group": "e8ef2cf69699"
     },
     {
       "type": "cards",
