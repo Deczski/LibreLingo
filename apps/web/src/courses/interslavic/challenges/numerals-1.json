@@ -1,0 +1,1972 @@
+{
+  "id": "a768a811eb74",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jedin plus jedin ravna se dva",
+      "meaningInSourceLanguage": "One plus one equals two",
+      "id": "68da6bef0d66",
+      "priority": 0,
+      "group": "cd7332269d95"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "jedin"
+        },
+        {
+          "word": "plus",
+          "definition": "plus"
+        },
+        {
+          "word": "one",
+          "definition": "jedin"
+        },
+        {
+          "word": "equals",
+          "definition": "equals"
+        },
+        {
+          "word": "two",
+          "definition": "Dva\ndva"
+        }
+      ],
+      "chips": [
+        "Jedin",
+        "plus",
+        "jedin",
+        "ravna",
+        "se",
+        "dva",
+        "žen",
+        "je",
+        "ne",
+        "pes",
+        "Jedna"
+      ],
+      "solutions": [
+        [
+          "Jedin",
+          "plus",
+          "jedin",
+          "ravna",
+          "se",
+          "dva"
+        ]
+      ],
+      "formattedSolution": "Jedin plus jedin ravna se dva",
+      "id": "dac9d695b050",
+      "priority": 2,
+      "group": "cd7332269d95"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jedin",
+          "definition": "one"
+        },
+        {
+          "word": "plus",
+          "definition": "plus"
+        },
+        {
+          "word": "jedin",
+          "definition": "one"
+        },
+        {
+          "word": "ravna",
+          "definition": "ravna"
+        },
+        {
+          "word": "se",
+          "definition": "reflexive pronoun"
+        },
+        {
+          "word": "dva",
+          "definition": "Two\ntwo"
+        }
+      ],
+      "chips": [
+        "One",
+        "plus",
+        "one",
+        "equals",
+        "two",
+        "bus",
+        "are",
+        "and",
+        "was"
+      ],
+      "solutions": [
+        [
+          "One",
+          "plus",
+          "one",
+          "equals",
+          "two"
+        ]
+      ],
+      "formattedSolution": "One plus one equals two",
+      "id": "0ea78bfc2955",
+      "priority": 2,
+      "group": "cd7332269d95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dva minus jedin ravna se jedin",
+      "meaningInSourceLanguage": "You(singular) are",
+      "id": "8a65a8a3ea41",
+      "priority": 0,
+      "group": "efa018c94d91"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "Ty\nty"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        }
+      ],
+      "chips": [
+        "Dva",
+        "minus",
+        "jedin",
+        "ravna",
+        "se",
+        "jedin",
+        "žen",
+        "je",
+        "ne",
+        "dva",
+        "jesi"
+      ],
+      "solutions": [
+        [
+          "Dva",
+          "minus",
+          "jedin",
+          "ravna",
+          "se",
+          "jedin"
+        ]
+      ],
+      "formattedSolution": "Dva minus jedin ravna se jedin",
+      "id": "773ded436c1b",
+      "priority": 2,
+      "group": "efa018c94d91"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dva",
+          "definition": "Two\ntwo"
+        },
+        {
+          "word": "minus",
+          "definition": "minus"
+        },
+        {
+          "word": "jedin",
+          "definition": "one"
+        },
+        {
+          "word": "ravna",
+          "definition": "ravna"
+        },
+        {
+          "word": "se",
+          "definition": "reflexive pronoun"
+        },
+        {
+          "word": "jedin",
+          "definition": "one"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "are",
+        "You",
+        "sing"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "are"
+        ]
+      ],
+      "formattedSolution": "You(singular) are",
+      "id": "738f72dfb979",
+      "priority": 2,
+      "group": "efa018c94d91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jedin pes",
+      "meaningInSourceLanguage": "One dog",
+      "id": "2847648ff37a",
+      "priority": 0,
+      "group": "6bc45f2ca1ac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "jedin"
+        },
+        {
+          "word": "dog",
+          "definition": "dog"
+        }
+      ],
+      "chips": [
+        "Jedin",
+        "pes",
+        "jesi",
+        "Jej"
+      ],
+      "solutions": [
+        [
+          "Jedin",
+          "pes"
+        ]
+      ],
+      "formattedSolution": "Jedin pes",
+      "id": "f9e642d2c103",
+      "priority": 2,
+      "group": "6bc45f2ca1ac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jedin",
+          "definition": "one"
+        },
+        {
+          "word": "pes",
+          "definition": "pes"
+        }
+      ],
+      "chips": [
+        "One",
+        "dog",
+        "one",
+        "are"
+      ],
+      "solutions": [
+        [
+          "One",
+          "dog"
+        ]
+      ],
+      "formattedSolution": "One dog",
+      "id": "7879ba7b276c",
+      "priority": 2,
+      "group": "6bc45f2ca1ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dva psy",
+      "meaningInSourceLanguage": "Two dogs",
+      "id": "e140c39f0f6f",
+      "priority": 0,
+      "group": "3134b0186ceb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Two",
+          "definition": "Dva\ndva"
+        },
+        {
+          "word": "dogs",
+          "definition": "dogs"
+        }
+      ],
+      "chips": [
+        "Dva",
+        "psy",
+        "Da",
+        "dva"
+      ],
+      "solutions": [
+        [
+          "Dva",
+          "psy"
+        ]
+      ],
+      "formattedSolution": "Dva psy",
+      "id": "257caafc7502",
+      "priority": 2,
+      "group": "3134b0186ceb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dva",
+          "definition": "Two\ntwo"
+        },
+        {
+          "word": "psy",
+          "definition": "psy"
+        }
+      ],
+      "chips": [
+        "Two",
+        "dogs",
+        "dog",
+        "to"
+      ],
+      "solutions": [
+        [
+          "Two",
+          "dogs"
+        ]
+      ],
+      "formattedSolution": "Two dogs",
+      "id": "09d7b75b645f",
+      "priority": 2,
+      "group": "3134b0186ceb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pet psov",
+      "meaningInSourceLanguage": "Five dogs",
+      "id": "3279a3501eb4",
+      "priority": 0,
+      "group": "4c0deae09240"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Five",
+          "definition": "Deset\nPet\npet"
+        },
+        {
+          "word": "dogs",
+          "definition": "dogs"
+        }
+      ],
+      "chips": [
+        "Pet",
+        "psov",
+        "sut",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Pet",
+          "psov"
+        ]
+      ],
+      "formattedSolution": "Pet psov",
+      "id": "41ffd7865a2b",
+      "priority": 2,
+      "group": "4c0deae09240"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pet",
+          "definition": "Five\nfive"
+        },
+        {
+          "word": "psov",
+          "definition": "psov"
+        }
+      ],
+      "chips": [
+        "Five",
+        "dogs",
+        "dog",
+        "five"
+      ],
+      "solutions": [
+        [
+          "Five",
+          "dogs"
+        ]
+      ],
+      "formattedSolution": "Five dogs",
+      "id": "cdbbb5c42042",
+      "priority": 2,
+      "group": "4c0deae09240"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Osm psov",
+      "meaningInSourceLanguage": "She is",
+      "id": "d15fdaa316ba",
+      "priority": 0,
+      "group": "fa28d928dd03"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "Ona"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        }
+      ],
+      "chips": [
+        "Osm",
+        "psov",
+        "psy",
+        "Ono"
+      ],
+      "solutions": [
+        [
+          "Osm",
+          "psov"
+        ]
+      ],
+      "formattedSolution": "Osm psov",
+      "id": "9bb2d168c77f",
+      "priority": 2,
+      "group": "fa28d928dd03"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Osm",
+          "definition": "Eight\neight"
+        },
+        {
+          "word": "psov",
+          "definition": "psov"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is"
+        ]
+      ],
+      "formattedSolution": "She is",
+      "id": "0d020c131ad9",
+      "priority": 2,
+      "group": "fa28d928dd03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jedna děvčina",
+      "meaningInSourceLanguage": "One woman",
+      "id": "b96bb5758e9f",
+      "priority": 0,
+      "group": "3436911e0427"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "jedin"
+        },
+        {
+          "word": "woman",
+          "definition": "woman\nžena"
+        }
+      ],
+      "chips": [
+        "Jedna",
+        "děvčina",
+        "žena",
+        "děvčino"
+      ],
+      "solutions": [
+        [
+          "Jedna",
+          "děvčina"
+        ]
+      ],
+      "formattedSolution": "Jedna děvčina",
+      "id": "4fb4cf92d52c",
+      "priority": 2,
+      "group": "3436911e0427"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jedna",
+          "definition": "Jedna"
+        },
+        {
+          "word": "děvčina",
+          "definition": "a girl\ngirl\nthe girl"
+        }
+      ],
+      "chips": [
+        "One",
+        "woman",
+        "man",
+        "women"
+      ],
+      "solutions": [
+        [
+          "One",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "One woman",
+      "id": "c35846dae2b7",
+      "priority": 2,
+      "group": "3436911e0427"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dvě děvčiny",
+      "meaningInSourceLanguage": "Two woman",
+      "id": "4719ce42fa16",
+      "priority": 0,
+      "group": "8207aa427880"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Two",
+          "definition": "Dva\ndva"
+        },
+        {
+          "word": "woman",
+          "definition": "woman\nžena"
+        }
+      ],
+      "chips": [
+        "Dvě",
+        "děvčiny",
+        "děvčin",
+        "děvčina"
+      ],
+      "solutions": [
+        [
+          "Dvě",
+          "děvčiny"
+        ]
+      ],
+      "formattedSolution": "Dvě děvčiny",
+      "id": "552c92d94fb8",
+      "priority": 2,
+      "group": "8207aa427880"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dvě",
+          "definition": "Dvě"
+        },
+        {
+          "word": "děvčiny",
+          "definition": "děvčiny"
+        }
+      ],
+      "chips": [
+        "Two",
+        "woman",
+        "man",
+        "women"
+      ],
+      "solutions": [
+        [
+          "Two",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "Two woman",
+      "id": "9dcdb99af68f",
+      "priority": 2,
+      "group": "8207aa427880"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tri děvčiny",
+      "meaningInSourceLanguage": "Two woman",
+      "id": "c3e043a1dac7",
+      "priority": 0,
+      "group": "506262a52468"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Two",
+          "definition": "Dva\ndva"
+        },
+        {
+          "word": "woman",
+          "definition": "woman\nžena"
+        }
+      ],
+      "chips": [
+        "Tri",
+        "děvčiny",
+        "děvčin",
+        "děvčina"
+      ],
+      "solutions": [
+        [
+          "Tri",
+          "děvčiny"
+        ]
+      ],
+      "formattedSolution": "Tri děvčiny",
+      "id": "a688fbcc3acd",
+      "priority": 2,
+      "group": "506262a52468"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tri",
+          "definition": "Three\nthree"
+        },
+        {
+          "word": "děvčiny",
+          "definition": "děvčiny"
+        }
+      ],
+      "chips": [
+        "Two",
+        "woman",
+        "man",
+        "women"
+      ],
+      "solutions": [
+        [
+          "Two",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "Two woman",
+      "id": "81f62124a2b8",
+      "priority": 2,
+      "group": "506262a52468"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Četyri děvčiny",
+      "meaningInSourceLanguage": "Four woman",
+      "id": "9ca0c46f1bb3",
+      "priority": 0,
+      "group": "0b71282f7936"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Four",
+          "definition": "Četyri\nČetyrinadset\nčetyri"
+        },
+        {
+          "word": "woman",
+          "definition": "woman\nžena"
+        }
+      ],
+      "chips": [
+        "Četyri",
+        "děvčiny",
+        "děvčin",
+        "děvčina"
+      ],
+      "solutions": [
+        [
+          "Četyri",
+          "děvčiny"
+        ]
+      ],
+      "formattedSolution": "Četyri děvčiny",
+      "id": "26c5b47c0d3b",
+      "priority": 2,
+      "group": "0b71282f7936"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Četyri",
+          "definition": "Four\nfour"
+        },
+        {
+          "word": "děvčiny",
+          "definition": "děvčiny"
+        }
+      ],
+      "chips": [
+        "Four",
+        "woman",
+        "women",
+        "Your"
+      ],
+      "solutions": [
+        [
+          "Four",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "Four woman",
+      "id": "702f5a0c2835",
+      "priority": 2,
+      "group": "0b71282f7936"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pet děvčin",
+      "meaningInSourceLanguage": "Five girls",
+      "id": "1cd0a4fe3539",
+      "priority": 0,
+      "group": "93a8a6f6a50f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Five",
+          "definition": "Deset\nPet\npet"
+        },
+        {
+          "word": "girls",
+          "definition": "girls"
+        }
+      ],
+      "chips": [
+        "Pet",
+        "děvčin",
+        "deti",
+        "děti"
+      ],
+      "solutions": [
+        [
+          "Pet",
+          "děvčin"
+        ]
+      ],
+      "formattedSolution": "Pet děvčin",
+      "id": "e0fd72390f02",
+      "priority": 2,
+      "group": "93a8a6f6a50f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pet",
+          "definition": "Five\nfive"
+        },
+        {
+          "word": "děvčin",
+          "definition": "děvčin"
+        }
+      ],
+      "chips": [
+        "Five",
+        "girls",
+        "girl",
+        "five"
+      ],
+      "solutions": [
+        [
+          "Five",
+          "girls"
+        ]
+      ],
+      "formattedSolution": "Five girls",
+      "id": "5f363035c8e6",
+      "priority": 2,
+      "group": "93a8a6f6a50f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Šest děvcin",
+      "meaningInSourceLanguage": "Six girls",
+      "id": "8fcfe9af8920",
+      "priority": 0,
+      "group": "82dd62ba59ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Six",
+          "definition": "Šest\nšest"
+        },
+        {
+          "word": "girls",
+          "definition": "girls"
+        }
+      ],
+      "chips": [
+        "Šest",
+        "děvcin",
+        "jesi",
+        "jest"
+      ],
+      "solutions": [
+        [
+          "Šest",
+          "děvcin"
+        ]
+      ],
+      "formattedSolution": "Šest děvcin",
+      "id": "933e5dfb46d8",
+      "priority": 2,
+      "group": "82dd62ba59ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Šest",
+          "definition": "Six\nsix"
+        },
+        {
+          "word": "děvcin",
+          "definition": "děvcin"
+        }
+      ],
+      "chips": [
+        "Six",
+        "girls",
+        "girl",
+        "is"
+      ],
+      "solutions": [
+        [
+          "Six",
+          "girls"
+        ]
+      ],
+      "formattedSolution": "Six girls",
+      "id": "97bc34716807",
+      "priority": 2,
+      "group": "82dd62ba59ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sedm děvčin",
+      "meaningInSourceLanguage": "Seven girls",
+      "id": "b2c07a24e75d",
+      "priority": 0,
+      "group": "cc3349b5e9e7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Seven",
+          "definition": "Sedm\nsedm"
+        },
+        {
+          "word": "girls",
+          "definition": "girls"
+        }
+      ],
+      "chips": [
+        "Sedm",
+        "děvčin",
+        "děvče",
+        "deti"
+      ],
+      "solutions": [
+        [
+          "Sedm",
+          "děvčin"
+        ]
+      ],
+      "formattedSolution": "Sedm děvčin",
+      "id": "dd2d828a393c",
+      "priority": 2,
+      "group": "cc3349b5e9e7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sedm",
+          "definition": "Seven\nseven"
+        },
+        {
+          "word": "děvčin",
+          "definition": "děvčin"
+        }
+      ],
+      "chips": [
+        "Seven",
+        "girls",
+        "girl",
+        "were"
+      ],
+      "solutions": [
+        [
+          "Seven",
+          "girls"
+        ]
+      ],
+      "formattedSolution": "Seven girls",
+      "id": "36c6391a4044",
+      "priority": 2,
+      "group": "cc3349b5e9e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Osm děvčin",
+      "meaningInSourceLanguage": "Eight girls",
+      "id": "c2310398a15f",
+      "priority": 0,
+      "group": "3ee541a08fef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Eight",
+          "definition": "Osm\nosm"
+        },
+        {
+          "word": "girls",
+          "definition": "girls"
+        }
+      ],
+      "chips": [
+        "Osm",
+        "děvčin",
+        "On",
+        "Oni"
+      ],
+      "solutions": [
+        [
+          "Osm",
+          "děvčin"
+        ]
+      ],
+      "formattedSolution": "Osm děvčin",
+      "id": "3b95cdd68610",
+      "priority": 2,
+      "group": "3ee541a08fef"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Osm",
+          "definition": "Eight\neight"
+        },
+        {
+          "word": "děvčin",
+          "definition": "děvčin"
+        }
+      ],
+      "chips": [
+        "Eight",
+        "girls",
+        "girl",
+        "night"
+      ],
+      "solutions": [
+        [
+          "Eight",
+          "girls"
+        ]
+      ],
+      "formattedSolution": "Eight girls",
+      "id": "237b7ff08d70",
+      "priority": 2,
+      "group": "3ee541a08fef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Devet děvčin",
+      "meaningInSourceLanguage": "Nine girls",
+      "id": "c36bbc7de83f",
+      "priority": 0,
+      "group": "eec3fdae8cd5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Nine",
+          "definition": "Devet\ndevet"
+        },
+        {
+          "word": "girls",
+          "definition": "girls"
+        }
+      ],
+      "chips": [
+        "Devet",
+        "děvčin",
+        "devet",
+        "děvče"
+      ],
+      "solutions": [
+        [
+          "Devet",
+          "děvčin"
+        ]
+      ],
+      "formattedSolution": "Devet děvčin",
+      "id": "d09098a6ed18",
+      "priority": 2,
+      "group": "eec3fdae8cd5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Devet",
+          "definition": "Nine\nnine"
+        },
+        {
+          "word": "děvčin",
+          "definition": "děvčin"
+        }
+      ],
+      "chips": [
+        "Nine",
+        "girls",
+        "girl",
+        "fine"
+      ],
+      "solutions": [
+        [
+          "Nine",
+          "girls"
+        ]
+      ],
+      "formattedSolution": "Nine girls",
+      "id": "2d05de9f54cb",
+      "priority": 2,
+      "group": "eec3fdae8cd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Deset děvčin",
+      "meaningInSourceLanguage": "Ten girls",
+      "id": "9cb57c6ca1f0",
+      "priority": 0,
+      "group": "38e8e5798349"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Ten",
+          "definition": "deset"
+        },
+        {
+          "word": "girls",
+          "definition": "girls"
+        }
+      ],
+      "chips": [
+        "Deset",
+        "děvčin",
+        "Devet",
+        "děvče"
+      ],
+      "solutions": [
+        [
+          "Deset",
+          "děvčin"
+        ]
+      ],
+      "formattedSolution": "Deset děvčin",
+      "id": "1a9c078e4e8b",
+      "priority": 2,
+      "group": "38e8e5798349"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Deset",
+          "definition": "Five\nten"
+        },
+        {
+          "word": "děvčin",
+          "definition": "děvčin"
+        }
+      ],
+      "chips": [
+        "Ten",
+        "girls",
+        "girl",
+        "is"
+      ],
+      "solutions": [
+        [
+          "Ten",
+          "girls"
+        ]
+      ],
+      "formattedSolution": "Ten girls",
+      "id": "09e323b66762",
+      "priority": 2,
+      "group": "38e8e5798349"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jedno slovo",
+      "meaningInSourceLanguage": "One word",
+      "id": "3b8fb6ee9cbf",
+      "priority": 0,
+      "group": "f5de059a1fd2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "jedin"
+        },
+        {
+          "word": "word",
+          "definition": "word"
+        }
+      ],
+      "chips": [
+        "Jedno",
+        "slovo",
+        "Jedna",
+        "slova"
+      ],
+      "solutions": [
+        [
+          "Jedno",
+          "slovo"
+        ]
+      ],
+      "formattedSolution": "Jedno slovo",
+      "id": "9440519b20ef",
+      "priority": 2,
+      "group": "f5de059a1fd2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jedno",
+          "definition": "Jedno"
+        },
+        {
+          "word": "slovo",
+          "definition": "slovo"
+        }
+      ],
+      "chips": [
+        "One",
+        "word",
+        "one",
+        "are"
+      ],
+      "solutions": [
+        [
+          "One",
+          "word"
+        ]
+      ],
+      "formattedSolution": "One word",
+      "id": "61f1e05ce283",
+      "priority": 2,
+      "group": "f5de059a1fd2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dva slova",
+      "meaningInSourceLanguage": "Two words",
+      "id": "49792e7f73cb",
+      "priority": 0,
+      "group": "f182c7b0d366"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Two",
+          "definition": "Dva\ndva"
+        },
+        {
+          "word": "words",
+          "definition": "words"
+        }
+      ],
+      "chips": [
+        "Dva",
+        "slova",
+        "dva",
+        "Da"
+      ],
+      "solutions": [
+        [
+          "Dva",
+          "slova"
+        ]
+      ],
+      "formattedSolution": "Dva slova",
+      "id": "7717cfa3c965",
+      "priority": 2,
+      "group": "f182c7b0d366"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dva",
+          "definition": "Two\ntwo"
+        },
+        {
+          "word": "slova",
+          "definition": "slova"
+        }
+      ],
+      "chips": [
+        "Two",
+        "words",
+        "word",
+        "work"
+      ],
+      "solutions": [
+        [
+          "Two",
+          "words"
+        ]
+      ],
+      "formattedSolution": "Two words",
+      "id": "2817513bc42f",
+      "priority": 2,
+      "group": "f182c7b0d366"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tri slova",
+      "meaningInSourceLanguage": "Three words",
+      "id": "7e9630fd5036",
+      "priority": 0,
+      "group": "5eeb30a9b97a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Three",
+          "definition": "Tri\ntri"
+        },
+        {
+          "word": "words",
+          "definition": "words"
+        }
+      ],
+      "chips": [
+        "Tri",
+        "slova",
+        "slov",
+        "li"
+      ],
+      "solutions": [
+        [
+          "Tri",
+          "slova"
+        ]
+      ],
+      "formattedSolution": "Tri slova",
+      "id": "57455dab64b5",
+      "priority": 2,
+      "group": "5eeb30a9b97a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tri",
+          "definition": "Three\nthree"
+        },
+        {
+          "word": "slova",
+          "definition": "slova"
+        }
+      ],
+      "chips": [
+        "Three",
+        "words",
+        "word",
+        "three"
+      ],
+      "solutions": [
+        [
+          "Three",
+          "words"
+        ]
+      ],
+      "formattedSolution": "Three words",
+      "id": "b82b272624a5",
+      "priority": 2,
+      "group": "5eeb30a9b97a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Četyri slova",
+      "meaningInSourceLanguage": "Four words",
+      "id": "367456da03a1",
+      "priority": 0,
+      "group": "79704d1daa28"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Four",
+          "definition": "Četyri\nČetyrinadset\nčetyri"
+        },
+        {
+          "word": "words",
+          "definition": "words"
+        }
+      ],
+      "chips": [
+        "Četyri",
+        "slova",
+        "slovo",
+        "slov"
+      ],
+      "solutions": [
+        [
+          "Četyri",
+          "slova"
+        ]
+      ],
+      "formattedSolution": "Četyri slova",
+      "id": "1c20cb613aa7",
+      "priority": 2,
+      "group": "79704d1daa28"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Četyri",
+          "definition": "Four\nfour"
+        },
+        {
+          "word": "slova",
+          "definition": "slova"
+        }
+      ],
+      "chips": [
+        "Four",
+        "words",
+        "word",
+        "work"
+      ],
+      "solutions": [
+        [
+          "Four",
+          "words"
+        ]
+      ],
+      "formattedSolution": "Four words",
+      "id": "ba50db100612",
+      "priority": 2,
+      "group": "79704d1daa28"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pet slov",
+      "meaningInSourceLanguage": "Five words",
+      "id": "501eaead353e",
+      "priority": 0,
+      "group": "cabaace6b2ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Five",
+          "definition": "Deset\nPet\npet"
+        },
+        {
+          "word": "words",
+          "definition": "words"
+        }
+      ],
+      "chips": [
+        "Pet",
+        "slov",
+        "sut",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Pet",
+          "slov"
+        ]
+      ],
+      "formattedSolution": "Pet slov",
+      "id": "32fe263a4d91",
+      "priority": 2,
+      "group": "cabaace6b2ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pet",
+          "definition": "Five\nfive"
+        },
+        {
+          "word": "slov",
+          "definition": "slov"
+        }
+      ],
+      "chips": [
+        "Five",
+        "words",
+        "word",
+        "were"
+      ],
+      "solutions": [
+        [
+          "Five",
+          "words"
+        ]
+      ],
+      "formattedSolution": "Five words",
+      "id": "085f5ef5b296",
+      "priority": 2,
+      "group": "cabaace6b2ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Deset slov",
+      "meaningInSourceLanguage": "Ten words",
+      "id": "a5497d431f26",
+      "priority": 0,
+      "group": "b794ed12579e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Ten",
+          "definition": "deset"
+        },
+        {
+          "word": "words",
+          "definition": "words"
+        }
+      ],
+      "chips": [
+        "Deset",
+        "slov",
+        "jest",
+        "sut"
+      ],
+      "solutions": [
+        [
+          "Deset",
+          "slov"
+        ]
+      ],
+      "formattedSolution": "Deset slov",
+      "id": "8f88f349f038",
+      "priority": 2,
+      "group": "b794ed12579e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Deset",
+          "definition": "Five\nten"
+        },
+        {
+          "word": "slov",
+          "definition": "slov"
+        }
+      ],
+      "chips": [
+        "Ten",
+        "words",
+        "word",
+        "was"
+      ],
+      "solutions": [
+        [
+          "Ten",
+          "words"
+        ]
+      ],
+      "formattedSolution": "Ten words",
+      "id": "a2ad20eedac6",
+      "priority": 2,
+      "group": "b794ed12579e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "one1.jpg",
+        "one2.jpg",
+        "one3.jpg"
+      ],
+      "formInTargetLanguage": "Jedin",
+      "meaningInSourceLanguage": "One",
+      "id": "8809c28ad380",
+      "priority": 0,
+      "group": "4561d6ff0f99"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "one1.jpg",
+        "one2.jpg",
+        "one3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Jedin"
+      ],
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "jedin"
+        }
+      ],
+      "id": "262d29bf5a2e",
+      "priority": 1,
+      "group": "4561d6ff0f99"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "two1.jpg",
+        "two2.jpg",
+        "two3.jpg"
+      ],
+      "formInTargetLanguage": "Dva",
+      "meaningInSourceLanguage": "Two",
+      "id": "d29b838c4012",
+      "priority": 0,
+      "group": "e3f0846322b1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "two1.jpg",
+        "two2.jpg",
+        "two3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Dva"
+      ],
+      "phrase": [
+        {
+          "word": "Two",
+          "definition": "Dva\ndva"
+        }
+      ],
+      "id": "0dd26e294885",
+      "priority": 1,
+      "group": "e3f0846322b1"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "three1.jpg",
+        "three2.jpg",
+        "three3.jpg"
+      ],
+      "formInTargetLanguage": "Tri",
+      "meaningInSourceLanguage": "Three",
+      "id": "88115203a83b",
+      "priority": 0,
+      "group": "5ca1255da4fa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "three1.jpg",
+        "three2.jpg",
+        "three3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Tri"
+      ],
+      "phrase": [
+        {
+          "word": "Three",
+          "definition": "Tri\ntri"
+        }
+      ],
+      "id": "fa6fe33b75d9",
+      "priority": 1,
+      "group": "5ca1255da4fa"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "four1.jpg",
+        "four2.jpg",
+        "four3.jpg"
+      ],
+      "formInTargetLanguage": "Četyri",
+      "meaningInSourceLanguage": "Four",
+      "id": "6a919ce44456",
+      "priority": 0,
+      "group": "75ed4aeac08a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "four1.jpg",
+        "four2.jpg",
+        "four3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Četyri"
+      ],
+      "phrase": [
+        {
+          "word": "Four",
+          "definition": "Četyri\nČetyrinadset\nčetyri"
+        }
+      ],
+      "id": "53bfafe2749f",
+      "priority": 1,
+      "group": "75ed4aeac08a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "five1.jpg",
+        "five2.jpg",
+        "five3.jpg"
+      ],
+      "formInTargetLanguage": "Pet",
+      "meaningInSourceLanguage": "Five",
+      "id": "7b88727f4fd8",
+      "priority": 0,
+      "group": "d955bf5cfe85"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "five1.jpg",
+        "five2.jpg",
+        "five3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Pet"
+      ],
+      "phrase": [
+        {
+          "word": "Five",
+          "definition": "Deset\nPet\npet"
+        }
+      ],
+      "id": "665178af9f3e",
+      "priority": 1,
+      "group": "d955bf5cfe85"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "six1.jpg",
+        "six2.jpg",
+        "six3.jpg"
+      ],
+      "formInTargetLanguage": "Šest",
+      "meaningInSourceLanguage": "Six",
+      "id": "3495f5713373",
+      "priority": 0,
+      "group": "0220c1c7d031"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "six1.jpg",
+        "six2.jpg",
+        "six3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Šest"
+      ],
+      "phrase": [
+        {
+          "word": "Six",
+          "definition": "Šest\nšest"
+        }
+      ],
+      "id": "3a66b618f466",
+      "priority": 1,
+      "group": "0220c1c7d031"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "seven1.jpg",
+        "seven2.jpg",
+        "seven3.jpg"
+      ],
+      "formInTargetLanguage": "Sedm",
+      "meaningInSourceLanguage": "Seven",
+      "id": "54dbcef6243e",
+      "priority": 0,
+      "group": "10783276f54e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "seven1.jpg",
+        "seven2.jpg",
+        "seven3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Sedm"
+      ],
+      "phrase": [
+        {
+          "word": "Seven",
+          "definition": "Sedm\nsedm"
+        }
+      ],
+      "id": "5fd67486bf2b",
+      "priority": 1,
+      "group": "10783276f54e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "eight1.jpg",
+        "eight2.jpg",
+        "eight3.jpg"
+      ],
+      "formInTargetLanguage": "Osm",
+      "meaningInSourceLanguage": "Eight",
+      "id": "3d25c3a49f52",
+      "priority": 0,
+      "group": "734dccd26e3a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "eight1.jpg",
+        "eight2.jpg",
+        "eight3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Osm"
+      ],
+      "phrase": [
+        {
+          "word": "Eight",
+          "definition": "Osm\nosm"
+        }
+      ],
+      "id": "267de144d7b7",
+      "priority": 1,
+      "group": "734dccd26e3a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "nine1.jpg",
+        "nine2.jpg",
+        "nine3.jpg"
+      ],
+      "formInTargetLanguage": "Devet",
+      "meaningInSourceLanguage": "Nine",
+      "id": "df601e5c6a57",
+      "priority": 0,
+      "group": "073825e3123d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "nine1.jpg",
+        "nine2.jpg",
+        "nine3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Devet"
+      ],
+      "phrase": [
+        {
+          "word": "Nine",
+          "definition": "Devet\ndevet"
+        }
+      ],
+      "id": "e82feb0f8f20",
+      "priority": 1,
+      "group": "073825e3123d"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "ten1.jpg",
+        "ten2.jpg",
+        "ten3.jpg"
+      ],
+      "formInTargetLanguage": "Deset",
+      "meaningInSourceLanguage": "Five",
+      "id": "4290967ee28a",
+      "priority": 0,
+      "group": "d384f4362af3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "ten1.jpg",
+        "ten2.jpg",
+        "ten3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Deset"
+      ],
+      "phrase": [
+        {
+          "word": "Five",
+          "definition": "Deset\nPet\npet"
+        }
+      ],
+      "id": "0b748aeb1e94",
+      "priority": 1,
+      "group": "d384f4362af3"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "plus1.jpg",
+        "plus2.jpg",
+        "plus3.jpg"
+      ],
+      "formInTargetLanguage": "plus",
+      "meaningInSourceLanguage": "plus",
+      "id": "bc9b41598e6d",
+      "priority": 0,
+      "group": "42718933b33e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "plus1.jpg",
+        "plus2.jpg",
+        "plus3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "plus"
+      ],
+      "phrase": [
+        {
+          "word": "plus",
+          "definition": "plus"
+        }
+      ],
+      "id": "a13a536d0c26",
+      "priority": 1,
+      "group": "42718933b33e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "minus1.jpg",
+        "minus2.jpg",
+        "minus3.jpg"
+      ],
+      "formInTargetLanguage": "minus",
+      "meaningInSourceLanguage": "minus",
+      "id": "ad6a8a4244e3",
+      "priority": 0,
+      "group": "1dd312b6369d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "minus1.jpg",
+        "minus2.jpg",
+        "minus3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "minus"
+      ],
+      "phrase": [
+        {
+          "word": "minus",
+          "definition": "minus"
+        }
+      ],
+      "id": "e7af5ec51b76",
+      "priority": 1,
+      "group": "1dd312b6369d"
+    }
+  ]
+}

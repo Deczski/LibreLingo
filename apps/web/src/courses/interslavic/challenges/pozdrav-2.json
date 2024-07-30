@@ -1,297 +1,230 @@
 {
-  "id": "0275fa9b067a",
-  "levels": 6,
+  "id": "75e952736a7f",
+  "levels": 5,
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Sto-Jedinnadset žen",
-      "meaningInSourceLanguage": "Hundred eleven women",
-      "id": "1182efd08bcb",
+      "formInTargetLanguage": "Ja jesm byl",
+      "meaningInSourceLanguage": "I was",
+      "id": "150de052b173",
       "priority": 0,
-      "group": "b1e8c9b26424"
+      "group": "3d8031a19815"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Hundred",
-          "definition": "Sto\nSto dvadeset pet"
+          "word": "I",
+          "definition": "Ja"
         },
         {
-          "word": "eleven",
-          "definition": "Jedinadset"
-        },
-        {
-          "word": "women",
-          "definition": "ženy"
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
-        "Sto-Jedinnadset",
-        "žen",
-        "žena",
-        "Jedin"
+        "Ja",
+        "jesm",
+        "byl",
+        "je",
+        "bys"
       ],
       "solutions": [
         [
-          "Sto-Jedinnadset",
-          "žen"
+          "Ja",
+          "jesm",
+          "byl"
         ]
       ],
-      "formattedSolution": "Sto-Jedinnadset žen",
-      "id": "f9422a25ab05",
+      "formattedSolution": "Ja jesm byl",
+      "id": "d79319e030d8",
       "priority": 2,
-      "group": "b1e8c9b26424"
+      "group": "3d8031a19815"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Sto-Jedinnadset",
-          "definition": "Sto-Jedinnadset"
+          "word": "Ja",
+          "definition": "I"
         },
         {
-          "word": "žen",
-          "definition": "žen"
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "byl",
+          "definition": "was"
         }
       ],
       "chips": [
-        "Hundred",
-        "eleven",
-        "women",
-        "queen",
-        "Seven"
+        "I",
+        "was",
+        "a",
+        "as"
       ],
       "solutions": [
         [
-          "Hundred",
-          "eleven",
-          "women"
+          "I",
+          "was"
         ]
       ],
-      "formattedSolution": "Hundred eleven women",
-      "id": "9921d2286c97",
+      "formattedSolution": "I was",
+      "id": "c986ea0dff91",
       "priority": 2,
-      "group": "b1e8c9b26424"
+      "group": "3d8031a19815"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Osm-sto trideset-pet psov",
-      "meaningInSourceLanguage": "Eight hundred thirty five dogs",
-      "id": "9cd1cf31f00b",
+      "formInTargetLanguage": "Ty jesi byl",
+      "meaningInSourceLanguage": "You were",
+      "id": "dab8477dac58",
       "priority": 0,
-      "group": "aac39e4864a7"
+      "group": "26cc5616a1b7"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Eight",
-          "definition": "Osm\nosm"
+          "word": "You",
+          "definition": "ty"
         },
         {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
-        },
-        {
-          "word": "thirty",
-          "definition": "thirty"
-        },
-        {
-          "word": "five",
-          "definition": "Deset\nPet\npet"
-        },
-        {
-          "word": "dogs",
-          "definition": "dogs"
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
-        "Osm-sto",
-        "trideset-pet",
-        "psov",
-        "prstov",
-        "jeste"
+        "Ty",
+        "jesi",
+        "byl",
+        "bys",
+        "by"
       ],
       "solutions": [
         [
-          "Osm-sto",
-          "trideset-pet",
-          "psov"
+          "Ty",
+          "jesi",
+          "byl"
         ]
       ],
-      "formattedSolution": "Osm-sto trideset-pet psov",
-      "id": "fa40616b1e7e",
+      "formattedSolution": "Ty jesi byl",
+      "id": "0a74dc438667",
       "priority": 2,
-      "group": "aac39e4864a7"
+      "group": "26cc5616a1b7"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Osm-sto",
-          "definition": "Osm-sto"
+          "word": "Ty",
+          "definition": "You(singular)"
         },
         {
-          "word": "trideset-pet",
-          "definition": "trideset-pet"
+          "word": "jesi",
+          "definition": "are"
         },
         {
-          "word": "psov",
-          "definition": "psov"
+          "word": "byl",
+          "definition": "was"
         }
       ],
       "chips": [
-        "Eight",
-        "hundred",
-        "thirty",
-        "five",
-        "dogs",
-        "fine",
-        "here",
-        "did",
-        "night"
+        "You",
+        "were",
+        "are",
+        "here"
       ],
       "solutions": [
         [
-          "Eight",
-          "hundred",
-          "thirty",
-          "five",
-          "dogs"
+          "You",
+          "were"
         ]
       ],
-      "formattedSolution": "Eight hundred thirty five dogs",
-      "id": "c9c0864e22d2",
+      "formattedSolution": "You were",
+      "id": "a0a201a194c6",
       "priority": 2,
-      "group": "aac39e4864a7"
+      "group": "26cc5616a1b7"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Koncertne bilety koštujut 30 evro",
-      "meaningInSourceLanguage": "The concert tickets cost 30 euros",
-      "id": "1eb26e7f7d0e",
+      "formInTargetLanguage": "On byl",
+      "meaningInSourceLanguage": "He was",
+      "id": "0746ee24f63c",
       "priority": 0,
-      "group": "5f3b380eee0e"
+      "group": "802f75e57588"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "The",
-          "definition": "toj"
+          "word": "He",
+          "definition": "On"
         },
         {
-          "word": "concert",
-          "definition": "concert"
-        },
-        {
-          "word": "tickets",
-          "definition": "tickets"
-        },
-        {
-          "word": "cost",
-          "definition": "cost"
-        },
-        {
-          "word": "30",
-          "definition": "30"
-        },
-        {
-          "word": "euros",
-          "definition": "euros"
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
-        "Koncertne",
-        "bilety",
-        "koštujut",
-        "30",
-        "evro",
-        "tut",
-        "Kto",
-        "to",
-        "te"
+        "On",
+        "byl",
+        "by",
+        "Ty"
       ],
       "solutions": [
         [
-          "Koncertne",
-          "bilety",
-          "koštujut",
-          "30",
-          "evro"
+          "On",
+          "byl"
         ]
       ],
-      "formattedSolution": "Koncertne bilety koštujut 30 evro",
-      "id": "669487c64ac3",
+      "formattedSolution": "On byl",
+      "id": "32422d3f767a",
       "priority": 2,
-      "group": "5f3b380eee0e"
+      "group": "802f75e57588"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Koncertne",
-          "definition": "Koncertne"
+          "word": "On",
+          "definition": "He"
         },
         {
-          "word": "bilety",
-          "definition": "bilety"
-        },
-        {
-          "word": "koštujut",
-          "definition": "koštujut"
-        },
-        {
-          "word": "30",
-          "definition": "30"
-        },
-        {
-          "word": "evro",
-          "definition": "evro"
+          "word": "byl",
+          "definition": "was"
         }
       ],
       "chips": [
-        "The",
-        "concert",
-        "tickets",
-        "cost",
-        "30",
-        "euros",
-        "not",
-        "lot",
-        "is",
-        "eat",
-        "car"
+        "He",
+        "was",
+        "as",
+        "am"
       ],
       "solutions": [
         [
-          "The",
-          "concert",
-          "tickets",
-          "cost",
-          "30",
-          "euros"
+          "He",
+          "was"
         ]
       ],
-      "formattedSolution": "The concert tickets cost 30 euros",
-      "id": "8fb70948b2c7",
+      "formattedSolution": "He was",
+      "id": "a5a2fdd81018",
       "priority": 2,
-      "group": "5f3b380eee0e"
+      "group": "802f75e57588"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ona čitaje 45 knig vsakogodno",
-      "meaningInSourceLanguage": "She reads 45 books every year",
-      "id": "fb0ef29dea1a",
+      "formInTargetLanguage": "Ona byla",
+      "meaningInSourceLanguage": "She was",
+      "id": "d66a436f2d1a",
       "priority": 0,
-      "group": "06e3553b17c5"
+      "group": "a579d25b327f"
     },
     {
       "type": "chips",
@@ -302,50 +235,26 @@
           "definition": "Ona"
         },
         {
-          "word": "reads",
-          "definition": "reads"
-        },
-        {
-          "word": "45",
-          "definition": "45"
-        },
-        {
-          "word": "books",
-          "definition": "books"
-        },
-        {
-          "word": "every",
-          "definition": "every"
-        },
-        {
-          "word": "year",
-          "definition": "year"
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
         "Ona",
-        "čitaje",
-        "45",
-        "knig",
-        "vsakogodno",
-        "ona",
-        "na",
-        "On",
-        "Ono"
+        "byla",
+        "byl",
+        "ona"
       ],
       "solutions": [
         [
           "Ona",
-          "čitaje",
-          "45",
-          "knig",
-          "vsakogodno"
+          "byla"
         ]
       ],
-      "formattedSolution": "Ona čitaje 45 knig vsakogodno",
-      "id": "75260203e164",
+      "formattedSolution": "Ona byla",
+      "id": "0cb282f60161",
       "priority": 2,
-      "group": "06e3553b17c5"
+      "group": "a579d25b327f"
     },
     {
       "type": "chips",
@@ -356,57 +265,102 @@
           "definition": "She"
         },
         {
-          "word": "čitaje",
-          "definition": "čitaje"
-        },
-        {
-          "word": "45",
-          "definition": "45"
-        },
-        {
-          "word": "knig",
-          "definition": "knig"
-        },
-        {
-          "word": "vsakogodno",
-          "definition": "vsakogodno"
+          "word": "byla",
+          "definition": "was"
         }
       ],
       "chips": [
         "She",
-        "reads",
-        "45",
-        "books",
-        "every",
-        "year",
-        "be",
-        "ears",
-        "We",
-        "He",
-        "eat"
+        "was",
+        "the",
+        "she"
       ],
       "solutions": [
         [
           "She",
-          "reads",
-          "45",
-          "books",
-          "every",
-          "year"
+          "was"
         ]
       ],
-      "formattedSolution": "She reads 45 books every year",
-      "id": "2ad977508163",
+      "formattedSolution": "She was",
+      "id": "ead4488ec281",
       "priority": 2,
-      "group": "06e3553b17c5"
+      "group": "a579d25b327f"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "My jesmo tri brati",
-      "meaningInSourceLanguage": "We are three brothers",
-      "id": "7efb7a152865",
+      "formInTargetLanguage": "Ono bylo",
+      "meaningInSourceLanguage": "It was",
+      "id": "2cc9affe4c2c",
       "priority": 0,
-      "group": "aa86562df524"
+      "group": "ea48902a10fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "Ono"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "bylo",
+        "byl",
+        "ono"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "bylo"
+        ]
+      ],
+      "formattedSolution": "Ono bylo",
+      "id": "016527ce563a",
+      "priority": 2,
+      "group": "ea48902a10fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "It"
+        },
+        {
+          "word": "bylo",
+          "definition": "was"
+        }
+      ],
+      "chips": [
+        "It",
+        "was",
+        "at",
+        "as"
+      ],
+      "solutions": [
+        [
+          "It",
+          "was"
+        ]
+      ],
+      "formattedSolution": "It was",
+      "id": "11f13eb0b7d2",
+      "priority": 2,
+      "group": "ea48902a10fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo byli",
+      "meaningInSourceLanguage": "We were",
+      "id": "6c17043cc8f6",
+      "priority": 0,
+      "group": "afc7255b244b"
     },
     {
       "type": "chips",
@@ -417,39 +371,28 @@
           "definition": "My\nmy"
         },
         {
-          "word": "are",
-          "definition": "jesi"
-        },
-        {
-          "word": "three",
-          "definition": "Tri\ntri"
-        },
-        {
-          "word": "brothers",
-          "definition": "brothers"
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
         "My",
         "jesmo",
-        "tri",
-        "brati",
-        "ti",
-        "to",
-        "te"
+        "byli",
+        "byl",
+        "bylo"
       ],
       "solutions": [
         [
           "My",
           "jesmo",
-          "tri",
-          "brati"
+          "byli"
         ]
       ],
-      "formattedSolution": "My jesmo tri brati",
-      "id": "7b452a95b5fb",
+      "formattedSolution": "My jesmo byli",
+      "id": "cbbf9d677c82",
       "priority": 2,
-      "group": "aa86562df524"
+      "group": "afc7255b244b"
     },
     {
       "type": "chips",
@@ -464,1348 +407,1182 @@
           "definition": "were"
         },
         {
-          "word": "tri",
-          "definition": "Three\nthree"
-        },
-        {
-          "word": "brati",
-          "definition": "brati"
+          "word": "byli",
+          "definition": "were"
         }
       ],
       "chips": [
         "We",
-        "are",
-        "three",
-        "brothers",
-        "the",
-        "Are",
-        "She"
+        "were",
+        "we",
+        "are"
       ],
       "solutions": [
         [
           "We",
-          "are",
-          "three",
-          "brothers"
+          "were"
         ]
       ],
-      "formattedSolution": "We are three brothers",
-      "id": "e3ef582158e1",
+      "formattedSolution": "We were",
+      "id": "dc9f8a67015f",
       "priority": 2,
-      "group": "aa86562df524"
+      "group": "afc7255b244b"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Maraton iměl 150 učestnikov",
-      "meaningInSourceLanguage": "The marathon had 150 participants",
-      "id": "8c35dd87db7a",
+      "formInTargetLanguage": "Vy jeste byli",
+      "meaningInSourceLanguage": "You(plural) were",
+      "id": "64aca8f45fe8",
       "priority": 0,
-      "group": "d223c7cca046"
+      "group": "c695787082d6"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "The",
-          "definition": "toj"
-        },
-        {
-          "word": "marathon",
-          "definition": "marathon"
-        },
-        {
-          "word": "had",
-          "definition": "iměl\niměla\niměli\nimělo"
-        },
-        {
-          "word": "150",
-          "definition": "150"
-        },
-        {
-          "word": "participants",
-          "definition": "participants"
-        }
-      ],
-      "chips": [
-        "Maraton",
-        "iměl",
-        "150",
-        "učestnikov",
-        "ako",
-        "avto",
-        "Kto"
-      ],
-      "solutions": [
-        [
-          "Maraton",
-          "iměl",
-          "150",
-          "učestnikov"
-        ]
-      ],
-      "formattedSolution": "Maraton iměl 150 učestnikov",
-      "id": "7c8f88bb4e23",
-      "priority": 2,
-      "group": "d223c7cca046"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Maraton",
-          "definition": "Maraton"
-        },
-        {
-          "word": "iměl",
-          "definition": "had"
-        },
-        {
-          "word": "150",
-          "definition": "150"
-        },
-        {
-          "word": "učestnikov",
-          "definition": "učestnikov"
-        }
-      ],
-      "chips": [
-        "The",
-        "marathon",
-        "had",
-        "150",
-        "participants",
-        "man",
-        "can",
-        "are",
-        "eat"
-      ],
-      "solutions": [
-        [
-          "The",
-          "marathon",
-          "had",
-          "150",
-          "participants"
-        ]
-      ],
-      "formattedSolution": "The marathon had 150 participants",
-      "id": "f0dbf640844a",
-      "priority": 2,
-      "group": "d223c7cca046"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Samolět može něsti 300 pasažerov",
-      "meaningInSourceLanguage": "The airplane can carry 300 passengers",
-      "id": "ded09e2b438b",
-      "priority": 0,
-      "group": "c70e51d57123"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "The",
-          "definition": "toj"
-        },
-        {
-          "word": "airplane",
-          "definition": "airplane"
-        },
-        {
-          "word": "can",
-          "definition": "can"
-        },
-        {
-          "word": "carry",
-          "definition": "carry"
-        },
-        {
-          "word": "300",
-          "definition": "300"
-        },
-        {
-          "word": "passengers",
-          "definition": "passengers"
-        }
-      ],
-      "chips": [
-        "Samolět",
-        "može",
-        "něsti",
-        "300",
-        "pasažerov",
-        "lět",
-        "moj",
-        "moje",
-        "ale"
-      ],
-      "solutions": [
-        [
-          "Samolět",
-          "može",
-          "něsti",
-          "300",
-          "pasažerov"
-        ]
-      ],
-      "formattedSolution": "Samolět može něsti 300 pasažerov",
-      "id": "95c501779e5c",
-      "priority": 2,
-      "group": "c70e51d57123"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Samolět",
-          "definition": "Samolět"
-        },
-        {
-          "word": "može",
-          "definition": "može"
-        },
-        {
-          "word": "něsti",
-          "definition": "něsti"
-        },
-        {
-          "word": "300",
-          "definition": "300"
-        },
-        {
-          "word": "pasažerov",
-          "definition": "pasažerov"
-        }
-      ],
-      "chips": [
-        "The",
-        "airplane",
-        "can",
-        "carry",
-        "300",
-        "passengers",
-        "are",
-        "car",
-        "man",
-        "an",
-        "and"
-      ],
-      "solutions": [
-        [
-          "The",
-          "airplane",
-          "can",
-          "carry",
-          "300",
-          "passengers"
-        ]
-      ],
-      "formattedSolution": "The airplane can carry 300 passengers",
-      "id": "a807fb72e43b",
-      "priority": 2,
-      "group": "c70e51d57123"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "On zakončil gonku v 78 minut",
-      "meaningInSourceLanguage": "He finished the race in 78 minutes.",
-      "id": "3e502074870e",
-      "priority": 0,
-      "group": "5ad849e7bc91"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "He",
-          "definition": "On"
-        },
-        {
-          "word": "finished",
-          "definition": "finished"
-        },
-        {
-          "word": "the",
-          "definition": "toj"
-        },
-        {
-          "word": "race",
-          "definition": "race"
-        },
-        {
-          "word": "in",
-          "definition": "in"
-        },
-        {
-          "word": "78",
-          "definition": "78"
-        },
-        {
-          "word": "minutes.",
-          "definition": "minutes."
-        }
-      ],
-      "chips": [
-        "On",
-        "zakončil",
-        "gonku",
-        "v",
-        "78",
-        "minut",
-        "on",
-        "Oni",
-        "i",
-        "ne",
-        "na"
-      ],
-      "solutions": [
-        [
-          "On",
-          "zakončil",
-          "gonku",
-          "v",
-          "78",
-          "minut"
-        ]
-      ],
-      "formattedSolution": "On zakončil gonku v 78 minut",
-      "id": "d258745c6aa5",
-      "priority": 2,
-      "group": "5ad849e7bc91"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "On",
-          "definition": "He"
-        },
-        {
-          "word": "zakončil",
-          "definition": "zakončil"
-        },
-        {
-          "word": "gonku",
-          "definition": "gonku"
-        },
-        {
-          "word": "v",
-          "definition": "in"
-        },
-        {
-          "word": "78",
-          "definition": "78"
-        },
-        {
-          "word": "minut",
-          "definition": "minut"
-        }
-      ],
-      "chips": [
-        "He",
-        "finished",
-        "the",
-        "race",
-        "in",
-        "78",
-        "minutes",
-        "he",
-        "me",
-        "We",
-        "is",
-        "be",
-        "fine"
-      ],
-      "solutions": [
-        [
-          "He",
-          "finished",
-          "the",
-          "race",
-          "in",
-          "78",
-          "minutes"
-        ]
-      ],
-      "formattedSolution": "He finished the race in 78 minutes.",
-      "id": "de29b63d1950",
-      "priority": 2,
-      "group": "5ad849e7bc91"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Bylo dvasto sedmdeset-pet aplikantov na tu rabotu",
-      "meaningInSourceLanguage": "There were 275 applicants for this job",
-      "id": "f7415813d05b",
-      "priority": 0,
-      "group": "83556d12c175"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "There",
-          "definition": "tam"
+          "word": "You(plural)",
+          "definition": "Vy\nvy"
         },
         {
           "word": "were",
           "definition": "byl\nbyla\nbyli\nbylo"
-        },
-        {
-          "word": "275",
-          "definition": "275"
-        },
-        {
-          "word": "applicants",
-          "definition": "applicants"
-        },
-        {
-          "word": "for",
-          "definition": "for"
-        },
-        {
-          "word": "this",
-          "definition": "to"
-        },
-        {
-          "word": "job",
-          "definition": "job"
         }
       ],
       "chips": [
-        "Bylo",
-        "dvasto",
-        "sedmdeset-pet",
-        "aplikantov",
-        "na",
-        "tu",
-        "rabotu",
-        "to",
-        "avto",
-        "ako",
-        "Kto",
-        "Čto",
-        "te"
+        "Vy",
+        "jeste",
+        "byli",
+        "byl",
+        "bys"
       ],
       "solutions": [
         [
-          "Bylo",
-          "dvasto",
-          "sedmdeset-pet",
-          "aplikantov",
-          "na",
-          "tu",
-          "rabotu"
+          "Vy",
+          "jeste",
+          "byli"
         ]
       ],
-      "formattedSolution": "Bylo dvasto sedmdeset-pet aplikantov na tu rabotu",
-      "id": "d0423fc03d84",
+      "formattedSolution": "Vy jeste byli",
+      "id": "8b8330235ab6",
       "priority": 2,
-      "group": "83556d12c175"
+      "group": "c695787082d6"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Bylo",
-          "definition": "was"
+          "word": "Vy",
+          "definition": "You(plural)"
         },
         {
-          "word": "dvasto",
-          "definition": "two hundred"
+          "word": "jeste",
+          "definition": "are"
         },
         {
-          "word": "sedmdeset-pet",
-          "definition": "sedmdeset-pet"
-        },
-        {
-          "word": "aplikantov",
-          "definition": "aplikantov"
-        },
-        {
-          "word": "na",
-          "definition": "on"
-        },
-        {
-          "word": "tu",
-          "definition": "tu"
-        },
-        {
-          "word": "rabotu",
-          "definition": "rabotu"
+          "word": "byli",
+          "definition": "were"
         }
       ],
       "chips": [
-        "There",
+        "You(plural",
         "were",
-        "275",
-        "applicants",
-        "for",
-        "this",
-        "job",
-        "his",
-        "are",
         "here",
-        "car",
-        "the",
-        "or"
+        "work"
       ],
       "solutions": [
         [
-          "There",
-          "were",
-          "275",
-          "applicants",
-          "for",
-          "this",
-          "job"
+          "You(plural",
+          "were"
         ]
       ],
-      "formattedSolution": "There were 275 applicants for this job",
-      "id": "d4b85d6782cb",
+      "formattedSolution": "You(plural) were",
+      "id": "db0764bf559f",
       "priority": 2,
-      "group": "83556d12c175"
+      "group": "c695787082d6"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "On vizitoval šestdeset devet držav podčas svojih putovanj",
-      "meaningInSourceLanguage": "He visited sixty nine countries during his travels.",
-      "id": "bd3587cfe2c8",
+      "formInTargetLanguage": "Oni byli",
+      "meaningInSourceLanguage": "They(masculine) were",
+      "id": "0c089dd3f859",
       "priority": 0,
-      "group": "7fe99beda0f9"
+      "group": "0c823d275cac"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "He",
-          "definition": "On"
+          "word": "They(masculine)",
+          "definition": "Oni\noni"
         },
         {
-          "word": "visited",
-          "definition": "visited"
-        },
-        {
-          "word": "sixty",
-          "definition": "sixty"
-        },
-        {
-          "word": "nine",
-          "definition": "Devet\ndevet"
-        },
-        {
-          "word": "countries",
-          "definition": "countries"
-        },
-        {
-          "word": "during",
-          "definition": "during"
-        },
-        {
-          "word": "his",
-          "definition": "jego\njem\njemu\njim"
-        },
-        {
-          "word": "travels.",
-          "definition": "travels."
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
         }
       ],
       "chips": [
-        "On",
-        "vizitoval",
-        "šestdeset",
-        "devet",
-        "držav",
-        "podčas",
-        "svojih",
-        "putovanj",
-        "dva",
-        "denj",
-        "tvoj",
-        "to",
-        "avta",
-        "otca",
-        "moja"
+        "Oni",
+        "byli",
+        "byl",
+        "li"
       ],
       "solutions": [
         [
-          "On",
-          "vizitoval",
-          "šestdeset",
-          "devet",
-          "držav",
-          "podčas",
-          "svojih",
-          "putovanj"
+          "Oni",
+          "byli"
         ]
       ],
-      "formattedSolution": "On vizitoval šestdeset devet držav podčas svojih putovanj",
-      "id": "f27bf772f481",
+      "formattedSolution": "Oni byli",
+      "id": "eaf87287b5fd",
       "priority": 2,
-      "group": "7fe99beda0f9"
+      "group": "0c823d275cac"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "On",
-          "definition": "He"
+          "word": "Oni",
+          "definition": "They(masculine)"
         },
         {
-          "word": "vizitoval",
-          "definition": "vizitoval"
-        },
-        {
-          "word": "šestdeset",
-          "definition": "šestdeset"
-        },
-        {
-          "word": "devet",
-          "definition": "Nine\nnine"
-        },
-        {
-          "word": "držav",
-          "definition": "držav"
-        },
-        {
-          "word": "podčas",
-          "definition": "podčas"
-        },
-        {
-          "word": "svojih",
-          "definition": "svojih"
-        },
-        {
-          "word": "putovanj",
-          "definition": "putovanj"
+          "word": "byli",
+          "definition": "were"
         }
       ],
       "chips": [
-        "He",
-        "visited",
-        "sixty",
-        "nine",
-        "countries",
-        "during",
-        "his",
-        "travels",
-        "is",
-        "fine",
-        "Nine",
-        "nice",
-        "write",
-        "sing",
-        "drive"
+        "They(masculine",
+        "were",
+        "here",
+        "Where"
       ],
       "solutions": [
         [
-          "He",
-          "visited",
-          "sixty",
-          "nine",
-          "countries",
-          "during",
-          "his",
-          "travels"
+          "They(masculine",
+          "were"
         ]
       ],
-      "formattedSolution": "He visited sixty nine countries during his travels.",
-      "id": "cab5253147fe",
+      "formattedSolution": "They(masculine) were",
+      "id": "4e5ea9aaac42",
       "priority": 2,
-      "group": "7fe99beda0f9"
+      "group": "0c823d275cac"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Šestdeset devet je zabavno čislo",
-      "meaningInSourceLanguage": "Sixty nine is a funny number",
-      "id": "bf5f2b21fd15",
+      "formInTargetLanguage": "One byli",
+      "meaningInSourceLanguage": "They(feminine) were",
+      "id": "15033fa9bdf0",
       "priority": 0,
-      "group": "1e7a0b843f97"
+      "group": "5b6d4f98cd69"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Sixty",
-          "definition": "Sixty"
+          "word": "They(feminine)",
+          "definition": "One\none"
         },
         {
-          "word": "nine",
-          "definition": "Devet\ndevet"
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        }
+      ],
+      "chips": [
+        "One",
+        "byli",
+        "Oni",
+        "byl"
+      ],
+      "solutions": [
+        [
+          "One",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "One byli",
+      "id": "8cf66013f261",
+      "priority": 2,
+      "group": "5b6d4f98cd69"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "They(feminine)"
         },
         {
-          "word": "is",
-          "definition": "jest"
+          "word": "byli",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "were",
+        "here",
+        "Where"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "were"
+        ]
+      ],
+      "formattedSolution": "They(feminine) were",
+      "id": "0688b133a1b8",
+      "priority": 2,
+      "group": "5b6d4f98cd69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja jesm byl učitelj",
+      "meaningInSourceLanguage": "I was a teacher",
+      "id": "8b18f28c8a4f",
+      "priority": 0,
+      "group": "1d333d07cf68"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
           "word": "a",
           "definition": "-a"
         },
         {
-          "word": "funny",
-          "definition": "funny"
-        },
-        {
-          "word": "number",
-          "definition": "number"
+          "word": "teacher",
+          "definition": "učitelj"
         }
       ],
       "chips": [
-        "Šestdeset",
-        "devet",
+        "Ja",
+        "jesm",
+        "byl",
+        "učitelj",
         "je",
-        "zabavno",
-        "čislo",
-        "jest",
-        "Šest",
-        "Devet",
-        "Deset"
+        "te",
+        "Jej"
       ],
       "solutions": [
         [
-          "Šestdeset",
-          "devet",
-          "je",
-          "zabavno",
-          "čislo"
+          "Ja",
+          "jesm",
+          "byl",
+          "učitelj"
         ]
       ],
-      "formattedSolution": "Šestdeset devet je zabavno čislo",
-      "id": "398a5316f446",
+      "formattedSolution": "Ja jesm byl učitelj",
+      "id": "718d5d976511",
       "priority": 2,
-      "group": "1e7a0b843f97"
+      "group": "1d333d07cf68"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Šestdeset",
-          "definition": "Šestdeset"
+          "word": "Ja",
+          "definition": "I"
         },
         {
-          "word": "devet",
-          "definition": "Nine\nnine"
+          "word": "jesm",
+          "definition": "am"
         },
         {
-          "word": "je",
-          "definition": "is"
+          "word": "byl",
+          "definition": "was"
         },
         {
-          "word": "zabavno",
-          "definition": "zabavno"
-        },
-        {
-          "word": "čislo",
-          "definition": "čislo"
+          "word": "učitelj",
+          "definition": "teacher"
         }
       ],
       "chips": [
-        "Sixty",
-        "nine",
-        "is",
+        "I",
+        "was",
         "a",
-        "funny",
-        "number",
-        "in",
-        "fine",
-        "be",
-        "if",
-        "me"
+        "teacher",
+        "as",
+        "am",
+        "an"
       ],
       "solutions": [
         [
-          "Sixty",
-          "nine",
-          "is",
+          "I",
+          "was",
           "a",
-          "funny",
-          "number"
+          "teacher"
         ]
       ],
-      "formattedSolution": "Sixty nine is a funny number",
-      "id": "3d20a09ab24f",
+      "formattedSolution": "I was a teacher",
+      "id": "0fc9882977d3",
       "priority": 2,
-      "group": "1e7a0b843f97"
+      "group": "1d333d07cf68"
     },
     {
-      "type": "cards",
-      "pictures": [
-        "eleven1.jpg",
-        "eleven2.jpg",
-        "eleven3.jpg"
-      ],
-      "formInTargetLanguage": "Jedinadset",
-      "meaningInSourceLanguage": "Eleven",
-      "id": "330ce907f606",
+      "type": "options",
+      "formInTargetLanguage": "Ty jesi byl matematik",
+      "meaningInSourceLanguage": "You(singular) were a mathematician",
+      "id": "9d1aa00e6ffe",
       "priority": 0,
-      "group": "d2372ed5c26a"
+      "group": "dcf1e7fc521e"
     },
     {
-      "type": "shortInput",
-      "pictures": [
-        "eleven1.jpg",
-        "eleven2.jpg",
-        "eleven3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Jedinadset"
-      ],
+      "type": "chips",
+      "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Eleven",
-          "definition": "Jedinadset"
-        }
-      ],
-      "id": "d657a11759c6",
-      "priority": 1,
-      "group": "d2372ed5c26a"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "twelve1.jpg",
-        "twelve2.jpg",
-        "twelve3.jpg"
-      ],
-      "formInTargetLanguage": "Dvanadset",
-      "meaningInSourceLanguage": "Twelve",
-      "id": "c1f693c19512",
-      "priority": 0,
-      "group": "c7a900505692"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "twelve1.jpg",
-        "twelve2.jpg",
-        "twelve3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Dvanadset"
-      ],
-      "phrase": [
-        {
-          "word": "Twelve",
-          "definition": "Dvanadset"
-        }
-      ],
-      "id": "57411df052cf",
-      "priority": 1,
-      "group": "c7a900505692"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "thirteen1.jpg",
-        "thirteen2.jpg",
-        "thirteen3.jpg"
-      ],
-      "formInTargetLanguage": "Trinadset",
-      "meaningInSourceLanguage": "Thirteen",
-      "id": "2ae8e29ce694",
-      "priority": 0,
-      "group": "4b1bc7297ebb"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "thirteen1.jpg",
-        "thirteen2.jpg",
-        "thirteen3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Trinadset"
-      ],
-      "phrase": [
-        {
-          "word": "Thirteen",
-          "definition": "Trinadset"
-        }
-      ],
-      "id": "a646aae3b076",
-      "priority": 1,
-      "group": "4b1bc7297ebb"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "fourteen1.jpg",
-        "fourteen2.jpg",
-        "fourteen3.jpg"
-      ],
-      "formInTargetLanguage": "Četyrinadset",
-      "meaningInSourceLanguage": "Four",
-      "id": "d72b8593e698",
-      "priority": 0,
-      "group": "f8096ae4482b"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "fourteen1.jpg",
-        "fourteen2.jpg",
-        "fourteen3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Četyrinadset"
-      ],
-      "phrase": [
-        {
-          "word": "Four",
-          "definition": "Četyri\nČetyrinadset\nčetyri"
-        }
-      ],
-      "id": "802dc30dbe66",
-      "priority": 1,
-      "group": "f8096ae4482b"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "fifteen1.jpg",
-        "fifteen2.jpg",
-        "fifteen3.jpg"
-      ],
-      "formInTargetLanguage": "Petnadset",
-      "meaningInSourceLanguage": "Fifteen",
-      "id": "d908c6a7c5d3",
-      "priority": 0,
-      "group": "112dbc121945"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "fifteen1.jpg",
-        "fifteen2.jpg",
-        "fifteen3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Petnadset"
-      ],
-      "phrase": [
-        {
-          "word": "Fifteen",
-          "definition": "Petnadset"
-        }
-      ],
-      "id": "e87671ec970a",
-      "priority": 1,
-      "group": "112dbc121945"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "sixteen1.jpg",
-        "sixteen2.jpg",
-        "sixteen3.jpg"
-      ],
-      "formInTargetLanguage": "Šestnadset",
-      "meaningInSourceLanguage": "Sixteen",
-      "id": "604ba4c3c890",
-      "priority": 0,
-      "group": "dd13a53d9ea3"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "sixteen1.jpg",
-        "sixteen2.jpg",
-        "sixteen3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Šestnadset"
-      ],
-      "phrase": [
-        {
-          "word": "Sixteen",
-          "definition": "Šestnadset"
-        }
-      ],
-      "id": "8490cebcf64b",
-      "priority": 1,
-      "group": "dd13a53d9ea3"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "seventeen1.jpg",
-        "seventeen2.jpg",
-        "seventeen3.jpg"
-      ],
-      "formInTargetLanguage": "Sedmnadset",
-      "meaningInSourceLanguage": "Seventeen",
-      "id": "55d6686f5e0f",
-      "priority": 0,
-      "group": "584276ba4a0c"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "seventeen1.jpg",
-        "seventeen2.jpg",
-        "seventeen3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Sedmnadset"
-      ],
-      "phrase": [
-        {
-          "word": "Seventeen",
-          "definition": "Sedmnadset"
-        }
-      ],
-      "id": "732cfa7b45d8",
-      "priority": 1,
-      "group": "584276ba4a0c"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "eighteen1.jpg",
-        "eighteen2.jpg",
-        "eighteen3.jpg"
-      ],
-      "formInTargetLanguage": "Osmnadset",
-      "meaningInSourceLanguage": "Eighteen",
-      "id": "6f170f8da746",
-      "priority": 0,
-      "group": "851beed0c679"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "eighteen1.jpg",
-        "eighteen2.jpg",
-        "eighteen3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Osmnadset"
-      ],
-      "phrase": [
-        {
-          "word": "Eighteen",
-          "definition": "Osmnadset"
-        }
-      ],
-      "id": "ffa6b377861b",
-      "priority": 1,
-      "group": "851beed0c679"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "nineteen1.jpg",
-        "nineteen2.jpg",
-        "nineteen3.jpg"
-      ],
-      "formInTargetLanguage": "Devetnadset",
-      "meaningInSourceLanguage": "Nineteen",
-      "id": "2a3ef36daaf5",
-      "priority": 0,
-      "group": "2677ce53260d"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "nineteen1.jpg",
-        "nineteen2.jpg",
-        "nineteen3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Devetnadset"
-      ],
-      "phrase": [
-        {
-          "word": "Nineteen",
-          "definition": "Devetnadset"
-        }
-      ],
-      "id": "07f71af452bf",
-      "priority": 1,
-      "group": "2677ce53260d"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Dvadeset",
-      "meaningInSourceLanguage": "Twenty",
-      "id": "8fb17199e86f",
-      "priority": 0,
-      "group": "081492cdd9a3"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "Dvadeset"
-      ],
-      "phrase": [
-        {
-          "word": "Twenty",
-          "definition": "Dvadeset"
-        }
-      ],
-      "id": "50a62b090b9e",
-      "priority": 1,
-      "group": "081492cdd9a3"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Dvadeset tri",
-      "meaningInSourceLanguage": "Twenty-three",
-      "id": "2ed6725427b8",
-      "priority": 0,
-      "group": "070dacd218a4"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "Dvadeset tri"
-      ],
-      "phrase": [
-        {
-          "word": "Twenty-three",
-          "definition": "Dvadeset tri"
-        }
-      ],
-      "id": "1f98de54597d",
-      "priority": 1,
-      "group": "070dacd218a4"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Devetdeset jedin",
-      "meaningInSourceLanguage": "Ninety-one",
-      "id": "7f2e9bf7720f",
-      "priority": 0,
-      "group": "876e5c1b5ba3"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "Devetdeset jedin"
-      ],
-      "phrase": [
-        {
-          "word": "Ninety-one",
-          "definition": "Devetdeset jedin"
-        }
-      ],
-      "id": "4c1c3934adc6",
-      "priority": 1,
-      "group": "876e5c1b5ba3"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Sto",
-      "meaningInSourceLanguage": "hundred",
-      "id": "17090c595bb5",
-      "priority": 0,
-      "group": "090d85d8ad15"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "Sto"
-      ],
-      "phrase": [
-        {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
-        }
-      ],
-      "id": "e636a5108b5e",
-      "priority": 1,
-      "group": "090d85d8ad15"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Sto osm",
-      "meaningInSourceLanguage": "hundred eight",
-      "id": "bfe39266b2ff",
-      "priority": 0,
-      "group": "b0fa223568fb"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "Sto osm"
-      ],
-      "phrase": [
-        {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
+          "word": "You(singular)",
+          "definition": "Ty\nty"
         },
         {
-          "word": "eight",
-          "definition": "Osm\nosm"
-        }
-      ],
-      "id": "b88b0ff66fe6",
-      "priority": 1,
-      "group": "b0fa223568fb"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Sto dvadeset pet",
-      "meaningInSourceLanguage": "hundred",
-      "id": "3790f85e67c8",
-      "priority": 0,
-      "group": "abbcaf6a6e41"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "Sto dvadeset pet"
-      ],
-      "phrase": [
-        {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
-        }
-      ],
-      "id": "36da81f905bc",
-      "priority": 1,
-      "group": "abbcaf6a6e41"
-    },
-    {
-      "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Dvasto",
-      "meaningInSourceLanguage": "two hundred",
-      "id": "dc0b6c168ffb",
-      "priority": 0,
-      "group": "e0e90149b5c4"
-    },
-    {
-      "type": "shortInput",
-      "pictures": null,
-      "formInTargetLanguage": [
-        "Dvasto"
-      ],
-      "phrase": [
-        {
-          "word": "two",
-          "definition": "Dva\ndva"
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "mathematician",
+          "definition": "Matematik"
         }
       ],
-      "id": "cc018f8f900c",
-      "priority": 1,
-      "group": "e0e90149b5c4"
+      "chips": [
+        "Ty",
+        "jesi",
+        "byl",
+        "matematik",
+        "je",
+        "byli",
+        "bys"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "jesi",
+          "byl",
+          "matematik"
+        ]
+      ],
+      "formattedSolution": "Ty jesi byl matematik",
+      "id": "1a7df728da1f",
+      "priority": 2,
+      "group": "dcf1e7fc521e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "byl",
+          "definition": "was"
+        },
+        {
+          "word": "matematik",
+          "definition": "Mathematician"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "were",
+        "a",
+        "mathematician",
+        "are",
+        "eat",
+        "car"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "were",
+          "a",
+          "mathematician"
+        ]
+      ],
+      "formattedSolution": "You(singular) were a mathematician",
+      "id": "b3e87263d833",
+      "priority": 2,
+      "group": "dcf1e7fc521e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On byl bogaty",
+      "meaningInSourceLanguage": "He was rich",
+      "id": "2327776cc3d5",
+      "priority": 0,
+      "group": "b64218fc2e47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "rich",
+          "definition": "Bogaty"
+        }
+      ],
+      "chips": [
+        "On",
+        "byl",
+        "bogaty",
+        "by",
+        "Ty"
+      ],
+      "solutions": [
+        [
+          "On",
+          "byl",
+          "bogaty"
+        ]
+      ],
+      "formattedSolution": "On byl bogaty",
+      "id": "cba2b93ab27a",
+      "priority": 2,
+      "group": "b64218fc2e47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "He"
+        },
+        {
+          "word": "byl",
+          "definition": "was"
+        },
+        {
+          "word": "bogaty",
+          "definition": "Rich"
+        }
+      ],
+      "chips": [
+        "He",
+        "was",
+        "rich",
+        "is",
+        "Hi"
+      ],
+      "solutions": [
+        [
+          "He",
+          "was",
+          "rich"
+        ]
+      ],
+      "formattedSolution": "He was rich",
+      "id": "38c284b26da3",
+      "priority": 2,
+      "group": "b64218fc2e47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona byla kraljeva",
+      "meaningInSourceLanguage": "She was a queen",
+      "id": "befdfe4c3832",
+      "priority": 0,
+      "group": "30250f2d75ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "Ona"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "queen",
+          "definition": "Kraljeva"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "byla",
+        "kraljeva",
+        "žena",
+        "byl"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "byla",
+          "kraljeva"
+        ]
+      ],
+      "formattedSolution": "Ona byla kraljeva",
+      "id": "1c6cc84ef6a5",
+      "priority": 2,
+      "group": "30250f2d75ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "She"
+        },
+        {
+          "word": "byla",
+          "definition": "was"
+        },
+        {
+          "word": "kraljeva",
+          "definition": "Queen"
+        }
+      ],
+      "chips": [
+        "She",
+        "was",
+        "a",
+        "queen",
+        "an",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "She",
+          "was",
+          "a",
+          "queen"
+        ]
+      ],
+      "formattedSolution": "She was a queen",
+      "id": "b795785e745d",
+      "priority": 2,
+      "group": "30250f2d75ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono bylo tut",
+      "meaningInSourceLanguage": "It was here",
+      "id": "09fda331c634",
+      "priority": 0,
+      "group": "08c2df296f05"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "Ono"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "here",
+          "definition": "Tu"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "bylo",
+        "tut",
+        "byl",
+        "ono"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "bylo",
+          "tut"
+        ]
+      ],
+      "formattedSolution": "Ono bylo tut",
+      "id": "d844c5e23800",
+      "priority": 2,
+      "group": "08c2df296f05"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "It"
+        },
+        {
+          "word": "bylo",
+          "definition": "was"
+        },
+        {
+          "word": "tut",
+          "definition": "Here"
+        }
+      ],
+      "chips": [
+        "It",
+        "was",
+        "here",
+        "eat",
+        "has"
+      ],
+      "solutions": [
+        [
+          "It",
+          "was",
+          "here"
+        ]
+      ],
+      "formattedSolution": "It was here",
+      "id": "3894659042af",
+      "priority": 2,
+      "group": "08c2df296f05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My jesmo byli studenti",
+      "meaningInSourceLanguage": "We were students",
+      "id": "2439d5ee4d77",
+      "priority": 0,
+      "group": "be6e962cbb95"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "My\nmy"
+        },
+        {
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "students",
+          "definition": "Studenti"
+        }
+      ],
+      "chips": [
+        "My",
+        "jesmo",
+        "byli",
+        "studenti",
+        "jesi",
+        "deti",
+        "jesm"
+      ],
+      "solutions": [
+        [
+          "My",
+          "jesmo",
+          "byli",
+          "studenti"
+        ]
+      ],
+      "formattedSolution": "My jesmo byli studenti",
+      "id": "c93982d3c122",
+      "priority": 2,
+      "group": "be6e962cbb95"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "We"
+        },
+        {
+          "word": "jesmo",
+          "definition": "were"
+        },
+        {
+          "word": "byli",
+          "definition": "were"
+        },
+        {
+          "word": "studenti",
+          "definition": "Students"
+        }
+      ],
+      "chips": [
+        "We",
+        "were",
+        "students",
+        "we",
+        "are"
+      ],
+      "solutions": [
+        [
+          "We",
+          "were",
+          "students"
+        ]
+      ],
+      "formattedSolution": "We were students",
+      "id": "faf0547190a0",
+      "priority": 2,
+      "group": "be6e962cbb95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy jeste byli sportniki",
+      "meaningInSourceLanguage": "You(plural) were athletes",
+      "id": "f18ff5157f32",
+      "priority": 0,
+      "group": "22c3c352e6df"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "Vy\nvy"
+        },
+        {
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "athletes",
+          "definition": "Sportniki"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "jeste",
+        "byli",
+        "sportniki",
+        "ti",
+        "jesi",
+        "jest"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "jeste",
+          "byli",
+          "sportniki"
+        ]
+      ],
+      "formattedSolution": "Vy jeste byli sportniki",
+      "id": "3714499b8dca",
+      "priority": 2,
+      "group": "22c3c352e6df"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "You(plural)"
+        },
+        {
+          "word": "jeste",
+          "definition": "are"
+        },
+        {
+          "word": "byli",
+          "definition": "were"
+        },
+        {
+          "word": "sportniki",
+          "definition": "Athletes"
+        }
+      ],
+      "chips": [
+        "You(plural",
+        "were",
+        "athletes",
+        "here",
+        "there"
+      ],
+      "solutions": [
+        [
+          "You(plural",
+          "were",
+          "athletes"
+        ]
+      ],
+      "formattedSolution": "You(plural) were athletes",
+      "id": "325daa40a82e",
+      "priority": 2,
+      "group": "22c3c352e6df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni byli kuhari",
+      "meaningInSourceLanguage": "They(masculine) were cooks",
+      "id": "08ead42f14d4",
+      "priority": 0,
+      "group": "ae451710a4fb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "Oni\noni"
+        },
+        {
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "cooks",
+          "definition": "Kuhari"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "byli",
+        "kuhari",
+        "li",
+        "ili"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "byli",
+          "kuhari"
+        ]
+      ],
+      "formattedSolution": "Oni byli kuhari",
+      "id": "5546a3348223",
+      "priority": 2,
+      "group": "ae451710a4fb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "They(masculine)"
+        },
+        {
+          "word": "byli",
+          "definition": "were"
+        },
+        {
+          "word": "kuhari",
+          "definition": "Cooks"
+        }
+      ],
+      "chips": [
+        "They(masculine",
+        "were",
+        "cooks",
+        "here",
+        "Where"
+      ],
+      "solutions": [
+        [
+          "They(masculine",
+          "were",
+          "cooks"
+        ]
+      ],
+      "formattedSolution": "They(masculine) were cooks",
+      "id": "36141f972837",
+      "priority": 2,
+      "group": "ae451710a4fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One byli žurnalistki",
+      "meaningInSourceLanguage": "They(feminine) were journalists",
+      "id": "8e95a4c4c916",
+      "priority": 0,
+      "group": "20808d4c5353"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "One\none"
+        },
+        {
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "journalists",
+          "definition": "Žurnalistki"
+        }
+      ],
+      "chips": [
+        "One",
+        "byli",
+        "žurnalistki",
+        "Oni",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "One",
+          "byli",
+          "žurnalistki"
+        ]
+      ],
+      "formattedSolution": "One byli žurnalistki",
+      "id": "b9ac68992d20",
+      "priority": 2,
+      "group": "20808d4c5353"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "byli",
+          "definition": "were"
+        },
+        {
+          "word": "žurnalistki",
+          "definition": "Journalists"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "were",
+        "journalists",
+        "here",
+        "Where"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "were",
+          "journalists"
+        ]
+      ],
+      "formattedSolution": "They(feminine) were journalists",
+      "id": "74758fc80018",
+      "priority": 2,
+      "group": "20808d4c5353"
     },
     {
       "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Tristo",
-      "meaningInSourceLanguage": "two hundred",
-      "id": "0820b8b35b5c",
+      "pictures": [
+        "teacher1.jpg",
+        "teacher2.jpg",
+        "teacher3.jpg"
+      ],
+      "formInTargetLanguage": "učitelj",
+      "meaningInSourceLanguage": "teacher",
+      "id": "9bd7509049da",
       "priority": 0,
-      "group": "242a2f139075"
+      "group": "e44e69f2d9d1"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "teacher1.jpg",
+        "teacher2.jpg",
+        "teacher3.jpg"
+      ],
       "formInTargetLanguage": [
-        "Tristo"
+        "učitelj"
       ],
       "phrase": [
         {
-          "word": "two",
-          "definition": "Dva\ndva"
-        },
-        {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
+          "word": "teacher",
+          "definition": "učitelj"
         }
       ],
-      "id": "d811382c45de",
+      "id": "70a5faeca310",
       "priority": 1,
-      "group": "242a2f139075"
+      "group": "e44e69f2d9d1"
     },
     {
       "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Petsto",
-      "meaningInSourceLanguage": "Five hundred",
-      "id": "4fd2f43c0b44",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": "Pozdrav",
+      "meaningInSourceLanguage": "Hello",
+      "id": "f9b1d50383f7",
       "priority": 0,
-      "group": "3cd2741c2ff4"
+      "group": "99dddc1fbaf6"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
       "formInTargetLanguage": [
-        "Petsto"
+        "Pozdrav"
       ],
       "phrase": [
         {
-          "word": "Five",
-          "definition": "Deset\nPet\npet"
-        },
-        {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
+          "word": "Hello",
+          "definition": "pozdrav"
         }
       ],
-      "id": "016230f65b8a",
+      "id": "5e4c5a54373e",
       "priority": 1,
-      "group": "3cd2741c2ff4"
+      "group": "99dddc1fbaf6"
     },
     {
       "type": "cards",
-      "pictures": null,
-      "formInTargetLanguage": "Osmsto",
-      "meaningInSourceLanguage": "two hundred",
-      "id": "7f3219825126",
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
+      "formInTargetLanguage": "Dobry denj",
+      "meaningInSourceLanguage": "Good day",
+      "id": "3ecac45bf6d6",
       "priority": 0,
-      "group": "9608f111b82b"
+      "group": "63d6b98f54c2"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
       "formInTargetLanguage": [
-        "Osmsto"
+        "Dobry denj"
       ],
       "phrase": [
         {
-          "word": "two",
-          "definition": "Dva\ndva"
+          "word": "Good",
+          "definition": "dobro"
         },
         {
-          "word": "hundred",
-          "definition": "Sto\nSto dvadeset pet"
+          "word": "day",
+          "definition": "denj"
         }
       ],
-      "id": "535459192783",
+      "id": "31db2dfb6c30",
       "priority": 1,
-      "group": "9608f111b82b"
+      "group": "63d6b98f54c2"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "morning1.jpg",
+        "morning2.jpg",
+        "morning3.jpg"
+      ],
+      "formInTargetLanguage": "Dobro jutro",
+      "meaningInSourceLanguage": "Good morning",
+      "id": "9cb9e5f64287",
+      "priority": 0,
+      "group": "74a35ad61c2a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "morning1.jpg",
+        "morning2.jpg",
+        "morning3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Dobro jutro"
+      ],
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobro"
+        },
+        {
+          "word": "morning",
+          "definition": "zautra"
+        }
+      ],
+      "id": "7acd1d6fa682",
+      "priority": 1,
+      "group": "74a35ad61c2a"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "thankyou1.jpg",
+        "thankyou2.jpg",
+        "thankyou3.jpg"
+      ],
+      "formInTargetLanguage": "Hvala",
+      "meaningInSourceLanguage": "Thank you",
+      "id": "4068a250df90",
+      "priority": 0,
+      "group": "8a835c724e8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "thankyou1.jpg",
+        "thankyou2.jpg",
+        "thankyou3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Hvala"
+      ],
+      "phrase": [
+        {
+          "word": "Thank",
+          "definition": "hvala"
+        },
+        {
+          "word": "you",
+          "definition": "ty"
+        }
+      ],
+      "id": "bd6d964b45d6",
+      "priority": 1,
+      "group": "8a835c724e8a"
     }
   ]
 }
