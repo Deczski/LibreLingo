@@ -294,6 +294,11 @@
       "title": "3. Family",
       "skills": [
         {
+          "imageSet": [
+            "mother1",
+            "father1",
+            "daughter2"
+          ],
           "summary": [
             "Mati",
             "Otec",
@@ -334,6 +339,11 @@
           "levels": 7
         },
         {
+          "imageSet": [
+            "grandson2",
+            "uncle3",
+            "grandparents3"
+          ],
           "summary": [
             "vnuk",
             "tetka",
@@ -368,6 +378,11 @@
           "levels": 6
         },
         {
+          "imageSet": [
+            "mother1",
+            "father1",
+            "daughter2"
+          ],
           "summary": [
             "plemenica",
             "partner",
@@ -459,9 +474,9 @@
             "Toj novy avtomobil jest brzy i stary avtomobil jest medly",
             "Toj stary avtomobil jest medly a zeleny avtomobil jest brzy"
           ],
-          "practiceHref": "adj-4",
+          "practiceHref": "adjectives-4",
           "id": "e876e5c6ae07",
-          "title": "Adj 4",
+          "title": "Adjectives 4",
           "levels": 4
         }
       ]

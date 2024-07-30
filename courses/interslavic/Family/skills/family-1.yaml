@@ -1,6 +1,10 @@
 Skill:
   Id: 31
   Name: Family-1
+  Thumbnails:
+  - mother1
+  - father1
+  - daughter2
 
 New words:
 

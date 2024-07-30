@@ -1,0 +1,2457 @@
+{
+  "id": "e876e5c6ae07",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Žena jest lěpa, ale muž jest škaradny",
+      "meaningInSourceLanguage": "The woman is pretty, but the man is ugly.",
+      "id": "c06458a2a8e5",
+      "priority": 0,
+      "group": "f7ac51731d35"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "woman",
+          "definition": "woman\nžena"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "pretty,",
+          "definition": "lěpy"
+        },
+        {
+          "word": "but",
+          "definition": "ale"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "man",
+          "definition": "muž"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "ugly.",
+          "definition": "škaradny"
+        }
+      ],
+      "chips": [
+        "Žena",
+        "jest",
+        "lěpa",
+        "ale",
+        "muž",
+        "jest",
+        "škaradny",
+        "je",
+        "jesm",
+        "jesi",
+        "žena",
+        "ne",
+        "Jest"
+      ],
+      "solutions": [
+        [
+          "Žena",
+          "jest",
+          "lěpa",
+          "ale",
+          "muž",
+          "jest",
+          "škaradny"
+        ]
+      ],
+      "formattedSolution": "Žena jest lěpa, ale muž jest škaradny",
+      "id": "72412c9e4d50",
+      "priority": 2,
+      "group": "f7ac51731d35"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Žena",
+          "definition": "woman"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "lěpa,",
+          "definition": "beautiful"
+        },
+        {
+          "word": "ale",
+          "definition": "but"
+        },
+        {
+          "word": "muž",
+          "definition": "man"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "škaradny",
+          "definition": "ugly"
+        }
+      ],
+      "chips": [
+        "The",
+        "woman",
+        "is",
+        "pretty",
+        "but",
+        "the",
+        "man",
+        "is",
+        "ugly",
+        "me",
+        "be",
+        "my",
+        "an",
+        "at",
+        "in",
+        "as",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "woman",
+          "is",
+          "pretty",
+          "but",
+          "the",
+          "man",
+          "is",
+          "ugly"
+        ],
+        [
+          "A",
+          "woman",
+          "is",
+          "pretty",
+          "but",
+          "a",
+          "man",
+          "is",
+          "ugly"
+        ]
+      ],
+      "formattedSolution": "The woman is pretty, but the man is ugly.",
+      "id": "4ccbf3444565",
+      "priority": 2,
+      "group": "f7ac51731d35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Medsestra jest lěpa i doktor jest krasivy",
+      "meaningInSourceLanguage": "The nurse is pretty and the doctor is handsome.",
+      "id": "781ae56985ee",
+      "priority": 0,
+      "group": "8d92acba36f0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "nurse",
+          "definition": "medsestra"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "pretty",
+          "definition": "lěpy"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "doctor",
+          "definition": "doktor"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "handsome.",
+          "definition": "krasive"
+        }
+      ],
+      "chips": [
+        "Medsestra",
+        "jest",
+        "lěpa",
+        "i",
+        "doktor",
+        "jest",
+        "krasivy",
+        "jesi",
+        "Jest",
+        "jesm",
+        "jeste",
+        "deti",
+        "česti"
+      ],
+      "solutions": [
+        [
+          "Medsestra",
+          "jest",
+          "lěpa",
+          "i",
+          "doktor",
+          "jest",
+          "krasivy"
+        ]
+      ],
+      "formattedSolution": "Medsestra jest lěpa i doktor jest krasivy",
+      "id": "787ddc05b62a",
+      "priority": 2,
+      "group": "8d92acba36f0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Medsestra",
+          "definition": "nurse"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "lěpa",
+          "definition": "beautiful"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "doktor",
+          "definition": "doctor"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "krasivy",
+          "definition": "beautiful"
+        }
+      ],
+      "chips": [
+        "The",
+        "nurse",
+        "is",
+        "pretty",
+        "and",
+        "the",
+        "doctor",
+        "is",
+        "handsome",
+        "are",
+        "me",
+        "as",
+        "We",
+        "He",
+        "She",
+        "be",
+        "or"
+      ],
+      "solutions": [
+        [
+          "The",
+          "nurse",
+          "is",
+          "pretty",
+          "and",
+          "the",
+          "doctor",
+          "is",
+          "handsome"
+        ],
+        [
+          "The",
+          "nurse",
+          "is",
+          "pretty",
+          "and",
+          "the",
+          "doctor",
+          "is",
+          "beautiful"
+        ],
+        [
+          "A",
+          "nurse",
+          "is",
+          "pretty",
+          "and",
+          "a",
+          "doctor",
+          "is",
+          "handsome"
+        ],
+        [
+          "A",
+          "nurse",
+          "is",
+          "pretty",
+          "and",
+          "a",
+          "doctor",
+          "is",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "The nurse is pretty and the doctor is handsome.",
+      "id": "11500f06e780",
+      "priority": 2,
+      "group": "8d92acba36f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Studentka jest lěpa, ale šofer jest škaradny",
+      "meaningInSourceLanguage": "The student is pretty, but the driver is ugly.",
+      "id": "1ee9637eafd8",
+      "priority": 0,
+      "group": "65833b42a510"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "student",
+          "definition": "student"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "pretty,",
+          "definition": "lěpy"
+        },
+        {
+          "word": "but",
+          "definition": "ale"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "driver",
+          "definition": "šofer"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "ugly.",
+          "definition": "škaradny"
+        }
+      ],
+      "chips": [
+        "Studentka",
+        "jest",
+        "lěpa",
+        "ale",
+        "šofer",
+        "jest",
+        "škaradny",
+        "je",
+        "Jest",
+        "šere",
+        "jesm",
+        "jesi",
+        "jeste"
+      ],
+      "solutions": [
+        [
+          "Studentka",
+          "jest",
+          "lěpa",
+          "ale",
+          "šofer",
+          "jest",
+          "škaradny"
+        ]
+      ],
+      "formattedSolution": "Studentka jest lěpa, ale šofer jest škaradny",
+      "id": "fd40f5c85a0d",
+      "priority": 2,
+      "group": "65833b42a510"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Studentka",
+          "definition": "student(female)"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "lěpa,",
+          "definition": "beautiful"
+        },
+        {
+          "word": "ale",
+          "definition": "but"
+        },
+        {
+          "word": "šofer",
+          "definition": "driver"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "škaradny",
+          "definition": "ugly"
+        }
+      ],
+      "chips": [
+        "The",
+        "student",
+        "is",
+        "pretty",
+        "but",
+        "the",
+        "driver",
+        "is",
+        "ugly",
+        "be",
+        "are",
+        "We",
+        "He",
+        "She",
+        "me",
+        "try",
+        "in"
+      ],
+      "solutions": [
+        [
+          "The",
+          "student",
+          "is",
+          "pretty",
+          "but",
+          "the",
+          "driver",
+          "is",
+          "ugly"
+        ],
+        [
+          "A",
+          "student",
+          "is",
+          "pretty",
+          "but",
+          "a",
+          "driver",
+          "is",
+          "ugly"
+        ]
+      ],
+      "formattedSolution": "The student is pretty, but the driver is ugly.",
+      "id": "ea85ba098ef7",
+      "priority": 2,
+      "group": "65833b42a510"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Provodnik jest lěpy, ale turistka jest krasiva",
+      "meaningInSourceLanguage": "The tour guide is pretty, but the tourist is beautiful.",
+      "id": "446fb8b12490",
+      "priority": 0,
+      "group": "c563a209a025"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "tour",
+          "definition": "tour"
+        },
+        {
+          "word": "guide",
+          "definition": "provodnik"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "pretty,",
+          "definition": "lěpy"
+        },
+        {
+          "word": "but",
+          "definition": "ale"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "tourist",
+          "definition": "tourist"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "beautiful.",
+          "definition": "krasive\nkrasivy"
+        }
+      ],
+      "chips": [
+        "Provodnik",
+        "jest",
+        "lěpy",
+        "ale",
+        "turistka",
+        "jest",
+        "krasiva",
+        "jesi",
+        "Jest",
+        "raste",
+        "jesm",
+        "jeste",
+        "brat"
+      ],
+      "solutions": [
+        [
+          "Provodnik",
+          "jest",
+          "lěpy",
+          "ale",
+          "turistka",
+          "jest",
+          "krasiva"
+        ]
+      ],
+      "formattedSolution": "Provodnik jest lěpy, ale turistka jest krasiva",
+      "id": "451a61c7f434",
+      "priority": 2,
+      "group": "c563a209a025"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Provodnik",
+          "definition": "guide\ntour guide"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "lěpy,",
+          "definition": "pretty"
+        },
+        {
+          "word": "ale",
+          "definition": "but"
+        },
+        {
+          "word": "turistka",
+          "definition": "tourist(female)"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "krasiva",
+          "definition": "beautiful"
+        }
+      ],
+      "chips": [
+        "The",
+        "tour",
+        "guide",
+        "is",
+        "pretty",
+        "but",
+        "the",
+        "tourist",
+        "is",
+        "beautiful",
+        "bus",
+        "be",
+        "to",
+        "buy",
+        "if",
+        "are",
+        "We",
+        "He",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "The",
+          "tour",
+          "guide",
+          "is",
+          "pretty",
+          "but",
+          "the",
+          "tourist",
+          "is",
+          "beautiful"
+        ],
+        [
+          "The",
+          "tour",
+          "guide",
+          "is",
+          "pretty",
+          "but",
+          "the",
+          "tourist",
+          "is",
+          "handsome"
+        ],
+        [
+          "A",
+          "tour",
+          "guide",
+          "is",
+          "pretty",
+          "but",
+          "a",
+          "tourist",
+          "is",
+          "beautiful"
+        ],
+        [
+          "A",
+          "tour",
+          "guide",
+          "is",
+          "pretty",
+          "but",
+          "a",
+          "tourist",
+          "is",
+          "handsome"
+        ]
+      ],
+      "formattedSolution": "The tour guide is pretty, but the tourist is beautiful.",
+      "id": "8b2e50ca3254",
+      "priority": 2,
+      "group": "c563a209a025"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Doktor ne jest škaradny, a raděje jest krasivy",
+      "meaningInSourceLanguage": "The doctor is not ugly, but rather he is handsome.",
+      "id": "ed84ddbe80ec",
+      "priority": 0,
+      "group": "65b649df8ea3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "doctor",
+          "definition": "doktor"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "ugly,",
+          "definition": "škaradny"
+        },
+        {
+          "word": "but",
+          "definition": "ale"
+        },
+        {
+          "word": "rather",
+          "definition": "raděje"
+        },
+        {
+          "word": "he",
+          "definition": "on"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "handsome.",
+          "definition": "krasive"
+        }
+      ],
+      "chips": [
+        "Doktor",
+        "ne",
+        "jest",
+        "škaradny",
+        "a",
+        "raděje",
+        "jest",
+        "krasivy",
+        "je",
+        "raste",
+        "jesi",
+        "se",
+        "Jest",
+        "te",
+        "Da"
+      ],
+      "solutions": [
+        [
+          "Doktor",
+          "ne",
+          "jest",
+          "škaradny",
+          "a",
+          "raděje",
+          "jest",
+          "krasivy"
+        ],
+        [
+          "Medikua",
+          "ez",
+          "da",
+          "itsusia",
+          "baizik",
+          "hura",
+          "ederra",
+          "da"
+        ]
+      ],
+      "formattedSolution": "Doktor ne jest škaradny, a raděje jest krasivy",
+      "id": "ab74b441a2cc",
+      "priority": 2,
+      "group": "65b649df8ea3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Doktor",
+          "definition": "doctor"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "škaradny,",
+          "definition": "ugly"
+        },
+        {
+          "word": "a",
+          "definition": "and"
+        },
+        {
+          "word": "raděje",
+          "definition": "rather"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "krasivy",
+          "definition": "beautiful"
+        }
+      ],
+      "chips": [
+        "The",
+        "doctor",
+        "is",
+        "not",
+        "ugly",
+        "but",
+        "rather",
+        "he",
+        "is",
+        "handsome",
+        "the",
+        "at",
+        "be",
+        "or",
+        "me",
+        "to",
+        "as",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "doctor",
+          "is",
+          "not",
+          "ugly",
+          "but",
+          "rather",
+          "he",
+          "is",
+          "handsome"
+        ],
+        [
+          "The",
+          "doctor",
+          "is",
+          "not",
+          "ugly",
+          "but",
+          "rather",
+          "she",
+          "is",
+          "beautiful"
+        ],
+        [
+          "A",
+          "doctor",
+          "is",
+          "not",
+          "ugly",
+          "but",
+          "rather",
+          "he",
+          "is",
+          "handsome"
+        ],
+        [
+          "A",
+          "doctor",
+          "is",
+          "not",
+          "ugly",
+          "but",
+          "rather",
+          "she",
+          "is",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "The doctor is not ugly, but rather he is handsome.",
+      "id": "4f131c95ea91",
+      "priority": 2,
+      "group": "65b649df8ea3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Policijnik jest mlady i krasivy muž",
+      "meaningInSourceLanguage": "The police officer is a young and handsome man.",
+      "id": "09e92b9c3c18",
+      "priority": 0,
+      "group": "230905f214a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "police",
+          "definition": "police"
+        },
+        {
+          "word": "officer",
+          "definition": "officer"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "young",
+          "definition": "mlade"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "handsome",
+          "definition": "krasive"
+        },
+        {
+          "word": "man.",
+          "definition": "muž"
+        }
+      ],
+      "chips": [
+        "Policijnik",
+        "jest",
+        "mlady",
+        "i",
+        "krasivy",
+        "muž",
+        "li",
+        "jesi",
+        "ili",
+        "muži",
+        "Oni"
+      ],
+      "solutions": [
+        [
+          "Policijnik",
+          "jest",
+          "mlady",
+          "i",
+          "krasivy",
+          "muž"
+        ]
+      ],
+      "formattedSolution": "Policijnik jest mlady i krasivy muž",
+      "id": "54dc71fcb7c0",
+      "priority": 2,
+      "group": "230905f214a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Policijnik",
+          "definition": "police officer"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "mlady",
+          "definition": "young"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "krasivy",
+          "definition": "beautiful"
+        },
+        {
+          "word": "muž",
+          "definition": "man"
+        }
+      ],
+      "chips": [
+        "The",
+        "police",
+        "officer",
+        "is",
+        "a",
+        "young",
+        "and",
+        "handsome",
+        "man",
+        "an",
+        "in",
+        "me",
+        "as",
+        "am",
+        "are",
+        "of",
+        "or"
+      ],
+      "solutions": [
+        [
+          "The",
+          "police",
+          "officer",
+          "is",
+          "a",
+          "young",
+          "and",
+          "handsome",
+          "man"
+        ],
+        [
+          "A",
+          "police",
+          "officer",
+          "is",
+          "the",
+          "young",
+          "and",
+          "handsome",
+          "man"
+        ]
+      ],
+      "formattedSolution": "The police officer is a young and handsome man.",
+      "id": "f49fbd86f35d",
+      "priority": 2,
+      "group": "230905f214a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One sut mlade i krasive ženy",
+      "meaningInSourceLanguage": "They are young and beautiful women.",
+      "id": "08d9a9bd369d",
+      "priority": 0,
+      "group": "78d854d4bef1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "one(feminine)\noni(masculine)"
+        },
+        {
+          "word": "are",
+          "definition": "jesi"
+        },
+        {
+          "word": "young",
+          "definition": "mlade"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "beautiful",
+          "definition": "krasive\nkrasivy"
+        },
+        {
+          "word": "women.",
+          "definition": "ženy"
+        }
+      ],
+      "chips": [
+        "One",
+        "sut",
+        "mlade",
+        "i",
+        "krasive",
+        "ženy",
+        "se",
+        "ne",
+        "že",
+        "Ona",
+        "Oni"
+      ],
+      "solutions": [
+        [
+          "One",
+          "sut",
+          "mlade",
+          "i",
+          "krasive",
+          "ženy"
+        ]
+      ],
+      "formattedSolution": "One sut mlade i krasive ženy",
+      "id": "86d39fcfadcf",
+      "priority": 2,
+      "group": "78d854d4bef1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "they(feminine)"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        },
+        {
+          "word": "mlade",
+          "definition": "young"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "krasive",
+          "definition": "beautiful"
+        },
+        {
+          "word": "ženy",
+          "definition": "women"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "young",
+        "and",
+        "beautiful",
+        "women",
+        "men",
+        "an",
+        "man",
+        "be",
+        "the"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "young",
+          "and",
+          "beautiful",
+          "women"
+        ]
+      ],
+      "formattedSolution": "They are young and beautiful women.",
+      "id": "f70f74f7f1e9",
+      "priority": 2,
+      "group": "78d854d4bef1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Šofer ne jest krasivy",
+      "meaningInSourceLanguage": "The driver is not handsome.",
+      "id": "4cf647407a95",
+      "priority": 0,
+      "group": "48a860eefbd2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "driver",
+          "definition": "šofer"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "handsome.",
+          "definition": "krasive"
+        }
+      ],
+      "chips": [
+        "Šofer",
+        "ne",
+        "jest",
+        "krasivy",
+        "jesi",
+        "je",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Šofer",
+          "ne",
+          "jest",
+          "krasivy"
+        ]
+      ],
+      "formattedSolution": "Šofer ne jest krasivy",
+      "id": "8798a72c00f1",
+      "priority": 2,
+      "group": "48a860eefbd2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Šofer",
+          "definition": "driver"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "krasivy",
+          "definition": "beautiful"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "is",
+        "not",
+        "handsome",
+        "are",
+        "me",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "is",
+          "not",
+          "handsome"
+        ],
+        [
+          "A",
+          "driver",
+          "is",
+          "not",
+          "handsome"
+        ],
+        [
+          "The",
+          "driver",
+          "is",
+          "not",
+          "beautiful"
+        ],
+        [
+          "A",
+          "driver",
+          "is",
+          "not",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "The driver is not handsome.",
+      "id": "62919134438a",
+      "priority": 2,
+      "group": "48a860eefbd2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Toj novy avtomobil jest nebesky i stary avtomobil jest zeleny",
+      "meaningInSourceLanguage": "The new car is blue and the old car is green.",
+      "id": "e186e6142087",
+      "priority": 0,
+      "group": "755d53fefbce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "new",
+          "definition": "novy"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "blue",
+          "definition": "nebesky"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "old",
+          "definition": "stara\nstary"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "green.",
+          "definition": "zeleny"
+        }
+      ],
+      "chips": [
+        "Toj",
+        "novy",
+        "avtomobil",
+        "jest",
+        "nebesky",
+        "i",
+        "stary",
+        "avtomobil",
+        "jest",
+        "zeleny",
+        "jesi",
+        "jesm",
+        "by",
+        "to",
+        "te",
+        "toj",
+        "je",
+        "ne",
+        "Jest"
+      ],
+      "solutions": [
+        [
+          "Toj",
+          "novy",
+          "avtomobil",
+          "jest",
+          "nebesky",
+          "i",
+          "stary",
+          "avtomobil",
+          "jest",
+          "zeleny"
+        ]
+      ],
+      "formattedSolution": "Toj novy avtomobil jest nebesky i stary avtomobil jest zeleny",
+      "id": "6d6326213775",
+      "priority": 2,
+      "group": "755d53fefbce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Toj",
+          "definition": "the"
+        },
+        {
+          "word": "novy",
+          "definition": "new"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "nebesky",
+          "definition": "blue"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "stary",
+          "definition": "old"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "zeleny",
+          "definition": "green"
+        }
+      ],
+      "chips": [
+        "The",
+        "new",
+        "car",
+        "is",
+        "blue",
+        "and",
+        "the",
+        "old",
+        "car",
+        "is",
+        "green",
+        "are",
+        "be",
+        "We",
+        "He",
+        "me",
+        "an",
+        "as",
+        "She",
+        "or",
+        "One"
+      ],
+      "solutions": [
+        [
+          "The",
+          "new",
+          "car",
+          "is",
+          "blue",
+          "and",
+          "the",
+          "old",
+          "car",
+          "is",
+          "green"
+        ],
+        [
+          "A",
+          "new",
+          "car",
+          "is",
+          "blue",
+          "and",
+          "an",
+          "old",
+          "car",
+          "is",
+          "green"
+        ]
+      ],
+      "formattedSolution": "The new car is blue and the old car is green.",
+      "id": "2ac74bfed8ce",
+      "priority": 2,
+      "group": "755d53fefbce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Toj nebesky avtomobil jest škaradny i zeleny avtomobil jest krasivy",
+      "meaningInSourceLanguage": "The blue car is ugly and the green car is pretty.",
+      "id": "cf300bf77170",
+      "priority": 0,
+      "group": "16596559f4ae"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "blue",
+          "definition": "nebesky"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "ugly",
+          "definition": "škaradny"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "green",
+          "definition": "zeleny"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "pretty.",
+          "definition": "lěpy"
+        }
+      ],
+      "chips": [
+        "Toj",
+        "nebesky",
+        "avtomobil",
+        "jest",
+        "škaradny",
+        "i",
+        "zeleny",
+        "avtomobil",
+        "jest",
+        "krasivy",
+        "jesi",
+        "jesm",
+        "jesmo",
+        "by",
+        "avto",
+        "Jest",
+        "ženy",
+        "deti",
+        "kosti"
+      ],
+      "solutions": [
+        [
+          "Toj",
+          "nebesky",
+          "avtomobil",
+          "jest",
+          "škaradny",
+          "i",
+          "zeleny",
+          "avtomobil",
+          "jest",
+          "krasivy"
+        ]
+      ],
+      "formattedSolution": "Toj nebesky avtomobil jest škaradny i zeleny avtomobil jest krasivy",
+      "id": "58cdcd2ac1d2",
+      "priority": 2,
+      "group": "16596559f4ae"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Toj",
+          "definition": "the"
+        },
+        {
+          "word": "nebesky",
+          "definition": "blue"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "škaradny",
+          "definition": "ugly"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "zeleny",
+          "definition": "green"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "krasivy",
+          "definition": "beautiful"
+        }
+      ],
+      "chips": [
+        "The",
+        "blue",
+        "car",
+        "is",
+        "ugly",
+        "and",
+        "the",
+        "green",
+        "car",
+        "is",
+        "pretty",
+        "are",
+        "be",
+        "We",
+        "He",
+        "She",
+        "me",
+        "an",
+        "as",
+        "or",
+        "One"
+      ],
+      "solutions": [
+        [
+          "The",
+          "blue",
+          "car",
+          "is",
+          "ugly",
+          "and",
+          "the",
+          "green",
+          "car",
+          "is",
+          "pretty"
+        ],
+        [
+          "A",
+          "blue",
+          "car",
+          "is",
+          "ugly",
+          "and",
+          "a",
+          "green",
+          "car",
+          "is",
+          "pretty"
+        ]
+      ],
+      "formattedSolution": "The blue car is ugly and the green car is pretty.",
+      "id": "7b28a0d8a781",
+      "priority": 2,
+      "group": "16596559f4ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Toj avtomobil ne jest stary a raděje jest novy",
+      "meaningInSourceLanguage": "The car is not old, but rather it is new.",
+      "id": "bd2535abec32",
+      "priority": 0,
+      "group": "aa49942d7064"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "old,",
+          "definition": "stara\nstary"
+        },
+        {
+          "word": "but",
+          "definition": "ale"
+        },
+        {
+          "word": "rather",
+          "definition": "raděje"
+        },
+        {
+          "word": "it",
+          "definition": "ono\nto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "new.",
+          "definition": "novy"
+        }
+      ],
+      "chips": [
+        "Toj",
+        "avtomobil",
+        "ne",
+        "jest",
+        "stary",
+        "a",
+        "raděje",
+        "jest",
+        "novy",
+        "je",
+        "te",
+        "se",
+        "to",
+        "toj",
+        "na",
+        "tam",
+        "od"
+      ],
+      "solutions": [
+        [
+          "Toj",
+          "avtomobil",
+          "ne",
+          "jest",
+          "stary",
+          "a",
+          "raděje",
+          "jest",
+          "novy"
+        ]
+      ],
+      "formattedSolution": "Toj avtomobil ne jest stary a raděje jest novy",
+      "id": "c27947481995",
+      "priority": 2,
+      "group": "aa49942d7064"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Toj",
+          "definition": "the"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "stary",
+          "definition": "old"
+        },
+        {
+          "word": "a",
+          "definition": "and"
+        },
+        {
+          "word": "raděje",
+          "definition": "rather"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "novy",
+          "definition": "new"
+        }
+      ],
+      "chips": [
+        "The",
+        "car",
+        "is",
+        "not",
+        "old",
+        "but",
+        "rather",
+        "it",
+        "is",
+        "new",
+        "at",
+        "It",
+        "be",
+        "or",
+        "as",
+        "We",
+        "He",
+        "eat",
+        "if"
+      ],
+      "solutions": [
+        [
+          "The",
+          "car",
+          "is",
+          "not",
+          "old",
+          "but",
+          "rather",
+          "it",
+          "is",
+          "new"
+        ]
+      ],
+      "formattedSolution": "The car is not old, but rather it is new.",
+      "id": "dd58dce9d915",
+      "priority": 2,
+      "group": "aa49942d7064"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Toj novy avtomobil jest brzy i stary avtomobil jest medly",
+      "meaningInSourceLanguage": "The new car is fast and the old car is slow.",
+      "id": "5a859dbc6306",
+      "priority": 0,
+      "group": "85b574da84a0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "new",
+          "definition": "novy"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "fast",
+          "definition": "brzy"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "old",
+          "definition": "stara\nstary"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "slow.",
+          "definition": "medly"
+        }
+      ],
+      "chips": [
+        "Toj",
+        "novy",
+        "avtomobil",
+        "jest",
+        "brzy",
+        "i",
+        "stary",
+        "avtomobil",
+        "jest",
+        "medly",
+        "jesi",
+        "by",
+        "to",
+        "moj",
+        "toj",
+        "jesm",
+        "ti",
+        "te",
+        "tož"
+      ],
+      "solutions": [
+        [
+          "Toj",
+          "novy",
+          "avtomobil",
+          "jest",
+          "brzy",
+          "i",
+          "stary",
+          "avtomobil",
+          "jest",
+          "medly"
+        ]
+      ],
+      "formattedSolution": "Toj novy avtomobil jest brzy i stary avtomobil jest medly",
+      "id": "5a96e9d276c4",
+      "priority": 2,
+      "group": "85b574da84a0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Toj",
+          "definition": "the"
+        },
+        {
+          "word": "novy",
+          "definition": "new"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "brzy",
+          "definition": "fast"
+        },
+        {
+          "word": "i",
+          "definition": "and"
+        },
+        {
+          "word": "stary",
+          "definition": "old"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "medly",
+          "definition": "slow"
+        }
+      ],
+      "chips": [
+        "The",
+        "new",
+        "car",
+        "is",
+        "fast",
+        "and",
+        "the",
+        "old",
+        "car",
+        "is",
+        "slow",
+        "as",
+        "an",
+        "at",
+        "am",
+        "are",
+        "a",
+        "was",
+        "or",
+        "has",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "new",
+          "car",
+          "is",
+          "fast",
+          "and",
+          "the",
+          "old",
+          "car",
+          "is",
+          "slow"
+        ],
+        [
+          "A",
+          "new",
+          "car",
+          "is",
+          "fast",
+          "and",
+          "an",
+          "old",
+          "car",
+          "is",
+          "slow"
+        ]
+      ],
+      "formattedSolution": "The new car is fast and the old car is slow.",
+      "id": "269fad9e412f",
+      "priority": 2,
+      "group": "85b574da84a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Toj stary avtomobil jest medly a zeleny avtomobil jest brzy",
+      "meaningInSourceLanguage": "The blue car is slow and the green car is fast.",
+      "id": "3956da5f27fb",
+      "priority": 0,
+      "group": "3cb43fffed20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "toj"
+        },
+        {
+          "word": "blue",
+          "definition": "nebesky"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "slow",
+          "definition": "medly"
+        },
+        {
+          "word": "and",
+          "definition": "i"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "green",
+          "definition": "zeleny"
+        },
+        {
+          "word": "car",
+          "definition": "avto"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "fast.",
+          "definition": "brzy"
+        }
+      ],
+      "chips": [
+        "Toj",
+        "stary",
+        "avtomobil",
+        "jest",
+        "medly",
+        "a",
+        "zeleny",
+        "avtomobil",
+        "jest",
+        "brzy",
+        "jesm",
+        "jesi",
+        "by",
+        "te",
+        "je",
+        "byl",
+        "tam",
+        "avto",
+        "to"
+      ],
+      "solutions": [
+        [
+          "Toj",
+          "stary",
+          "avtomobil",
+          "jest",
+          "medly",
+          "a",
+          "zeleny",
+          "avtomobil",
+          "jest",
+          "brzy"
+        ]
+      ],
+      "formattedSolution": "Toj stary avtomobil jest medly a zeleny avtomobil jest brzy",
+      "id": "e4e7999f7a31",
+      "priority": 2,
+      "group": "3cb43fffed20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Toj",
+          "definition": "the"
+        },
+        {
+          "word": "stary",
+          "definition": "old"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "medly",
+          "definition": "slow"
+        },
+        {
+          "word": "a",
+          "definition": "and"
+        },
+        {
+          "word": "zeleny",
+          "definition": "green"
+        },
+        {
+          "word": "avtomobil",
+          "definition": "car"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        },
+        {
+          "word": "brzy",
+          "definition": "fast"
+        }
+      ],
+      "chips": [
+        "The",
+        "blue",
+        "car",
+        "is",
+        "slow",
+        "and",
+        "the",
+        "green",
+        "car",
+        "is",
+        "fast",
+        "are",
+        "as",
+        "an",
+        "be",
+        "at",
+        "am",
+        "We",
+        "He",
+        "She",
+        "a"
+      ],
+      "solutions": [
+        [
+          "The",
+          "blue",
+          "car",
+          "is",
+          "slow",
+          "and",
+          "the",
+          "green",
+          "car",
+          "is",
+          "fast"
+        ],
+        [
+          "A",
+          "blue",
+          "car",
+          "is",
+          "slow",
+          "and",
+          "a",
+          "green",
+          "car",
+          "is",
+          "fast"
+        ]
+      ],
+      "formattedSolution": "The blue car is slow and the green car is fast.",
+      "id": "e75917c469a0",
+      "priority": 2,
+      "group": "3cb43fffed20"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "pretty1.jpg",
+        "pretty2.jpg",
+        "pretty3.jpg"
+      ],
+      "formInTargetLanguage": "krasivy",
+      "meaningInSourceLanguage": "beautiful",
+      "id": "5d8515249b57",
+      "priority": 0,
+      "group": "f8b8bca00510"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "pretty1.jpg",
+        "pretty2.jpg",
+        "pretty3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "krasivy"
+      ],
+      "phrase": [
+        {
+          "word": "beautiful",
+          "definition": "krasive\nkrasivy"
+        }
+      ],
+      "id": "9c44025aa42e",
+      "priority": 1,
+      "group": "f8b8bca00510"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "škaradny",
+      "meaningInSourceLanguage": "ugly",
+      "id": "9db89bf4c57f",
+      "priority": 0,
+      "group": "bb01a1d8398c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "škaradny"
+      ],
+      "phrase": [
+        {
+          "word": "ugly",
+          "definition": "škaradny"
+        }
+      ],
+      "id": "28d66ea4c712",
+      "priority": 1,
+      "group": "bb01a1d8398c"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "pretty1.jpg",
+        "pretty2.jpg",
+        "pretty3.jpg"
+      ],
+      "formInTargetLanguage": "lěpy",
+      "meaningInSourceLanguage": "pretty",
+      "id": "eb06636a0d25",
+      "priority": 0,
+      "group": "6ffd5d436677"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "pretty1.jpg",
+        "pretty2.jpg",
+        "pretty3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "lěpy"
+      ],
+      "phrase": [
+        {
+          "word": "pretty",
+          "definition": "lěpy"
+        }
+      ],
+      "id": "4b4781c5bae2",
+      "priority": 1,
+      "group": "6ffd5d436677"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "novy",
+      "meaningInSourceLanguage": "new",
+      "id": "f3295c7b582d",
+      "priority": 0,
+      "group": "d831c9345c17"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "novy"
+      ],
+      "phrase": [
+        {
+          "word": "new",
+          "definition": "novy"
+        }
+      ],
+      "id": "b2c278cb534c",
+      "priority": 1,
+      "group": "d831c9345c17"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "fast1.jpg",
+        "fast2.jpg",
+        "fast3.jpg"
+      ],
+      "formInTargetLanguage": "brzy",
+      "meaningInSourceLanguage": "fast",
+      "id": "007719368833",
+      "priority": 0,
+      "group": "0760da0777cc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "fast1.jpg",
+        "fast2.jpg",
+        "fast3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "brzy"
+      ],
+      "phrase": [
+        {
+          "word": "fast",
+          "definition": "brzy"
+        }
+      ],
+      "id": "d2cb9063b360",
+      "priority": 1,
+      "group": "0760da0777cc"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "snail1.jpg",
+        "snail2.jpg",
+        "snail3.jpg"
+      ],
+      "formInTargetLanguage": "medly",
+      "meaningInSourceLanguage": "slow",
+      "id": "4d1adbbf13cb",
+      "priority": 0,
+      "group": "b9f2a1e2bdf1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "snail1.jpg",
+        "snail2.jpg",
+        "snail3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "medly"
+      ],
+      "phrase": [
+        {
+          "word": "slow",
+          "definition": "medly"
+        }
+      ],
+      "id": "a651d23232e0",
+      "priority": 1,
+      "group": "b9f2a1e2bdf1"
+    }
+  ]
+}
