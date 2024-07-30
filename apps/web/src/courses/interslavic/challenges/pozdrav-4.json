@@ -2553,16 +2553,24 @@
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "office1.jpg",
+        "office2.jpg",
+        "office3.jpg"
+      ],
       "formInTargetLanguage": "Rabotati",
       "meaningInSourceLanguage": "Work",
-      "id": "1289e449498c",
+      "id": "70c071ad8465",
       "priority": 0,
-      "group": "dacd9f81c2e2"
+      "group": "0e33722c1c46"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "office1.jpg",
+        "office2.jpg",
+        "office3.jpg"
+      ],
       "formInTargetLanguage": [
         "Rabotati"
       ],
@@ -2572,9 +2580,9 @@
           "definition": "Rabotati"
         }
       ],
-      "id": "8ca5feb8c031",
+      "id": "f05c31f6208b",
       "priority": 1,
-      "group": "dacd9f81c2e2"
+      "group": "0e33722c1c46"
     }
   ]
 }
