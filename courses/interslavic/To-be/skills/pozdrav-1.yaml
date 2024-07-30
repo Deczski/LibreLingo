@@ -7,60 +7,78 @@ Skill:
   - hello1
 
 New words:
+
+  - Word: Arratsalde on
+    Translation: Good afternoon
+    Images:
+      - afternoon1
+      - afternoon2
+      - afternoon3
+
   - Word: Ja
     Translation: I
     Images:
-      - iam
+      - iam1
+      - iam2
+      - iam3
 
-New words:
   - Word: Ty
     Translation: You(singular)
     Images:
+      - you1
       - you2
+      - you3
 
-New words:
   - Word: On
     Translation: He
     Images:
       - he1
+      - he2
+      - he3
 
-New words:
   - Word: Ona
     Translation: She
     Images:
+      - she1
       - she2
+      - she3
 
-New words:
+
   - Word: Ono
     Translation: It
     Images:
+      - baby1
+      - baby2
       - baby3
 
-New words:
   - Word: My
     Translation: We
     Images:
       - we1
+      - we2
+      - we3
 
-New words:
-  - Word: Wy
+  - Word: Vy
     Translation: You(plural)
     Images:
       - they1
+      - they2
+      - they3
 
-New words:
   - Word: Oni
     Translation: They(masculine)
     Images:
+      - they1
       - they2
+      - they3
 
-New words:
   - Word: One
     Translation: They(feminine)
     Images:
+      - they1
+      - they2
       - they3
 
-New words:
   - Word: muž
     Translation: man
     Images:

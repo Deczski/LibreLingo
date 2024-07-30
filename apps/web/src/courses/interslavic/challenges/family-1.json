@@ -393,7 +393,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "sut",
@@ -444,7 +444,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "is",
@@ -487,7 +487,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "jest",
@@ -1302,7 +1302,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi",
@@ -1389,7 +1389,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "Jesi",
@@ -1476,7 +1476,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi",
@@ -1523,7 +1523,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "is",
@@ -1564,7 +1564,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "jest",
@@ -1872,7 +1872,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "are",
@@ -1908,7 +1908,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "jesmo",

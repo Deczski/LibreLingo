@@ -1,6 +1,6 @@
 {
   "id": "76a6c8df6b2b",
-  "levels": 7,
+  "levels": 8,
   "challenges": [
     {
       "type": "options",
@@ -84,7 +84,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "ty"
+          "definition": "Ty\nty"
         },
         {
           "word": "are",
@@ -114,7 +114,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi",
@@ -152,7 +152,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "are",
@@ -182,7 +182,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "jesmo",
@@ -220,7 +220,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "are",
@@ -250,7 +250,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "jeste",
@@ -288,7 +288,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "is",
@@ -318,7 +318,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "jest",
@@ -356,7 +356,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "is",
@@ -386,7 +386,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "jest",
@@ -424,7 +424,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "is",
@@ -454,7 +454,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "it"
+          "definition": "It"
         },
         {
           "word": "jest",
@@ -492,7 +492,7 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "oni"
+          "definition": "Oni\noni"
         },
         {
           "word": "are",
@@ -522,7 +522,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "sut",
@@ -560,7 +560,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "are",
@@ -590,7 +590,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "sut",
@@ -1037,7 +1037,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi",
@@ -1124,7 +1124,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "Jesi",
@@ -1211,7 +1211,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi",
@@ -1258,7 +1258,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "is",
@@ -1299,7 +1299,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "jest",
@@ -1607,7 +1607,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "are",
@@ -1643,7 +1643,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "jesmo",
@@ -1773,6 +1773,340 @@
       "id": "e7c1ef801141",
       "priority": 2,
       "group": "3338864db798"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
+      "formInTargetLanguage": "Arratsalde on",
+      "meaningInSourceLanguage": "Good afternoon",
+      "id": "b02829b2ca1f",
+      "priority": 0,
+      "group": "36bdb8606b37"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "afternoon1.jpg",
+        "afternoon2.jpg",
+        "afternoon3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Arratsalde on"
+      ],
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobro"
+        },
+        {
+          "word": "afternoon",
+          "definition": "popoludnje"
+        }
+      ],
+      "id": "0288443274ad",
+      "priority": 1,
+      "group": "36bdb8606b37"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "iam1.jpg",
+        "iam2.jpg",
+        "iam3.jpg"
+      ],
+      "formInTargetLanguage": "Ja",
+      "meaningInSourceLanguage": "I",
+      "id": "4f9a31120b4a",
+      "priority": 0,
+      "group": "39e1dfc8e486"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "iam1.jpg",
+        "iam2.jpg",
+        "iam3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Ja"
+      ],
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        }
+      ],
+      "id": "b462f17c66ac",
+      "priority": 1,
+      "group": "39e1dfc8e486"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "you1.jpg",
+        "you2.jpg",
+        "you3.jpg"
+      ],
+      "formInTargetLanguage": "Ty",
+      "meaningInSourceLanguage": "You(singular)",
+      "id": "46876b4b5dfa",
+      "priority": 0,
+      "group": "6775fb18274d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "you1.jpg",
+        "you2.jpg",
+        "you3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Ty"
+      ],
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "Ty\nty"
+        }
+      ],
+      "id": "1d719d959490",
+      "priority": 1,
+      "group": "6775fb18274d"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "he1.jpg",
+        "he2.jpg",
+        "he3.jpg"
+      ],
+      "formInTargetLanguage": "On",
+      "meaningInSourceLanguage": "He",
+      "id": "b482bef78438",
+      "priority": 0,
+      "group": "92512ecb0352"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "he1.jpg",
+        "he2.jpg",
+        "he3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "On"
+      ],
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        }
+      ],
+      "id": "c674e779be4c",
+      "priority": 1,
+      "group": "92512ecb0352"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "she1.jpg",
+        "she2.jpg",
+        "she3.jpg"
+      ],
+      "formInTargetLanguage": "Ona",
+      "meaningInSourceLanguage": "She",
+      "id": "9ced205fa156",
+      "priority": 0,
+      "group": "cd75fec93709"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "she1.jpg",
+        "she2.jpg",
+        "she3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Ona"
+      ],
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "Ona"
+        }
+      ],
+      "id": "804c953479c0",
+      "priority": 1,
+      "group": "cd75fec93709"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "baby1.jpg",
+        "baby2.jpg",
+        "baby3.jpg"
+      ],
+      "formInTargetLanguage": "Ono",
+      "meaningInSourceLanguage": "It",
+      "id": "31c91989eb02",
+      "priority": 0,
+      "group": "4ac9acad12ad"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "baby1.jpg",
+        "baby2.jpg",
+        "baby3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Ono"
+      ],
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "Ono"
+        }
+      ],
+      "id": "fb3026b68db0",
+      "priority": 1,
+      "group": "4ac9acad12ad"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "we1.jpg",
+        "we2.jpg",
+        "we3.jpg"
+      ],
+      "formInTargetLanguage": "My",
+      "meaningInSourceLanguage": "We",
+      "id": "897c4f61bf76",
+      "priority": 0,
+      "group": "d2fb315c1c85"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "we1.jpg",
+        "we2.jpg",
+        "we3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "My"
+      ],
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "My\nmy"
+        }
+      ],
+      "id": "8234ec523605",
+      "priority": 1,
+      "group": "d2fb315c1c85"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "they1.jpg",
+        "they2.jpg",
+        "they3.jpg"
+      ],
+      "formInTargetLanguage": "Vy",
+      "meaningInSourceLanguage": "You(plural)",
+      "id": "3046e753acfd",
+      "priority": 0,
+      "group": "f7cd2da217af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "they1.jpg",
+        "they2.jpg",
+        "they3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Vy"
+      ],
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "Vy\nvy"
+        }
+      ],
+      "id": "5507152bfcb3",
+      "priority": 1,
+      "group": "f7cd2da217af"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "they1.jpg",
+        "they2.jpg",
+        "they3.jpg"
+      ],
+      "formInTargetLanguage": "Oni",
+      "meaningInSourceLanguage": "They(masculine)",
+      "id": "43d1750ff6bb",
+      "priority": 0,
+      "group": "35622213d70e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "they1.jpg",
+        "they2.jpg",
+        "they3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "Oni"
+      ],
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "Oni\noni"
+        }
+      ],
+      "id": "36c2a1d2d194",
+      "priority": 1,
+      "group": "35622213d70e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "they1.jpg",
+        "they2.jpg",
+        "they3.jpg"
+      ],
+      "formInTargetLanguage": "One",
+      "meaningInSourceLanguage": "They(feminine)",
+      "id": "be318cf21be9",
+      "priority": 0,
+      "group": "d70ac2b2109f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "they1.jpg",
+        "they2.jpg",
+        "they3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "One"
+      ],
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "One\none"
+        }
+      ],
+      "id": "10bc63fb1a5f",
+      "priority": 1,
+      "group": "d70ac2b2109f"
     },
     {
       "type": "cards",
@@ -2009,7 +2343,7 @@
       "phrase": [
         {
           "word": "he",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "is",

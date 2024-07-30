@@ -89,7 +89,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "ty"
+          "definition": "Ty\nty"
         },
         {
           "word": "will",
@@ -119,7 +119,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "budeš",
@@ -162,7 +162,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "will",
@@ -192,7 +192,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "bude",
@@ -235,7 +235,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "will",
@@ -265,7 +265,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "bude",
@@ -308,7 +308,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "will",
@@ -338,7 +338,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "it"
+          "definition": "It"
         },
         {
           "word": "bude",
@@ -381,7 +381,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "will",
@@ -411,7 +411,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "budemo",
@@ -454,7 +454,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "will",
@@ -484,7 +484,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "budete",
@@ -527,7 +527,7 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "oni"
+          "definition": "Oni\noni"
         },
         {
           "word": "will",
@@ -557,7 +557,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "budut",
@@ -742,7 +742,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "zautra",
@@ -795,7 +795,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "will",
@@ -835,7 +835,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "budemo",
@@ -882,7 +882,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "will",
@@ -918,7 +918,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "budete",
@@ -962,7 +962,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "will",
@@ -998,7 +998,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "budut",
@@ -1078,7 +1078,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "budut",
@@ -1202,7 +1202,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "ty"
+          "definition": "Ty\nty"
         },
         {
           "word": "will",
@@ -1238,7 +1238,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "budeš",
@@ -1282,7 +1282,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "will",
@@ -1318,7 +1318,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "budemo",
@@ -1362,7 +1362,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "will",
@@ -1398,7 +1398,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "bude",
@@ -1442,7 +1442,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "will",
@@ -1478,7 +1478,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "bude",
@@ -1522,7 +1522,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "will",
@@ -1558,7 +1558,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "it"
+          "definition": "It"
         },
         {
           "word": "bude",
@@ -1602,7 +1602,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "will",
@@ -1642,7 +1642,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "budemo",
@@ -1689,7 +1689,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "will",
@@ -1725,7 +1725,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "budete",
@@ -1769,7 +1769,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "will",
@@ -1816,7 +1816,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "budut",

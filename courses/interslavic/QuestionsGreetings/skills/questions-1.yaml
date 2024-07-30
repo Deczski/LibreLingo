@@ -131,6 +131,9 @@ Phrases:
   - Phrase: Jest to takože avto?
     Translation: Is it also a car?
 
+  - Phrase: Kogda budeš ty prijdti?
+    Translation: When will You come?   
+
   - Phrase: Jest to avtobus ili avto?
     Translation: Is it a bus or a car?
     Alternative translations:
@@ -201,7 +204,10 @@ Phrases:
     Translation: What is Your name?  
 
   - Phrase: Koliko imaš lět?
-    Translation: How old are You?  
+    Translation: How old are You?
+
+  - Phrase: Kogda avtobus bude prijdti?
+    Translation: When will the bus come?    
   
 
 Mini-dictionary:

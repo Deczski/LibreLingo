@@ -31,6 +31,16 @@
             "hello1"
           ],
           "summary": [
+            "Arratsalde on",
+            "Ja",
+            "Ty",
+            "On",
+            "Ona",
+            "Ono",
+            "My",
+            "Vy",
+            "Oni",
+            "One",
             "muž",
             "žena",
             "hlapec",
@@ -65,7 +75,7 @@
           "practiceHref": "pozdrav-1",
           "id": "76a6c8df6b2b",
           "title": "Pozdrav-1",
-          "levels": 7
+          "levels": 8
         },
         {
           "imageSet": [
@@ -204,6 +214,7 @@
             "ili",
             "kde",
             "ime",
+            "kogda",
             "Pozdrav. Kto Ty jesi?",
             "Čto Ty jesi?",
             "Jesi Ty učitelj?",
@@ -215,6 +226,7 @@
             "Jest on hlapec?",
             "Jest to avtobus?",
             "Jest to takože avto?",
+            "Kogda budeš ty prijdti?",
             "Jest to avtobus ili avto?",
             "Kto My jesmo?",
             "Čto My jesmo?",
@@ -232,12 +244,13 @@
             "Sut Oni ženy ili muži?",
             "Ktory človek to sdělal?",
             "Kako jest Tvoje ime?",
-            "Koliko imaš lět?"
+            "Koliko imaš lět?",
+            "Kogda avtobus bude prijdti?"
           ],
           "practiceHref": "questions",
           "id": "3e8e332663cb",
           "title": "Questions",
-          "levels": 8
+          "levels": 9
         },
         {
           "imageSet": [
@@ -274,6 +287,11 @@
           "levels": 5
         },
         {
+          "imageSet": [
+            "hello3",
+            "moon2",
+            "thankyou1"
+          ],
           "summary": [
             "do viděnja",
             "zajutra",

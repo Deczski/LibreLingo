@@ -1,6 +1,6 @@
 {
   "id": "3e8e332663cb",
-  "levels": 8,
+  "levels": 9,
   "challenges": [
     {
       "type": "options",
@@ -38,7 +38,7 @@
         "jesi",
         "to",
         "je",
-        "ti"
+        "ty"
       ],
       "solutions": [
         [
@@ -67,7 +67,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi?",
@@ -156,7 +156,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi?",
@@ -240,7 +240,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "učitelj?",
@@ -351,7 +351,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "učitelj",
@@ -428,7 +428,7 @@
         },
         {
           "word": "he?",
-          "definition": "on"
+          "definition": "On"
         }
       ],
       "chips": [
@@ -464,7 +464,7 @@
         },
         {
           "word": "on?",
-          "definition": "he"
+          "definition": "He"
         }
       ],
       "chips": [
@@ -508,7 +508,7 @@
         },
         {
           "word": "she?",
-          "definition": "ona"
+          "definition": "Ona"
         }
       ],
       "chips": [
@@ -544,7 +544,7 @@
         },
         {
           "word": "ona?",
-          "definition": "she"
+          "definition": "She"
         }
       ],
       "chips": [
@@ -588,7 +588,7 @@
         },
         {
           "word": "it?",
-          "definition": "ono\nto"
+          "definition": "Ono"
         }
       ],
       "chips": [
@@ -624,7 +624,7 @@
         },
         {
           "word": "ono?",
-          "definition": "it"
+          "definition": "It"
         }
       ],
       "chips": [
@@ -664,7 +664,7 @@
         },
         {
           "word": "she",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "a",
@@ -708,7 +708,7 @@
         },
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "děvčina?",
@@ -761,7 +761,7 @@
         },
         {
           "word": "he",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "a",
@@ -801,7 +801,7 @@
         },
         {
           "word": "on",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "hlapec?",
@@ -854,7 +854,7 @@
         },
         {
           "word": "it",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "the",
@@ -947,7 +947,7 @@
         },
         {
           "word": "it",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "also",
@@ -1032,6 +1032,100 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Kogda budeš ty prijdti?",
+      "meaningInSourceLanguage": "When will You come?",
+      "id": "a094281a32ba",
+      "priority": 0,
+      "group": "0ab85fb60dd1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "When",
+          "definition": "kogda"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "come?",
+          "definition": "come?"
+        }
+      ],
+      "chips": [
+        "Kogda",
+        "budeš",
+        "ty",
+        "prijdti",
+        "bude",
+        "Kde",
+        "od"
+      ],
+      "solutions": [
+        [
+          "Kogda",
+          "budeš",
+          "ty",
+          "prijdti"
+        ]
+      ],
+      "formattedSolution": "Kogda budeš ty prijdti?",
+      "id": "6fd7509a6187",
+      "priority": 2,
+      "group": "0ab85fb60dd1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kogda",
+          "definition": "when"
+        },
+        {
+          "word": "budeš",
+          "definition": "will"
+        },
+        {
+          "word": "ty",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "prijdti?",
+          "definition": "prijdti?"
+        }
+      ],
+      "chips": [
+        "When",
+        "will",
+        "You",
+        "come",
+        "We",
+        "She",
+        "you"
+      ],
+      "solutions": [
+        [
+          "When",
+          "will",
+          "You",
+          "come"
+        ]
+      ],
+      "formattedSolution": "When will You come?",
+      "id": "5e64aff75564",
+      "priority": 2,
+      "group": "0ab85fb60dd1"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Jest to avtobus ili avto?",
       "meaningInSourceLanguage": "Is it a bus or a car?",
       "id": "3ed4ba138cc9",
@@ -1048,7 +1142,7 @@
         },
         {
           "word": "it",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "a",
@@ -1183,7 +1277,7 @@
         },
         {
           "word": "we?",
-          "definition": "my"
+          "definition": "My\nmy"
         }
       ],
       "chips": [
@@ -1215,7 +1309,7 @@
         },
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "jesmo?",
@@ -1263,7 +1357,7 @@
         },
         {
           "word": "we?",
-          "definition": "my"
+          "definition": "My\nmy"
         }
       ],
       "chips": [
@@ -1295,7 +1389,7 @@
         },
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "jesmo?",
@@ -1343,7 +1437,7 @@
         },
         {
           "word": "you(plural)?",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         }
       ],
       "chips": [
@@ -1375,7 +1469,7 @@
         },
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "jeste?",
@@ -1470,7 +1564,7 @@
         },
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "sut?",
@@ -1550,7 +1644,7 @@
         },
         {
           "word": "oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "sut?",
@@ -1634,7 +1728,7 @@
         },
         {
           "word": "oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "avtobusy?",
@@ -1736,7 +1830,7 @@
         },
         {
           "word": "oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "avtobusy",
@@ -1807,7 +1901,7 @@
         },
         {
           "word": "you(plural)?",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         }
       ],
       "chips": [
@@ -1839,7 +1933,7 @@
         },
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "jeste?",
@@ -1898,7 +1992,7 @@
         },
         {
           "word": "you(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "teachers?",
@@ -1934,7 +2028,7 @@
         },
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "učitelji?",
@@ -2315,7 +2409,7 @@
         },
         {
           "word": "oni?",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         }
       ],
       "chips": [
@@ -2405,7 +2499,7 @@
         },
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "ženy",
@@ -2471,7 +2565,7 @@
         },
         {
           "word": "it?",
-          "definition": "ono\nto"
+          "definition": "Ono"
         }
       ],
       "chips": [
@@ -2719,6 +2813,107 @@
       "id": "1883223f6d10",
       "priority": 2,
       "group": "6b3692f95c0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kogda avtobus bude prijdti?",
+      "meaningInSourceLanguage": "When will the bus come?",
+      "id": "714a8a37cd40",
+      "priority": 0,
+      "group": "fced86712f3e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "When",
+          "definition": "kogda"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "the",
+          "definition": "toj"
+        },
+        {
+          "word": "bus",
+          "definition": "avtobus\nbus"
+        },
+        {
+          "word": "come?",
+          "definition": "come?"
+        }
+      ],
+      "chips": [
+        "Kogda",
+        "avtobus",
+        "bude",
+        "prijdti",
+        "budu",
+        "Kde",
+        "avto"
+      ],
+      "solutions": [
+        [
+          "Kogda",
+          "avtobus",
+          "bude",
+          "prijdti"
+        ]
+      ],
+      "formattedSolution": "Kogda avtobus bude prijdti?",
+      "id": "097fbea9f8fd",
+      "priority": 2,
+      "group": "fced86712f3e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kogda",
+          "definition": "when"
+        },
+        {
+          "word": "avtobus",
+          "definition": "bus"
+        },
+        {
+          "word": "bude",
+          "definition": "will"
+        },
+        {
+          "word": "prijdti?",
+          "definition": "prijdti?"
+        }
+      ],
+      "chips": [
+        "When",
+        "will",
+        "the",
+        "bus",
+        "come",
+        "She",
+        "The",
+        "We",
+        "be"
+      ],
+      "solutions": [
+        [
+          "When",
+          "will",
+          "the",
+          "bus",
+          "come"
+        ]
+      ],
+      "formattedSolution": "When will the bus come?",
+      "id": "4a4e8bcaa5e9",
+      "priority": 2,
+      "group": "fced86712f3e"
     },
     {
       "type": "cards",
@@ -3016,6 +3211,39 @@
       "id": "5d098493fe0a",
       "priority": 1,
       "group": "23dd02b46a2d"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "when1.jpg",
+        "when2.jpg",
+        "when3.jpg"
+      ],
+      "formInTargetLanguage": "kogda",
+      "meaningInSourceLanguage": "when",
+      "id": "1a023d0f3bcb",
+      "priority": 0,
+      "group": "205cb5ff4014"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "when1.jpg",
+        "when2.jpg",
+        "when3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kogda"
+      ],
+      "phrase": [
+        {
+          "word": "when",
+          "definition": "kogda"
+        }
+      ],
+      "id": "de8465b77b3b",
+      "priority": 1,
+      "group": "205cb5ff4014"
     }
   ]
 }

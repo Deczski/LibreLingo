@@ -84,7 +84,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "ty"
+          "definition": "Ty\nty"
         },
         {
           "word": "would",
@@ -114,7 +114,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "bys",
@@ -152,7 +152,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "would",
@@ -182,7 +182,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "by",
@@ -220,7 +220,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "would",
@@ -250,7 +250,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "by",
@@ -288,7 +288,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "would",
@@ -318,7 +318,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "it"
+          "definition": "It"
         },
         {
           "word": "by",
@@ -356,7 +356,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "would",
@@ -386,7 +386,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "byhmo",
@@ -424,7 +424,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "would",
@@ -454,7 +454,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "byste",
@@ -492,7 +492,7 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "oni"
+          "definition": "Oni\noni"
         },
         {
           "word": "would",
@@ -522,7 +522,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "by",
@@ -560,7 +560,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "would",
@@ -590,7 +590,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "by",
@@ -744,7 +744,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "bys",
@@ -788,7 +788,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "would",
@@ -824,7 +824,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "byhmo",
@@ -904,7 +904,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "byste",
@@ -948,7 +948,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "would",
@@ -984,7 +984,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "by",
@@ -1064,7 +1064,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "by",
@@ -1195,7 +1195,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "ty"
+          "definition": "Ty\nty"
         },
         {
           "word": "would",
@@ -1231,7 +1231,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "bys",
@@ -1275,7 +1275,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "would",
@@ -1311,7 +1311,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "byhmo",
@@ -1355,7 +1355,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "would",
@@ -1391,7 +1391,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "by",
@@ -1435,7 +1435,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "would",
@@ -1471,7 +1471,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "by",
@@ -1515,7 +1515,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "would",
@@ -1551,7 +1551,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "it"
+          "definition": "It"
         },
         {
           "word": "by",
@@ -1595,7 +1595,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "would",
@@ -1642,7 +1642,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "byhmo",
@@ -1696,7 +1696,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "would",
@@ -1732,7 +1732,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "byste",
@@ -2071,7 +2071,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "bys",
@@ -2091,7 +2091,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "bys",
@@ -2157,7 +2157,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "would",
@@ -2181,7 +2181,7 @@
         },
         {
           "word": "we",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "had",
@@ -2197,7 +2197,7 @@
         },
         {
           "word": "it",
-          "definition": "ono\nto"
+          "definition": "Ono"
         }
       ],
       "chips": [
@@ -2258,7 +2258,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "byhmo",
@@ -2278,7 +2278,7 @@
         },
         {
           "word": "my",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "byhmo",
@@ -2354,7 +2354,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "would",
@@ -2378,7 +2378,7 @@
         },
         {
           "word": "he",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "had",
@@ -2439,7 +2439,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "by",
@@ -2463,7 +2463,7 @@
         },
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "by",

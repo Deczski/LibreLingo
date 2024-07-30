@@ -1,0 +1,233 @@
+Skill:
+  Id: 62
+  Name: Pozdrav-2
+   Thumbnails:
+  - eleven1
+  - twenty1
+  - hundret1
+
+New words:
+  - Word: Jedinadset
+    Translation: Eleven
+    Images:
+      - eleven1
+      - eleven2
+      - eleven3
+
+  - Word: Dvanadset
+    Translation: Twelve
+    Images:
+      - twelve1
+      - twelve2
+      - twelve3
+
+  - Word: Trinadset
+    Translation: Thirteen
+    Images:
+      - thirteen1
+      - thirteen2
+      - thirteen3
+
+  - Word: Četyrinadset
+    Translation: Four
+    Images:
+      - fourteen1
+      - fourteen2
+      - fourteen3
+
+  - Word: Petnadset
+    Translation: Fifteen
+    Images:
+      - fifteen1
+      - fifteen2
+      - fifteen3
+
+  - Word: Šestnadset
+    Translation: Sixteen
+    Images:
+      - sixteen1
+      - sixteen2
+      - sixteen3
+
+  - Word: Sedmnadset
+    Translation: Seventeen
+    Images:
+      - seventeen1
+      - seventeen2
+      - seventeen3
+
+  - Word: Osmnadset
+    Translation: Eighteen
+    Images:
+      - eighteen1
+      - eighteen2
+      - eighteen3
+
+  - Word: Devetnadset
+    Translation: Nineteen
+    Images:
+      - nineteen1
+      - nineteen2
+      - nineteen3
+
+  - Word: Dvadeset
+    Translation: Twenty
+
+
+Phrases:
+
+  - Phrase: Jedin plus jedin ravna se dva
+    Translation: One plus one equals two
+
+  - Phrase: Dva minus jedin ravna se jedin
+    Translation: You(singular) are
+
+  - Phrase: Jedin pes
+    Translation: One dog
+
+  - Phrase: Dva psy
+    Translation: Two dogs
+
+  - Phrase: Pet psov
+    Translation: Five dogs 
+
+  - Phrase: Osm psov
+    Translation: She is
+
+  - Phrase: Jedna děvčina
+    Translation: One woman
+
+  - Phrase: Dvě děvčiny
+    Translation: Two woman
+
+  - Phrase: Tri děvčiny
+    Translation: Two woman    
+
+  - Phrase: Četyri děvčiny
+    Translation: Four woman
+
+  - Phrase: Pet děvčin
+    Translation: Five girls
+
+  - Phrase: Šest děvcin
+    Translation: Six girls
+
+  - Phrase: Sedm děvčin
+    Translation: Seven girls
+
+  - Phrase: Osm děvčin
+    Translation: Eight girls
+
+  - Phrase: Devet děvčin
+    Translation: Nine girls
+
+  - Phrase: Deset děvčin
+    Translation: Ten girls
+
+  - Phrase: Jedno slovo
+    Translation: One word
+
+  - Phrase: Dva slova
+    Translation: Two words
+
+  - Phrase: Tri slova
+    Translation: Three words
+
+  - Phrase: Četyri slova
+    Translation: Four words
+
+  - Phrase: Pet slov
+    Translation: Five words
+
+  - Phrase: Deset slov
+    Translation: Ten words
+  
+
+
+Mini-dictionary:
+
+  Interslavic:
+
+  - Učitelj: Teacher
+  - Matematik: Mathematician
+  - Bogaty: Rich
+  - Kraljeva: Queen
+  - Tut: Here
+  - Studenti: Students
+  - Sportniki: Athletes
+  - Kuhari: Cooks
+  - Žurnalistki: Journalists
+  - Ja jesm byl: I was
+  - Ty jesi byl: You(singular) were
+  - On byl: He was
+  - Ona byla: She was
+  - Ono bylo: It was
+  - My jesmo byli: We were
+  - Vy jeste byli: You(plural) were
+  - Oni byli: They(masculine) were
+  - One byli: They(feminine) were
+  - jesmo: were
+  - byli: were
+  - byl: was
+  - byla: was
+  - bylo: was
+  - jeste: are
+  - my: we
+  - kupoval: bought
+  - rabotali: worked
+  - pokazyvali: They showed
+  - spali: slept
+  - tancevala: danced
+  - jedalo: ate
+  - proboval: tried
+  - kupovali: bought
+  - iměl: had
+  - jestli: if
+  - rabotal: worked
+
+  English:
+
+  - Teacher: Učitelj
+  - Mathematician: Matematik
+  - Rich: Bogaty
+  - Queen: Kraljeva
+  - Here: Tu
+  - Students: Studenti
+  - Athletes: Sportniki
+  - Cooks: Kuhari
+  - Journalists: Žurnalistki
+  - Was:
+    - byl
+    - byla
+    - bylo
+    - byli
+  - They(feminine): one
+  - They(masculine): oni
+  - You(plural): vy
+  - You(singular): ty
+  - Were:
+    - byl
+    - byla
+    - bylo
+    - byli
+  - We: my
+  - talk: govoriti
+  - show: ukazyvati
+  - send: posylati
+  - remember: pametati
+  - try: probovati
+  - drive: voziti se
+  - build: budovati
+  - basketball: basketbol
+  - players: igrači
+  - have: iměti
+  - day: denj
+  - of: od
+  - money: groši
+  - if: jestli
+  - if: ako
+  - worked: rabotati
+  - worked: rabotala
+  - worked: rabotal
+  - worked: rabotali
+  - lot: mnogo

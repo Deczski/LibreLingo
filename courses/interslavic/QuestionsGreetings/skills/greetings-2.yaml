@@ -1,8 +1,11 @@
 Skill:
   Id: 23
   Name: Greetings 2
-
-
+  Thumbnails:
+  - hello3
+  - moon2
+  - thankyou1
+  
 
 New words:
   - Word: do viděnja

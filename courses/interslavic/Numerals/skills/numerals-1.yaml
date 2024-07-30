@@ -1,0 +1,196 @@
+Skill:
+  Id: 61
+  Name: Pozdrav-1
+  Thumbnails:
+  - zero1
+  - one1
+  - three1
+
+New words:
+
+  - Word: Jedin
+    Translation: One
+    Images:
+      - one1
+      - one2
+      - one3
+
+  - Word: Dva
+    Translation: Two
+    Images:
+      - two1
+      - two2
+      - two3
+
+  - Word: Tri
+    Translation: Three
+    Images:
+      - three1
+      - three2
+      - three3
+
+  - Word: Četyri
+    Translation: Four
+    Images:
+      - four1
+      - four2
+      - four3
+
+  - Word: Pet
+    Translation: Five
+    Images:
+      - five1
+      - five2
+      - five3
+
+  - Word: Šest
+    Translation: Six
+    Images:
+      - six1
+      - six2
+      - six3
+
+  - Word: Sedm
+    Translation: Seven
+    Images:
+      - seven1
+      - seven2
+      - seven3
+
+  - Word: Osm
+    Translation: Eight
+    Images:
+      - eight1
+      - eight2
+      - eight3
+
+  - Word: Devet
+    Translation: Nine
+    Images:
+      - nine1
+      - nine2
+      - nine3
+
+  - Word: Deset
+    Translation: Five
+    Images:
+      - ten1
+      - ten2
+      - ten3
+
+  - Word: plus
+    Translation: plus
+    Images:
+      - plus1
+      - plus2
+      - plus3
+
+  - Word: minus
+    Translation: minus
+    Images:
+      - minus1
+      - minus2
+      - minus3
+
+Phrases:
+
+  - Phrase: Jedin plus jedin ravna se dva
+    Translation: One plus one equals two
+
+  - Phrase: Dva minus jedin ravna se jedin
+    Translation: You(singular) are
+
+  - Phrase: Jedin pes
+    Translation: One dog
+
+  - Phrase: Dva psy
+    Translation: Two dogs
+
+  - Phrase: Pet psov
+    Translation: Five dogs 
+
+  - Phrase: Osm psov
+    Translation: She is
+
+  - Phrase: Jedna děvčina
+    Translation: One woman
+
+  - Phrase: Dvě děvčiny
+    Translation: Two woman
+
+  - Phrase: Tri děvčiny
+    Translation: Two woman    
+
+  - Phrase: Četyri děvčiny
+    Translation: Four woman
+
+  - Phrase: Pet děvčin
+    Translation: Five girls
+
+  - Phrase: Šest děvcin
+    Translation: Six girls
+
+  - Phrase: Sedm děvčin
+    Translation: Seven girls
+
+  - Phrase: Osm děvčin
+    Translation: Eight girls
+
+  - Phrase: Devet děvčin
+    Translation: Nine girls
+
+  - Phrase: Deset děvčin
+    Translation: Ten girls
+
+  - Phrase: Jedno slovo
+    Translation: One word
+
+  - Phrase: Dva slova
+    Translation: Two words
+
+  - Phrase: Tri slova
+    Translation: Three words
+
+  - Phrase: Četyri slova
+    Translation: Four words
+
+  - Phrase: Pet slov
+    Translation: Five words
+
+  - Phrase: Deset slov
+    Translation: Ten words
+  
+
+Mini-dictionary:
+
+  Interslavic:
+    - Jedin: one
+    - Dva: two
+    - Tri: three
+    - Četyri: four
+    - Pet: five
+    - Šest: six
+    - Sedm: seven
+    - Osm: eight
+    - Devet: nine
+    - Deset: ten
+    - Plus: plus
+    - Minus: minus
+
+
+  English:
+
+    - Plus: plus
+    - Minus: minus
+    - One: jedin
+    - Two: dva
+    - Three: tri
+    - Four: četyri
+    - Five: pet
+    - Six: šest
+    - Seven: sedm
+    - Eight: osm
+    - Nine: devet
+    - Ten: deset
+    - Plus: plus
+    - Minus: minus

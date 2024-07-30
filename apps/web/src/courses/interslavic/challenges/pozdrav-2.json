@@ -122,7 +122,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi",
@@ -164,7 +164,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "was",
@@ -194,7 +194,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "byl",
@@ -232,7 +232,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "was",
@@ -262,7 +262,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "byla",
@@ -300,7 +300,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "was",
@@ -330,7 +330,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "it"
+          "definition": "It"
         },
         {
           "word": "bylo",
@@ -368,7 +368,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "were",
@@ -400,7 +400,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "jesmo",
@@ -442,7 +442,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "were",
@@ -474,7 +474,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "jeste",
@@ -516,7 +516,7 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "oni"
+          "definition": "Oni\noni"
         },
         {
           "word": "were",
@@ -546,7 +546,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "byli",
@@ -584,7 +584,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "were",
@@ -614,7 +614,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "byli",
@@ -746,7 +746,7 @@
       "phrase": [
         {
           "word": "You(singular)",
-          "definition": "ty"
+          "definition": "Ty\nty"
         },
         {
           "word": "were",
@@ -789,7 +789,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi",
@@ -840,7 +840,7 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "was",
@@ -876,7 +876,7 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "byl",
@@ -920,7 +920,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "was",
@@ -960,7 +960,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "byla",
@@ -1007,7 +1007,7 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "ono\nto"
+          "definition": "Ono"
         },
         {
           "word": "was",
@@ -1043,7 +1043,7 @@
       "phrase": [
         {
           "word": "Ono",
-          "definition": "it"
+          "definition": "It"
         },
         {
           "word": "bylo",
@@ -1087,7 +1087,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "were",
@@ -1126,7 +1126,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "jesmo",
@@ -1174,7 +1174,7 @@
       "phrase": [
         {
           "word": "You(plural)",
-          "definition": "vy"
+          "definition": "Vy\nvy"
         },
         {
           "word": "were",
@@ -1213,7 +1213,7 @@
       "phrase": [
         {
           "word": "Vy",
-          "definition": "you(plural)"
+          "definition": "You(plural)"
         },
         {
           "word": "jeste",
@@ -1261,7 +1261,7 @@
       "phrase": [
         {
           "word": "They(masculine)",
-          "definition": "oni"
+          "definition": "Oni\noni"
         },
         {
           "word": "were",
@@ -1297,7 +1297,7 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "byli",
@@ -1341,7 +1341,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "were",
@@ -1377,7 +1377,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "byli",

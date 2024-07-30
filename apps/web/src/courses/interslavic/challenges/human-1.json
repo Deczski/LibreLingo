@@ -171,7 +171,7 @@
       "phrase": [
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "imaš",
@@ -741,7 +741,7 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona"
+          "definition": "Ona"
         },
         {
           "word": "goes",
@@ -795,7 +795,7 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she"
+          "definition": "She"
         },
         {
           "word": "idě",
@@ -1631,7 +1631,7 @@
       "phrase": [
         {
           "word": "They(feminine)",
-          "definition": "one"
+          "definition": "One\none"
         },
         {
           "word": "have",
@@ -1695,7 +1695,7 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they(feminine)"
+          "definition": "They(feminine)"
         },
         {
           "word": "imajut",

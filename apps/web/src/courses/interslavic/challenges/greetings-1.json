@@ -77,7 +77,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi?",
@@ -129,7 +129,7 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "are",
@@ -179,7 +179,7 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "Jesmo",
@@ -299,7 +299,7 @@
         },
         {
           "word": "ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi?",
@@ -532,7 +532,7 @@
         },
         {
           "word": "Oni",
-          "definition": "they\nthey(masculine)"
+          "definition": "They(masculine)"
         },
         {
           "word": "Vojtěh",
@@ -590,7 +590,7 @@
         },
         {
           "word": "We",
-          "definition": "my"
+          "definition": "My\nmy"
         },
         {
           "word": "are",
@@ -647,7 +647,7 @@
         },
         {
           "word": "My",
-          "definition": "we"
+          "definition": "We"
         },
         {
           "word": "Jesmo",
@@ -770,7 +770,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "Vojtěh?",
@@ -878,7 +878,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi?",
@@ -986,7 +986,7 @@
         },
         {
           "word": "Ty",
-          "definition": "you"
+          "definition": "You(singular)"
         },
         {
           "word": "jesi?",
@@ -1098,7 +1098,7 @@
         },
         {
           "word": "Ty?",
-          "definition": "you"
+          "definition": "You(singular)"
         }
       ],
       "chips": [
@@ -1274,7 +1274,7 @@
         },
         {
           "word": "he",
-          "definition": "on"
+          "definition": "On"
         },
         {
           "word": "Vojtěh?",
@@ -1310,7 +1310,7 @@
         },
         {
           "word": "on",
-          "definition": "he"
+          "definition": "He"
         },
         {
           "word": "Vojtěh?",
