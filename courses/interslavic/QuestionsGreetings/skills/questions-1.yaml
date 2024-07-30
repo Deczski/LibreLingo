@@ -1,7 +1,10 @@
 Skill:
   Id: 21
   Name: Questions
-
+  Thumbnails:
+  - who1
+  - choice2
+  - what3
 
 New words:
   - Word: čto

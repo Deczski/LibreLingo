@@ -1,6 +1,11 @@
 Skill:
   Id: 22
   Name: Greetings 1
+  Thumbnails:
+  - hello1
+  - afternoon2
+  - thankyou3
+  
 
 
 New words:

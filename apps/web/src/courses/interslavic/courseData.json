@@ -189,6 +189,11 @@
       "title": "2. Questions and Greetings",
       "skills": [
         {
+          "imageSet": [
+            "who1",
+            "choice2",
+            "what3"
+          ],
           "summary": [
             "čto",
             "kto",
@@ -235,6 +240,11 @@
           "levels": 8
         },
         {
+          "imageSet": [
+            "hello1",
+            "afternoon2",
+            "thankyou3"
+          ],
           "summary": [
             "Dobry denj",
             "I",
