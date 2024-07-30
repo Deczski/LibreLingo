@@ -65,15 +65,20 @@ New words:
       - owl2
       - owl3
 
-  - Word: Kralik
-    Translation: Rabbit
+  - Word: Žmija
+    Translation: Snake
     Images:
-      - rabbit1
-      - rabbit2
-      - rabbit3
+      - snake1
+      - snake2
+      - snake3
 
   - Word: Životina
     Translation: animal
+    Images:
+      - cow1
+      - cow2
+      - cow3
+
 
 
 Phrases:
@@ -90,7 +95,7 @@ Phrases:
   - Phrase: Psi sut najdobri prijatelji člověka
     Translation: Dogs are best friends of man
 
-  - Phrase: Typično samci ptic sut kolorove
+  - Phrase: Typično samci ptic sut kolorovi
     Translation: Typically, male birds are colorful
 
   - Phrase: Konj je približno deset kratno vyše silny něž člověk
@@ -103,7 +108,10 @@ Phrases:
     Translation: Owls are symbol of wisdom
 
   - Phrase: Malpy pripominajut člověka
-    Translation: Monkeys remind a human 
+    Translation: Monkeys remind a human
+
+  - Phrase: Žmije jedajut myši
+    Translation: Snakes eat mice
 
 
 

@@ -408,11 +408,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Typično samci ptic sut kolorove",
+      "formInTargetLanguage": "Typično samci ptic sut kolorovi",
       "meaningInSourceLanguage": "Typically, male birds are colorful",
-      "id": "3e418d134cf5",
+      "id": "cc6264e64025",
       "priority": 0,
-      "group": "b1992fba1f9b"
+      "group": "9af5ae5aa33e"
     },
     {
       "type": "chips",
@@ -444,7 +444,7 @@
         "samci",
         "ptic",
         "sut",
-        "kolorove",
+        "kolorovi",
         "Tri",
         "spati",
         "li",
@@ -456,13 +456,13 @@
           "samci",
           "ptic",
           "sut",
-          "kolorove"
+          "kolorovi"
         ]
       ],
-      "formattedSolution": "Typično samci ptic sut kolorove",
-      "id": "c3e3ed585af0",
+      "formattedSolution": "Typično samci ptic sut kolorovi",
+      "id": "f980759a4eb3",
       "priority": 2,
-      "group": "b1992fba1f9b"
+      "group": "9af5ae5aa33e"
     },
     {
       "type": "chips",
@@ -485,8 +485,8 @@
           "definition": "are"
         },
         {
-          "word": "kolorove",
-          "definition": "kolorove"
+          "word": "kolorovi",
+          "definition": "kolorovi"
         }
       ],
       "chips": [
@@ -510,9 +510,9 @@
         ]
       ],
       "formattedSolution": "Typically, male birds are colorful",
-      "id": "19478ae7512c",
+      "id": "b7f1617ae222",
       "priority": 2,
-      "group": "b1992fba1f9b"
+      "group": "9af5ae5aa33e"
     },
     {
       "type": "options",
@@ -975,6 +975,86 @@
       "group": "4d92f8285852"
     },
     {
+      "type": "options",
+      "formInTargetLanguage": "Žmije jedajut myši",
+      "meaningInSourceLanguage": "Snakes eat mice",
+      "id": "7e35a2ea27e6",
+      "priority": 0,
+      "group": "0221e7ceb6f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Snakes",
+          "definition": "Snakes"
+        },
+        {
+          "word": "eat",
+          "definition": "jedati"
+        },
+        {
+          "word": "mice",
+          "definition": "mice"
+        }
+      ],
+      "chips": [
+        "Žmije",
+        "jedajut",
+        "myši",
+        "moje",
+        "imaje"
+      ],
+      "solutions": [
+        [
+          "Žmije",
+          "jedajut",
+          "myši"
+        ]
+      ],
+      "formattedSolution": "Žmije jedajut myši",
+      "id": "2383b29ddd29",
+      "priority": 2,
+      "group": "0221e7ceb6f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Žmije",
+          "definition": "Žmije"
+        },
+        {
+          "word": "jedajut",
+          "definition": "jedajut"
+        },
+        {
+          "word": "myši",
+          "definition": "myši"
+        }
+      ],
+      "chips": [
+        "Snakes",
+        "eat",
+        "mice",
+        "name",
+        "late"
+      ],
+      "solutions": [
+        [
+          "Snakes",
+          "eat",
+          "mice"
+        ]
+      ],
+      "formattedSolution": "Snakes eat mice",
+      "id": "d151cd02a4a7",
+      "priority": 2,
+      "group": "0221e7ceb6f9"
+    },
+    {
       "type": "cards",
       "pictures": [
         "dog1.jpg",
@@ -1241,48 +1321,56 @@
     {
       "type": "cards",
       "pictures": [
-        "rabbit1.jpg",
-        "rabbit2.jpg",
-        "rabbit3.jpg"
+        "snake1.jpg",
+        "snake2.jpg",
+        "snake3.jpg"
       ],
-      "formInTargetLanguage": "Kralik",
-      "meaningInSourceLanguage": "Rabbit",
-      "id": "f07787d1914e",
+      "formInTargetLanguage": "Žmija",
+      "meaningInSourceLanguage": "Snake",
+      "id": "71155b104837",
       "priority": 0,
-      "group": "af12f366700d"
+      "group": "9c967c0b2a7a"
     },
     {
       "type": "shortInput",
       "pictures": [
-        "rabbit1.jpg",
-        "rabbit2.jpg",
-        "rabbit3.jpg"
+        "snake1.jpg",
+        "snake2.jpg",
+        "snake3.jpg"
       ],
       "formInTargetLanguage": [
-        "Kralik"
+        "Žmija"
       ],
       "phrase": [
         {
-          "word": "Rabbit",
-          "definition": "Kralik"
+          "word": "Snake",
+          "definition": "Žmija"
         }
       ],
-      "id": "d27f1d78cb00",
+      "id": "d0ea7176e817",
       "priority": 1,
-      "group": "af12f366700d"
+      "group": "9c967c0b2a7a"
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "cow1.jpg",
+        "cow2.jpg",
+        "cow3.jpg"
+      ],
       "formInTargetLanguage": "Životina",
       "meaningInSourceLanguage": "animal",
-      "id": "9d2853850213",
+      "id": "5632e505388c",
       "priority": 0,
-      "group": "89becb02eb75"
+      "group": "b63f57e259bc"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "cow1.jpg",
+        "cow2.jpg",
+        "cow3.jpg"
+      ],
       "formInTargetLanguage": [
         "Životina"
       ],
@@ -1292,9 +1380,9 @@
           "definition": "Životina"
         }
       ],
-      "id": "701e97e0084d",
+      "id": "5af37d59c4b7",
       "priority": 1,
-      "group": "89becb02eb75"
+      "group": "b63f57e259bc"
     }
   ]
 }
