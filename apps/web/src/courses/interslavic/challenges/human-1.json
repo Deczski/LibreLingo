@@ -1333,11 +1333,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Člověčska glava raste velmi brzo v času detinstva",
+      "formInTargetLanguage": "Člověčska glava raste brzo v času detinstva",
       "meaningInSourceLanguage": "The human head grows rapidly during childhood.",
-      "id": "3b2aa617803f",
+      "id": "043cda02c533",
       "priority": 0,
-      "group": "8afcf1964879"
+      "group": "f8a01e71f8d5"
     },
     {
       "type": "chips",
@@ -1376,35 +1376,32 @@
         "Člověčska",
         "glava",
         "raste",
-        "velmi",
         "brzo",
         "v",
         "času",
         "detinstva",
         "avta",
         "dva",
-        "jest",
-        "se",
         "na",
         "za",
-        "Šest"
+        "Ja",
+        "jest"
       ],
       "solutions": [
         [
           "Člověčska",
           "glava",
           "raste",
-          "velmi",
           "brzo",
           "v",
           "času",
           "detinstva"
         ]
       ],
-      "formattedSolution": "Člověčska glava raste velmi brzo v času detinstva",
-      "id": "9eadc196a132",
+      "formattedSolution": "Člověčska glava raste brzo v času detinstva",
+      "id": "a776b734a30a",
       "priority": 2,
-      "group": "8afcf1964879"
+      "group": "f8a01e71f8d5"
     },
     {
       "type": "chips",
@@ -1421,10 +1418,6 @@
         {
           "word": "raste",
           "definition": "grows"
-        },
-        {
-          "word": "velmi",
-          "definition": "strongly"
         },
         {
           "word": "brzo",
@@ -1470,9 +1463,9 @@
         ]
       ],
       "formattedSolution": "The human head grows rapidly during childhood.",
-      "id": "eb08761567a4",
+      "id": "ad915b3924a6",
       "priority": 2,
-      "group": "8afcf1964879"
+      "group": "f8a01e71f8d5"
     },
     {
       "type": "options",
