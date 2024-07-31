@@ -1,0 +1,20 @@
+# Medžuslovjanske socjalky
+
+*   [Discord](https://discord.com/invite/Mwykptnx4t) -&gt; Naš discord server
+*   [Facebook](https://www.facebook.com/groups/287915484553597) -&gt; Oficjalna vebstranica 
+
+# Lekcija 2
+
+>  ISV: Tutčas pogledaj kako govorimo o minulosti ENG: Now take a look how do we speak about the past
+
+## Osnova | The basics:
+
+*   Ja jesm byl = I was
+*   Ty jesi byl = You(singular) was
+*   On byl = He was
+*   Ona byla = She was
+*   Ono bylo = It was
+*   My jesmo byli = We were
+*   Vy jeste byli = You(plural) were
+*   Oni byli = They(masculine) were
+*   One byli = They(feminine) were
