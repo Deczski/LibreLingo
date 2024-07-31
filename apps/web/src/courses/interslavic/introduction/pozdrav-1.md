@@ -3,7 +3,7 @@
 *   [Interslavic-dictionary](https://interslavic-dictionary.com/) -&gt; Oficjalny slovnik
 *   [Interslavic.fun](https://interslavic.fun/) -&gt; Oficjalna vebstranica 
 
-# Lekcija 2 | Lesson 2
+# Lekcija 1 | Lesson 1
 
 ## Osnova | The basics:
 
