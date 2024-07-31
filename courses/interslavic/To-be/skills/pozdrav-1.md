@@ -3,12 +3,6 @@
 - [Interslavic-dictionary](https://interslavic-dictionary.com/) -> Oficjalny slovnik
 - [Interslavic.fun](https://interslavic.fun/) -> Oficjalna vebstranica 
 
-
-# Lekcija 1
-
->ISV: V tutoj lekciji budeš naučiti se kako deklinovati slovo "byti"
->ENG: In this lesson you will learn how to decline the verb "to be"
-
 ## Osnova | The basics:
 
 - Ja jesm = I am
