@@ -2,12 +2,12 @@
 
 ## Osnova | The basics:
 
-- Ja byh (byl) = I would
-- Ty bys (byl) = You(singular) was
-- On by = He was
-- Ona by = She was
-- Ono by = It was
-- My byhmo = We were
-- Vy byste = You(plural) were
-- Oni byli = They(masculine) were
-- One byli = They(feminine) were
+- Ja byh = I would
+- Ty bys = You(singular) would
+- On by = He would
+- Ona by = She would
+- Ono by = It would
+- My byhmo = We would
+- Vy byste = You(plural) would
+- Oni byli = They(masculine) would
+- One byli = They(feminine) would
