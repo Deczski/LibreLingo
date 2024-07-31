@@ -457,11 +457,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Boli mně glava iz glědanja na kompjuter",
+      "formInTargetLanguage": "Moja glava bolji od gledanja na kompjuter",
       "meaningInSourceLanguage": "My head hurts from staring at the computer",
-      "id": "1d7b3ad45682",
+      "id": "721d04617312",
       "priority": 0,
-      "group": "0a4ae027e84c"
+      "group": "0232d93c5b93"
     },
     {
       "type": "chips",
@@ -501,59 +501,59 @@
         }
       ],
       "chips": [
-        "Boli",
-        "mně",
+        "Moja",
         "glava",
-        "iz",
-        "glědanja",
+        "bolji",
+        "od",
+        "gledanja",
         "na",
         "kompjuter",
-        "Ona",
-        "ne",
-        "li",
-        "Ja",
+        "moja",
+        "moj",
+        "Toj",
         "je",
-        "ili"
+        "moje",
+        "Konj"
       ],
       "solutions": [
         [
-          "Boli",
-          "mně",
+          "Moja",
           "glava",
-          "iz",
-          "glědanja",
+          "bolji",
+          "od",
+          "gledanja",
           "na",
           "kompjuter"
         ]
       ],
-      "formattedSolution": "Boli mně glava iz glědanja na kompjuter",
-      "id": "0b61b233f610",
+      "formattedSolution": "Moja glava bolji od gledanja na kompjuter",
+      "id": "d5c8bdbb7568",
       "priority": 2,
-      "group": "0a4ae027e84c"
+      "group": "0232d93c5b93"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Boli",
-          "definition": "hurts"
-        },
-        {
-          "word": "mně",
-          "definition": "me"
+          "word": "Moja",
+          "definition": "mine\nmy"
         },
         {
           "word": "glava",
           "definition": "Head"
         },
         {
-          "word": "iz",
-          "definition": "from\nof"
+          "word": "bolji",
+          "definition": "bolji"
         },
         {
-          "word": "glědanja",
-          "definition": "looking\nstarring"
+          "word": "od",
+          "definition": "from"
+        },
+        {
+          "word": "gledanja",
+          "definition": "gledanja"
         },
         {
           "word": "na",
@@ -594,9 +594,9 @@
         ]
       ],
       "formattedSolution": "My head hurts from staring at the computer",
-      "id": "117a66c4cea0",
+      "id": "2893bb994f03",
       "priority": 2,
-      "group": "0a4ae027e84c"
+      "group": "0232d93c5b93"
     },
     {
       "type": "options",
