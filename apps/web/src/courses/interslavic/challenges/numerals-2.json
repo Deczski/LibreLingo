@@ -1334,10 +1334,10 @@
         "fourteen3.jpg"
       ],
       "formInTargetLanguage": "Četyrinadset",
-      "meaningInSourceLanguage": "Four",
-      "id": "d72b8593e698",
+      "meaningInSourceLanguage": "Fourteen",
+      "id": "c35f672b6943",
       "priority": 0,
-      "group": "f8096ae4482b"
+      "group": "04c5bc74ac46"
     },
     {
       "type": "shortInput",
@@ -1351,13 +1351,13 @@
       ],
       "phrase": [
         {
-          "word": "Four",
-          "definition": "Četyri\nČetyrinadset\nčetyri"
+          "word": "Fourteen",
+          "definition": "Četyrinadset"
         }
       ],
-      "id": "802dc30dbe66",
+      "id": "7dbfb3b0e44e",
       "priority": 1,
-      "group": "f8096ae4482b"
+      "group": "04c5bc74ac46"
     },
     {
       "type": "cards",
