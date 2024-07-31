@@ -2090,16 +2090,24 @@
     },
     {
       "type": "cards",
-      "pictures": null,
+      "pictures": [
+        "tooth1.jpg",
+        "tooth2.jpg",
+        "brain3.jpg"
+      ],
       "formInTargetLanguage": "Zub",
       "meaningInSourceLanguage": "Tooth",
-      "id": "3c3b3b071160",
+      "id": "191672f42cb6",
       "priority": 0,
-      "group": "40d1a5db68ab"
+      "group": "da0ea357d93c"
     },
     {
       "type": "shortInput",
-      "pictures": null,
+      "pictures": [
+        "tooth1.jpg",
+        "tooth2.jpg",
+        "brain3.jpg"
+      ],
       "formInTargetLanguage": [
         "Zub"
       ],
@@ -2109,9 +2117,9 @@
           "definition": "Zub"
         }
       ],
-      "id": "2f40bda707d5",
+      "id": "afc092131b38",
       "priority": 1,
-      "group": "40d1a5db68ab"
+      "group": "da0ea357d93c"
     },
     {
       "type": "cards",
