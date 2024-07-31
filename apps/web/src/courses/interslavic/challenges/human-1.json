@@ -140,7 +140,7 @@
         },
         {
           "word": "head",
-          "definition": "glava"
+          "definition": "Glava"
         }
       ],
       "chips": [
@@ -353,7 +353,7 @@
         },
         {
           "word": "head?",
-          "definition": "glava"
+          "definition": "Glava"
         }
       ],
       "chips": [
@@ -473,7 +473,7 @@
         },
         {
           "word": "head",
-          "definition": "glava"
+          "definition": "Glava"
         },
         {
           "word": "hurts",
@@ -545,7 +545,7 @@
         },
         {
           "word": "glava",
-          "definition": "Good day"
+          "definition": "Head"
         },
         {
           "word": "iz",
@@ -640,7 +640,7 @@
         },
         {
           "word": "head?",
-          "definition": "glava"
+          "definition": "Glava"
         }
       ],
       "chips": [
@@ -1353,7 +1353,7 @@
         },
         {
           "word": "head",
-          "definition": "glava"
+          "definition": "Glava"
         },
         {
           "word": "grows",
@@ -1416,7 +1416,7 @@
         },
         {
           "word": "glava",
-          "definition": "Good day"
+          "definition": "Head"
         },
         {
           "word": "raste",
@@ -1496,7 +1496,7 @@
         },
         {
           "word": "head",
-          "definition": "glava"
+          "definition": "Glava"
         },
         {
           "word": "grows",
@@ -1559,7 +1559,7 @@
         },
         {
           "word": "glava",
-          "definition": "Good day"
+          "definition": "Head"
         },
         {
           "word": "raste",
@@ -1761,10 +1761,10 @@
         "head3.jpg"
       ],
       "formInTargetLanguage": "Glava",
-      "meaningInSourceLanguage": "Good day",
-      "id": "1d2c60e86345",
+      "meaningInSourceLanguage": "Head",
+      "id": "b1d9ab233ec5",
       "priority": 0,
-      "group": "87e140b52aa4"
+      "group": "20b48f5a0ae1"
     },
     {
       "type": "shortInput",
@@ -1778,17 +1778,13 @@
       ],
       "phrase": [
         {
-          "word": "Good",
-          "definition": "dobro"
-        },
-        {
-          "word": "day",
-          "definition": "denj"
+          "word": "Head",
+          "definition": "Glava"
         }
       ],
-      "id": "be1b07aa324a",
+      "id": "4272a5d26728",
       "priority": 1,
-      "group": "87e140b52aa4"
+      "group": "20b48f5a0ae1"
     },
     {
       "type": "cards",
@@ -2093,20 +2089,20 @@
       "pictures": [
         "tooth1.jpg",
         "tooth2.jpg",
-        "brain3.jpg"
+        "tooth3.jpg"
       ],
       "formInTargetLanguage": "Zub",
       "meaningInSourceLanguage": "Tooth",
-      "id": "191672f42cb6",
+      "id": "8ece7464b9d2",
       "priority": 0,
-      "group": "da0ea357d93c"
+      "group": "96a2a98cb8e8"
     },
     {
       "type": "shortInput",
       "pictures": [
         "tooth1.jpg",
         "tooth2.jpg",
-        "brain3.jpg"
+        "tooth3.jpg"
       ],
       "formInTargetLanguage": [
         "Zub"
@@ -2117,9 +2113,9 @@
           "definition": "Zub"
         }
       ],
-      "id": "afc092131b38",
+      "id": "54a94d2ae8e5",
       "priority": 1,
-      "group": "da0ea357d93c"
+      "group": "96a2a98cb8e8"
     },
     {
       "type": "cards",
