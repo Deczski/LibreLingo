@@ -120,10 +120,10 @@
     {
       "type": "options",
       "formInTargetLanguage": "Dva minus jedin ravna se jedin",
-      "meaningInSourceLanguage": "Two minus one equals",
-      "id": "95336614f567",
+      "meaningInSourceLanguage": "Two minus one equals one",
+      "id": "6a5025a5ecde",
       "priority": 0,
-      "group": "58998b5fa341"
+      "group": "cc0cadca5303"
     },
     {
       "type": "chips",
@@ -144,6 +144,10 @@
         {
           "word": "equals",
           "definition": "equals"
+        },
+        {
+          "word": "one",
+          "definition": "jedin"
         }
       ],
       "chips": [
@@ -170,9 +174,9 @@
         ]
       ],
       "formattedSolution": "Dva minus jedin ravna se jedin",
-      "id": "7203c1a881a6",
+      "id": "7543585c0658",
       "priority": 2,
-      "group": "58998b5fa341"
+      "group": "cc0cadca5303"
     },
     {
       "type": "chips",
@@ -208,22 +212,25 @@
         "minus",
         "one",
         "equals",
+        "one",
+        "One",
+        "and",
         "bus",
-        "is",
-        "man"
+        "an"
       ],
       "solutions": [
         [
           "Two",
           "minus",
           "one",
-          "equals"
+          "equals",
+          "one"
         ]
       ],
-      "formattedSolution": "Two minus one equals",
-      "id": "fe5525c58ee0",
+      "formattedSolution": "Two minus one equals one",
+      "id": "16ef24fc23be",
       "priority": 2,
-      "group": "58998b5fa341"
+      "group": "cc0cadca5303"
     },
     {
       "type": "options",
@@ -432,22 +439,22 @@
     {
       "type": "options",
       "formInTargetLanguage": "Osm psov",
-      "meaningInSourceLanguage": "She is",
-      "id": "d15fdaa316ba",
+      "meaningInSourceLanguage": "Eight dogs",
+      "id": "b378cb5c35e7",
       "priority": 0,
-      "group": "fa28d928dd03"
+      "group": "4013d6d9af01"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "She",
-          "definition": "Ona"
+          "word": "Eight",
+          "definition": "Osm\nosm"
         },
         {
-          "word": "is",
-          "definition": "jest"
+          "word": "dogs",
+          "definition": "dogs"
         }
       ],
       "chips": [
@@ -463,9 +470,9 @@
         ]
       ],
       "formattedSolution": "Osm psov",
-      "id": "9bb2d168c77f",
+      "id": "934fafe571e2",
       "priority": 2,
-      "group": "fa28d928dd03"
+      "group": "4013d6d9af01"
     },
     {
       "type": "chips",
@@ -481,29 +488,29 @@
         }
       ],
       "chips": [
-        "She",
-        "is",
-        "We",
-        "He"
+        "Eight",
+        "dogs",
+        "night",
+        "dog"
       ],
       "solutions": [
         [
-          "She",
-          "is"
+          "Eight",
+          "dogs"
         ]
       ],
-      "formattedSolution": "She is",
-      "id": "0d020c131ad9",
+      "formattedSolution": "Eight dogs",
+      "id": "b1bcb3077eb1",
       "priority": 2,
-      "group": "fa28d928dd03"
+      "group": "4013d6d9af01"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Jedna děvčina",
-      "meaningInSourceLanguage": "One woman",
-      "id": "b96bb5758e9f",
+      "meaningInSourceLanguage": "One girl",
+      "id": "6a53c1e540b9",
       "priority": 0,
-      "group": "3436911e0427"
+      "group": "05dd48168548"
     },
     {
       "type": "chips",
@@ -514,8 +521,8 @@
           "definition": "jedin"
         },
         {
-          "word": "woman",
-          "definition": "woman\nžena"
+          "word": "girl",
+          "definition": "děvčina"
         }
       ],
       "chips": [
@@ -531,9 +538,9 @@
         ]
       ],
       "formattedSolution": "Jedna děvčina",
-      "id": "4fb4cf92d52c",
+      "id": "e3a385cb0b40",
       "priority": 2,
-      "group": "3436911e0427"
+      "group": "05dd48168548"
     },
     {
       "type": "chips",
@@ -550,28 +557,28 @@
       ],
       "chips": [
         "One",
-        "woman",
-        "man",
-        "women"
+        "girl",
+        "are",
+        "fine"
       ],
       "solutions": [
         [
           "One",
-          "woman"
+          "girl"
         ]
       ],
-      "formattedSolution": "One woman",
-      "id": "c35846dae2b7",
+      "formattedSolution": "One girl",
+      "id": "cb26392efe5d",
       "priority": 2,
-      "group": "3436911e0427"
+      "group": "05dd48168548"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Dvě děvčiny",
-      "meaningInSourceLanguage": "Two woman",
-      "id": "4719ce42fa16",
+      "meaningInSourceLanguage": "Two girls",
+      "id": "3e549b49eae7",
       "priority": 0,
-      "group": "8207aa427880"
+      "group": "14604803b15b"
     },
     {
       "type": "chips",
@@ -582,8 +589,8 @@
           "definition": "Dva\ndva"
         },
         {
-          "word": "woman",
-          "definition": "woman\nžena"
+          "word": "girls",
+          "definition": "girls"
         }
       ],
       "chips": [
@@ -599,9 +606,9 @@
         ]
       ],
       "formattedSolution": "Dvě děvčiny",
-      "id": "552c92d94fb8",
+      "id": "0238cbfe853f",
       "priority": 2,
-      "group": "8207aa427880"
+      "group": "14604803b15b"
     },
     {
       "type": "chips",
@@ -618,40 +625,40 @@
       ],
       "chips": [
         "Two",
-        "woman",
-        "man",
-        "women"
+        "girls",
+        "girl",
+        "is"
       ],
       "solutions": [
         [
           "Two",
-          "woman"
+          "girls"
         ]
       ],
-      "formattedSolution": "Two woman",
-      "id": "9dcdb99af68f",
+      "formattedSolution": "Two girls",
+      "id": "5633f6dcbea7",
       "priority": 2,
-      "group": "8207aa427880"
+      "group": "14604803b15b"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Tri děvčiny",
-      "meaningInSourceLanguage": "Two woman",
-      "id": "c3e043a1dac7",
+      "meaningInSourceLanguage": "Three girls",
+      "id": "9d4446fd9e2f",
       "priority": 0,
-      "group": "506262a52468"
+      "group": "06825f471829"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Two",
-          "definition": "Dva\ndva"
+          "word": "Three",
+          "definition": "Tri\ntri"
         },
         {
-          "word": "woman",
-          "definition": "woman\nžena"
+          "word": "girls",
+          "definition": "girls"
         }
       ],
       "chips": [
@@ -667,9 +674,9 @@
         ]
       ],
       "formattedSolution": "Tri děvčiny",
-      "id": "a688fbcc3acd",
+      "id": "0d089aefd14e",
       "priority": 2,
-      "group": "506262a52468"
+      "group": "06825f471829"
     },
     {
       "type": "chips",
@@ -685,29 +692,29 @@
         }
       ],
       "chips": [
-        "Two",
-        "woman",
-        "man",
-        "women"
+        "Three",
+        "girls",
+        "girl",
+        "three"
       ],
       "solutions": [
         [
-          "Two",
-          "woman"
+          "Three",
+          "girls"
         ]
       ],
-      "formattedSolution": "Two woman",
-      "id": "81f62124a2b8",
+      "formattedSolution": "Three girls",
+      "id": "9b5f3f307a34",
       "priority": 2,
-      "group": "506262a52468"
+      "group": "06825f471829"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Četyri děvčiny",
-      "meaningInSourceLanguage": "Four woman",
-      "id": "9ca0c46f1bb3",
+      "meaningInSourceLanguage": "Four girls",
+      "id": "98eb5fedd980",
       "priority": 0,
-      "group": "0b71282f7936"
+      "group": "c1f17fcc635c"
     },
     {
       "type": "chips",
@@ -718,8 +725,8 @@
           "definition": "Četyri\nČetyrinadset\nčetyri"
         },
         {
-          "word": "woman",
-          "definition": "woman\nžena"
+          "word": "girls",
+          "definition": "girls"
         }
       ],
       "chips": [
@@ -735,9 +742,9 @@
         ]
       ],
       "formattedSolution": "Četyri děvčiny",
-      "id": "26c5b47c0d3b",
+      "id": "e23d9bd2bfae",
       "priority": 2,
-      "group": "0b71282f7936"
+      "group": "c1f17fcc635c"
     },
     {
       "type": "chips",
@@ -754,20 +761,20 @@
       ],
       "chips": [
         "Four",
-        "woman",
-        "women",
-        "Your"
+        "girls",
+        "girl",
+        "or"
       ],
       "solutions": [
         [
           "Four",
-          "woman"
+          "girls"
         ]
       ],
-      "formattedSolution": "Four woman",
-      "id": "702f5a0c2835",
+      "formattedSolution": "Four girls",
+      "id": "1d0dedbabd5c",
       "priority": 2,
-      "group": "0b71282f7936"
+      "group": "c1f17fcc635c"
     },
     {
       "type": "options",
