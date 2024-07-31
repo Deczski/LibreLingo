@@ -78,11 +78,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Osm-sto trideset-pet psov",
+      "formInTargetLanguage": "Osm-sto-trideset-pet psov",
       "meaningInSourceLanguage": "Eight hundred thirty five dogs",
-      "id": "9cd1cf31f00b",
+      "id": "2d767baf0f1d",
       "priority": 0,
-      "group": "aac39e4864a7"
+      "group": "8977d906c7d8"
     },
     {
       "type": "chips",
@@ -110,35 +110,29 @@
         }
       ],
       "chips": [
-        "Osm-sto",
-        "trideset-pet",
+        "Osm-sto-trideset-pet",
         "psov",
         "prstov",
-        "jeste"
+        "trideset"
       ],
       "solutions": [
         [
-          "Osm-sto",
-          "trideset-pet",
+          "Osm-sto-trideset-pet",
           "psov"
         ]
       ],
-      "formattedSolution": "Osm-sto trideset-pet psov",
-      "id": "fa40616b1e7e",
+      "formattedSolution": "Osm-sto-trideset-pet psov",
+      "id": "a3ae15554cbe",
       "priority": 2,
-      "group": "aac39e4864a7"
+      "group": "8977d906c7d8"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Osm-sto",
-          "definition": "Osm-sto"
-        },
-        {
-          "word": "trideset-pet",
-          "definition": "trideset-pet"
+          "word": "Osm-sto-trideset-pet",
+          "definition": "Osm-sto-trideset-pet"
         },
         {
           "word": "psov",
@@ -166,17 +160,17 @@
         ]
       ],
       "formattedSolution": "Eight hundred thirty five dogs",
-      "id": "c9c0864e22d2",
+      "id": "a3ecc312ddcd",
       "priority": 2,
-      "group": "aac39e4864a7"
+      "group": "8977d906c7d8"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Koncertne bilety koštujut 30 evro",
-      "meaningInSourceLanguage": "The concert tickets cost 30 euros",
-      "id": "1eb26e7f7d0e",
+      "formInTargetLanguage": "Koncertne bilety koštujut trideset evro",
+      "meaningInSourceLanguage": "The concert tickets cost trideset euros",
+      "id": "7c9cf0012df3",
       "priority": 0,
-      "group": "5f3b380eee0e"
+      "group": "26f856ff476a"
     },
     {
       "type": "chips",
@@ -199,8 +193,8 @@
           "definition": "cost"
         },
         {
-          "word": "30",
-          "definition": "30"
+          "word": "trideset",
+          "definition": "trideset"
         },
         {
           "word": "euros",
@@ -211,26 +205,26 @@
         "Koncertne",
         "bilety",
         "koštujut",
-        "30",
+        "trideset",
         "evro",
-        "tut",
-        "Kto",
-        "to",
-        "te"
+        "Devet",
+        "Deset",
+        "videt",
+        "budete"
       ],
       "solutions": [
         [
           "Koncertne",
           "bilety",
           "koštujut",
-          "30",
+          "trideset",
           "evro"
         ]
       ],
-      "formattedSolution": "Koncertne bilety koštujut 30 evro",
-      "id": "669487c64ac3",
+      "formattedSolution": "Koncertne bilety koštujut trideset evro",
+      "id": "55eeffa91a84",
       "priority": 2,
-      "group": "5f3b380eee0e"
+      "group": "26f856ff476a"
     },
     {
       "type": "chips",
@@ -249,8 +243,8 @@
           "definition": "koštujut"
         },
         {
-          "word": "30",
-          "definition": "30"
+          "word": "trideset",
+          "definition": "trideset"
         },
         {
           "word": "evro",
@@ -262,13 +256,13 @@
         "concert",
         "tickets",
         "cost",
-        "30",
+        "trideset",
         "euros",
+        "goes",
+        "times",
         "not",
-        "lot",
-        "is",
         "eat",
-        "car"
+        "lot"
       ],
       "solutions": [
         [
@@ -276,22 +270,22 @@
           "concert",
           "tickets",
           "cost",
-          "30",
+          "trideset",
           "euros"
         ]
       ],
-      "formattedSolution": "The concert tickets cost 30 euros",
-      "id": "8fb70948b2c7",
+      "formattedSolution": "The concert tickets cost trideset euros",
+      "id": "c983c0a4ca58",
       "priority": 2,
-      "group": "5f3b380eee0e"
+      "group": "26f856ff476a"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ona čitaje 45 knig vsakogodno",
-      "meaningInSourceLanguage": "She reads 45 books every year",
-      "id": "fb0ef29dea1a",
+      "formInTargetLanguage": "Ona čitaje četyrideset-pet knig vsakogodno",
+      "meaningInSourceLanguage": "She reads forty-five books every year",
+      "id": "9090d83e7dd7",
       "priority": 0,
-      "group": "06e3553b17c5"
+      "group": "13cedde18a5f"
     },
     {
       "type": "chips",
@@ -306,8 +300,8 @@
           "definition": "reads"
         },
         {
-          "word": "45",
-          "definition": "45"
+          "word": "forty-five",
+          "definition": "forty-five"
         },
         {
           "word": "books",
@@ -325,27 +319,27 @@
       "chips": [
         "Ona",
         "čitaje",
-        "45",
+        "četyrideset-pet",
         "knig",
         "vsakogodno",
+        "Oni",
+        "One",
         "ona",
-        "na",
-        "On",
-        "Ono"
+        "črne"
       ],
       "solutions": [
         [
           "Ona",
           "čitaje",
-          "45",
+          "četyrideset-pet",
           "knig",
           "vsakogodno"
         ]
       ],
-      "formattedSolution": "Ona čitaje 45 knig vsakogodno",
-      "id": "75260203e164",
+      "formattedSolution": "Ona čitaje četyrideset-pet knig vsakogodno",
+      "id": "dc8feed9a41e",
       "priority": 2,
-      "group": "06e3553b17c5"
+      "group": "13cedde18a5f"
     },
     {
       "type": "chips",
@@ -360,8 +354,8 @@
           "definition": "čitaje"
         },
         {
-          "word": "45",
-          "definition": "45"
+          "word": "četyrideset-pet",
+          "definition": "četyrideset-pet"
         },
         {
           "word": "knig",
@@ -375,30 +369,30 @@
       "chips": [
         "She",
         "reads",
-        "45",
+        "forty-five",
         "books",
         "every",
         "year",
-        "be",
         "ears",
-        "We",
-        "He",
-        "eat"
+        "eyes",
+        "are",
+        "were",
+        "here"
       ],
       "solutions": [
         [
           "She",
           "reads",
-          "45",
+          "forty-five",
           "books",
           "every",
           "year"
         ]
       ],
-      "formattedSolution": "She reads 45 books every year",
-      "id": "2ad977508163",
+      "formattedSolution": "She reads forty-five books every year",
+      "id": "4f983ae83841",
       "priority": 2,
-      "group": "06e3553b17c5"
+      "group": "13cedde18a5f"
     },
     {
       "type": "options",
@@ -496,11 +490,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Maraton iměl 150 učestnikov",
-      "meaningInSourceLanguage": "The marathon had 150 participants",
-      "id": "8c35dd87db7a",
+      "formInTargetLanguage": "Maraton iměl sto-petdeset učestnikov",
+      "meaningInSourceLanguage": "The marathon had hundred-fifty participants",
+      "id": "48823bddb82c",
       "priority": 0,
-      "group": "d223c7cca046"
+      "group": "c1309c831261"
     },
     {
       "type": "chips",
@@ -519,8 +513,8 @@
           "definition": "iměl\niměla\niměli\nimělo"
         },
         {
-          "word": "150",
-          "definition": "150"
+          "word": "hundred-fifty",
+          "definition": "hundred-fifty"
         },
         {
           "word": "participants",
@@ -530,24 +524,24 @@
       "chips": [
         "Maraton",
         "iměl",
-        "150",
+        "sto-petdeset",
         "učestnikov",
-        "ako",
-        "avto",
-        "Kto"
+        "jest",
+        "česti",
+        "Šest"
       ],
       "solutions": [
         [
           "Maraton",
           "iměl",
-          "150",
+          "sto-petdeset",
           "učestnikov"
         ]
       ],
-      "formattedSolution": "Maraton iměl 150 učestnikov",
-      "id": "7c8f88bb4e23",
+      "formattedSolution": "Maraton iměl sto-petdeset učestnikov",
+      "id": "78da407aef25",
       "priority": 2,
-      "group": "d223c7cca046"
+      "group": "c1309c831261"
     },
     {
       "type": "chips",
@@ -562,8 +556,8 @@
           "definition": "had"
         },
         {
-          "word": "150",
-          "definition": "150"
+          "word": "sto-petdeset",
+          "definition": "sto-petdeset"
         },
         {
           "word": "učestnikov",
@@ -574,34 +568,34 @@
         "The",
         "marathon",
         "had",
-        "150",
+        "hundred-fifty",
         "participants",
-        "man",
-        "can",
         "than",
-        "are"
+        "are",
+        "man",
+        "eat"
       ],
       "solutions": [
         [
           "The",
           "marathon",
           "had",
-          "150",
+          "hundred-fifty",
           "participants"
         ]
       ],
-      "formattedSolution": "The marathon had 150 participants",
-      "id": "f0dbf640844a",
+      "formattedSolution": "The marathon had hundred-fifty participants",
+      "id": "57101cc6ba28",
       "priority": 2,
-      "group": "d223c7cca046"
+      "group": "c1309c831261"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Samolět može něsti 300 pasažerov",
-      "meaningInSourceLanguage": "The airplane can carry 300 passengers",
-      "id": "ded09e2b438b",
+      "formInTargetLanguage": "Samolět može něsti tristo pasažerov",
+      "meaningInSourceLanguage": "The airplane can carry three hundred passengers",
+      "id": "c6bd257975e8",
       "priority": 0,
-      "group": "c70e51d57123"
+      "group": "1581b83fdf17"
     },
     {
       "type": "chips",
@@ -624,8 +618,12 @@
           "definition": "carry"
         },
         {
-          "word": "300",
-          "definition": "300"
+          "word": "three",
+          "definition": "Tri\ntri"
+        },
+        {
+          "word": "hundred",
+          "definition": "Sto\nSto dvadeset pet"
         },
         {
           "word": "passengers",
@@ -636,26 +634,26 @@
         "Samolět",
         "može",
         "něsti",
-        "300",
+        "tristo",
         "pasažerov",
-        "lět",
-        "moj",
-        "moje",
-        "ale"
+        "raste",
+        "kosti",
+        "pamet",
+        "psov"
       ],
       "solutions": [
         [
           "Samolět",
           "može",
           "něsti",
-          "300",
+          "tristo",
           "pasažerov"
         ]
       ],
-      "formattedSolution": "Samolět može něsti 300 pasažerov",
-      "id": "95c501779e5c",
+      "formattedSolution": "Samolět može něsti tristo pasažerov",
+      "id": "dd84bc9da89b",
       "priority": 2,
-      "group": "c70e51d57123"
+      "group": "1581b83fdf17"
     },
     {
       "type": "chips",
@@ -674,8 +672,8 @@
           "definition": "něsti"
         },
         {
-          "word": "300",
-          "definition": "300"
+          "word": "tristo",
+          "definition": "two hundred"
         },
         {
           "word": "pasažerov",
@@ -687,13 +685,15 @@
         "airplane",
         "can",
         "carry",
-        "300",
+        "three",
+        "hundred",
         "passengers",
         "are",
         "car",
-        "man",
-        "an",
-        "and"
+        "Three",
+        "here",
+        "have",
+        "cars"
       ],
       "solutions": [
         [
@@ -701,22 +701,23 @@
           "airplane",
           "can",
           "carry",
-          "300",
+          "three",
+          "hundred",
           "passengers"
         ]
       ],
-      "formattedSolution": "The airplane can carry 300 passengers",
-      "id": "a807fb72e43b",
+      "formattedSolution": "The airplane can carry three hundred passengers",
+      "id": "b4f1ecc22722",
       "priority": 2,
-      "group": "c70e51d57123"
+      "group": "1581b83fdf17"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "On zakončil gonku v 78 minut",
-      "meaningInSourceLanguage": "He finished the race in 78 minutes.",
-      "id": "3e502074870e",
+      "formInTargetLanguage": "On zakončil gonku v sedmdeset osm minut",
+      "meaningInSourceLanguage": "He finished the race in seventy eight minutes.",
+      "id": "338a5518f088",
       "priority": 0,
-      "group": "5ad849e7bc91"
+      "group": "07e5f489095d"
     },
     {
       "type": "chips",
@@ -743,8 +744,12 @@
           "definition": "in"
         },
         {
-          "word": "78",
-          "definition": "78"
+          "word": "seventy",
+          "definition": "seventy"
+        },
+        {
+          "word": "eight",
+          "definition": "Osm\nosm"
         },
         {
           "word": "minutes.",
@@ -756,13 +761,15 @@
         "zakončil",
         "gonku",
         "v",
-        "78",
+        "sedmdeset",
+        "osm",
         "minut",
         "on",
         "Oni",
-        "i",
+        "One",
         "ne",
-        "na"
+        "od",
+        "mně"
       ],
       "solutions": [
         [
@@ -770,14 +777,15 @@
           "zakončil",
           "gonku",
           "v",
-          "78",
+          "sedmdeset",
+          "osm",
           "minut"
         ]
       ],
-      "formattedSolution": "On zakončil gonku v 78 minut",
-      "id": "d258745c6aa5",
+      "formattedSolution": "On zakončil gonku v sedmdeset osm minut",
+      "id": "5e03f5adb5a4",
       "priority": 2,
-      "group": "5ad849e7bc91"
+      "group": "07e5f489095d"
     },
     {
       "type": "chips",
@@ -800,8 +808,12 @@
           "definition": "in"
         },
         {
-          "word": "78",
-          "definition": "78"
+          "word": "sedmdeset",
+          "definition": "sedmdeset"
+        },
+        {
+          "word": "osm",
+          "definition": "Eight\neight"
         },
         {
           "word": "minut",
@@ -814,14 +826,16 @@
         "the",
         "race",
         "in",
-        "78",
+        "seventy",
+        "eight",
         "minutes",
         "he",
+        "fine",
+        "Nine",
+        "She",
         "me",
-        "We",
-        "is",
-        "be",
-        "fine"
+        "The",
+        "nice"
       ],
       "solutions": [
         [
@@ -830,22 +844,23 @@
           "the",
           "race",
           "in",
-          "78",
+          "seventy",
+          "eight",
           "minutes"
         ]
       ],
-      "formattedSolution": "He finished the race in 78 minutes.",
-      "id": "de29b63d1950",
+      "formattedSolution": "He finished the race in seventy eight minutes.",
+      "id": "10ff7dba012a",
       "priority": 2,
-      "group": "5ad849e7bc91"
+      "group": "07e5f489095d"
     },
     {
       "type": "options",
       "formInTargetLanguage": "Bylo dvasto sedmdeset-pet aplikantov na tu rabotu",
-      "meaningInSourceLanguage": "There were 275 applicants for this job",
-      "id": "f7415813d05b",
+      "meaningInSourceLanguage": "There were Two-hundred-seventy-five applicants for this job",
+      "id": "14dfd43159f5",
       "priority": 0,
-      "group": "83556d12c175"
+      "group": "1e2607be9533"
     },
     {
       "type": "chips",
@@ -860,8 +875,8 @@
           "definition": "byl\nbyla\nbyli\nbylo"
         },
         {
-          "word": "275",
-          "definition": "275"
+          "word": "Two-hundred-seventy-five",
+          "definition": "Two-hundred-seventy-five"
         },
         {
           "word": "applicants",
@@ -907,9 +922,9 @@
         ]
       ],
       "formattedSolution": "Bylo dvasto sedmdeset-pet aplikantov na tu rabotu",
-      "id": "d0423fc03d84",
+      "id": "fd6394443d31",
       "priority": 2,
-      "group": "83556d12c175"
+      "group": "1e2607be9533"
     },
     {
       "type": "chips",
@@ -947,41 +962,41 @@
       "chips": [
         "There",
         "were",
-        "275",
+        "Two-hundred-seventy-five",
         "applicants",
         "for",
         "this",
         "job",
+        "here",
+        "This",
+        "word",
         "his",
         "are",
-        "here",
-        "car",
-        "the",
-        "or"
+        "there"
       ],
       "solutions": [
         [
           "There",
           "were",
-          "275",
+          "Two-hundred-seventy-five",
           "applicants",
           "for",
           "this",
           "job"
         ]
       ],
-      "formattedSolution": "There were 275 applicants for this job",
-      "id": "d4b85d6782cb",
+      "formattedSolution": "There were Two-hundred-seventy-five applicants for this job",
+      "id": "aefbccfa8026",
       "priority": 2,
-      "group": "83556d12c175"
+      "group": "1e2607be9533"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "On vizitoval šestdeset devet držav podčas svojih putovanj",
-      "meaningInSourceLanguage": "He visited sixty nine countries during his travels.",
-      "id": "bd3587cfe2c8",
+      "formInTargetLanguage": "On vizitoval šestdeset-devet držav podčas svojih putovanj",
+      "meaningInSourceLanguage": "He visited sixty-nine countries during his travels.",
+      "id": "0b3be3db75d0",
       "priority": 0,
-      "group": "7fe99beda0f9"
+      "group": "1d9b2d71c316"
     },
     {
       "type": "chips",
@@ -996,12 +1011,8 @@
           "definition": "visited"
         },
         {
-          "word": "sixty",
-          "definition": "sixty"
-        },
-        {
-          "word": "nine",
-          "definition": "Devet\ndevet"
+          "word": "sixty-nine",
+          "definition": "sixty-nine"
         },
         {
           "word": "countries",
@@ -1023,36 +1034,33 @@
       "chips": [
         "On",
         "vizitoval",
-        "šestdeset",
-        "devet",
+        "šestdeset-devet",
         "držav",
         "podčas",
         "svojih",
         "putovanj",
         "dva",
-        "denj",
         "tvoj",
+        "psov",
+        "slova",
         "to",
-        "avta",
-        "otca",
-        "moja"
+        "otca"
       ],
       "solutions": [
         [
           "On",
           "vizitoval",
-          "šestdeset",
-          "devet",
+          "šestdeset-devet",
           "držav",
           "podčas",
           "svojih",
           "putovanj"
         ]
       ],
-      "formattedSolution": "On vizitoval šestdeset devet držav podčas svojih putovanj",
-      "id": "f27bf772f481",
+      "formattedSolution": "On vizitoval šestdeset-devet držav podčas svojih putovanj",
+      "id": "fc8b53ec242c",
       "priority": 2,
-      "group": "7fe99beda0f9"
+      "group": "1d9b2d71c316"
     },
     {
       "type": "chips",
@@ -1067,12 +1075,8 @@
           "definition": "vizitoval"
         },
         {
-          "word": "šestdeset",
-          "definition": "šestdeset"
-        },
-        {
-          "word": "devet",
-          "definition": "Nine\nnine"
+          "word": "šestdeset-devet",
+          "definition": "šestdeset-devet"
         },
         {
           "word": "držav",
@@ -1094,56 +1098,49 @@
       "chips": [
         "He",
         "visited",
-        "sixty",
-        "nine",
+        "sixty-nine",
         "countries",
         "during",
         "his",
         "travels",
         "is",
+        "drive",
         "fine",
         "Nine",
-        "nice",
         "write",
-        "sing",
-        "drive"
+        "nice"
       ],
       "solutions": [
         [
           "He",
           "visited",
-          "sixty",
-          "nine",
+          "sixty-nine",
           "countries",
           "during",
           "his",
           "travels"
         ]
       ],
-      "formattedSolution": "He visited sixty nine countries during his travels.",
-      "id": "cab5253147fe",
+      "formattedSolution": "He visited sixty-nine countries during his travels.",
+      "id": "6c9a6e730710",
       "priority": 2,
-      "group": "7fe99beda0f9"
+      "group": "1d9b2d71c316"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Šestdeset devet je zabavno čislo",
-      "meaningInSourceLanguage": "Sixty nine is a funny number",
-      "id": "bf5f2b21fd15",
+      "formInTargetLanguage": "Šestdeset-devet je zabavno čislo",
+      "meaningInSourceLanguage": "Sixty-nine is a funny number",
+      "id": "64a234f0ee4e",
       "priority": 0,
-      "group": "1e7a0b843f97"
+      "group": "3ce9225887dc"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "Sixty",
-          "definition": "Sixty"
-        },
-        {
-          "word": "nine",
-          "definition": "Devet\ndevet"
+          "word": "Sixty-nine",
+          "definition": "Sixty-nine"
         },
         {
           "word": "is",
@@ -1163,41 +1160,34 @@
         }
       ],
       "chips": [
-        "Šestdeset",
-        "devet",
+        "Šestdeset-devet",
         "je",
         "zabavno",
         "čislo",
-        "jest",
-        "Šest",
-        "Devet",
-        "Deset"
+        "jesmo",
+        "jeste",
+        "jest"
       ],
       "solutions": [
         [
-          "Šestdeset",
-          "devet",
+          "Šestdeset-devet",
           "je",
           "zabavno",
           "čislo"
         ]
       ],
-      "formattedSolution": "Šestdeset devet je zabavno čislo",
-      "id": "398a5316f446",
+      "formattedSolution": "Šestdeset-devet je zabavno čislo",
+      "id": "326a3fbbcb51",
       "priority": 2,
-      "group": "1e7a0b843f97"
+      "group": "3ce9225887dc"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Šestdeset",
-          "definition": "Šestdeset"
-        },
-        {
-          "word": "devet",
-          "definition": "Nine\nnine"
+          "word": "Šestdeset-devet",
+          "definition": "Šestdeset-devet"
         },
         {
           "word": "je",
@@ -1213,32 +1203,29 @@
         }
       ],
       "chips": [
-        "Sixty",
-        "nine",
+        "Sixty-nine",
         "is",
         "a",
         "funny",
         "number",
         "in",
-        "fine",
         "be",
-        "if",
-        "me"
+        "me",
+        "fine"
       ],
       "solutions": [
         [
-          "Sixty",
-          "nine",
+          "Sixty-nine",
           "is",
           "a",
           "funny",
           "number"
         ]
       ],
-      "formattedSolution": "Sixty nine is a funny number",
-      "id": "3d20a09ab24f",
+      "formattedSolution": "Sixty-nine is a funny number",
+      "id": "33023aa4657a",
       "priority": 2,
-      "group": "1e7a0b843f97"
+      "group": "3ce9225887dc"
     },
     {
       "type": "cards",
