@@ -4,5 +4,5 @@
 Počitaj je i sravnij je so svojim rodnym jezykom
 
 - "Li" = Kupil li otec knigu? | Did Father buy a book?
-- "Ton" = 🎵Kupil otec knigu?🎵 | Did Father buy a book?
+- "Intonacija" = 🎵Kupil otec knigu?🎵 | Did Father buy a book?
 - "Či" = Či otec kupil knigu? | Did Father buy a book?
