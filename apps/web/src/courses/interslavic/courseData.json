@@ -539,21 +539,20 @@
             "Ty imaš veliku glavu",
             "Toj člověk ima velike uši",
             "Či s tvojeju glavoju je vsečto v porědku?",
-            "Moja glava bolji od gledanja na kompjuter",
+            "Moja glava boli od gledanja na kompjuter",
             "Koliko kosti jest v glavě?",
             "Ona idě umyti svoje vlasy",
             "Děti imajut velike oči",
             "Čerep ohranjaje mozg od poškodženj",
             "Mozg je odgovorny za dumanje, emocije i pamet",
             "Jezyk umožnjaje vkušanje, žuvanje i govorenje",
-            "Člověčska glava raste velmi brzo v času detinstva",
-            "Člověčska glava raste velmi brzo v času detinstva",
+            "Člověčska glava raste brzo v času detinstva",
             "One imajut krasive črne i kudrave vlasy"
           ],
           "practiceHref": "human-1",
           "id": "64a9147c90d5",
           "title": "Human 1",
-          "levels": 6
+          "levels": 5
         },
         {
           "imageSet": [

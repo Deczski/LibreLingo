@@ -1,6 +1,6 @@
 {
   "id": "64a9147c90d5",
-  "levels": 6,
+  "levels": 5,
   "challenges": [
     {
       "type": "options",
@@ -457,11 +457,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Moja glava bolji od gledanja na kompjuter",
+      "formInTargetLanguage": "Moja glava boli od gledanja na kompjuter",
       "meaningInSourceLanguage": "My head hurts from staring at the computer",
-      "id": "721d04617312",
+      "id": "bc6cae0c2b05",
       "priority": 0,
-      "group": "0232d93c5b93"
+      "group": "badafac54a6f"
     },
     {
       "type": "chips",
@@ -503,7 +503,7 @@
       "chips": [
         "Moja",
         "glava",
-        "bolji",
+        "boli",
         "od",
         "gledanja",
         "na",
@@ -511,25 +511,25 @@
         "moja",
         "moj",
         "Toj",
-        "je",
-        "moje",
-        "Konj"
+        "Ja",
+        "Ona",
+        "je"
       ],
       "solutions": [
         [
           "Moja",
           "glava",
-          "bolji",
+          "boli",
           "od",
           "gledanja",
           "na",
           "kompjuter"
         ]
       ],
-      "formattedSolution": "Moja glava bolji od gledanja na kompjuter",
-      "id": "d5c8bdbb7568",
+      "formattedSolution": "Moja glava boli od gledanja na kompjuter",
+      "id": "ffb3d2eacb6f",
       "priority": 2,
-      "group": "0232d93c5b93"
+      "group": "badafac54a6f"
     },
     {
       "type": "chips",
@@ -544,8 +544,8 @@
           "definition": "Head"
         },
         {
-          "word": "bolji",
-          "definition": "bolji"
+          "word": "boli",
+          "definition": "hurts"
         },
         {
           "word": "od",
@@ -594,9 +594,9 @@
         ]
       ],
       "formattedSolution": "My head hurts from staring at the computer",
-      "id": "2893bb994f03",
+      "id": "93e6854fdee0",
       "priority": 2,
-      "group": "0232d93c5b93"
+      "group": "badafac54a6f"
     },
     {
       "type": "options",
@@ -1330,149 +1330,6 @@
       "id": "648f96cff58b",
       "priority": 2,
       "group": "1318113d9af3"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "Člověčska glava raste velmi brzo v času detinstva",
-      "meaningInSourceLanguage": "The human head grows rapidly during childhood.",
-      "id": "3b2aa617803f",
-      "priority": 0,
-      "group": "8afcf1964879"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "The",
-          "definition": "toj"
-        },
-        {
-          "word": "human",
-          "definition": "človek\nčlověk"
-        },
-        {
-          "word": "head",
-          "definition": "Glava"
-        },
-        {
-          "word": "grows",
-          "definition": "grows"
-        },
-        {
-          "word": "rapidly",
-          "definition": "rapidly"
-        },
-        {
-          "word": "during",
-          "definition": "during"
-        },
-        {
-          "word": "childhood.",
-          "definition": "childhood."
-        }
-      ],
-      "chips": [
-        "Člověčska",
-        "glava",
-        "raste",
-        "velmi",
-        "brzo",
-        "v",
-        "času",
-        "detinstva",
-        "avta",
-        "dva",
-        "jest",
-        "se",
-        "na",
-        "za",
-        "Šest"
-      ],
-      "solutions": [
-        [
-          "Člověčska",
-          "glava",
-          "raste",
-          "velmi",
-          "brzo",
-          "v",
-          "času",
-          "detinstva"
-        ]
-      ],
-      "formattedSolution": "Člověčska glava raste velmi brzo v času detinstva",
-      "id": "9eadc196a132",
-      "priority": 2,
-      "group": "8afcf1964879"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Člověčska",
-          "definition": "humane"
-        },
-        {
-          "word": "glava",
-          "definition": "Head"
-        },
-        {
-          "word": "raste",
-          "definition": "grows"
-        },
-        {
-          "word": "velmi",
-          "definition": "strongly"
-        },
-        {
-          "word": "brzo",
-          "definition": "fastly"
-        },
-        {
-          "word": "v",
-          "definition": "in"
-        },
-        {
-          "word": "času",
-          "definition": "time"
-        },
-        {
-          "word": "detinstva",
-          "definition": "childhood"
-        }
-      ],
-      "chips": [
-        "The",
-        "human",
-        "head",
-        "grows",
-        "rapidly",
-        "during",
-        "childhood",
-        "had",
-        "child",
-        "hand",
-        "did",
-        "guide",
-        "red"
-      ],
-      "solutions": [
-        [
-          "The",
-          "human",
-          "head",
-          "grows",
-          "rapidly",
-          "during",
-          "childhood"
-        ]
-      ],
-      "formattedSolution": "The human head grows rapidly during childhood.",
-      "id": "eb08761567a4",
-      "priority": 2,
-      "group": "8afcf1964879"
     },
     {
       "type": "options",
