@@ -1777,43 +1777,6 @@
     {
       "type": "cards",
       "pictures": [
-        "afternoon1.jpg",
-        "afternoon2.jpg",
-        "afternoon3.jpg"
-      ],
-      "formInTargetLanguage": "Arratsalde on",
-      "meaningInSourceLanguage": "Good afternoon",
-      "id": "b02829b2ca1f",
-      "priority": 0,
-      "group": "36bdb8606b37"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "afternoon1.jpg",
-        "afternoon2.jpg",
-        "afternoon3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "Arratsalde on"
-      ],
-      "phrase": [
-        {
-          "word": "Good",
-          "definition": "dobro"
-        },
-        {
-          "word": "afternoon",
-          "definition": "popoludnje"
-        }
-      ],
-      "id": "0288443274ad",
-      "priority": 1,
-      "group": "36bdb8606b37"
-    },
-    {
-      "type": "cards",
-      "pictures": [
         "iam1.jpg",
         "iam2.jpg",
         "iam3.jpg"
