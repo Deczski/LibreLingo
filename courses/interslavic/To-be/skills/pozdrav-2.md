@@ -6,10 +6,6 @@
 
 # Lekcija 2
 
->ISV: Tutčas pogledaj kako govorimo o minulosti 
->ENG: Now take a look how do we speak about the past
-
-
 ## Osnova | The basics:
 
 - Ja jesm byl = I was
