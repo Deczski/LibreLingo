@@ -208,6 +208,7 @@
             "choice2",
             "what3"
           ],
+          "introduction": "questions.md",
           "summary": [
             "čto",
             "kto",
