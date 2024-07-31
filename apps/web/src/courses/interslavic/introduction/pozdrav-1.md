@@ -3,6 +3,8 @@
 *   [Interslavic-dictionary](https://interslavic-dictionary.com/) -&gt; Oficjalny slovnik
 *   [Interslavic.fun](https://interslavic.fun/) -&gt; Oficjalna vebstranica 
 
+# Lekcija 2 | Lesson 2
+
 ## Osnova | The basics:
 
 *   Ja jesm = I am

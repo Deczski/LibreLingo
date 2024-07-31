@@ -4,7 +4,7 @@
 - [Facebook](https://www.facebook.com/groups/287915484553597) -> Oficjalna vebstranica 
 
 
-# Lekcija 2
+# Lekcija 2 | Lesson 2
 
 ## Osnova | The basics:
 

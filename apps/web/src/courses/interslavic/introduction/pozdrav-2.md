@@ -3,7 +3,7 @@
 *   [Discord](https://discord.com/invite/Mwykptnx4t) -&gt; Naš discord server
 *   [Facebook](https://www.facebook.com/groups/287915484553597) -&gt; Oficjalna vebstranica 
 
-# Lekcija 2
+# Lekcija 2 | Lesson 2
 
 ## Osnova | The basics:
 

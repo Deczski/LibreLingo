@@ -2,7 +2,7 @@
 
 *   [Youtube](https://www.youtube.com/@interslavicofficial) -&gt; Medžuslovjansky Youtube
 
-# Lekcija 3
+# Lekcija 3 | Lesson 3
 
 ## Osnova | The basics:
 
