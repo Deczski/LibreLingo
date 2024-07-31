@@ -120,22 +120,30 @@
     {
       "type": "options",
       "formInTargetLanguage": "Dva minus jedin ravna se jedin",
-      "meaningInSourceLanguage": "You(singular) are",
-      "id": "8a65a8a3ea41",
+      "meaningInSourceLanguage": "Two minus one equals",
+      "id": "95336614f567",
       "priority": 0,
-      "group": "efa018c94d91"
+      "group": "58998b5fa341"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "You(singular)",
-          "definition": "Ty\nty"
+          "word": "Two",
+          "definition": "Dva\ndva"
         },
         {
-          "word": "are",
-          "definition": "jesi"
+          "word": "minus",
+          "definition": "minus"
+        },
+        {
+          "word": "one",
+          "definition": "jedin"
+        },
+        {
+          "word": "equals",
+          "definition": "equals"
         }
       ],
       "chips": [
@@ -162,9 +170,9 @@
         ]
       ],
       "formattedSolution": "Dva minus jedin ravna se jedin",
-      "id": "773ded436c1b",
+      "id": "7203c1a881a6",
       "priority": 2,
-      "group": "efa018c94d91"
+      "group": "58998b5fa341"
     },
     {
       "type": "chips",
@@ -196,21 +204,26 @@
         }
       ],
       "chips": [
-        "You(singular",
-        "are",
-        "You",
-        "sing"
+        "Two",
+        "minus",
+        "one",
+        "equals",
+        "bus",
+        "is",
+        "man"
       ],
       "solutions": [
         [
-          "You(singular",
-          "are"
+          "Two",
+          "minus",
+          "one",
+          "equals"
         ]
       ],
-      "formattedSolution": "You(singular) are",
-      "id": "738f72dfb979",
+      "formattedSolution": "Two minus one equals",
+      "id": "fe5525c58ee0",
       "priority": 2,
-      "group": "efa018c94d91"
+      "group": "58998b5fa341"
     },
     {
       "type": "options",
