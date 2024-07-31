@@ -408,11 +408,11 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Obyčno samci ptic sut kolorovi",
+      "formInTargetLanguage": "Obyčno samci ptic sut mnogokolorni",
       "meaningInSourceLanguage": "Typically, male birds are colorful",
-      "id": "dc3488503b64",
+      "id": "a12cd542968a",
       "priority": 0,
-      "group": "0cf967d7f3c6"
+      "group": "12a8462af1f8"
     },
     {
       "type": "chips",
@@ -444,10 +444,10 @@
         "samci",
         "ptic",
         "sut",
-        "kolorovi",
+        "mnogokolorni",
         "Oni",
-        "oči",
         "Ono",
+        "oči",
         "bylo"
       ],
       "solutions": [
@@ -456,13 +456,13 @@
           "samci",
           "ptic",
           "sut",
-          "kolorovi"
+          "mnogokolorni"
         ]
       ],
-      "formattedSolution": "Obyčno samci ptic sut kolorovi",
-      "id": "cbad2b16de79",
+      "formattedSolution": "Obyčno samci ptic sut mnogokolorni",
+      "id": "a55881ead791",
       "priority": 2,
-      "group": "0cf967d7f3c6"
+      "group": "12a8462af1f8"
     },
     {
       "type": "chips",
@@ -485,8 +485,8 @@
           "definition": "are"
         },
         {
-          "word": "kolorovi",
-          "definition": "kolorovi"
+          "word": "mnogokolorni",
+          "definition": "mnogokolorni"
         }
       ],
       "chips": [
@@ -510,9 +510,9 @@
         ]
       ],
       "formattedSolution": "Typically, male birds are colorful",
-      "id": "e812213fc230",
+      "id": "58a053d4147d",
       "priority": 2,
-      "group": "0cf967d7f3c6"
+      "group": "12a8462af1f8"
     },
     {
       "type": "options",
