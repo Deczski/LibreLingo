@@ -1,7 +1,7 @@
 # Medžuslovjanske medija za učenje
 
-- [Interslavic-dictionary](https://interslavic-dictionary.com/) -> Oficjalny slovnik
-- [Interslavic.fun](https://interslavic.fun/) -> Oficjalna vebstranica 
+- [Interslavic-dictionary](https://interslavic-dictionary.com/) -> Oficjalny slovnik s gramatikoju
+- [Interslavic.fun](https://interslavic.fun/) -> Oficjalna vebstranica s gramatikoju
 
 # Lekcija 1 | Lesson 1
 
