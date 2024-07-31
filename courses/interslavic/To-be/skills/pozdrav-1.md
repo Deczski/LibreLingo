@@ -2,7 +2,7 @@
 
 - [Interslavic-dictionary](https://interslavic-dictionary.com/) -> Oficjalny slovnik s gramatikoju
 - [Interslavic.fun](https://interslavic.fun/) -> Oficjalna vebstranica s gramatikoju
-- [https://docs.google.com/presentation/d/1ERKC1ZpSJeynMlHSWi47VKGyZUtiX3Tzd5uChbndhps/edit?usp=sharing](InterSlavicPunk) -> Prezentacija
+- [InterSlavicPunk](https://docs.google.com/presentation/d/1ERKC1ZpSJeynMlHSWi47VKGyZUtiX3Tzd5uChbndhps/edit?usp=sharing) -> Prezentacija
 
 # Lekcija 1 | Lesson 1
 
