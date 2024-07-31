@@ -4,10 +4,9 @@
 
 # Lekcija 3
 
-`` sh
-ISV: Tutčas pogledaj kako govorimo o budučnosti ``
-`` sh
-ENG: Now take a look how do we speak about the future ``
+## ISV: Tutčas pogledaj kako govorimo o budučnosti
+
+## ENG: Now take a look how do we speak about the future
 
 ## Osnova | The basics:
 
