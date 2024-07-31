@@ -4,7 +4,10 @@
 
 # Lekcija 3
 
->  ISV: Tutčas pogledaj kako govorimo o minulostiENG: Now take a look how do we speak about the past
+`` sh
+ISV: Tutčas pogledaj kako govorimo o budučnosti ``
+`` sh
+ENG: Now take a look how do we speak about the future ``
 
 ## Osnova | The basics:
 

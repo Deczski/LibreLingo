@@ -2,14 +2,15 @@
 
 - [Youtube](https://www.youtube.com/@interslavicofficial) -> Medžuslovjansky Youtube
 
-
 # Lekcija 3
 
->ISV: Tutčas pogledaj kako govorimo o minulosti
->
+```sh
+ISV: Tutčas pogledaj kako govorimo o budučnosti
+```
 
->ENG: Now take a look how do we speak about the past
->
+```sh
+ENG: Now take a look how do we speak about the future
+```
 
 ## Osnova | The basics:
 
