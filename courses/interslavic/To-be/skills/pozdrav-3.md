@@ -7,7 +7,6 @@
 
 ### ISV: Tutčas pogledaj kako govorimo o budučnosti
 
-
 ### ENG: Now take a look how do we speak about the future
 
 
