@@ -9,7 +9,7 @@
 ## Osnova | The basics:
 
 - Ja jesm byl = I was
-- Ty jesi byl = You(singular) was
+- Ty jesi byl = You(singular) were
 - On byl = He was
 - Ona byla = She was
 - Ono bylo = It was
