@@ -150,32 +150,62 @@ Phrases:
   - Phrase: Ja jesm
     Translation: I am
 
+  - Phrase: Ja ne jesm
+    Translation: I am
+
   - Phrase: Ty jesi
     Translation: You(singular) are
+
+  - Phrase: Ty ne jesi
+    Translation: You(singular) are not
 
   - Phrase: My jesmo
     Translation: We are
 
+  - Phrase: My ne jesmo
+    Translation: We are not
+
   - Phrase: Vy jeste
     Translation: You(plural) are
+
+  - Phrase: Vy ne jeste
+    Translation: You(plural) are not
 
   - Phrase: On jest
     Translation: He is 
 
+  - Phrase: On ne jest
+    Translation: He is not 
+
   - Phrase: Ona jest
     Translation: She is
 
+  - Phrase: On ne jest
+    Translation: He is not 
+
   - Phrase: Ono jest
-    Translation: It is   
+    Translation: It is
+
+  - Phrase: On ne jest
+    Translation: He is not 
 
   - Phrase: Oni sut
     Translation: They(masculine) are
 
+  - Phrase: Oni ne sut
+    Translation: They(masculine) are not
+
   - Phrase: One sut
     Translation: They(feminine) are    
 
+  - Phrase: One ne sut
+    Translation: They(feminine) are not
+
   - Phrase: Ja jesm muž
     Translation: I am a man
+
+  - Phrase: Ja ne jesm muž
+    Translation: I am not a man
 
   - Phrase: Pozdrav, Ja jesm Katarina
     Translation: Hello I am Katarina
@@ -191,6 +221,9 @@ Phrases:
 
   - Phrase: Ty Jesi žena
     Translation: You are a woman
+
+  - Phrase: Ty ne Jesi žena
+    Translation: You are not a woman
 
   - Phrase: Ty jesi muž
     Translation: You are a man
