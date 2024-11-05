@@ -285,14 +285,24 @@ Mini-dictionary:
     - i: and
     
     - Byti: to be
-    - Ja Jesm: I am
-    - Ty Jesi: You are(singular)
-    - On Jest: He is
-    - Ona Jest: She is
-    - Ono Jest: It is
-    - My Jesmo: We are
-    - Oni Sut: They are(masculine)
-    - One Sut: They are(feminine)
+    - Ja ne jesm: I am not
+    - Ty ne jesi: You are(singular) not
+    - On ne jest: He is not
+    - Ona ne jest: She is not
+    - Ono ne jest: It is not
+    - My ne jesmo: We are not
+    - Oni ne sut: They are(masculine) not
+    - One ne sut: They are(feminine) not
+
+    - Ja jesm: I am
+    - Ty jesi: You are(singular)
+    - On jest: He is
+    - Ona jest: She is
+    - Ono jest: It is
+    - My jesmo: We are
+    - Oni sut: They are(masculine)
+    - One sut: They are(feminine)
+
     - ne:
       - no
       - not 

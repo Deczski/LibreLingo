@@ -53,6 +53,35 @@ Phrases:
 - Phrase: One by
   Translation: They(feminine) would
 
+- Phrase: Ja byh ne
+  Translation: I would not
+
+
+- Phrase: Ty bys ne
+  Translation: You(singular) would not
+
+
+- Phrase: On by ne
+  Translation: He would not
+
+- Phrase: Ona by ne
+  Translation: She would not
+
+- Phrase: Ono by ne
+  Translation: It would not
+
+- Phrase: My byhmo ne 
+  Translation: We would not  
+
+- Phrase: Vy byste ne
+  Translation: You(plural) would not
+
+- Phrase: Oni by ne
+  Translation: They(masculine) would not
+
+- Phrase: One by ne
+  Translation: They(feminine) would not
+
 
 - Phrase: Ja byh kupoval
   Translation: I would buy
@@ -126,6 +155,17 @@ Mini-dictionary:
   - Vy byste: You(plural) would
   - Oni by: They(masculine) would
   - One by: They(feminine) would
+
+  - Ja byh ne: I would not
+  - Ty bys ne: You would not
+  - On by ne: He would not
+  - Ona by ne: She would not
+  - Ono by ne: It would not
+  - My byhmo ne: We would not
+  - Vy byste ne: You(plural) would not
+  - Oni by ne: They(masculine) would not
+  - One by ne: They(feminine) would not
+
   - basketbalisti: basketballers
   - budoval: build
   - pametali: remeber

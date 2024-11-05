@@ -20,12 +20,23 @@ Phrases:
 - Phrase: Ja budu
   Translation: I will
   Alternative translations:
-    - I will be  
+    - I will be
+
+- Phrase: Ja ne budu
+  Translation: I will not
+  Alternative translations:
+    - I will not be
+
 
 - Phrase: Ty budeš
   Translation: You(singular) will
   Alternative translations:
-    - You(singular) will be  
+    - You(singular) will be
+
+- Phrase: Ty ne budeš
+  Translation: You(singular) will not
+  Alternative translations:
+    - You(singular) will not be      
 
 - Phrase: On bude
   Translation: He will
@@ -37,15 +48,30 @@ Phrases:
   Alternative translations:
     - She will be  
 
+- Phrase: Ona ne bude
+  Translation: She will not
+  Alternative translations:
+    - She will not be  
+
 - Phrase: Ono bude
   Translation: It will
   Alternative translations:
-    - It will be    
+    - It will be
+
+- Phrase: Ono ne bude
+  Translation: It will not
+  Alternative translations:
+    - It will not be       
 
 - Phrase: My budemo
   Translation: We will
   Alternative translations:
     - We will be    
+
+- Phrase: My ne budemo
+  Translation: We will not
+  Alternative translations:
+    - We will not be  
 
 - Phrase: Vy budete
   Translation: You(plural) will
@@ -55,12 +81,22 @@ Phrases:
 - Phrase: Oni budut
   Translation: They(masculine) will
   Alternative translations:
-    - They(masculine) will be  
+    - They(masculine) will be
+
+- Phrase: Oni ne budut
+  Translation: They(masculine) will not
+  Alternative translations:
+    - They(masculine) will be     
 
 - Phrase: One budut
-  Translation: They(feminine)
+  Translation: They(feminine) will
   Alternative translations:
     - They(feminine) will be
+
+- Phrase: One ne budut
+  Translation: They(feminine) will not
+  Alternative translations:
+    - They(feminine) will not be
 
 - Phrase: Ja budu znati
   Translation: I will know
@@ -121,6 +157,17 @@ Mini-dictionary:
   - Vy buděte: You(plural)
   - Oni budut: They(masculine) will
   - One budut: They(feminine) will
+
+  - Ja ne budu: I will not
+  - Ty ne budeš: You will not
+  - On ne budě: He will not
+  - Ona ne budě: She will not
+  - Ono ne budě: It will not
+  - My ne budemo: We will not
+  - Vy ne buděte: You(plural) not
+  - Oni ne budut: They(masculine) will not
+  - One ne budut: They(feminine) will not
+
   - Kde: Where
   - Zautra: Tommorow
   - Spati: Sleep
