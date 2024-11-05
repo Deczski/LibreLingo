@@ -305,7 +305,11 @@ Mini-dictionary:
     - I: Ja
     - am: jesm
     - you: ty
-    - are: jesi
+    - are:
+      - jesi
+      - jeste
+      - jesmo
+      - sut
     - he: on
     - is: jest
     - she: ona
