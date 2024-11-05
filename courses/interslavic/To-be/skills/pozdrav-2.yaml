@@ -53,28 +53,44 @@ Phrases:
 - Phrase: Ja jesm byl
   Translation: I was
 
+- Phrase: Ja jesm ne byl
+  Translation: I was not
+
 - Phrase: Ty jesi byl
   Translation: You were
 
+- Phrase: Ty jesi ne byl
+  Translation: You were not
+
 - Phrase: On byl
   Translation: He was
-  Images:
-  - man2
+
+- Phrase: On ne byl
+  Translation: He was not
 
 - Phrase: Ona byla
-  Translation: She was        
+  Translation: She was
+
+- Phrase: Ona ne byla
+  Translation: She was not
 
 - Phrase: Ono bylo
   Translation: It was
+
+- Phrase: Ono ne bylo
+  Translation: It was not
 
 - Phrase: My jesmo byli
   Translation: We were
 
 - Phrase: Vy jeste byli
-  Translation: You(plural) were
+  Translation: You(plural) were 
 
 - Phrase: Oni byli
   Translation: They(masculine) were
+
+- Phrase: Oni ne byli
+  Translation: They(masculine) were not
 
 - Phrase: One byli
   Translation: They(feminine) were
@@ -86,6 +102,9 @@ Phrases:
   Translation: You(singular) were a mathematician 
 
 - Phrase: On byl bogaty
+  Translation: He was rich
+
+- Phrase: On ne byl bogaty
   Translation: He was rich
 
 - Phrase: Ona byla kraljeva
