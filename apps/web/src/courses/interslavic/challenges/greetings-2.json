@@ -32,7 +32,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you",
@@ -288,7 +288,7 @@
         "jest",
         "ničto",
         "to",
-        "je"
+        "ne"
       ],
       "solutions": [
         [
@@ -352,7 +352,7 @@
       "phrase": [
         {
           "word": "Sorry.",
-          "definition": "pomiluj"
+          "definition": "pardon\npomiluj"
         },
         {
           "word": "It",
@@ -468,9 +468,9 @@
         "Do",
         "viděnja",
         "pod",
+        "ne",
         "Ono",
-        "je",
-        "ne"
+        "je"
       ],
       "solutions": [
         [

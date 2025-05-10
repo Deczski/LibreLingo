@@ -1,6 +1,6 @@
 {
   "id": "76a6c8df6b2b",
-  "levels": 8,
+  "levels": 10,
   "challenges": [
     {
       "type": "options",
@@ -27,7 +27,7 @@
         "Ja",
         "jesm",
         "je",
-        "jesi"
+        "ne"
       ],
       "solutions": [
         [
@@ -72,6 +72,80 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ja ne jesm",
+      "meaningInSourceLanguage": "I am",
+      "id": "6c9d23b09069",
+      "priority": 0,
+      "group": "2d79b891f716"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "ne",
+        "jesm",
+        "je",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "ne",
+          "jesm"
+        ]
+      ],
+      "formattedSolution": "Ja ne jesm",
+      "id": "ca64971757f2",
+      "priority": 2,
+      "group": "2d79b891f716"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "a",
+        "It"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am"
+        ]
+      ],
+      "formattedSolution": "I am",
+      "id": "a5c44d11463f",
+      "priority": 2,
+      "group": "2d79b891f716"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ty jesi",
       "meaningInSourceLanguage": "You(singular) are",
       "id": "c347231d1bdd",
@@ -88,7 +162,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         }
       ],
       "chips": [
@@ -140,6 +214,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ty ne jesi",
+      "meaningInSourceLanguage": "You(singular) are not",
+      "id": "224571a8d3c6",
+      "priority": 0,
+      "group": "a89cd6c00b2e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "Ty\nty"
+        },
+        {
+          "word": "are",
+          "definition": "jesi\njesmo\njeste\nsut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "ne",
+        "jesi",
+        "je",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "ne",
+          "jesi"
+        ]
+      ],
+      "formattedSolution": "Ty ne jesi",
+      "id": "54ef89a31845",
+      "priority": 2,
+      "group": "a89cd6c00b2e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "are",
+        "not",
+        "You",
+        "or"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "are",
+          "not"
+        ]
+      ],
+      "formattedSolution": "You(singular) are not",
+      "id": "b2c28c1678b3",
+      "priority": 2,
+      "group": "a89cd6c00b2e"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "My jesmo",
       "meaningInSourceLanguage": "We are",
       "id": "607bba952b01",
@@ -156,7 +310,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         }
       ],
       "chips": [
@@ -208,6 +362,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "My ne jesmo",
+      "meaningInSourceLanguage": "We are not",
+      "id": "65362bc0becc",
+      "priority": 0,
+      "group": "d6962d93b482"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "My\nmy"
+        },
+        {
+          "word": "are",
+          "definition": "jesi\njesmo\njeste\nsut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "My",
+        "ne",
+        "jesmo",
+        "je",
+        "se"
+      ],
+      "solutions": [
+        [
+          "My",
+          "ne",
+          "jesmo"
+        ]
+      ],
+      "formattedSolution": "My ne jesmo",
+      "id": "0ece2f961e93",
+      "priority": 2,
+      "group": "d6962d93b482"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "We"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jesmo",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "not",
+        "He",
+        "be"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "not"
+        ]
+      ],
+      "formattedSolution": "We are not",
+      "id": "6591b991d76f",
+      "priority": 2,
+      "group": "d6962d93b482"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Vy jeste",
       "meaningInSourceLanguage": "You(plural) are",
       "id": "ac5ee57dbf8d",
@@ -224,7 +458,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         }
       ],
       "chips": [
@@ -273,6 +507,86 @@
       "id": "bd01742ef177",
       "priority": 2,
       "group": "bca6e6dc9e6a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy ne jeste",
+      "meaningInSourceLanguage": "You(plural) are not",
+      "id": "b125430db0a0",
+      "priority": 0,
+      "group": "75e6ca0232c2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "Vy\nvy"
+        },
+        {
+          "word": "are",
+          "definition": "jesi\njesmo\njeste\nsut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "ne",
+        "jeste",
+        "je",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "ne",
+          "jeste"
+        ]
+      ],
+      "formattedSolution": "Vy ne jeste",
+      "id": "f16dda18620b",
+      "priority": 2,
+      "group": "75e6ca0232c2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "You(plural)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jeste",
+          "definition": "are"
+        }
+      ],
+      "chips": [
+        "You(plural",
+        "are",
+        "not",
+        "You",
+        "or"
+      ],
+      "solutions": [
+        [
+          "You(plural",
+          "are",
+          "not"
+        ]
+      ],
+      "formattedSolution": "You(plural) are not",
+      "id": "2ad0ed70bcf9",
+      "priority": 2,
+      "group": "75e6ca0232c2"
     },
     {
       "type": "options",
@@ -344,6 +658,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "On ne jest",
+      "meaningInSourceLanguage": "He is not",
+      "id": "0d3e4d051ff1",
+      "priority": 0,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "On",
+        "ne",
+        "jest",
+        "je",
+        "One"
+      ],
+      "solutions": [
+        [
+          "On",
+          "ne",
+          "jest"
+        ]
+      ],
+      "formattedSolution": "On ne jest",
+      "id": "235b81d64714",
+      "priority": 2,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "He"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "not",
+        "We",
+        "It"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "not"
+        ]
+      ],
+      "formattedSolution": "He is not",
+      "id": "7b02e8e03f31",
+      "priority": 2,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ona jest",
       "meaningInSourceLanguage": "She is",
       "id": "d279b54effb5",
@@ -367,7 +761,7 @@
         "Ona",
         "jest",
         "jesm",
-        "jesi"
+        "ne"
       ],
       "solutions": [
         [
@@ -412,6 +806,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "On ne jest",
+      "meaningInSourceLanguage": "He is not",
+      "id": "0d3e4d051ff1",
+      "priority": 0,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "On",
+        "ne",
+        "jest",
+        "je",
+        "One"
+      ],
+      "solutions": [
+        [
+          "On",
+          "ne",
+          "jest"
+        ]
+      ],
+      "formattedSolution": "On ne jest",
+      "id": "235b81d64714",
+      "priority": 2,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "He"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "not",
+        "We",
+        "It"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "not"
+        ]
+      ],
+      "formattedSolution": "He is not",
+      "id": "7b02e8e03f31",
+      "priority": 2,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ono jest",
       "meaningInSourceLanguage": "It is",
       "id": "6375d136cccf",
@@ -435,7 +909,7 @@
         "Ono",
         "jest",
         "jesm",
-        "jesi"
+        "ne"
       ],
       "solutions": [
         [
@@ -480,6 +954,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "On ne jest",
+      "meaningInSourceLanguage": "He is not",
+      "id": "0d3e4d051ff1",
+      "priority": 0,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        },
+        {
+          "word": "is",
+          "definition": "jest"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "On",
+        "ne",
+        "jest",
+        "je",
+        "One"
+      ],
+      "solutions": [
+        [
+          "On",
+          "ne",
+          "jest"
+        ]
+      ],
+      "formattedSolution": "On ne jest",
+      "id": "235b81d64714",
+      "priority": 2,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "He"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "not",
+        "We",
+        "It"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "not"
+        ]
+      ],
+      "formattedSolution": "He is not",
+      "id": "7b02e8e03f31",
+      "priority": 2,
+      "group": "0a297f43c648"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Oni sut",
       "meaningInSourceLanguage": "They(masculine) are",
       "id": "b25b58ab9fbc",
@@ -496,7 +1050,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         }
       ],
       "chips": [
@@ -548,6 +1102,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Oni ne sut",
+      "meaningInSourceLanguage": "They(masculine) are not",
+      "id": "3382296beb37",
+      "priority": 0,
+      "group": "ce893f35bb9f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "Oni\noni"
+        },
+        {
+          "word": "are",
+          "definition": "jesi\njesmo\njeste\nsut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "ne",
+        "sut",
+        "One",
+        "On"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "ne",
+          "sut"
+        ]
+      ],
+      "formattedSolution": "Oni ne sut",
+      "id": "a5845a0ab72a",
+      "priority": 2,
+      "group": "ce893f35bb9f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "They(masculine)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        }
+      ],
+      "chips": [
+        "They(masculine",
+        "are",
+        "not",
+        "male",
+        "She"
+      ],
+      "solutions": [
+        [
+          "They(masculine",
+          "are",
+          "not"
+        ]
+      ],
+      "formattedSolution": "They(masculine) are not",
+      "id": "bd64393174da",
+      "priority": 2,
+      "group": "ce893f35bb9f"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "One sut",
       "meaningInSourceLanguage": "They(feminine) are",
       "id": "478a697a80a9",
@@ -564,14 +1198,14 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         }
       ],
       "chips": [
         "One",
         "sut",
-        "On",
-        "Ona"
+        "ne",
+        "On"
       ],
       "solutions": [
         [
@@ -613,6 +1247,86 @@
       "id": "9f1fbbedf409",
       "priority": 2,
       "group": "ea3fb0c239c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One ne sut",
+      "meaningInSourceLanguage": "They(feminine) are not",
+      "id": "23ac31a7eb9a",
+      "priority": 0,
+      "group": "41c38aeadbd2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "One\none"
+        },
+        {
+          "word": "are",
+          "definition": "jesi\njesmo\njeste\nsut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "One",
+        "ne",
+        "sut",
+        "se",
+        "On"
+      ],
+      "solutions": [
+        [
+          "One",
+          "ne",
+          "sut"
+        ]
+      ],
+      "formattedSolution": "One ne sut",
+      "id": "0748260ea1c5",
+      "priority": 2,
+      "group": "41c38aeadbd2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "sut",
+          "definition": "are"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "are",
+        "not",
+        "She",
+        "here"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "are",
+          "not"
+        ]
+      ],
+      "formattedSolution": "They(feminine) are not",
+      "id": "5b6fd7c8abf6",
+      "priority": 2,
+      "group": "41c38aeadbd2"
     },
     {
       "type": "options",
@@ -700,6 +1414,107 @@
       "id": "17e584bb7887",
       "priority": 2,
       "group": "3e074b36f141"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja ne jesm muž",
+      "meaningInSourceLanguage": "I am not a man",
+      "id": "022883ff0be7",
+      "priority": 0,
+      "group": "ab10cc536640"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "am",
+          "definition": "jesm"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "man",
+          "definition": "muž"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "ne",
+        "jesm",
+        "muž",
+        "je",
+        "se",
+        "te"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "ne",
+          "jesm",
+          "muž"
+        ]
+      ],
+      "formattedSolution": "Ja ne jesm muž",
+      "id": "dd5e1b94be7f",
+      "priority": 2,
+      "group": "ab10cc536640"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "muž",
+          "definition": "man"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "not",
+        "a",
+        "man",
+        "an",
+        "at",
+        "as",
+        "It"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "not",
+          "a",
+          "man"
+        ]
+      ],
+      "formattedSolution": "I am not a man",
+      "id": "61d219228c0b",
+      "priority": 2,
+      "group": "ab10cc536640"
     },
     {
       "type": "options",
@@ -1001,7 +1816,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "a",
@@ -1016,8 +1831,8 @@
         "Ty",
         "jesi",
         "děvčina",
-        "Jesi",
-        "je"
+        "ne",
+        "Jesi"
       ],
       "solutions": [
         [
@@ -1088,7 +1903,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "a",
@@ -1159,6 +1974,107 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ty ne Jesi žena",
+      "meaningInSourceLanguage": "You are not a woman",
+      "id": "b513cf0e607e",
+      "priority": 0,
+      "group": "9eb2e4d81666"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "are",
+          "definition": "jesi\njesmo\njeste\nsut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        },
+        {
+          "word": "a",
+          "definition": "-a"
+        },
+        {
+          "word": "woman",
+          "definition": "woman\nžena"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "ne",
+        "Jesi",
+        "žena",
+        "že",
+        "je",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "ne",
+          "Jesi",
+          "žena"
+        ]
+      ],
+      "formattedSolution": "Ty ne Jesi žena",
+      "id": "98bdcd9b0443",
+      "priority": 2,
+      "group": "9eb2e4d81666"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "Jesi",
+          "definition": "are"
+        },
+        {
+          "word": "žena",
+          "definition": "woman"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "not",
+        "a",
+        "woman",
+        "or",
+        "an",
+        "at",
+        "am"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "not",
+          "a",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "You are not a woman",
+      "id": "943f9570abd0",
+      "priority": 2,
+      "group": "9eb2e4d81666"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ty jesi muž",
       "meaningInSourceLanguage": "You are a man",
       "id": "685f2d2321fe",
@@ -1175,7 +2091,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "a",
@@ -1191,7 +2107,7 @@
         "jesi",
         "muž",
         "je",
-        "My"
+        "ne"
       ],
       "solutions": [
         [
@@ -1611,7 +2527,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "students",
@@ -2272,7 +3188,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         }
       ],
       "id": "66f2267934f6",

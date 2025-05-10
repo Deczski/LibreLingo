@@ -20,7 +20,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "our",
@@ -36,9 +36,9 @@
         "sut",
         "naše",
         "vnuki",
+        "ne",
         "Ona",
-        "One",
-        "ne"
+        "One"
       ],
       "solutions": [
         [
@@ -149,8 +149,8 @@
         "jest",
         "moj",
         "vnuk",
-        "je",
         "ne",
+        "je",
         "moja",
         "Toj",
         "Moj",
@@ -700,8 +700,8 @@
         "jest",
         "provodnik",
         "pes",
-        "jesi",
-        "je"
+        "ne",
+        "jesi"
       ],
       "solutions": [
         [
@@ -1604,8 +1604,8 @@
         "tož",
         "kelner",
         "žen",
-        "je",
         "ne",
+        "je",
         "te"
       ],
       "solutions": [
@@ -1738,7 +1738,7 @@
         "Moja",
         "moj",
         "može",
-        "žena"
+        "ne"
       ],
       "solutions": [
         [
@@ -1992,7 +1992,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "my",
@@ -2008,8 +2008,8 @@
         "sut",
         "moje",
         "deti",
-        "je",
         "ne",
+        "je",
         "se"
       ],
       "solutions": [
@@ -2086,7 +2086,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "my",

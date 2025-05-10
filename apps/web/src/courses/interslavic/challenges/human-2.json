@@ -189,8 +189,8 @@
         "i",
         "pljuče",
         "brat",
-        "je",
         "ne",
+        "je",
         "ale",
         "na",
         "črne"
@@ -411,7 +411,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "advantageous",
@@ -529,7 +529,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "responsible",
@@ -637,7 +637,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "27",
@@ -1156,8 +1156,8 @@
         "to",
         "son",
         "ok",
-        "boy",
         "not",
+        "boy",
         "Who"
       ],
       "solutions": [
@@ -1417,8 +1417,8 @@
         "boy",
         "be",
         "lot",
-        "He",
-        "not"
+        "not",
+        "He"
       ],
       "solutions": [
         [
@@ -1513,8 +1513,8 @@
         "26",
         "bones",
         "as",
-        "is",
-        "boy"
+        "not",
+        "is"
       ],
       "solutions": [
         [

@@ -1,6 +1,6 @@
 {
   "id": "f7ee2ecbddc1",
-  "levels": 6,
+  "levels": 7,
   "challenges": [
     {
       "type": "options",
@@ -77,6 +77,92 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ja ne budu",
+      "meaningInSourceLanguage": "I will not",
+      "id": "b07f372e87d1",
+      "priority": 0,
+      "group": "d4297ccbab64"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "ne",
+        "budu",
+        "na",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "ne",
+          "budu"
+        ]
+      ],
+      "formattedSolution": "Ja ne budu",
+      "id": "fc8afb0d24a7",
+      "priority": 2,
+      "group": "d4297ccbab64"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "budu",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "I",
+        "will",
+        "not",
+        "It",
+        "i"
+      ],
+      "solutions": [
+        [
+          "I",
+          "will",
+          "not"
+        ],
+        [
+          "I",
+          "will",
+          "not",
+          "be"
+        ]
+      ],
+      "formattedSolution": "I will not",
+      "id": "a4714b2ec0ec",
+      "priority": 2,
+      "group": "d4297ccbab64"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ty budeš",
       "meaningInSourceLanguage": "You(singular) will",
       "id": "491fb3dba341",
@@ -150,6 +236,92 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ty ne budeš",
+      "meaningInSourceLanguage": "You(singular) will not",
+      "id": "2426841522ac",
+      "priority": 0,
+      "group": "ebdbd74dae8e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "Ty\nty"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "ne",
+        "budeš",
+        "je",
+        "by"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "ne",
+          "budeš"
+        ]
+      ],
+      "formattedSolution": "Ty ne budeš",
+      "id": "e1cfc2400fe3",
+      "priority": 2,
+      "group": "ebdbd74dae8e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "budeš",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "will",
+        "not",
+        "You",
+        "sing"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "will",
+          "not"
+        ],
+        [
+          "You(singular",
+          "will",
+          "not",
+          "be"
+        ]
+      ],
+      "formattedSolution": "You(singular) will not",
+      "id": "0de4d8f034b7",
+      "priority": 2,
+      "group": "ebdbd74dae8e"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "On bude",
       "meaningInSourceLanguage": "He will",
       "id": "0f4827d3eba3",
@@ -173,7 +345,7 @@
         "On",
         "bude",
         "One",
-        "Ona"
+        "ne"
       ],
       "solutions": [
         [
@@ -246,7 +418,7 @@
         "Ona",
         "bude",
         "One",
-        "On"
+        "ne"
       ],
       "solutions": [
         [
@@ -296,6 +468,92 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ona ne bude",
+      "meaningInSourceLanguage": "She will not",
+      "id": "b7913ab11994",
+      "priority": 0,
+      "group": "aa323568e08d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "Ona"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "ne",
+        "bude",
+        "One",
+        "na"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "ne",
+          "bude"
+        ]
+      ],
+      "formattedSolution": "Ona ne bude",
+      "id": "4b48bf9ad709",
+      "priority": 2,
+      "group": "aa323568e08d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "She"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "bude",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "She",
+        "will",
+        "not",
+        "lot",
+        "the"
+      ],
+      "solutions": [
+        [
+          "She",
+          "will",
+          "not"
+        ],
+        [
+          "She",
+          "will",
+          "not",
+          "be"
+        ]
+      ],
+      "formattedSolution": "She will not",
+      "id": "4eafa722b6c1",
+      "priority": 2,
+      "group": "aa323568e08d"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ono bude",
       "meaningInSourceLanguage": "It will",
       "id": "3ebd4b23b985",
@@ -319,7 +577,7 @@
         "Ono",
         "bude",
         "One",
-        "On"
+        "ne"
       ],
       "solutions": [
         [
@@ -366,6 +624,92 @@
       "id": "fd6a4d9cc51e",
       "priority": 2,
       "group": "d23fe67200f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono ne bude",
+      "meaningInSourceLanguage": "It will not",
+      "id": "00f798ad6b65",
+      "priority": 0,
+      "group": "16beee173755"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "Ono"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "ne",
+        "bude",
+        "One",
+        "On"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "ne",
+          "bude"
+        ]
+      ],
+      "formattedSolution": "Ono ne bude",
+      "id": "0e94565efee2",
+      "priority": 2,
+      "group": "16beee173755"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "It"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "bude",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "It",
+        "will",
+        "not",
+        "it",
+        "lot"
+      ],
+      "solutions": [
+        [
+          "It",
+          "will",
+          "not"
+        ],
+        [
+          "It",
+          "will",
+          "not",
+          "be"
+        ]
+      ],
+      "formattedSolution": "It will not",
+      "id": "79f8558a3f4d",
+      "priority": 2,
+      "group": "16beee173755"
     },
     {
       "type": "options",
@@ -439,6 +783,92 @@
       "id": "5542866c2bb1",
       "priority": 2,
       "group": "c37fff77b9f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My ne budemo",
+      "meaningInSourceLanguage": "We will not",
+      "id": "c86b6bc8efe5",
+      "priority": 0,
+      "group": "b35ca145e3dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "My\nmy"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "My",
+        "ne",
+        "budemo",
+        "je",
+        "by"
+      ],
+      "solutions": [
+        [
+          "My",
+          "ne",
+          "budemo"
+        ]
+      ],
+      "formattedSolution": "My ne budemo",
+      "id": "1fd77a3291f3",
+      "priority": 2,
+      "group": "b35ca145e3dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "We"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "budemo",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "We",
+        "will",
+        "not",
+        "we",
+        "He"
+      ],
+      "solutions": [
+        [
+          "We",
+          "will",
+          "not"
+        ],
+        [
+          "We",
+          "will",
+          "not",
+          "be"
+        ]
+      ],
+      "formattedSolution": "We will not",
+      "id": "c4b65b5b2fcd",
+      "priority": 2,
+      "group": "b35ca145e3dd"
     },
     {
       "type": "options",
@@ -588,11 +1018,247 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "One budut",
-      "meaningInSourceLanguage": "They(feminine)",
-      "id": "2a6598261a0d",
+      "formInTargetLanguage": "Oni ne budut",
+      "meaningInSourceLanguage": "They(masculine) will not",
+      "id": "a6913c9a0768",
       "priority": 0,
-      "group": "aae59da42c2e"
+      "group": "1762b3f1834a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "Oni\noni"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "ne",
+        "budut",
+        "One",
+        "On"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "ne",
+          "budut"
+        ]
+      ],
+      "formattedSolution": "Oni ne budut",
+      "id": "758f2e4fcfae",
+      "priority": 2,
+      "group": "1762b3f1834a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "They(masculine)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "budut",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "They(masculine",
+        "will",
+        "not",
+        "male",
+        "well"
+      ],
+      "solutions": [
+        [
+          "They(masculine",
+          "will",
+          "not"
+        ],
+        [
+          "They(masculine",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "They(masculine) will not",
+      "id": "e6e1c6ac7b33",
+      "priority": 2,
+      "group": "1762b3f1834a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One budut",
+      "meaningInSourceLanguage": "They(feminine) will",
+      "id": "2d4054c02f53",
+      "priority": 0,
+      "group": "60c3929b718e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "One\none"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        }
+      ],
+      "chips": [
+        "One",
+        "budut",
+        "budu",
+        "bude"
+      ],
+      "solutions": [
+        [
+          "One",
+          "budut"
+        ]
+      ],
+      "formattedSolution": "One budut",
+      "id": "ca9febfc2f55",
+      "priority": 2,
+      "group": "60c3929b718e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "budut",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "will",
+        "fine",
+        "They"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "will"
+        ],
+        [
+          "They(feminine",
+          "will",
+          "be"
+        ]
+      ],
+      "formattedSolution": "They(feminine) will",
+      "id": "aaf6edc82453",
+      "priority": 2,
+      "group": "60c3929b718e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One ne budut",
+      "meaningInSourceLanguage": "They(feminine) will not",
+      "id": "8d4cebee38b1",
+      "priority": 0,
+      "group": "83ca25abfdf0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "One\none"
+        },
+        {
+          "word": "will",
+          "definition": "bude\nbudemo\nbudete\nbudeš\nbudu\nbudut"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "One",
+        "ne",
+        "budut",
+        "On",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "One",
+          "ne",
+          "budut"
+        ]
+      ],
+      "formattedSolution": "One ne budut",
+      "id": "9f6617ce4df6",
+      "priority": 2,
+      "group": "83ca25abfdf0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "budut",
+          "definition": "will"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "will",
+        "not",
+        "fine",
+        "nice"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "will",
+          "not"
+        ],
+        [
+          "They(feminine",
+          "will",
+          "not",
+          "be"
+        ]
+      ],
+      "formattedSolution": "They(feminine) will not",
+      "id": "a0a9d8b39e6a",
+      "priority": 2,
+      "group": "83ca25abfdf0"
     },
     {
       "type": "options",
@@ -714,8 +1380,8 @@
         "budeš",
         "",
         "te",
-        "je",
         "ne",
+        "je",
         "bude"
       ],
       "solutions": [
@@ -1458,7 +2124,7 @@
         "bude",
         "tancevati",
         "One",
-        "Oni"
+        "ne"
       ],
       "solutions": [
         [
@@ -1537,8 +2203,8 @@
         "Ono",
         "bude",
         "jedati",
-        "Ona",
-        "Oni"
+        "ne",
+        "Ona"
       ],
       "solutions": [
         [

@@ -371,7 +371,7 @@
         "te",
         "Do",
         "od",
-        "i"
+        "ne"
       ],
       "solutions": [
         [
@@ -624,7 +624,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "there",
@@ -1247,8 +1247,8 @@
         "govorenje",
         "imaje",
         "dumanje",
-        "je",
         "ne",
+        "je",
         "Tvoje"
       ],
       "solutions": [
@@ -1518,8 +1518,8 @@
         "vlasy",
         "ime",
         "ale",
-        "Ona",
         "ne",
+        "Ona",
         "se",
         "imaje"
       ],

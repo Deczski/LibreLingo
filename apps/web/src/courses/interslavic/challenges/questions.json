@@ -24,7 +24,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you?",
@@ -120,7 +120,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you?",
@@ -196,7 +196,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you",
@@ -289,7 +289,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you",
@@ -515,8 +515,8 @@
         "Kto",
         "jest",
         "ona",
-        "Ona",
-        "Ono"
+        "ne",
+        "Ona"
       ],
       "solutions": [
         [
@@ -1273,7 +1273,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "we?",
@@ -1353,7 +1353,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "we?",
@@ -1433,7 +1433,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you(plural)?",
@@ -1528,7 +1528,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "they?",
@@ -1608,7 +1608,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "they?",
@@ -1684,7 +1684,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "they",
@@ -1776,7 +1776,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "they",
@@ -1897,7 +1897,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you(plural)?",
@@ -1988,7 +1988,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you(plural)",
@@ -2087,7 +2087,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "the",
@@ -2181,7 +2181,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "the",
@@ -2275,7 +2275,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "the",
@@ -2369,7 +2369,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "they?",
@@ -2445,7 +2445,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "they",
@@ -2749,7 +2749,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "You?",

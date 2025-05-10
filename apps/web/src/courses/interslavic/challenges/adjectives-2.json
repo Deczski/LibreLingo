@@ -61,9 +61,9 @@
         "škaradny",
         "je",
         "jesm",
+        "ne",
         "jesi",
         "žena",
-        "ne",
         "Jest"
       ],
       "solutions": [
@@ -1072,7 +1072,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "young",
@@ -1374,7 +1374,7 @@
         "toj",
         "Pet",
         "nocy",
-        "je"
+        "ne"
       ],
       "solutions": [
         [

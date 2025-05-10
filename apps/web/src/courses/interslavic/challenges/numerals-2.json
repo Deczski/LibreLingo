@@ -412,7 +412,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "three",
@@ -765,9 +765,9 @@
         "osm",
         "minut",
         "on",
+        "ne",
         "Oni",
         "One",
-        "ne",
         "od",
         "Ona"
       ],

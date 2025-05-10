@@ -128,7 +128,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "fearful",
@@ -309,7 +309,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "best",
@@ -432,7 +432,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "colorful",
@@ -768,8 +768,8 @@
         "at",
         "night",
         "eat",
-        "It",
         "not",
+        "It",
         "was"
       ],
       "solutions": [
@@ -804,7 +804,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "symbol",

@@ -4,11 +4,11 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Pomiluj. Kto Ty jesi?",
+      "formInTargetLanguage": "Pardon. Kto Ty jesi?",
       "meaningInSourceLanguage": "Excuse me. Who are you?",
-      "id": "501cb7ed269c",
+      "id": "5800f5d24fdb",
       "priority": 0,
-      "group": "e4958aac97dc"
+      "group": "e5b2be79e1c5"
     },
     {
       "type": "chips",
@@ -28,7 +28,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you?",
@@ -36,39 +36,39 @@
         }
       ],
       "chips": [
-        "Pomiluj",
+        "Pardon",
         "Kto",
         "Ty",
         "jesi",
         "to",
-        "ti",
-        "je"
+        "je",
+        "ako"
       ],
       "solutions": [
         [
-          "Pomiluj",
+          "Pardon",
           "Kto",
           "Ty",
           "jesi"
         ],
         [
-          "Pomilujte",
+          "Pomiluj",
           "Kto",
           "vy",
           "jeste"
         ]
       ],
-      "formattedSolution": "Pomiluj. Kto Ty jesi?",
-      "id": "c2d30d15b583",
+      "formattedSolution": "Pardon. Kto Ty jesi?",
+      "id": "89e8606ad7d9",
       "priority": 2,
-      "group": "e4958aac97dc"
+      "group": "e5b2be79e1c5"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Pomiluj.",
+          "word": "Pardon.",
           "definition": "sorry"
         },
         {
@@ -111,9 +111,9 @@
         ]
       ],
       "formattedSolution": "Excuse me. Who are you?",
-      "id": "7c720b2de9e6",
+      "id": "c8cafd06a268",
       "priority": 2,
-      "group": "e4958aac97dc"
+      "group": "e5b2be79e1c5"
     },
     {
       "type": "options",
@@ -133,7 +133,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "Vojtěh",
@@ -249,7 +249,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you?",
@@ -453,7 +453,7 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "they",
@@ -594,7 +594,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "Vojtěh",
@@ -716,7 +716,7 @@
         },
         {
           "word": "Are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you",
@@ -828,7 +828,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you?",
@@ -892,8 +892,8 @@
         "are",
         "you",
         "now",
-        "You",
         "not",
+        "You",
         "or"
       ],
       "solutions": [
@@ -936,7 +936,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you.",
@@ -1000,9 +1000,9 @@
         "are",
         "you",
         "lot",
+        "not",
         "He",
-        "You",
-        "not"
+        "You"
       ],
       "solutions": [
         [
@@ -1413,11 +1413,11 @@
         "sorry2.jpg",
         "sorry3.jpg"
       ],
-      "formInTargetLanguage": "pomiluj",
+      "formInTargetLanguage": "pardon",
       "meaningInSourceLanguage": "sorry",
-      "id": "0b63c3da0c46",
+      "id": "5b59d19004c5",
       "priority": 0,
-      "group": "f723c40a80d9"
+      "group": "0b21f94fc80c"
     },
     {
       "type": "shortInput",
@@ -1427,17 +1427,17 @@
         "sorry3.jpg"
       ],
       "formInTargetLanguage": [
-        "pomiluj"
+        "pardon"
       ],
       "phrase": [
         {
           "word": "sorry",
-          "definition": "pomiluj"
+          "definition": "pardon\npomiluj"
         }
       ],
-      "id": "2f445ae0eec7",
+      "id": "d0854ea2adf0",
       "priority": 1,
-      "group": "f723c40a80d9"
+      "group": "0b21f94fc80c"
     },
     {
       "type": "cards",
@@ -1642,7 +1642,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "you?",

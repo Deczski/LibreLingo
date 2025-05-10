@@ -1,6 +1,6 @@
 {
   "id": "75e952736a7f",
-  "levels": 5,
+  "levels": 7,
   "challenges": [
     {
       "type": "options",
@@ -78,6 +78,93 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ja jesm ne byl",
+      "meaningInSourceLanguage": "I was not",
+      "id": "f739052840f4",
+      "priority": 0,
+      "group": "7d62cf7098e7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "jesm",
+        "ne",
+        "byl",
+        "je",
+        "by",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "jesm",
+          "ne",
+          "byl"
+        ]
+      ],
+      "formattedSolution": "Ja jesm ne byl",
+      "id": "325ab5b6b90a",
+      "priority": 2,
+      "group": "7d62cf7098e7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "jesm",
+          "definition": "am"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "byl",
+          "definition": "was"
+        }
+      ],
+      "chips": [
+        "I",
+        "was",
+        "not",
+        "It",
+        "a"
+      ],
+      "solutions": [
+        [
+          "I",
+          "was",
+          "not"
+        ]
+      ],
+      "formattedSolution": "I was not",
+      "id": "ea4efa82056b",
+      "priority": 2,
+      "group": "7d62cf7098e7"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ty jesi byl",
       "meaningInSourceLanguage": "You were",
       "id": "dab8477dac58",
@@ -152,6 +239,93 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ty jesi ne byl",
+      "meaningInSourceLanguage": "You were not",
+      "id": "33410ed1119a",
+      "priority": 0,
+      "group": "c181da3fd20d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty"
+        },
+        {
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "jesi",
+        "ne",
+        "byl",
+        "je",
+        "by",
+        "My"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "jesi",
+          "ne",
+          "byl"
+        ]
+      ],
+      "formattedSolution": "Ty jesi ne byl",
+      "id": "e09700423928",
+      "priority": 2,
+      "group": "c181da3fd20d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "jesi",
+          "definition": "are"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "byl",
+          "definition": "was"
+        }
+      ],
+      "chips": [
+        "You",
+        "were",
+        "not",
+        "lot",
+        "you"
+      ],
+      "solutions": [
+        [
+          "You",
+          "were",
+          "not"
+        ]
+      ],
+      "formattedSolution": "You were not",
+      "id": "3c80853ad48c",
+      "priority": 2,
+      "group": "c181da3fd20d"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "On byl",
       "meaningInSourceLanguage": "He was",
       "id": "0746ee24f63c",
@@ -217,6 +391,86 @@
       "id": "a5a2fdd81018",
       "priority": 2,
       "group": "802f75e57588"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On ne byl",
+      "meaningInSourceLanguage": "He was not",
+      "id": "6f021e04b2d8",
+      "priority": 0,
+      "group": "663a8d96fe20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "On",
+        "ne",
+        "byl",
+        "One",
+        "by"
+      ],
+      "solutions": [
+        [
+          "On",
+          "ne",
+          "byl"
+        ]
+      ],
+      "formattedSolution": "On ne byl",
+      "id": "85857508b07f",
+      "priority": 2,
+      "group": "663a8d96fe20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "He"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "byl",
+          "definition": "was"
+        }
+      ],
+      "chips": [
+        "He",
+        "was",
+        "not",
+        "at",
+        "as"
+      ],
+      "solutions": [
+        [
+          "He",
+          "was",
+          "not"
+        ]
+      ],
+      "formattedSolution": "He was not",
+      "id": "af64ddf86bee",
+      "priority": 2,
+      "group": "663a8d96fe20"
     },
     {
       "type": "options",
@@ -288,6 +542,86 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "Ona ne byla",
+      "meaningInSourceLanguage": "She was not",
+      "id": "13808f7730bc",
+      "priority": 0,
+      "group": "e4aa79495ed5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "Ona"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "ne",
+        "byla",
+        "na",
+        "One"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "ne",
+          "byla"
+        ]
+      ],
+      "formattedSolution": "Ona ne byla",
+      "id": "be54bd9d5e94",
+      "priority": 2,
+      "group": "e4aa79495ed5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "She"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "byla",
+          "definition": "was"
+        }
+      ],
+      "chips": [
+        "She",
+        "was",
+        "not",
+        "eat",
+        "lot"
+      ],
+      "solutions": [
+        [
+          "She",
+          "was",
+          "not"
+        ]
+      ],
+      "formattedSolution": "She was not",
+      "id": "55a754dfacc3",
+      "priority": 2,
+      "group": "e4aa79495ed5"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "Ono bylo",
       "meaningInSourceLanguage": "It was",
       "id": "2cc9affe4c2c",
@@ -353,6 +687,86 @@
       "id": "11f13eb0b7d2",
       "priority": 2,
       "group": "ea48902a10fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono ne bylo",
+      "meaningInSourceLanguage": "It was not",
+      "id": "b2c01f8a6ab4",
+      "priority": 0,
+      "group": "9a65101c25f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "Ono"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "ne",
+        "bylo",
+        "One",
+        "ono"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "ne",
+          "bylo"
+        ]
+      ],
+      "formattedSolution": "Ono ne bylo",
+      "id": "39af21f4a697",
+      "priority": 2,
+      "group": "9a65101c25f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "It"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "bylo",
+          "definition": "was"
+        }
+      ],
+      "chips": [
+        "It",
+        "was",
+        "not",
+        "at",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "It",
+          "was",
+          "not"
+        ]
+      ],
+      "formattedSolution": "It was not",
+      "id": "d6a528764a37",
+      "priority": 2,
+      "group": "9a65101c25f3"
     },
     {
       "type": "options",
@@ -569,6 +983,86 @@
       "id": "4e5ea9aaac42",
       "priority": 2,
       "group": "0c823d275cac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni ne byli",
+      "meaningInSourceLanguage": "They(masculine) were not",
+      "id": "e05cb9e0fd16",
+      "priority": 0,
+      "group": "24e9fa0a7c09"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "Oni\noni"
+        },
+        {
+          "word": "were",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "ne",
+        "byli",
+        "One",
+        "li"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "ne",
+          "byli"
+        ]
+      ],
+      "formattedSolution": "Oni ne byli",
+      "id": "c4d97e3f4cf1",
+      "priority": 2,
+      "group": "24e9fa0a7c09"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "They(masculine)"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "byli",
+          "definition": "were"
+        }
+      ],
+      "chips": [
+        "They(masculine",
+        "were",
+        "not",
+        "here",
+        "are"
+      ],
+      "solutions": [
+        [
+          "They(masculine",
+          "were",
+          "not"
+        ]
+      ],
+      "formattedSolution": "They(masculine) were not",
+      "id": "94e4cbf75a53",
+      "priority": 2,
+      "group": "24e9fa0a7c09"
     },
     {
       "type": "options",
@@ -905,6 +1399,93 @@
       "id": "38c284b26da3",
       "priority": 2,
       "group": "b64218fc2e47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On ne byl bogaty",
+      "meaningInSourceLanguage": "He was rich",
+      "id": "cfa287667e86",
+      "priority": 0,
+      "group": "49e5ce9a70b6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        },
+        {
+          "word": "was",
+          "definition": "byl\nbyla\nbyli\nbylo"
+        },
+        {
+          "word": "rich",
+          "definition": "Bogaty"
+        }
+      ],
+      "chips": [
+        "On",
+        "ne",
+        "byl",
+        "bogaty",
+        "by",
+        "Ty",
+        "My"
+      ],
+      "solutions": [
+        [
+          "On",
+          "ne",
+          "byl",
+          "bogaty"
+        ]
+      ],
+      "formattedSolution": "On ne byl bogaty",
+      "id": "e34172f78564",
+      "priority": 2,
+      "group": "49e5ce9a70b6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "He"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        },
+        {
+          "word": "byl",
+          "definition": "was"
+        },
+        {
+          "word": "bogaty",
+          "definition": "Rich"
+        }
+      ],
+      "chips": [
+        "He",
+        "was",
+        "rich",
+        "is",
+        "Hi"
+      ],
+      "solutions": [
+        [
+          "He",
+          "was",
+          "rich"
+        ]
+      ],
+      "formattedSolution": "He was rich",
+      "id": "1e6f2565db42",
+      "priority": 2,
+      "group": "49e5ce9a70b6"
     },
     {
       "type": "options",

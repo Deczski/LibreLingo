@@ -699,9 +699,9 @@
         "črveny",
         "by",
         "te",
+        "ne",
         "Ty",
         "je",
-        "ne",
         "tut",
         "bys"
       ],
@@ -998,7 +998,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "yellow.",
@@ -1147,7 +1147,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "blue.",
@@ -1670,7 +1670,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "gray.",

@@ -146,8 +146,8 @@
         "od",
         "Gorana",
         "na",
-        "je",
         "ne",
+        "je",
         "se"
       ],
       "solutions": [
@@ -259,8 +259,8 @@
         "partnerka",
         "na",
         "Ja",
-        "Ona",
-        "ne"
+        "ne",
+        "Ona"
       ],
       "solutions": [
         [
@@ -700,7 +700,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "your",
@@ -798,7 +798,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "our",
@@ -906,7 +906,7 @@
         },
         {
           "word": "are",
-          "definition": "jesi"
+          "definition": "jesi\njesmo\njeste\nsut"
         },
         {
           "word": "students.",
@@ -1025,8 +1025,8 @@
         "naše",
         "naša",
         "na",
-        "je",
-        "ne"
+        "ne",
+        "je"
       ],
       "solutions": [
         [

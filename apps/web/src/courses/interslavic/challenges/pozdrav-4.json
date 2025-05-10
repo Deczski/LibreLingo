@@ -1,6 +1,6 @@
 {
   "id": "0beaa60946f0",
-  "levels": 7,
+  "levels": 8,
   "challenges": [
     {
       "type": "options",
@@ -299,7 +299,7 @@
         "Ono",
         "by",
         "On",
-        "Ty"
+        "ne"
       ],
       "solutions": [
         [
@@ -503,7 +503,7 @@
         "Oni",
         "by",
         "On",
-        "Ty"
+        "ne"
       ],
       "solutions": [
         [
@@ -570,8 +570,8 @@
       "chips": [
         "One",
         "by",
-        "On",
-        "ne"
+        "ne",
+        "On"
       ],
       "solutions": [
         [
@@ -613,6 +613,726 @@
       "id": "7ca39e6f690b",
       "priority": 2,
       "group": "a2932416c90f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja byh ne",
+      "meaningInSourceLanguage": "I would not",
+      "id": "bc41a26b2ba1",
+      "priority": 0,
+      "group": "80d22f007318"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "Ja"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "byh",
+        "ne",
+        "by",
+        "na"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "byh",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "Ja byh ne",
+      "id": "af954afd6f2a",
+      "priority": 2,
+      "group": "80d22f007318"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I"
+        },
+        {
+          "word": "byh",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "I",
+        "would",
+        "not",
+        "It",
+        "You"
+      ],
+      "solutions": [
+        [
+          "I",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "I would not",
+      "id": "f51d14be1ad7",
+      "priority": 2,
+      "group": "80d22f007318"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty bys ne",
+      "meaningInSourceLanguage": "You(singular) would not",
+      "id": "a37e73115811",
+      "priority": 0,
+      "group": "0d4818e74d87"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(singular)",
+          "definition": "Ty\nty"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "bys",
+        "ne",
+        "by",
+        "My"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "bys",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "Ty bys ne",
+      "id": "85907c3ba7e0",
+      "priority": 2,
+      "group": "0d4818e74d87"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "You(singular)"
+        },
+        {
+          "word": "bys",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "You(singular",
+        "would",
+        "not",
+        "You",
+        "Your"
+      ],
+      "solutions": [
+        [
+          "You(singular",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "You(singular) would not",
+      "id": "5c03b9b1d787",
+      "priority": 2,
+      "group": "0d4818e74d87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On by ne",
+      "meaningInSourceLanguage": "He would not",
+      "id": "8d1676ac9869",
+      "priority": 0,
+      "group": "f2a304e5ed3d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "On"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "On",
+        "by",
+        "ne",
+        "Ty",
+        "My"
+      ],
+      "solutions": [
+        [
+          "On",
+          "by",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "On by ne",
+      "id": "db2333afb0ff",
+      "priority": 2,
+      "group": "f2a304e5ed3d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "He"
+        },
+        {
+          "word": "by",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "He",
+        "would",
+        "not",
+        "You",
+        "lot"
+      ],
+      "solutions": [
+        [
+          "He",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "He would not",
+      "id": "6637f9aecd0f",
+      "priority": 2,
+      "group": "f2a304e5ed3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona by ne",
+      "meaningInSourceLanguage": "She would not",
+      "id": "87c5abd31fac",
+      "priority": 0,
+      "group": "633ab1a4f672"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "Ona"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "by",
+        "ne",
+        "na",
+        "On"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "by",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "Ona by ne",
+      "id": "db5846b02357",
+      "priority": 2,
+      "group": "633ab1a4f672"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "She"
+        },
+        {
+          "word": "by",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "She",
+        "would",
+        "not",
+        "You",
+        "lot"
+      ],
+      "solutions": [
+        [
+          "She",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "She would not",
+      "id": "d1a860a84dac",
+      "priority": 2,
+      "group": "633ab1a4f672"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ono by ne",
+      "meaningInSourceLanguage": "It would not",
+      "id": "acca62144dd4",
+      "priority": 0,
+      "group": "39d97ae9d320"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "Ono"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Ono",
+        "by",
+        "ne",
+        "On",
+        "One"
+      ],
+      "solutions": [
+        [
+          "Ono",
+          "by",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "Ono by ne",
+      "id": "6450541f1e8c",
+      "priority": 2,
+      "group": "39d97ae9d320"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ono",
+          "definition": "It"
+        },
+        {
+          "word": "by",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "It",
+        "would",
+        "not",
+        "lot",
+        "You"
+      ],
+      "solutions": [
+        [
+          "It",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "It would not",
+      "id": "173cd8dba715",
+      "priority": 2,
+      "group": "39d97ae9d320"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My byhmo ne",
+      "meaningInSourceLanguage": "We would not",
+      "id": "56fc5633a9e1",
+      "priority": 0,
+      "group": "93217cfe45d9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "My\nmy"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "My",
+        "byhmo",
+        "ne",
+        "by",
+        "Ty"
+      ],
+      "solutions": [
+        [
+          "My",
+          "byhmo",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "My byhmo ne",
+      "id": "8939c3cf7cdf",
+      "priority": 2,
+      "group": "93217cfe45d9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "We"
+        },
+        {
+          "word": "byhmo",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "We",
+        "would",
+        "not",
+        "You",
+        "lot"
+      ],
+      "solutions": [
+        [
+          "We",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "We would not",
+      "id": "5b21d60d483f",
+      "priority": 2,
+      "group": "93217cfe45d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vy byste ne",
+      "meaningInSourceLanguage": "You(plural) would not",
+      "id": "084dc9837a39",
+      "priority": 0,
+      "group": "89f21adb7b21"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You(plural)",
+          "definition": "Vy\nvy"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Vy",
+        "byste",
+        "ne",
+        "by",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Vy",
+          "byste",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "Vy byste ne",
+      "id": "bb5f6c19b8e9",
+      "priority": 2,
+      "group": "89f21adb7b21"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vy",
+          "definition": "You(plural)"
+        },
+        {
+          "word": "byste",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "You(plural",
+        "would",
+        "not",
+        "You",
+        "Your"
+      ],
+      "solutions": [
+        [
+          "You(plural",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "You(plural) would not",
+      "id": "3df494e505c3",
+      "priority": 2,
+      "group": "89f21adb7b21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oni by ne",
+      "meaningInSourceLanguage": "They(masculine) would not",
+      "id": "a6a94d700b99",
+      "priority": 0,
+      "group": "f65d8860f1ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(masculine)",
+          "definition": "Oni\noni"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "Oni",
+        "by",
+        "ne",
+        "On",
+        "One"
+      ],
+      "solutions": [
+        [
+          "Oni",
+          "by",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "Oni by ne",
+      "id": "ec019f273493",
+      "priority": 2,
+      "group": "f65d8860f1ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oni",
+          "definition": "They(masculine)"
+        },
+        {
+          "word": "by",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "They(masculine",
+        "would",
+        "not",
+        "You",
+        "woman"
+      ],
+      "solutions": [
+        [
+          "They(masculine",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "They(masculine) would not",
+      "id": "1cef9b41db64",
+      "priority": 2,
+      "group": "f65d8860f1ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One by ne",
+      "meaningInSourceLanguage": "They(feminine) would not",
+      "id": "972ef89827bd",
+      "priority": 0,
+      "group": "58b53d702e3d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They(feminine)",
+          "definition": "One\none"
+        },
+        {
+          "word": "would",
+          "definition": "by\nbyh\nbyhmo\nbys\nbyste"
+        },
+        {
+          "word": "not",
+          "definition": "ne"
+        }
+      ],
+      "chips": [
+        "One",
+        "by",
+        "ne",
+        "On",
+        "je"
+      ],
+      "solutions": [
+        [
+          "One",
+          "by",
+          "ne"
+        ]
+      ],
+      "formattedSolution": "One by ne",
+      "id": "d463619b4a52",
+      "priority": 2,
+      "group": "58b53d702e3d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "One",
+          "definition": "They(feminine)"
+        },
+        {
+          "word": "by",
+          "definition": "would"
+        },
+        {
+          "word": "ne",
+          "definition": "no\nnot"
+        }
+      ],
+      "chips": [
+        "They(feminine",
+        "would",
+        "not",
+        "now",
+        "boy"
+      ],
+      "solutions": [
+        [
+          "They(feminine",
+          "would",
+          "not"
+        ]
+      ],
+      "formattedSolution": "They(feminine) would not",
+      "id": "7b8aa4745c76",
+      "priority": 2,
+      "group": "58b53d702e3d"
     },
     {
       "type": "options",
@@ -964,7 +1684,7 @@
         "by",
         "posylali",
         "byl",
-        "Ty"
+        "ne"
       ],
       "solutions": [
         [
@@ -1126,7 +1846,7 @@
         "se",
         "by",
         "za",
-        "Ty"
+        "ne"
       ],
       "solutions": [
         [
@@ -1451,7 +2171,7 @@
         "by",
         "tancevala",
         "na",
-        "On"
+        "ne"
       ],
       "solutions": [
         [
@@ -1530,8 +2250,8 @@
         "Ono",
         "by",
         "jedalo",
-        "On",
-        "Ona"
+        "ne",
+        "On"
       ],
       "solutions": [
         [
@@ -2121,8 +2841,8 @@
         "or",
         "to",
         "are",
-        "and",
         "not",
+        "and",
         "had"
       ],
       "solutions": [
@@ -2404,8 +3124,8 @@
         "by",
         "načel",
         "včera",
-        "je",
         "ne",
+        "je",
         "te",
         "že",
         "se",
